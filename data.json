@@ -1,6 +1,6 @@
 {
   "version": "3.1.1",
-  "updated_at": "2026-09-02T22:39:07+00:00",
+  "updated_at": "2026-09-02T22:50:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 818,
   "matches": [
@@ -3883,7 +3883,10 @@
       "kickoff": "Sep 3 2026 6:00AM",
       "home": "Talleres Cordoba (R)",
       "away": "Instituto (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -7494,8 +7497,11 @@
         2,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7518,7 +7524,10 @@
       "kickoff": "Sep 3 2026 6:30AM",
       "home": "Bahrain (V)",
       "away": "Philippines (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -7529,7 +7538,10 @@
       "kickoff": "Sep 3 2026 6:30AM",
       "home": "Slovakia (V)",
       "away": "Greece (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13257,8 +13269,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13267,7 +13282,10 @@
       "kickoff": "Sep 3 2026 6:30AM",
       "home": "Real Sociedad (V)",
       "away": "Olympique de Marseille (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13278,7 +13296,10 @@
       "kickoff": "Sep 3 2026 6:30AM",
       "home": "Getafe CF (V)",
       "away": "Valencia CF (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
