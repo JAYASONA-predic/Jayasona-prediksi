@@ -1,6 +1,6 @@
 {
   "version": "3.1.1",
-  "updated_at": "2026-09-02T23:08:23+00:00",
+  "updated_at": "2026-09-02T23:22:56+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 818,
   "matches": [
@@ -3163,7 +3163,10 @@
       "kickoff": "Sep 3 2026 6:30AM",
       "home": "Flamengo RJ",
       "away": "Mirassol SP",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3346,6 +3349,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "b6debcd40a90920e",
+      "league": "ECUADOR SERIE A",
+      "kickoff": "Sep 3 2026 8:00AM",
+      "home": "Barcelona SC",
+      "away": "Independiente del Valle",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b4b762fa71f09477",
       "league": "ECUADOR SERIE A",
       "kickoff": "Sep 3 2026 3:00AM",
@@ -3360,17 +3374,6 @@
         3
       ],
       "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b6debcd40a90920e",
-      "league": "ECUADOR SERIE A",
-      "kickoff": "Sep 3 2026 8:00AM",
-      "home": "Barcelona SC",
-      "away": "Independiente del Valle",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -3461,7 +3464,10 @@
       "kickoff": "Sep 3 2026 6:30AM",
       "home": "Deportes Quindio",
       "away": "Llaneros SA",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3579,7 +3585,10 @@
       "kickoff": "Sep 3 2026 6:30AM",
       "home": "Independiente Santa Fe (w)",
       "away": "America de Cali (w)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -7580,8 +7589,11 @@
         1,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7604,7 +7616,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Belgium (V)",
       "away": "Serbia (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -7615,7 +7630,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Slovenia (V)",
       "away": "Algeria (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13350,8 +13368,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13364,8 +13385,11 @@
         1,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13374,7 +13398,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Atletico de Madrid (V)",
       "away": "Lazio (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13385,7 +13412,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Everton (V)",
       "away": "AC Milan (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
