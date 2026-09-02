@@ -32,103 +32,146 @@ function normalizeMatches(){
 }
 
 function completedMatches(){ return state.data.matches.filter(m=>isCompleted(m) && Array.isArray(m.ft) && m.ft.length>=2); }
+
+// ===== V3.2.1 INDIVIDUAL PREDICTION ENGINE =====
+// Hanya memakai data pertandingan yang benar-benar selesai.
+// Per pertandingan: 10 laga terakhir masing-masing tim + H2H terbaru.
+// Tidak memakai angka prediksi baku yang sama untuk semua pertandingan.
+function sortRecent(matches){
+  return [...matches].sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff));
+}
 function historicalFor(team, league){
   const k=teamKey(team), l=String(league||"");
-  return completedMatches().filter(m=>teamKey(m.home)===k || teamKey(m.away)===k)
-    .filter(m=>!l || String(m.league||"")===l)
-    .sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff));
+  return sortRecent(completedMatches().filter(m=>teamKey(m.home)===k || teamKey(m.away)===k)
+    .filter(m=>!l || String(m.league||"")===l));
 }
-function leagueMatches(league){
-  const l=String(league||"");
-  return completedMatches().filter(m=>String(m.league||"")===l);
+function teamHistory10(team){
+  const k=teamKey(team);
+  return sortRecent(completedMatches().filter(m=>teamKey(m.home)===k || teamKey(m.away)===k)).slice(-10);
+}
+function venueHistory10(team, venue){
+  const k=teamKey(team);
+  return sortRecent(completedMatches().filter(m=>{
+    const isHome=teamKey(m.home)===k, isAway=teamKey(m.away)===k;
+    return venue==='home' ? isHome : isAway;
+  })).slice(-10);
+}
+function h2hHistory10(homeTeam, awayTeam){
+  const h=teamKey(homeTeam), a=teamKey(awayTeam);
+  return sortRecent(completedMatches().filter(m=>{
+    const mh=teamKey(m.home), ma=teamKey(m.away);
+    return (mh===h && ma===a) || (mh===a && ma===h);
+  })).slice(-10);
 }
 function weightedMean(values){
   if(!values.length) return 0;
   let num=0, den=0;
-  values.forEach((v,i)=>{ const w=Math.pow(0.84, values.length-1-i); num+=v*w; den+=w; });
+  values.forEach((v,i)=>{ const w=Math.pow(0.82, values.length-1-i); num+=v*w; den+=w; });
   return den ? num/den : 0;
 }
-function teamStats(team, league){
-  const all=historicalFor(team,league);
-  const recent=all.slice(-12);
-  const home=recent.filter(m=>teamKey(m.home)===teamKey(team));
-  const away=recent.filter(m=>teamKey(m.away)===teamKey(team));
-  const extract=(games, side)=>games.map(m=>{
-    const h=teamKey(m.home)===teamKey(team);
-    const gf=Number(m.ft[h?0:1]||0), ga=Number(m.ft[h?1:0]||0);
+function matchSampleStats(games, team){
+  const k=teamKey(team);
+  const rows=games.map(m=>{
+    const isHome=teamKey(m.home)===k;
+    const gf=Number(m.ft[isHome?0:1]||0), ga=Number(m.ft[isHome?1:0]||0);
     return {gf,ga,points:gf>ga?3:gf===ga?1:0,over:gf+ga>2.5?1:0};
   });
-  const x=extract(recent);
-  const hx=extract(home), ax=extract(away);
+  const avg=(key, fallback)=>rows.length?weightedMean(rows.map(x=>x[key])):fallback;
+  return {
+    n:rows.length,
+    gf:avg('gf',1.2), ga:avg('ga',1.2),
+    points:avg('points',1), over:avg('over',.5),
+    wins:rows.filter(x=>x.points===3).length,
+    draws:rows.filter(x=>x.points===1).length,
+    losses:rows.filter(x=>x.points===0).length
+  };
+}
+function teamStats(team, league){
+  const recent=teamHistory10(team);
+  const home=venueHistory10(team,'home');
+  const away=venueHistory10(team,'away');
   const base=leagueStats(league);
-  const avg=(arr,key, fallback)=>arr.length?weightedMean(arr.map(z=>z[key])):fallback;
+  const all=matchSampleStats(recent,team);
+  const hs=matchSampleStats(home,team);
+  const as=matchSampleStats(away,team);
+  const fallbackHome=base.homeGoals||1.35, fallbackAway=base.awayGoals||1.05;
   return {
     n:recent.length,
-    gf:avg(x,"gf",base.teamGoals),
-    ga:avg(x,"ga",base.teamGoals),
-    homeGf:avg(hx,"gf",base.homeGoals), homeGa:avg(hx,"ga",base.awayGoals),
-    awayGf:avg(ax,"gf",base.awayGoals), awayGa:avg(ax,"ga",base.homeGoals),
-    points:avg(x,"points",1.25), over:avg(x,"over",base.overRate),
-    last: recent.slice(-5).map(z=>{const h=teamKey(z.home)===teamKey(team);const gf=Number(z.ft[h?0:1]||0),ga=Number(z.ft[h?1:0]||0);return gf>ga?"W":gf===ga?"D":"L";})
+    gf:all.gf, ga:all.ga, points:all.points, over:all.over,
+    homeN:hs.n, awayN:as.n,
+    homeGf:hs.n?hs.gf:fallbackHome, homeGa:hs.n?hs.ga:fallbackAway,
+    awayGf:as.n?as.gf:fallbackAway, awayGa:as.n?as.ga:fallbackHome,
+    last:recent.slice(-5).map(m=>{
+      const k=teamKey(team), isHome=teamKey(m.home)===k;
+      const gf=Number(m.ft[isHome?0:1]||0), ga=Number(m.ft[isHome?1:0]||0);
+      return gf>ga?'W':gf===ga?'D':'L';
+    })
   };
 }
 
 const leagueCache=new Map();
 function leagueStats(league){
   const key=String(league||""); if(leagueCache.has(key)) return leagueCache.get(key);
-  const ms=leagueMatches(key);
+  const ms=completedMatches().filter(m=>String(m.league||"")===key);
   let hg=[],ag=[],tot=[];
   ms.forEach(m=>{ const h=Number(m.ft[0]||0),a=Number(m.ft[1]||0);hg.push(h);ag.push(a);tot.push(h+a); });
   const g=(arr,f)=>arr.length?weightedMean(arr):f;
-  const s={homeGoals:g(hg,1.35),awayGoals:g(ag,1.05),teamGoals:g(hg.concat(ag),1.20),overRate:g(tot.map(x=>x>2.5?1:0),0.50),n:ms.length};
+  const s={homeGoals:g(hg,1.35),awayGoals:g(ag,1.05),teamGoals:g(hg.concat(ag),1.20),overRate:g(tot.map(x=>x>2.5?1:0),.50),n:ms.length};
   leagueCache.set(key,s); return s;
 }
 
-function poisson(k,lambda){
-  let p=Math.exp(-lambda), term=p;
-  for(let i=1;i<=k;i++){ term*=lambda/i; p+=term; }
-  return term;
-}
-function scoreProb(h,a){
-  let ph=poisson(h,a); // replaced below; kept separate for readability
-  return ph;
-}
 function poissonMass(k,lambda){
   if(k<0) return 0;
   let p=Math.exp(-lambda);
   for(let i=1;i<=k;i++) p*=lambda/i;
   return p;
 }
-
 function estimate(m){
   const cacheKey=String(m.id||"")+"|"+String(m.kickoff||"")+"|"+String(m.ft||"");
   if(state.predictionCache.has(cacheKey)) return state.predictionCache.get(cacheKey);
+
   const league=leagueStats(m.league);
   const H=teamStats(m.home,m.league), A=teamStats(m.away,m.league);
-  const nH=Math.min(H.n,12), nA=Math.min(A.n,12);
-  const shrinkH=nH/(nH+4), shrinkA=nA/(nA+4);
+  const h2h=h2hHistory10(m.home,m.away);
+  const h2hHome=matchSampleStats(h2h,m.home);
+  const h2hAway=matchSampleStats(h2h,m.away);
 
-  // Strength relative to the same league baseline. More recent matches have more weight.
-  const hAttackRaw=H.homeGf/Math.max(.25,league.homeGoals);
-  const hDefenseRaw=H.homeGa/Math.max(.25,league.awayGoals);
-  const aAttackRaw=A.awayGf/Math.max(.25,league.awayGoals);
-  const aDefenseRaw=A.awayGa/Math.max(.25,league.homeGoals);
-  const hAttack=1+(hAttackRaw-1)*shrinkH;
-  const hDefense=1+(hDefenseRaw-1)*shrinkH;
-  const aAttack=1+(aAttackRaw-1)*shrinkA;
-  const aDefense=1+(aDefenseRaw-1)*shrinkA;
+  // Baseline hanya dipakai sebagai shrinkage ringan saat histori tim kurang.
+  const shrink=(n,minimum=10)=>Math.min(1,n/minimum);
+  const hData=shrink(H.n), aData=shrink(A.n);
+  const hVenue=shrink(H.homeN), aVenue=shrink(A.awayN);
 
-  let lambdaH=league.homeGoals*hAttack*aDefense;
-  let lambdaA=league.awayGoals*aAttack*hDefense;
+  // Attack/defense individual dari 10 laga terakhir, dengan penekanan venue.
+  const hAttack=.65*H.homeGf+.35*H.gf;
+  const hDefense=.65*H.homeGa+.35*H.ga;
+  const aAttack=.65*A.awayGf+.35*A.gf;
+  const aDefense=.65*A.awayGa+.35*A.ga;
+
+  // Expected goals berbasis pasangan kekuatan kedua tim.
+  let lambdaH=(hAttack*0.58 + Math.max(.1, aDefense)*0.42);
+  let lambdaA=(aAttack*0.58 + Math.max(.1, hDefense)*0.42);
+
+  // H2H menjadi faktor individual tambahan. Semakin sedikit H2H, semakin kecil bobotnya.
+  if(h2h.length){
+    const h2hWeight=Math.min(.30,.08 + h2h.length*.022);
+    lambdaH=lambdaH*(1-h2hWeight)+((h2hHome.gf+h2hAway.ga)/2)*h2hWeight;
+    lambdaA=lambdaA*(1-h2hWeight)+((h2hAway.gf+h2hHome.ga)/2)*h2hWeight;
+  }
+
+  // Shrink ringan ke baseline liga hanya jika data 10 laga tim belum lengkap.
+  lambdaH=lambdaH*hData*.55 + lambdaH*(1-hData*.55);
+  lambdaA=lambdaA*aData*.55 + lambdaA*(1-aData*.55);
+  if(H.n<10) lambdaH=lambdaH*(.72)+league.homeGoals*.28;
+  if(A.n<10) lambdaA=lambdaA*(.72)+league.awayGoals*.28;
+  if(!H.n) lambdaH=league.homeGoals;
+  if(!A.n) lambdaA=league.awayGoals;
+
+  // Form 10 laga memberi koreksi kecil; bukan angka baku.
+  lambdaH*=clamp(1+(H.points-1.25)*.055,.90,1.10);
+  lambdaA*=clamp(1+(A.points-1.25)*.055,.90,1.10);
   lambdaH=clamp(lambdaH,.20,4.20); lambdaA=clamp(lambdaA,.20,4.20);
 
-  // Small form adjustment so two teams with similar scoring still separate naturally.
-  const formH=(H.points-1.25)*0.10, formA=(A.points-1.25)*0.10;
-  lambdaH=clamp(lambdaH*(1+formH),.20,4.20);
-  lambdaA=clamp(lambdaA*(1+formA),.20,4.20);
-
-  let home=0,draw=0,away=0,over=0;
-  let best={p:-1,h:0,a:0};
+  let home=0,draw=0,away=0,over=0,best={p:-1,h:0,a:0};
   for(let h=0;h<=7;h++) for(let a=0;a<=7;a++){
     const p=poissonMass(h,lambdaH)*poissonMass(a,lambdaA);
     if(h>a) home+=p; else if(h===a) draw+=p; else away+=p;
@@ -140,7 +183,6 @@ function estimate(m){
   const overPct=clamp(over*100,5,95);
   const underPct=100-overPct;
 
-  // Half-time expectation and most likely HT score; FT is the most likely score.
   const htH=lambdaH*.46, htA=lambdaA*.46;
   let bestHT={p:-1,h:0,a:0};
   for(let h=0;h<=5;h++) for(let a=0;a<=5;a++){
@@ -148,10 +190,15 @@ function estimate(m){
     if(p>bestHT.p) bestHT={p,h,a};
   }
   const htft=`${bestHT.h}-${bestHT.a} / ${best.h}-${best.a}`;
+  const confidence=Math.round(clamp(
+    35 + Math.min(H.n,10)*2 + Math.min(A.n,10)*2 + Math.min(h2h.length,10)*1.5,
+    35,90));
   const result={
     home:Math.round(home*100), draw:Math.round(draw*100), away:Math.round(away*100),
     over:Math.round(overPct), under:Math.round(underPct), score:`${best.h}-${best.a}`,
-    htft, lambdaH, lambdaA, samplesH:H.n, samplesA:A.n, formH:H.last.join(""), formA:A.last.join("")
+    htft, lambdaH, lambdaA,
+    samplesH:H.n, samplesA:A.n, h2hSamples:h2h.length,
+    formH:H.last.join(''), formA:A.last.join(''), confidence
   };
   state.predictionCache.set(cacheKey,result);
   return result;
@@ -252,7 +299,7 @@ function render(){
 }
 function bindCards(){
   document.querySelectorAll("[data-fav]").forEach(b=>b.onclick=()=>{const id=b.dataset.fav;if(state.favorites.has(id))state.favorites.delete(id);else state.favorites.add(id);saveFav();render();toast(state.favorites.has(id)?"Ditambahkan ke Favorit":"Dihapus dari Favorit");});
-  document.querySelectorAll("[data-detail]").forEach(b=>b.onclick=()=>{const m=state.data.matches.find(x=>String(x.id)===String(b.dataset.detail));if(!m)return;const p=estimate(m);alert(`${m.home} vs ${m.away}\n\nLiga: ${m.league||"-"}\nKickoff: ${m.kickoff||"-"}\nStatus: ${m.status||"-"}\nHT: ${arrScore(m.ht)}\nFT: ${arrScore(m.ft)}\n\nPREDIKSI V3.2 (historis)\nHome ${p.home}% · Draw ${p.draw}% · Away ${p.away}%\nOver 2.5 ${p.over}% · Under 2.5 ${p.under}%\nSkor model: ${p.score}\nHT/FT model: ${p.htft}\nSampel ${m.home}: ${p.samplesH} pertandingan\nSampel ${m.away}: ${p.samplesA} pertandingan`);});
+  document.querySelectorAll("[data-detail]").forEach(b=>b.onclick=()=>{const m=state.data.matches.find(x=>String(x.id)===String(b.dataset.detail));if(!m)return;const p=estimate(m);alert(`${m.home} vs ${m.away}\n\nLiga: ${m.league||"-"}\nKickoff: ${m.kickoff||"-"}\nStatus: ${m.status||"-"}\nHT: ${arrScore(m.ht)}\nFT: ${arrScore(m.ft)}\n\nPREDIKSI V3.2.1 (10 LAGA + H2H)\nHome ${p.home}% · Draw ${p.draw}% · Away ${p.away}%\nOver 2.5 ${p.over}% · Under 2.5 ${p.under}%\nSkor model: ${p.score}\nHT/FT model: ${p.htft}\nSampel ${m.home}: ${p.samplesH} pertandingan\nSampel ${m.away}: ${p.samplesA} pertandingan\nH2H: ${p.h2hSamples} pertandingan\nConfidence: ${p.confidence}%`);});
 }
 async function load(){
   try{
