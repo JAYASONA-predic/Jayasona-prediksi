@@ -1,8 +1,8 @@
 {
   "version": "3.1.1",
-  "updated_at": "2026-09-02T19:08:25+00:00",
+  "updated_at": "2026-09-02T19:23:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 716,
+  "count": 719,
   "matches": [
     {
       "id": "ea08948ef21f0d3e",
@@ -631,7 +631,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "Sint Truidense",
       "away": "Union Saint-Gilloise",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -642,7 +645,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "Luzern",
       "away": "Vaduz",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -653,7 +659,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "Thun",
       "away": "Lausanne-Sport",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -664,7 +673,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "Grasshopper",
       "away": "St. Gallen",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -792,7 +804,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "Red Bull Salzburg",
       "away": "Rapid Wien",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -957,7 +972,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "FC Arges Pitesti",
       "away": "FCSB",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -1149,7 +1167,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "Widzew Lodz",
       "away": "Korona Kielce",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -1592,9 +1613,15 @@
       "kickoff": "Sep 3 2026 12:00AM",
       "home": "HSC Hannover",
       "away": "1. FC Phonix Lubeck",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -1646,20 +1673,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e9185123b81b8de0",
-      "league": "BELARUS PREMIER LEAGUE",
-      "kickoff": "Sep 3 2026 1:30AM",
-      "home": "Dinamo Minsk",
-      "away": "Naftan Novopolotsk",
-      "ht": [
-        4,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4116e96560edb0d3",
       "league": "BELARUS PREMIER LEAGUE",
       "kickoff": "Sep 2 2026 11:30PM",
@@ -1671,6 +1684,23 @@
       ],
       "ft": [
         1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e9185123b81b8de0",
+      "league": "BELARUS PREMIER LEAGUE",
+      "kickoff": "Sep 3 2026 1:30AM",
+      "home": "Dinamo Minsk",
+      "away": "Naftan Novopolotsk",
+      "ht": [
+        4,
+        0
+      ],
+      "ft": [
+        5,
         1
       ],
       "status": "Completed",
@@ -1796,20 +1826,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "87092de6d75826bd",
-      "league": "CROATIA FIRST LEAGUE",
-      "kickoff": "Sep 3 2026 1:30AM",
-      "home": "HNK Cibalia",
-      "away": "HNK Orijent 1919",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "55d1cfdad1dedf6b",
       "league": "CROATIA FIRST LEAGUE",
       "kickoff": "Sep 2 2026 9:30PM",
@@ -1923,6 +1939,23 @@
       ],
       "ft": [
         1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "87092de6d75826bd",
+      "league": "CROATIA FIRST LEAGUE",
+      "kickoff": "Sep 3 2026 1:30AM",
+      "home": "HNK Cibalia",
+      "away": "HNK Orijent 1919",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
         0
       ],
       "status": "Completed",
@@ -2398,7 +2431,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "FK Borac Banja Luka",
       "away": "FK Zeljeznicar",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -2409,7 +2445,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "NK Siroki Brijeg",
       "away": "FK Sarajevo",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -2643,7 +2682,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "Juventus (w)",
       "away": "SKN St. Polten (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3157,7 +3199,10 @@
       "kickoff": "Sep 3 2026 2:30AM",
       "home": "CE Sabadell FC",
       "away": "Barcelona B",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3398,6 +3443,39 @@
         2
       ],
       "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fbfe2540f3a13054",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 3 2026 3:30AM",
+      "home": "Atletico El Vigia",
+      "away": "Atletico Barinas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3f4a5d829cdcbb9d",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 3 2026 3:30AM",
+      "home": "Real Frontera FC",
+      "away": "Zamora FC B",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7e1aedeaab1a24ba",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 3 2026 4:00AM",
+      "home": "Yaracuyanos FC",
+      "away": "Urena SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -6299,8 +6377,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -6313,8 +6394,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -6323,7 +6407,10 @@
       "kickoff": "Sep 3 2026 3:00AM",
       "home": "Netherlands (V)",
       "away": "Brazil (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -6334,7 +6421,10 @@
       "kickoff": "Sep 3 2026 3:00AM",
       "home": "Ukraine (V)",
       "away": "Switzerland (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -11287,8 +11377,11 @@
         1,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -11301,8 +11394,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -11311,7 +11407,10 @@
       "kickoff": "Sep 3 2026 3:00AM",
       "home": "Olympique de Marseille (V)",
       "away": "Olympique Lyonnais (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -11322,7 +11421,10 @@
       "kickoff": "Sep 3 2026 3:00AM",
       "home": "Torino (V)",
       "away": "AC Milan (V)",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
