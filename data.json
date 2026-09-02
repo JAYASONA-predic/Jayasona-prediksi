@@ -1,6 +1,6 @@
 {
   "version": "3.1.1",
-  "updated_at": "2026-09-02T21:08:18+00:00",
+  "updated_at": "2026-09-02T21:24:16+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 782,
   "matches": [
@@ -2807,8 +2807,11 @@
         1,
         2
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -3754,6 +3757,20 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7e1aedeaab1a24ba",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 3 2026 4:00AM",
+      "home": "Yaracuyanos FC",
+      "away": "Urena SC",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "fbfe2540f3a13054",
       "league": "VENEZUELA SEGUNDA DIVISION",
       "kickoff": "Sep 3 2026 3:30AM",
@@ -3763,8 +3780,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -3777,22 +3797,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7e1aedeaab1a24ba",
-      "league": "VENEZUELA SEGUNDA DIVISION",
-      "kickoff": "Sep 3 2026 4:00AM",
-      "home": "Yaracuyanos FC",
-      "away": "Urena SC",
-      "ht": [
-        2,
+      "ft": [
+        0,
         2
       ],
-      "ft": null,
-      "status": "Running",
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7219,8 +7228,11 @@
         0,
         2
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7233,8 +7245,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        5,
+        2
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7243,7 +7258,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "Egypt (V)",
       "away": "Costa Rica (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -7254,7 +7272,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "Tunisia (V)",
       "away": "Israel (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12547,8 +12568,11 @@
         1,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -12561,8 +12585,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -12571,7 +12598,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "Real Sociedad (V)",
       "away": "CA Osasuna (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12582,7 +12612,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "Chelsea (V)",
       "away": "Liverpool (V)",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12593,7 +12626,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "Valencia CF (V)",
       "away": "Everton (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12604,7 +12640,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "AS Monaco (V)",
       "away": "Udinese (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12615,7 +12654,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "Bayern Munchen (V)",
       "away": "AC Milan (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12626,7 +12668,10 @@
       "kickoff": "Sep 3 2026 5:00AM",
       "home": "Bayer 04 Leverkusen (V)",
       "away": "Atalanta (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
