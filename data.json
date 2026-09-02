@@ -1,8 +1,8 @@
 {
   "version": "3.1.1",
-  "updated_at": "2026-09-02T21:38:04+00:00",
+  "updated_at": "2026-09-02T21:50:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 793,
+  "count": 801,
   "matches": [
     {
       "id": "ea08948ef21f0d3e",
@@ -7332,8 +7332,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7346,8 +7349,11 @@
         1,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7356,7 +7362,10 @@
       "kickoff": "Sep 3 2026 5:30AM",
       "home": "Croatia (V)",
       "away": "Sweden (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12840,8 +12849,11 @@
         0,
         2
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -12854,8 +12866,11 @@
         0,
         2
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -12864,7 +12879,10 @@
       "kickoff": "Sep 3 2026 5:30AM",
       "home": "Lille OSC (V)",
       "away": "Olympique Lyonnais (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12875,7 +12893,10 @@
       "kickoff": "Sep 3 2026 5:30AM",
       "home": "FC Koln (V)",
       "away": "FSV Mainz 05 (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12886,7 +12907,10 @@
       "kickoff": "Sep 3 2026 5:30AM",
       "home": "Olympique de Marseille (V)",
       "away": "Tottenham Hotspur (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12897,7 +12921,10 @@
       "kickoff": "Sep 3 2026 5:30AM",
       "home": "Paris Saint Germain (V)",
       "away": "Girondins de Bordeaux (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12908,7 +12935,10 @@
       "kickoff": "Sep 3 2026 5:30AM",
       "home": "Leicester City (V)",
       "away": "Manchester City (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -12919,7 +12949,10 @@
       "kickoff": "Sep 3 2026 5:30AM",
       "home": "Getafe CF (V)",
       "away": "Inter Milan (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13007,6 +13040,94 @@
       "kickoff": "Sep 3 2026 6:15AM",
       "home": "Tottenham Hotspur (V)",
       "away": "Manchester City (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "16c6d6088f9ae686",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 6:30AM",
+      "home": "Real Sociedad (V)",
+      "away": "Olympique de Marseille (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b4ebd5d084e5887c",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 6:30AM",
+      "home": "Getafe CF (V)",
+      "away": "Valencia CF (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "35127b46073bb177",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 6:45AM",
+      "home": "Sevilla (V)",
+      "away": "Leicester City (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f6ed1dcea3fac67f",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 6:45AM",
+      "home": "Udinese (V)",
+      "away": "Napoli (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0690227b3c8b266e",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 7:00AM",
+      "home": "Atletico de Madrid (V)",
+      "away": "Lazio (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "86baa5262f8a1db7",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 7:00AM",
+      "home": "Everton (V)",
+      "away": "AC Milan (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "98c2dfdce3c70ad8",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 7:15AM",
+      "home": "Arsenal (V)",
+      "away": "Torino (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1fa65ca7d0a7eff2",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 3 2026 7:15AM",
+      "home": "Olympique de Marseille (V)",
+      "away": "Inter Milan (V)",
       "ht": null,
       "ft": null,
       "status": "Running",
