@@ -69,15 +69,28 @@ function teamLogoUrl(team){
 async function fetchLogo(team){
   const key=String(team||"").trim();
   if(!key || state.logoCache[key]) return state.logoCache[key] || "";
-  try{
-    const url="https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch="+encodeURIComponent(key+" football club crest")+
-      "&gsrnamespace=0&gsrlimit=1&prop=pageimages&piprop=thumbnail&pithumbsize=160&format=json&origin=*";
-    const r=await fetch(url,{cache:"force-cache"});
-    const j=await r.json();
-    const pages=j.query?.pages ? Object.values(j.query.pages) : [];
-    const src=pages[0]?.thumbnail?.source || "";
-    if(src){ state.logoCache[key]=src; localStorage.setItem("jayasona_logo_cache",JSON.stringify(state.logoCache)); return src; }
-  }catch(e){}
+
+  // Try Wikimedia's page summary first: it is stable and usually returns the
+  // club crest/logo as the page image. Then fall back to the MediaWiki search.
+  const candidates = [
+    `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(key)}`,
+    `https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(key+" football club crest")}&gsrnamespace=0&gsrlimit=3&prop=pageimages&piprop=thumbnail&pithumbsize=160&format=json&origin=*`
+  ];
+
+  for(const url of candidates){
+    try{
+      const r=await fetch(url,{cache:"force-cache",mode:"cors"});
+      if(!r.ok) continue;
+      const j=await r.json();
+      const src = j.thumbnail?.source || j.originalimage?.source ||
+        (j.query?.pages ? Object.values(j.query.pages).map(x=>x.thumbnail?.source).find(Boolean) : "") || "";
+      if(src){
+        state.logoCache[key]=src;
+        localStorage.setItem("jayasona_logo_cache",JSON.stringify(state.logoCache));
+        return src;
+      }
+    }catch(e){}
+  }
   return "";
 }
 function logoHtml(team){
@@ -171,9 +184,17 @@ async function load(){
     const r=await fetch("data.json?ts="+Date.now(),{cache:"no-store"});
     if(!r.ok) throw new Error("HTTP "+r.status);
     state.data=await r.json(); normalizeMatches(); renderQuick(); render();
-    // Load logos only for visible first 12 teams, keeping the page fast.
-    const teams=[...new Set(state.data.matches.slice(0,20).flatMap(m=>[m.home,m.away]).filter(Boolean))];
-    for(const t of teams) fetchLogo(t).then(()=>render());
+    // Load logos for the teams currently displayed, not only the first 20
+    // records. This fixes league sections farther down the page (e.g.
+    // Millwall, Wrexham, West Bromwich Albion, Charlton Athletic).
+    const loadVisibleLogos = async () => {
+      const teams=[...new Set(matchesForDisplay().flatMap(m=>[m.home,m.away]).filter(Boolean))];
+      for(const t of teams){
+        const src=await fetchLogo(t);
+        if(src) render();
+      }
+    };
+    loadVisibleLogos();
   }catch(e){
     $("matchList").innerHTML='<div class="empty">Gagal memuat data.json. Pastikan file data.json tetap ada di repository.</div>';
   }
