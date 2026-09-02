@@ -1,3 +1,4 @@
+
 name: Sync MBox888 Results
 
 on:
@@ -8,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sync-mbox888
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -15,6 +20,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -31,11 +39,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data.json
 
           if git diff --cached --quiet; then
             echo "No data changes."
-          else
-            git commit -m "chore: sync MBox888 results"
-            git push
+            exit 0
           fi
+
+          git commit -m "chore: sync MBox888 results"
+
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
