@@ -127,7 +127,7 @@ function poissonMass(k,lambda){
   return p;
 }
 function estimate(m){
-  const cacheKey=String(m.id||"")+"|"+String(m.kickoff||"")+"|"+String(m.ft||"");
+  const cacheKey=String(m.id||"")+"|"+String(m.kickoff||"")+"|"+String(m.ft||"")+"|v321i";
   if(state.predictionCache.has(cacheKey)) return state.predictionCache.get(cacheKey);
 
   const league=leagueStats(m.league);
@@ -136,43 +136,61 @@ function estimate(m){
   const h2hHome=matchSampleStats(h2h,m.home);
   const h2hAway=matchSampleStats(h2h,m.away);
 
-  // Baseline hanya dipakai sebagai shrinkage ringan saat histori tim kurang.
-  const shrink=(n,minimum=10)=>Math.min(1,n/minimum);
-  const hData=shrink(H.n), aData=shrink(A.n);
-  const hVenue=shrink(H.homeN), aVenue=shrink(A.awayN);
+  // V3.2.1: individual model. Recent 10 matches are primary; venue split and H2H
+  // are separate signals. No fixed 44/27/29 or 50/50 prediction is used.
+  const recencyWeight=(n)=>n>=10?1:0.55+0.045*n;
+  const hRecentW=recencyWeight(H.n), aRecentW=recencyWeight(A.n);
+  const hVenueW=H.homeN?Math.min(0.24,0.08+H.homeN*0.016):0;
+  const aVenueW=A.awayN?Math.min(0.24,0.08+A.awayN*0.016):0;
 
-  // Attack/defense individual dari 10 laga terakhir, dengan penekanan venue.
-  const hAttack=.65*H.homeGf+.35*H.gf;
-  const hDefense=.65*H.homeGa+.35*H.ga;
-  const aAttack=.65*A.awayGf+.35*A.gf;
-  const aDefense=.65*A.awayGa+.35*A.ga;
+  const leagueH=league.homeGoals||1.35, leagueA=league.awayGoals||1.05;
+  const hRecentAttack=H.n?H.gf:leagueH;
+  const hRecentDefense=H.n?H.ga:leagueA;
+  const aRecentAttack=A.n?A.gf:leagueA;
+  const aRecentDefense=A.n?A.ga:leagueH;
 
-  // Expected goals berbasis pasangan kekuatan kedua tim.
-  let lambdaH=(hAttack*0.58 + Math.max(.1, aDefense)*0.42);
-  let lambdaA=(aAttack*0.58 + Math.max(.1, hDefense)*0.42);
+  // Venue performance pulls the expected goals toward the team's own home/away record.
+  let hAttack=hRecentAttack*(1-hVenueW)+(H.homeN?H.homeGf:leagueH)*hVenueW;
+  let hDefense=hRecentDefense*(1-hVenueW)+(H.homeN?H.homeGa:leagueA)*hVenueW;
+  let aAttack=aRecentAttack*(1-aVenueW)+(A.awayN?A.awayGf:leagueA)*aVenueW;
+  let aDefense=aRecentDefense*(1-aVenueW)+(A.awayN?A.awayGa:leagueH)*aVenueW;
 
-  // H2H menjadi faktor individual tambahan. Semakin sedikit H2H, semakin kecil bobotnya.
+  // Blend attack/defence using both teams' actual recent numbers.
+  let lambdaH=0.56*hAttack+0.44*aDefense;
+  let lambdaA=0.56*aAttack+0.44*hDefense;
+
+  // League shrinkage only for missing team history, never as a fixed prediction.
+  if(!H.n) lambdaH=0.72*lambdaH+0.28*leagueH;
+  else if(H.n<10) lambdaH=0.88*lambdaH+0.12*leagueH;
+  if(!A.n) lambdaA=0.72*lambdaA+0.28*leagueA;
+  else if(A.n<10) lambdaA=0.88*lambdaA+0.12*leagueA;
+
+  // Form points and goal difference from the last 10 produce an individual adjustment.
+  const hForm=(H.points-1.0)*0.075 + (H.gf-H.ga)*0.025;
+  const aForm=(A.points-1.0)*0.075 + (A.gf-A.ga)*0.025;
+  lambdaH*=clamp(1+hForm*hRecentW,.82,1.20);
+  lambdaA*=clamp(1+aForm*aRecentW,.82,1.20);
+
+  // H2H: use only meetings between these exact two clubs, weighted to recent meetings.
   if(h2h.length){
-    const h2hWeight=Math.min(.30,.08 + h2h.length*.022);
-    lambdaH=lambdaH*(1-h2hWeight)+((h2hHome.gf+h2hAway.ga)/2)*h2hWeight;
-    lambdaA=lambdaA*(1-h2hWeight)+((h2hAway.gf+h2hHome.ga)/2)*h2hWeight;
+    const h2hW=Math.min(0.24,0.06+h2h.length*0.018);
+    const h2hHG=h2hHome.gf, h2hAG=h2hAway.gf;
+    const h2hLambdaH=(h2hHG+h2hAG)/2;
+    const h2hLambdaA=(h2hAG+h2hHG)/2;
+    lambdaH=(1-h2hW)*lambdaH+h2hW*Math.max(0.25,h2hLambdaH);
+    lambdaA=(1-h2hW)*lambdaA+h2hW*Math.max(0.20,h2hLambdaA);
+
+    // H2H result edge adds a small directional correction.
+    const hPts=h2hHome.points, aPts=h2hAway.points;
+    const edge=clamp((hPts-aPts)*0.035,-0.10,0.10);
+    lambdaH*=1+edge; lambdaA*=1-edge;
   }
 
-  // Shrink ringan ke baseline liga hanya jika data 10 laga tim belum lengkap.
-  lambdaH=lambdaH*hData*.55 + lambdaH*(1-hData*.55);
-  lambdaA=lambdaA*aData*.55 + lambdaA*(1-aData*.55);
-  if(H.n<10) lambdaH=lambdaH*(.72)+league.homeGoals*.28;
-  if(A.n<10) lambdaA=lambdaA*(.72)+league.awayGoals*.28;
-  if(!H.n) lambdaH=league.homeGoals;
-  if(!A.n) lambdaA=league.awayGoals;
-
-  // Form 10 laga memberi koreksi kecil; bukan angka baku.
-  lambdaH*=clamp(1+(H.points-1.25)*.055,.90,1.10);
-  lambdaA*=clamp(1+(A.points-1.25)*.055,.90,1.10);
-  lambdaH=clamp(lambdaH,.20,4.20); lambdaA=clamp(lambdaA,.20,4.20);
+  lambdaH=clamp(lambdaH,.20,4.20);
+  lambdaA=clamp(lambdaA,.20,4.20);
 
   let home=0,draw=0,away=0,over=0,best={p:-1,h:0,a:0};
-  for(let h=0;h<=7;h++) for(let a=0;a<=7;a++){
+  for(let h=0;h<=8;h++) for(let a=0;a<=8;a++){
     const p=poissonMass(h,lambdaH)*poissonMass(a,lambdaA);
     if(h>a) home+=p; else if(h===a) draw+=p; else away+=p;
     if(h+a>=3) over+=p;
@@ -180,30 +198,29 @@ function estimate(m){
   }
   const total=home+draw+away;
   home/=total; draw/=total; away/=total;
-  const overPct=clamp(over*100,5,95);
-  const underPct=100-overPct;
 
-  const htH=lambdaH*.46, htA=lambdaA*.46;
+  const overPct=clamp(over*100,5,95), underPct=100-overPct;
+  const htH=lambdaH*.44, htA=lambdaA*.44;
   let bestHT={p:-1,h:0,a:0};
   for(let h=0;h<=5;h++) for(let a=0;a<=5;a++){
     const p=poissonMass(h,htH)*poissonMass(a,htA);
     if(p>bestHT.p) bestHT={p,h,a};
   }
-  const htft=`${bestHT.h}-${bestHT.a} / ${best.h}-${best.a}`;
-  const confidence=Math.round(clamp(
-    35 + Math.min(H.n,10)*2 + Math.min(A.n,10)*2 + Math.min(h2h.length,10)*1.5,
-    35,90));
+
+  // Confidence reflects how much actual evidence exists, including H2H.
+  const evidence=Math.min(H.n,10)+Math.min(A.n,10)+Math.min(h2h.length,10);
+  const confidence=Math.round(clamp(38+evidence*1.55+(H.homeN?3:0)+(A.awayN?3:0),38,92));
+
   const result={
-    home:Math.round(home*100), draw:Math.round(draw*100), away:Math.round(away*100),
-    over:Math.round(overPct), under:Math.round(underPct), score:`${best.h}-${best.a}`,
-    htft, lambdaH, lambdaA,
-    samplesH:H.n, samplesA:A.n, h2hSamples:h2h.length,
-    formH:H.last.join(''), formA:A.last.join(''), confidence
+    home:Math.round(home*100),draw:Math.round(draw*100),away:Math.round(away*100),
+    over:Math.round(overPct),under:Math.round(underPct),score:`${best.h}-${best.a}`,
+    htft:`${bestHT.h}-${bestHT.a} / ${best.h}-${best.a}`,
+    lambdaH,lambdaA,samplesH:H.n,samplesA:A.n,h2hSamples:h2h.length,
+    formH:H.last.join(''),formA:A.last.join(''),confidence
   };
   state.predictionCache.set(cacheKey,result);
   return result;
 }
-
 function initials(name){ return String(name||"").split(/\s+/).filter(Boolean).slice(0,2).map(x=>x[0]).join("").toUpperCase()||"?"; }
 function teamLogoUrl(team){ return state.logoCache[String(team||"").trim()]||""; }
 
