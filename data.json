@@ -1,6 +1,6 @@
 {
   "version": "3.1.1",
-  "updated_at": "2026-09-02T23:36:42+00:00",
+  "updated_at": "2026-09-02T23:49:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 835,
   "matches": [
@@ -3820,7 +3820,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Deportivo Lara",
       "away": "Barquisimeto SC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -7674,8 +7677,11 @@
         1,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7688,8 +7694,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7698,7 +7707,10 @@
       "kickoff": "Sep 3 2026 7:30AM",
       "home": "Mali (V)",
       "away": "Egypt (V)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13556,8 +13568,11 @@
         1,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13570,8 +13585,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13580,7 +13598,10 @@
       "kickoff": "Sep 3 2026 7:30AM",
       "home": "Napoli (V)",
       "away": "Tottenham Hotspur (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13591,7 +13612,10 @@
       "kickoff": "Sep 3 2026 7:30AM",
       "home": "Arminia Bielefeld (V)",
       "away": "FSV Mainz 05 (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
