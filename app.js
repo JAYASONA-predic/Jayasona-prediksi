@@ -2,13 +2,14 @@
    UI tetap V3.1.x. Mesin prediksi memakai pertandingan Completed yang ada di data.json.
    Model: weighted recent form + home/away split + league baseline + Poisson score model.
 */
-const VERSION = "3.2";
+const VERSION = "3.2.1";
 const state = {
   data: {matches:[]},
   filter: "all",
   search: "",
   favorites: new Set(JSON.parse(localStorage.getItem("jayasona_favorites") || "[]")),
-  logoCache: JSON.parse(localStorage.getItem("jayasona_logo_cache") || "{}")
+  logoCache: JSON.parse(localStorage.getItem("jayasona_logo_cache") || "{}"),
+  predictionCache: new Map()
 };
 
 const $ = id => document.getElementById(id);
@@ -100,6 +101,8 @@ function poissonMass(k,lambda){
 }
 
 function estimate(m){
+  const cacheKey=String(m.id||"")+"|"+String(m.kickoff||"")+"|"+String(m.ft||"");
+  if(state.predictionCache.has(cacheKey)) return state.predictionCache.get(cacheKey);
   const league=leagueStats(m.league);
   const H=teamStats(m.home,m.league), A=teamStats(m.away,m.league);
   const nH=Math.min(H.n,12), nA=Math.min(A.n,12);
@@ -145,11 +148,13 @@ function estimate(m){
     if(p>bestHT.p) bestHT={p,h,a};
   }
   const htft=`${bestHT.h}-${bestHT.a} / ${best.h}-${best.a}`;
-  return {
+  const result={
     home:Math.round(home*100), draw:Math.round(draw*100), away:Math.round(away*100),
     over:Math.round(overPct), under:Math.round(underPct), score:`${best.h}-${best.a}`,
     htft, lambdaH, lambdaA, samplesH:H.n, samplesA:A.n, formH:H.last.join(""), formA:A.last.join("")
   };
+  state.predictionCache.set(cacheKey,result);
+  return result;
 }
 
 function initials(name){ return String(name||"").split(/\s+/).filter(Boolean).slice(0,2).map(x=>x[0]).join("").toUpperCase()||"?"; }
@@ -204,14 +209,16 @@ function matchesForDisplay(){
   return state.data.matches.filter(m=>{
     const hay=`${m.home||""} ${m.away||""} ${m.league||""}`.toLowerCase();
     if(q&&!hay.includes(q)) return false;
+    // Completed matches remain in data.json as archive/history, but are never shown in the main app.
+    if(isCompleted(m)) return false;
     if(state.filter==="live"&&!isLive(m)) return false;
-    if(state.filter==="upcoming"&&(isLive(m)||isCompleted(m))) return false;
+    if(state.filter==="upcoming"&&isLive(m)) return false;
     if(state.filter==="favorite"&&!state.favorites.has(m.id)) return false;
     return true;
   });
 }
 function renderQuick(){
-  const all=[]; for(const m of state.data.matches){for(const t of [m.home,m.away]) if(t&&!all.includes(t)) all.push(t); if(all.length>=10) break;}
+  const all=[]; for(const m of matchesForDisplay()){for(const t of [m.home,m.away]) if(t&&!all.includes(t)) all.push(t); if(all.length>=10) break;}
   $("quickClubs").innerHTML=all.slice(0,8).map(t=>`<button class="quick" data-club="${esc(t)}">⚽ ${esc(t)}</button>`).join("");
   document.querySelectorAll(".quick").forEach(b=>b.onclick=()=>{$("search").value=b.dataset.club;state.search=b.dataset.club;render();});
 }
@@ -250,10 +257,12 @@ function bindCards(){
 async function load(){
   try{
     const r=await fetch("data.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);
-    state.data=await r.json();normalizeMatches();leagueCache.clear();renderQuick();render();
+    state.data=await r.json();normalizeMatches();leagueCache.clear();state.predictionCache.clear();renderQuick();render();
     const teams=[...new Set(matchesForDisplay().flatMap(m=>[m.home,m.away]).filter(Boolean))];
     // Parallel lookup so logos appear much faster; fallback initials are always visible.
-    await Promise.all(teams.map(t=>fetchLogo(t).then(src=>{if(src)render();})));
+    // Load logos without re-rendering the entire page for every single request.
+    const results=await Promise.all(teams.map(t=>fetchLogo(t)));
+    if(results.some(Boolean)) render();
   }catch(e){$("matchList").innerHTML='<div class="empty">Gagal memuat data.json. Pastikan file data.json tetap ada di repository.</div>';}
 }
 
