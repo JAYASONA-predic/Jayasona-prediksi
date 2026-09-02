@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#07100c">
+<link rel="manifest" href="manifest.json">
+<title>JAYASONA PREDIKSI</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#050b08;color:#f5f7f5;font-family:Arial,sans-serif}
+.app{max-width:480px;margin:auto;min-height:100vh;background:#07100c}
+header{padding:18px;background:#08110d;position:sticky;top:0;z-index:5}.brand{font-size:21px;font-weight:800}.brand b{color:#b7f34a}.tools{float:right;margin-top:-29px}.tool{background:#101c16;color:#d6e0d9;border:1px solid #293b31;border-radius:11px;padding:9px 12px;margin-left:5px}
+.hero{margin:10px 16px 14px;padding:25px 22px;border:1px solid #2b4234;border-radius:24px;background:linear-gradient(135deg,#101c16,#294528)}.hero small{color:#b7f34a}.hero h1{margin:8px 0 4px;font-size:26px}.hero p{margin:0;color:#91a097}
+.search{margin:0 16px 12px;width:calc(100% - 32px);padding:14px;border-radius:14px;border:1px solid #293b31;background:#0c1712;color:#fff;outline:none}
+.tabs{display:flex;gap:8px;padding:0 16px 12px;overflow:auto}.tabs button{white-space:nowrap;border:1px solid #293b31;background:#0c1712;color:#9ba89f;padding:10px 14px;border-radius:20px}.tabs .active{background:#b7f34a;color:#071006;border-color:#b7f34a;font-weight:700}
+.section{padding:9px 18px;color:#b6c0ba;font-size:13px;font-weight:700}.card{margin:9px 16px;padding:0 13px 13px;border:1px solid #25382d;border-radius:19px;background:#0a1510}.top{padding:12px 2px;border-bottom:1px solid #203127;color:#849188;font-size:11px}.live{float:right;color:#ff5570;font-weight:bold}.teams{display:grid;grid-template-columns:1fr 52px 1fr;align-items:center;padding:17px 0 12px}.team{text-align:center;font-weight:700;font-size:13px}.crest{width:52px;height:52px;border-radius:50%;border:1px solid #385143;background:#06100b;display:grid;place-items:center;margin:auto auto 6px;color:#b7f34a;font-weight:800}.score{text-align:center;font-size:25px;font-weight:800}.mins{font-size:9px;color:#718078;margin-top:4px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}.box{background:#111f18;border:1px solid #1f3127;border-radius:10px;padding:9px 3px;text-align:center}.box small{display:block;color:#718078;font-size:8px;margin-bottom:4px}.box strong{font-size:13px}.actions{display:flex;gap:7px;margin-top:10px}.actions button{flex:1;background:#0d1813;color:#b8c2bb;border:1px solid #2a3d31;border-radius:10px;padding:9px;font-size:11px}.nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:min(480px,100%);display:grid;grid-template-columns:repeat(4,1fr);background:#07100cf5;border-top:1px solid #24362c;padding:8px;z-index:10}.nav button{background:none;border:0;color:#7a887f;font-size:10px}.nav .sel{color:#b7f34a}.spacer{height:72px}.install{display:none;margin:0 16px 12px;padding:11px;border-radius:12px;background:#b7f34a;color:#071006;border:0;width:calc(100% - 32px);font-weight:700}
+</style>
+</head>
+<body>
+<div class="app">
+<header><div class="brand">JAYASONA <b>PREDIKSI</b></div><div class="tools"><button class="tool" onclick="focusSearch()">⌕</button><button class="tool" onclick="alert('JAYASONA PREDIKSI\\nVersi HP 1.0')">☰</button></div></header>
+<div class="hero"><small>SABA CLUB FRIENDLY</small><h1>Virtual PES 21</h1><p>15 Minutes Play · Match Center</p></div>
+<button id="install" class="install">＋ Pasang JAYASONA PREDIKSI</button>
+<input id="search" class="search" placeholder="Cari klub..." oninput="render()">
+<div class="tabs"><button class="active" onclick="setTab('all',this)">Semua</button><button onclick="setTab('live',this)">🔴 Live</button><button onclick="setTab('next',this)">Mendatang</button><button onclick="setTab('fav',this)">⭐ Favorit</button></div>
+<div class="section">⚽ SABA CLUB FRIENDLY · PES 21</div><div id="list"></div><div class="spacer"></div>
+<nav class="nav"><button class="sel" onclick="setTab('all')">⌂<br>Home</button><button onclick="setTab('live')">◉<br>Live</button><button onclick="setTab('fav')">☆<br>Favorit</button><button onclick="alert('Menu JAYASONA PREDIKSI')">☰<br>Menu</button></nav>
+</div>
+<script>
+const data=[
+{t:'23:15 WIB',a:'Liverpool',b:'Everton',s:'0 - 0',o:'42%',u:'58%',ht:'0-0',live:true},
+{t:'23:30 WIB',a:'Manchester City',b:'Lazio',s:'— - —',o:'42%',u:'58%',ht:'2-1',live:false},
+{t:'23:45 WIB',a:'Chelsea',b:'Bayern Munchen',s:'— - —',o:'58%',u:'42%',ht:'1-2',live:false},
+{t:'00:00 WIB',a:'Real Madrid',b:'Manchester United',s:'— - —',o:'55%',u:'45%',ht:'2-1',live:false},
+{t:'00:15 WIB',a:'Arsenal',b:'Olympique Marseille',s:'— - —',o:'55%',u:'45%',ht:'2-0',live:false},
+{t:'00:30 WIB',a:'Inter Milan',b:'Getafe',s:'— - —',o:'39%',u:'61%',ht:'1-0',live:false}
+];
+let tab='all',fav=new Set(JSON.parse(localStorage.getItem('fav')||'[]'));
+function ini(x){return x.split(' ').map(v=>v[0]).join('').slice(0,3).toUpperCase()}
+function setTab(x,el){tab=x;document.querySelectorAll('.tabs button').forEach(b=>b.classList.remove('active'));if(el)el.classList.add('active');render()}
+function render(){let q=document.getElementById('search').value.toLowerCase();let arr=data.filter(m=>(tab==='all'||(tab==='live'&&m.live)||(tab==='next'&&!m.live)||(tab==='fav'&&fav.has(m.a+'|'+m.b)))&&(m.a+' '+m.b).toLowerCase().includes(q));document.getElementById('list').innerHTML=arr.map(m=>{let k=m.a+'|'+m.b;return `<div class="card"><div class="top">${m.t}<span class="live">${m.live?'● LIVE':''}</span></div><div class="teams"><div class="team"><div class="crest">${ini(m.a)}</div>${m.a}</div><div class="score">${m.s}<div class="mins">15 MIN</div></div><div class="team"><div class="crest">${ini(m.b)}</div>${m.b}</div></div><div class="grid"><div class="box"><small>HOME</small><strong>—</strong></div><div class="box"><small>DRAW</small><strong>—</strong></div><div class="box"><small>AWAY</small><strong>—</strong></div><div class="box"><small>OVER 2.5</small><strong>${m.o}</strong></div><div class="box"><small>UNDER 2.5</small><strong>${m.u}</strong></div><div class="box"><small>HT/FT</small><strong>${m.ht}</strong></div></div><div class="actions"><button onclick="toggleFav('${k}')">${fav.has(k)?'★ Favorit':'☆ Favorit'}</button><button onclick="alert('${m.a} vs ${m.b}\\nSkor: ${m.s}\\nHT/FT: ${m.ht}\\nOver 2.5: ${m.o}\\nUnder 2.5: ${m.u}')">Detail</button></div></div>`}).join('')}
+function toggleFav(k){fav.has(k)?fav.delete(k):fav.add(k);localStorage.setItem('fav',JSON.stringify([...fav]));render()}
+function focusSearch(){document.getElementById('search').focus()}
+let deferredPrompt;window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;document.getElementById('install').style.display='block'});
+document.getElementById('install').onclick=async()=>{if(deferredPrompt){deferredPrompt.prompt();await deferredPrompt.userChoice;deferredPrompt=null;document.getElementById('install').style.display='none'}};
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
+render();
+</script>
+</body></html>
