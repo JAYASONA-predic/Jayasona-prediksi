@@ -1,17 +1,1 @@
-{
-  "name": "JAYASONA PREDIKSI",
-  "short_name": "JAYASONA",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#07100c",
-  "theme_color": "#07100c",
-  "description": "Database dan pencarian pertandingan Virtual PES 21",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"JAYASONA PREDIKSI V3","short_name":"JAYASONA","start_url":".","display":"standalone","background_color":"#07100c","theme_color":"#07100c","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
