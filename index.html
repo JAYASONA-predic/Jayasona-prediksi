@@ -5,45 +5,136 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#07100c">
 <link rel="manifest" href="manifest.json">
-<title>JAYASONA PREDIKSI</title>
+<title>JAYASONA PREDIKSI V2</title>
 <style>
-*{box-sizing:border-box}body{margin:0;background:#050b08;color:#f5f7f5;font-family:Arial,sans-serif}
-.app{max-width:480px;margin:auto;min-height:100vh;background:#07100c}
+*{box-sizing:border-box}body{margin:0;background:#050b08;color:#f5f7f5;font-family:Arial,sans-serif}.app{max-width:480px;margin:auto;min-height:100vh;background:#07100c}
 header{padding:18px;background:#08110d;position:sticky;top:0;z-index:5}.brand{font-size:21px;font-weight:800}.brand b{color:#b7f34a}.tools{float:right;margin-top:-29px}.tool{background:#101c16;color:#d6e0d9;border:1px solid #293b31;border-radius:11px;padding:9px 12px;margin-left:5px}
-.hero{margin:10px 16px 14px;padding:25px 22px;border:1px solid #2b4234;border-radius:24px;background:linear-gradient(135deg,#101c16,#294528)}.hero small{color:#b7f34a}.hero h1{margin:8px 0 4px;font-size:26px}.hero p{margin:0;color:#91a097}
-.search{margin:0 16px 12px;width:calc(100% - 32px);padding:14px;border-radius:14px;border:1px solid #293b31;background:#0c1712;color:#fff;outline:none}
+.hero{margin:10px 16px 14px;padding:24px 22px;border:1px solid #2b4234;border-radius:24px;background:linear-gradient(135deg,#101c16,#294528)}.hero small{color:#b7f34a}.hero h1{margin:8px 0 4px;font-size:26px}.hero p{margin:0;color:#91a097}
+.search{margin:0 16px 8px;width:calc(100% - 32px);padding:14px;border-radius:14px;border:1px solid #293b31;background:#0c1712;color:#fff;outline:none}.search:focus{border-color:#b7f34a}
+.suggestions{margin:0 16px 10px;display:flex;gap:6px;overflow:auto}.suggestions button{white-space:nowrap;border:1px solid #293b31;background:#0c1712;color:#9ba89f;padding:7px 10px;border-radius:16px;font-size:11px}
 .tabs{display:flex;gap:8px;padding:0 16px 12px;overflow:auto}.tabs button{white-space:nowrap;border:1px solid #293b31;background:#0c1712;color:#9ba89f;padding:10px 14px;border-radius:20px}.tabs .active{background:#b7f34a;color:#071006;border-color:#b7f34a;font-weight:700}
-.section{padding:9px 18px;color:#b6c0ba;font-size:13px;font-weight:700}.card{margin:9px 16px;padding:0 13px 13px;border:1px solid #25382d;border-radius:19px;background:#0a1510}.top{padding:12px 2px;border-bottom:1px solid #203127;color:#849188;font-size:11px}.live{float:right;color:#ff5570;font-weight:bold}.teams{display:grid;grid-template-columns:1fr 52px 1fr;align-items:center;padding:17px 0 12px}.team{text-align:center;font-weight:700;font-size:13px}.crest{width:52px;height:52px;border-radius:50%;border:1px solid #385143;background:#06100b;display:grid;place-items:center;margin:auto auto 6px;color:#b7f34a;font-weight:800;overflow:hidden}.crest img{width:44px;height:44px;object-fit:contain;display:block}.crest.fallback{font-size:14px}.score{text-align:center;font-size:25px;font-weight:800}.mins{font-size:9px;color:#718078;margin-top:4px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}.box{background:#111f18;border:1px solid #1f3127;border-radius:10px;padding:9px 3px;text-align:center}.box small{display:block;color:#718078;font-size:8px;margin-bottom:4px}.box strong{font-size:13px}.actions{display:flex;gap:7px;margin-top:10px}.actions button{flex:1;background:#0d1813;color:#b8c2bb;border:1px solid #2a3d31;border-radius:10px;padding:9px;font-size:11px}.nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:min(480px,100%);display:grid;grid-template-columns:repeat(4,1fr);background:#07100cf5;border-top:1px solid #24362c;padding:8px;z-index:10}.nav button{background:none;border:0;color:#7a887f;font-size:10px}.nav .sel{color:#b7f34a}.spacer{height:72px}.install{display:none;margin:0 16px 12px;padding:11px;border-radius:12px;background:#b7f34a;color:#071006;border:0;width:calc(100% - 32px);font-weight:700}
+.section{padding:9px 18px;color:#b6c0ba;font-size:13px;font-weight:700}.count{float:right;color:#718078;font-weight:400}
+.card{margin:9px 16px;padding:0 13px 13px;border:1px solid #25382d;border-radius:19px;background:#0a1510}.top{padding:12px 2px;border-bottom:1px solid #203127;color:#849188;font-size:11px}.live{float:right;color:#ff5570;font-weight:bold}.statusNext{float:right;color:#b7f34a;font-weight:bold}
+.teams{display:grid;grid-template-columns:1fr 52px 1fr;align-items:center;padding:17px 0 12px}.team{text-align:center;font-weight:700;font-size:13px}.crest{width:52px;height:52px;border-radius:50%;border:1px solid #385143;background:#06100b;display:grid;place-items:center;margin:auto auto 6px;color:#b7f34a;font-weight:800;overflow:hidden}.crest img{width:44px;height:44px;object-fit:contain;display:block}.crest.fallback{font-size:14px}.score{text-align:center;font-size:25px;font-weight:800}.mins{font-size:9px;color:#718078;margin-top:4px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}.box{background:#111f18;border:1px solid #1f3127;border-radius:10px;padding:9px 3px;text-align:center}.box small{display:block;color:#718078;font-size:8px;margin-bottom:4px}.box strong{font-size:13px}
+.actions{display:flex;gap:7px;margin-top:10px}.actions button{flex:1;background:#0d1813;color:#b8c2bb;border:1px solid #2a3d31;border-radius:10px;padding:9px;font-size:11px}
+.empty{margin:18px 16px;padding:25px 15px;text-align:center;border:1px dashed #294034;border-radius:15px;color:#849188}.empty b{color:#b7f34a}
+.nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:min(480px,100%);display:grid;grid-template-columns:repeat(4,1fr);background:#07100cf5;border-top:1px solid #24362c;padding:8px;z-index:10}.nav button{background:none;border:0;color:#7a887f;font-size:10px}.nav .sel{color:#b7f34a}.spacer{height:72px}
+.install{display:none;margin:0 16px 12px;padding:11px;border-radius:12px;background:#b7f34a;color:#071006;border:0;width:calc(100% - 32px);font-weight:700}
+.modal{display:none;position:fixed;inset:0;background:#000b;z-index:20;align-items:flex-end}.modal.show{display:flex}.sheet{width:min(480px,100%);margin:auto 0 0;background:#0a1510;border:1px solid #294034;border-radius:22px 22px 0 0;padding:18px}.sheet h2{margin:0 0 5px;font-size:20px}.sheet p{color:#91a097;margin:5px 0 15px}.detailgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}.detailgrid div{background:#111f18;border:1px solid #203127;border-radius:10px;padding:10px}.detailgrid small{display:block;color:#718078;font-size:8px}.detailgrid b{display:block;margin-top:4px}.close{width:100%;margin-top:12px;padding:11px;border-radius:10px;border:1px solid #2a3d31;background:#0d1813;color:#dce4df}
 </style>
 </head>
 <body>
 <div class="app">
-<header><div class="brand">JAYASONA <b>PREDIKSI</b></div><div class="tools"><button class="tool" onclick="focusSearch()">⌕</button><button class="tool" onclick="alert('JAYASONA PREDIKSI\\nVersi HP 1.1 · Logo Klub')">☰</button></div></header>
-<div class="hero"><small>SABA CLUB FRIENDLY</small><h1>Virtual PES 21</h1><p>15 Minutes Play · Match Center</p></div>
+<header><div class="brand">JAYASONA <b>PREDIKSI</b></div><div class="tools"><button class="tool" onclick="focusSearch()">⌕</button><button class="tool" onclick="showMenu()">☰</button></div></header>
+<div class="hero"><small>SABA CLUB FRIENDLY</small><h1>Virtual PES 21</h1><p>15 Minutes Play · Match Center · Database V2</p></div>
 <button id="install" class="install">＋ Pasang JAYASONA PREDIKSI</button>
-<input id="search" class="search" placeholder="Cari klub..." oninput="render()">
-<div class="tabs"><button class="active" onclick="setTab('all',this)">Semua</button><button onclick="setTab('live',this)">🔴 Live</button><button onclick="setTab('next',this)">Mendatang</button><button onclick="setTab('fav',this)">⭐ Favorit</button></div>
-<div class="section">⚽ SABA CLUB FRIENDLY · PES 21</div><div id="list"></div><div class="spacer"></div>
-<nav class="nav"><button class="sel" onclick="setTab('all')">⌂<br>Home</button><button onclick="setTab('live')">◉<br>Live</button><button onclick="setTab('fav')">☆<br>Favorit</button><button onclick="alert('Menu JAYASONA PREDIKSI')">☰<br>Menu</button></nav>
+<input id="search" class="search" placeholder="Cari klub, contoh: Liverpool..." autocomplete="off" oninput="render()">
+<div id="suggestions" class="suggestions"></div>
+<div class="tabs">
+<button class="active" onclick="setTab('all',this)">Semua</button><button onclick="setTab('live',this)">🔴 Live</button><button onclick="setTab('next',this)">Mendatang</button><button onclick="setTab('fav',this)">⭐ Favorit</button>
 </div>
+<div class="section">⚽ SABA CLUB FRIENDLY · PES 21 <span id="count" class="count"></span></div>
+<div id="list"></div><div class="spacer"></div>
+<nav class="nav"><button class="sel" onclick="setTab('all')">⌂<br>Home</button><button onclick="setTab('live')">◉<br>Live</button><button onclick="setTab('fav')">☆<br>Favorit</button><button onclick="showMenu()">☰<br>Menu</button></nav>
+</div>
+
+<div id="modal" class="modal" onclick="if(event.target===this)closeModal()"><div class="sheet"><h2 id="modalTitle"></h2><p id="modalSub"></p><div id="modalGrid" class="detailgrid"></div><button class="close" onclick="closeModal()">Tutup</button></div></div>
+
 <script>
+const clubs={
+"Liverpool":"https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+"Everton":"https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+"Manchester City":"https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+"Lazio":"https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
+"Chelsea":"https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+"Bayern Munchen":"https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+"Real Madrid":"https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+"Manchester United":"https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+"Arsenal":"https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+"Olympique Marseille":"https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+"Inter Milan":"https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+"Getafe":"https://images.fotmob.com/image_resources/logo/teamlogo/8661.png"
+};
+
 const data=[
-{t:'23:15 WIB',a:'Liverpool',la:'https://images.fotmob.com/image_resources/logo/teamlogo/8650.png',b:'Everton',lb:'https://images.fotmob.com/image_resources/logo/teamlogo/8668.png',s:'0 - 0',o:'42%',u:'58%',ht:'0-0',live:true},
-{t:'23:30 WIB',a:'Manchester City',la:'https://images.fotmob.com/image_resources/logo/teamlogo/8456.png',b:'Lazio',lb:'https://images.fotmob.com/image_resources/logo/teamlogo/8543.png',s:'— - —',o:'42%',u:'58%',ht:'2-1',live:false},
-{t:'23:45 WIB',a:'Chelsea',la:'https://images.fotmob.com/image_resources/logo/teamlogo/8455.png',b:'Bayern Munchen',lb:'https://images.fotmob.com/image_resources/logo/teamlogo/9823.png',s:'— - —',o:'58%',u:'42%',ht:'1-2',live:false},
-{t:'00:00 WIB',a:'Real Madrid',la:'https://images.fotmob.com/image_resources/logo/teamlogo/8633.png',b:'Manchester United',lb:'https://images.fotmob.com/image_resources/logo/teamlogo/10260.png',s:'— - —',o:'55%',u:'45%',ht:'2-1',live:false},
-{t:'00:15 WIB',a:'Arsenal',la:'https://images.fotmob.com/image_resources/logo/teamlogo/9825.png',b:'Olympique Marseille',lb:'https://images.fotmob.com/image_resources/logo/teamlogo/8592.png',s:'— - —',o:'55%',u:'45%',ht:'2-0',live:false},
-{t:'00:30 WIB',a:'Inter Milan',la:'https://images.fotmob.com/image_resources/logo/teamlogo/8636.png',b:'Getafe',lb:'https://images.fotmob.com/image_resources/logo/teamlogo/8661.png',s:'— - —',o:'39%',u:'61%',ht:'1-0',live:false}
+{id:1,t:'23:15 WIB',a:'Liverpool',b:'Everton',s:'0 - 0',o:'42%',u:'58%',ht:'0-0',live:true,home:'—',draw:'—',away:'—'},
+{id:2,t:'23:30 WIB',a:'Manchester City',b:'Lazio',s:'— - —',o:'42%',u:'58%',ht:'—',live:false,home:'—',draw:'—',away:'—'},
+{id:3,t:'23:45 WIB',a:'Chelsea',b:'Bayern Munchen',s:'— - —',o:'58%',u:'42%',ht:'—',live:false,home:'—',draw:'—',away:'—'},
+{id:4,t:'00:00 WIB',a:'Real Madrid',b:'Manchester United',s:'— - —',o:'55%',u:'45%',ht:'—',live:false,home:'—',draw:'—',away:'—'},
+{id:5,t:'00:15 WIB',a:'Arsenal',b:'Olympique Marseille',s:'— - —',o:'55%',u:'45%',ht:'—',live:false,home:'—',draw:'—',away:'—'},
+{id:6,t:'00:30 WIB',a:'Inter Milan',b:'Getafe',s:'— - —',o:'39%',u:'61%',ht:'—',live:false,home:'—',draw:'—',away:'—'}
 ];
-let tab='all',fav=new Set(JSON.parse(localStorage.getItem('fav')||'[]'));
+
+let tab='all';
+let fav=new Set(JSON.parse(localStorage.getItem('jayasona_fav_v2')||'[]'));
+
 function ini(x){return x.split(' ').map(v=>v[0]).join('').slice(0,3).toUpperCase()}
-function setTab(x,el){tab=x;document.querySelectorAll('.tabs button').forEach(b=>b.classList.remove('active'));if(el)el.classList.add('active');render()}
-function render(){let q=document.getElementById('search').value.toLowerCase();let arr=data.filter(m=>(tab==='all'||(tab==='live'&&m.live)||(tab==='next'&&!m.live)||(tab==='fav'&&fav.has(m.a+'|'+m.b)))&&(m.a+' '+m.b).toLowerCase().includes(q));document.getElementById('list').innerHTML=arr.map(m=>{let k=m.a+'|'+m.b;return `<div class="card"><div class="top">${m.t}<span class="live">${m.live?'● LIVE':''}</span></div><div class="teams"><div class="team"><div class="crest"><img src="${m.la}" alt="${m.a}" onerror="this.style.display='none';this.parentElement.classList.add('fallback');this.parentElement.append(document.createTextNode(ini(m.a)))"></div>${m.a}</div><div class="score">${m.s}<div class="mins">15 MIN</div></div><div class="team"><div class="crest"><img src="${m.lb}" alt="${m.b}" onerror="this.style.display='none';this.parentElement.classList.add('fallback');this.parentElement.append(document.createTextNode(ini(m.b)))"></div>${m.b}</div></div><div class="grid"><div class="box"><small>HOME</small><strong>—</strong></div><div class="box"><small>DRAW</small><strong>—</strong></div><div class="box"><small>AWAY</small><strong>—</strong></div><div class="box"><small>OVER 2.5</small><strong>${m.o}</strong></div><div class="box"><small>UNDER 2.5</small><strong>${m.u}</strong></div><div class="box"><small>HT/FT</small><strong>${m.ht}</strong></div></div><div class="actions"><button onclick="toggleFav('${k}')">${fav.has(k)?'★ Favorit':'☆ Favorit'}</button><button onclick="alert('${m.a} vs ${m.b}\\nSkor: ${m.s}\\nHT/FT: ${m.ht}\\nOver 2.5: ${m.o}\\nUnder 2.5: ${m.u}')">Detail</button></div></div>`}).join('')}
-function toggleFav(k){fav.has(k)?fav.delete(k):fav.add(k);localStorage.setItem('fav',JSON.stringify([...fav]));render()}
-function focusSearch(){document.getElementById('search').focus()}
-let deferredPrompt;window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;document.getElementById('install').style.display='block'});
+function norm(x){return x.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')}
+function setTab(x,el){
+ tab=x;
+ document.querySelectorAll('.tabs button').forEach(b=>b.classList.remove('active'));
+ if(el)el.classList.add('active');
+ render();
+}
+function toggleFav(id){
+ fav.has(id)?fav.delete(id):fav.add(id);
+ localStorage.setItem('jayasona_fav_v2',JSON.stringify([...fav]));
+ render();
+}
+function focusSearch(){document.getElementById('search').focus();window.scrollTo({top:0,behavior:'smooth'})}
+function render(){
+ const q=norm(document.getElementById('search').value.trim());
+ const arr=data.filter(m=>{
+   const search=norm(m.a+' '+m.b);
+   const tabok=tab==='all'||(tab==='live'&&m.live)||(tab==='next'&&!m.live)||(tab==='fav'&&fav.has(m.id));
+   return tabok && search.includes(q);
+ });
+ document.getElementById('count').textContent=arr.length+' pertandingan';
+ renderSuggestions(q);
+ document.getElementById('list').innerHTML=arr.length?arr.map(card).join(''):`<div class="empty">Tidak ada pertandingan untuk pencarian <b>${escapeHtml(q||'ini')}</b>.<br><br>Coba nama klub lain.</div>`;
+}
+function renderSuggestions(q){
+ const names=Object.keys(clubs).filter(n=>!q||norm(n).includes(q)).slice(0,6);
+ document.getElementById('suggestions').innerHTML=names.map(n=>`<button onclick="chooseClub('${n.replace(/'/g,"\\'")}')">⚽ ${n}</button>`).join('');
+}
+function chooseClub(n){document.getElementById('search').value=n;render()}
+function card(m){
+ const k=m.id;
+ return `<div class="card">
+ <div class="top">${m.t}<span class="${m.live?'live':'statusNext'}">${m.live?'● LIVE':'MENDATANG'}</span></div>
+ <div class="teams">
+  <div class="team"><div class="crest"><img src="${clubs[m.a]}" alt="${escapeHtml(m.a)}" onerror="fallbackLogo(this,'${ini(m.a)}')"></div>${m.a}</div>
+  <div class="score">${m.s}<div class="mins">15 MIN</div></div>
+  <div class="team"><div class="crest"><img src="${clubs[m.b]}" alt="${escapeHtml(m.b)}" onerror="fallbackLogo(this,'${ini(m.b)}')"></div>${m.b}</div>
+ </div>
+ <div class="grid">
+  <div class="box"><small>HOME</small><strong>${m.home}</strong></div><div class="box"><small>DRAW</small><strong>${m.draw}</strong></div><div class="box"><small>AWAY</small><strong>${m.away}</strong></div>
+  <div class="box"><small>OVER 2.5</small><strong>${m.o}</strong></div><div class="box"><small>UNDER 2.5</small><strong>${m.u}</strong></div><div class="box"><small>HT / FT</small><strong>${m.ht}</strong></div>
+ </div>
+ <div class="actions"><button onclick="toggleFav(${k})">${fav.has(k)?'★ Favorit':'☆ Favorit'}</button><button onclick="openDetail(${k})">Detail pertandingan</button></div>
+ </div>`;
+}
+function fallbackLogo(img,text){img.style.display='none';img.parentElement.classList.add('fallback');img.parentElement.append(document.createTextNode(text))}
+function openDetail(id){
+ const m=data.find(x=>x.id===id);if(!m)return;
+ document.getElementById('modalTitle').textContent=m.a+' vs '+m.b;
+ document.getElementById('modalSub').textContent=m.t+' · '+(m.live?'LIVE':'Mendatang')+' · SABA CLUB FRIENDLY';
+ document.getElementById('modalGrid').innerHTML=`
+ <div><small>SKOR</small><b>${m.s}</b></div><div><small>HT / FT</small><b>${m.ht}</b></div>
+ <div><small>HOME</small><b>${m.home}</b></div><div><small>DRAW</small><b>${m.draw}</b></div>
+ <div><small>AWAY</small><b>${m.away}</b></div><div><small>OVER 2.5</small><b>${m.o}</b></div>
+ <div><small>UNDER 2.5</small><b>${m.u}</b></div><div><small>FORMAT</small><b>15 MIN</b></div>`;
+ document.getElementById('modal').classList.add('show');
+}
+function closeModal(){document.getElementById('modal').classList.remove('show')}
+function showMenu(){alert('JAYASONA PREDIKSI V2\\n\\nDatabase & Pencarian Klub\\n• Pencarian nama klub\\n• Saran klub otomatis\\n• Favorit tersimpan\\n• Detail pertandingan\\n• Filter Live & Mendatang')}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+
+let deferredPrompt;
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;document.getElementById('install').style.display='block'});
 document.getElementById('install').onclick=async()=>{if(deferredPrompt){deferredPrompt.prompt();await deferredPrompt.userChoice;deferredPrompt=null;document.getElementById('install').style.display='none'}};
-if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
 render();
 </script>
 </body></html>
