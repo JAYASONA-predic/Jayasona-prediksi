@@ -1,6 +1,6 @@
 {
   "version": "3.1.1",
-  "updated_at": "2026-09-02T23:49:55+00:00",
+  "updated_at": "2026-09-03T00:14:42+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 835,
   "matches": [
@@ -3299,6 +3299,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "982ed702b1b14e44",
+      "league": "CHILE PRIMERA DIVISION",
+      "kickoff": "Sep 3 2026 8:30AM",
+      "home": "Deportes Limache",
+      "away": "Nublense",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "96e58d7f026440c2",
       "league": "CHILE PRIMERA DIVISION",
       "kickoff": "Sep 3 2026 6:00AM",
@@ -3308,19 +3319,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "982ed702b1b14e44",
-      "league": "CHILE PRIMERA DIVISION",
-      "kickoff": "Sep 3 2026 8:30AM",
-      "home": "Deportes Limache",
-      "away": "Nublense",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -3518,7 +3521,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "CA Colegiales",
       "away": "CA Ferrocarril Midland",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3529,7 +3535,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Atenas de San Carlos (N)",
       "away": "Penarol",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3605,7 +3614,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Charleston Battery",
       "away": "Hartford Athletic",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3622,20 +3634,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e2c58de0ecebc852",
-      "league": "CONCACAF CARIBBEAN CUP",
-      "kickoff": "Sep 3 2026 6:00AM",
-      "home": "SV Broki",
-      "away": "Delfines Del Este",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "80e6e4d8d03dd70a",
       "league": "CONCACAF CARIBBEAN CUP",
       "kickoff": "Sep 3 2026 8:00AM",
@@ -3647,12 +3645,32 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "e2c58de0ecebc852",
+      "league": "CONCACAF CARIBBEAN CUP",
+      "kickoff": "Sep 3 2026 6:00AM",
+      "home": "SV Broki",
+      "away": "Delfines Del Este",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "6ba10dbb559be46c",
       "league": "UNITED SOCCER LEAGUE ONE",
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Westchester SC",
       "away": "Chattanooga Red Wolves",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3707,7 +3725,10 @@
       "kickoff": "Sep 3 2026 7:00AM",
       "home": "Caracas FC",
       "away": "Portuguesa FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -3889,8 +3910,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -3903,8 +3927,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -3917,8 +3944,11 @@
         0,
         0
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -3931,8 +3961,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7711,8 +7744,11 @@
         0,
         2
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7721,9 +7757,15 @@
       "kickoff": "Sep 3 2026 7:30AM",
       "home": "Uruguay (V)",
       "away": "Portugal (V)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -7732,7 +7774,10 @@
       "kickoff": "Sep 3 2026 7:45AM",
       "home": "Hungary (V)",
       "away": "Tunisia (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -7743,7 +7788,10 @@
       "kickoff": "Sep 3 2026 7:45AM",
       "home": "Argentina (V)",
       "away": "England (V)",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13602,8 +13650,11 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13616,8 +13667,11 @@
         1,
         1
       ],
-      "ft": null,
-      "status": "Running",
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13626,9 +13680,15 @@
       "kickoff": "Sep 3 2026 7:45AM",
       "home": "Juventus (V)",
       "away": "Sevilla (V)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -13637,7 +13697,10 @@
       "kickoff": "Sep 3 2026 7:45AM",
       "home": "AS Monaco (V)",
       "away": "Manchester City (V)",
-      "ht": null,
+      "ht": [
+        0,
+        4
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -13648,7 +13711,10 @@
       "kickoff": "Sep 3 2026 8:00AM",
       "home": "Everton (V)",
       "away": "FC Koln (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
