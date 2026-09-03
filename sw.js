@@ -1,4 +1,4 @@
-const CACHE="jayasona-v3.2.1";
+const CACHE="jayasona-v3.2.3";
 self.addEventListener("install",e=>self.skipWaiting());
 self.addEventListener("activate",e=>e.waitUntil(self.clients.claim()));
 self.addEventListener("fetch",e=>{

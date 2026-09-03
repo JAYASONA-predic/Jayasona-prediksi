@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-JAYASONA PREDIKSI V3.1.1
+JAYASONA PREDIKSI V3.2.3
 Synchronize football results from MBox888 Result.aspx.
 
 Important:
@@ -246,16 +246,68 @@ def load_existing() -> dict:
         return {}
 
 
+
+def team_name_is_real(name: str) -> bool:
+    n = clean(str(name or "")).lower()
+    if not n or n in {"test 1", "test 2", "test home", "test away"}:
+        return False
+    return not re.match(r"^test(?:\s|$)", n)
+
 def save_data(matches: list[dict], existing: dict):
+    """Merge fresh MBox rows with the completed archive.
+
+    The source page can rotate old results out. We therefore keep completed
+    matches already stored locally, while replacing the live/upcoming list
+    with the newest fetch. This is what makes the browser-side 10-match and
+    H2H model actually accumulate usable history across scheduled runs.
+    """
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    old = existing.get("matches", []) if isinstance(existing, dict) else []
+    old_by_id = {str(m.get("id")): m for m in old if m.get("id")}
+
+    # Never let test/fixture rows enter production data.
+    matches = [m for m in matches
+               if str(m.get("league", "")).strip().upper() != "TEST (NO BET)"
+               and team_name_is_real(m.get("home", ""))
+               and team_name_is_real(m.get("away", ""))]
+
+    fresh_by_id = {str(m.get("id")): m for m in matches if m.get("id")}
+
+    # Keep every known completed result unless a newer version of that exact
+    # match arrives. Do NOT keep stale live/upcoming rows that disappeared
+    # from the source page.
+    merged = {}
+    for mid, item in old_by_id.items():
+        status = str(item.get("status", "")).lower()
+        if status == "completed" or item.get("ft"):
+            merged[mid] = item
+    merged.update(fresh_by_id)
+
+    # Keep the archive bounded so data.json never grows without limit.
+    completed = [m for m in merged.values()
+                 if str(m.get("status", "")).lower() == "completed" or m.get("ft")]
+    active = [m for m in fresh_by_id.values()
+              if not (str(m.get("status", "")).lower() == "completed" or m.get("ft"))]
+
+    def kickoff_key(m):
+        try:
+            return datetime.strptime(str(m.get("kickoff", "")), "%b %d %Y %I:%M%p")
+        except ValueError:
+            return datetime.min
+
+    completed.sort(key=kickoff_key, reverse=True)
+    completed = completed[:3000]
+    active.sort(key=kickoff_key)
+    final_matches = completed + active
+
     payload = {
-        "version": "3.1.1",
+        "version": "3.2.3",
         "updated_at": now,
         "source": SOURCE_URL,
-        "count": len(matches),
-        "matches": matches,
+        "count": len(final_matches),
+        "archive_count": len(completed),
+        "matches": final_matches,
     }
-    # Keep useful metadata if it exists.
     if isinstance(existing, dict) and existing.get("version"):
         payload["previous_version"] = existing.get("version")
     DATA_FILE.write_text(
