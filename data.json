@@ -1,9 +1,9 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-04T04:51:54+00:00",
+  "updated_at": "2026-09-04T05:08:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 1824,
-  "archive_count": 1600,
+  "count": 1825,
+  "archive_count": 1602,
   "matches": [
     {
       "id": "ee1568c786f8d94b",
@@ -121,6 +121,17 @@
         1,
         1
       ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "650606614dfbcb79",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 4 2026 12:15PM",
+      "home": "Manchester City (V)",
+      "away": "Lille OSC (V)",
+      "ht": null,
+      "ft": null,
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -358,6 +369,23 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5d7ced14b2419cd6",
+      "league": "BOG TOURNAMENT (IN FIJI)",
+      "kickoff": "Sep 4 2026 11:00AM",
+      "home": "Labasa FC",
+      "away": "Nasinu FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -27137,31 +27165,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5d7ced14b2419cd6",
-      "league": "BOG TOURNAMENT (IN FIJI)",
-      "kickoff": "Sep 4 2026 11:00AM",
-      "home": "Labasa FC",
-      "away": "Nasinu FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "650606614dfbcb79",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 4 2026 12:15PM",
-      "home": "Manchester City (V)",
-      "away": "Lille OSC (V)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d64cd42db9cf2e0f",
       "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
       "kickoff": "Sep 4 2026 12:30PM",
@@ -27303,6 +27306,17 @@
       "kickoff": "Sep 4 2026 12:45PM",
       "home": "Arminia Bielefeld (V)",
       "away": "Liverpool (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "89d6b8fabcb5951e",
+      "league": "BOG TOURNAMENT (IN FIJI)",
+      "kickoff": "Sep 4 2026 1:00PM",
+      "home": "Rewa FC",
+      "away": "Lautoka",
       "ht": null,
       "ft": null,
       "status": "Running",
