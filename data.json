@@ -1,9 +1,9 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-04T17:23:20+00:00",
+  "updated_at": "2026-09-04T17:36:22+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 2334,
-  "archive_count": 2068,
+  "count": 2344,
+  "archive_count": 2072,
   "matches": [
     {
       "id": "99a8389a1acf0fad",
@@ -13,6 +13,57 @@
       "away": "Deportivo Toluca",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2486edf75c121cbd",
+      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:00AM",
+      "home": "Romania (V)",
+      "away": "Saudi Arabia (V)",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4d390eedf908999d",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:00AM",
+      "home": "Girondins de Bordeaux (V)",
+      "away": "Olympique Lyonnais (V)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "774bdd85cb663ff9",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:00AM",
+      "home": "Manchester City (V)",
+      "away": "Real Sociedad (V)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -556,6 +607,23 @@
       "ft": [
         1,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a0bfb1397d069630",
+      "league": "KUWAIT PREMIER LEAGUE",
+      "kickoff": "Sep 4 2026 11:35PM",
+      "home": "Al Qadsia (KUW)",
+      "away": "Al Naser (KUW)",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35083,20 +35151,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a0bfb1397d069630",
-      "league": "KUWAIT PREMIER LEAGUE",
-      "kickoff": "Sep 4 2026 11:35PM",
-      "home": "Al Qadsia (KUW)",
-      "away": "Al Naser (KUW)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "75761d307539ea88",
       "league": "DENMARK 1ST DIVISION",
       "kickoff": "Sep 5 2026 12:00AM",
@@ -35618,7 +35672,10 @@
       "kickoff": "Sep 5 2026 12:30AM",
       "home": "Hannover 96",
       "away": "Karlsruher SC",
-      "ht": null,
+      "ht": [
+        3,
+        5
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35699,7 +35756,10 @@
       "kickoff": "Sep 5 2026 12:30AM",
       "home": "Egnatia Rrogozhine",
       "away": "KS Skenderbeu Korce",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36236,54 +36296,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2486edf75c121cbd",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:00AM",
-      "home": "Romania (V)",
-      "away": "Saudi Arabia (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4d390eedf908999d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:00AM",
-      "home": "Girondins de Bordeaux (V)",
-      "away": "Olympique Lyonnais (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "774bdd85cb663ff9",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:00AM",
-      "home": "Manchester City (V)",
-      "away": "Real Sociedad (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "072abac932045240",
       "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
       "kickoff": "Sep 5 2026 1:15AM",
       "home": "Spain (V)",
       "away": "Senegal (V)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36294,7 +36315,10 @@
       "kickoff": "Sep 5 2026 1:15AM",
       "home": "USA (V)",
       "away": "Greece (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36305,7 +36329,10 @@
       "kickoff": "Sep 5 2026 1:15AM",
       "home": "Chelsea (V)",
       "away": "Everton (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36316,7 +36343,10 @@
       "kickoff": "Sep 5 2026 1:15AM",
       "home": "Juventus (V)",
       "away": "Getafe CF (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36795,6 +36825,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "cc1a2086c8319333",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Ragsveds IF",
+      "away": "IFK Haninge",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0548b9facfa9dfc6",
+      "league": "ITALY CAMPIONATO PRIMAVERA 2 U19",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Pisa U19",
+      "away": "Perugia U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "757440fb0f326181",
       "league": "ENGLISH WOMEN SUPER LEAGUE",
       "kickoff": "Sep 5 2026 2:00AM",
@@ -36806,11 +36858,66 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "077ce36207aed932",
+      "league": "BELGIUM PRO LEAGUE U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "RFC Seraing U21",
+      "away": "RAAL La Louviere U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5b4f3d6f8036a215",
+      "league": "BELGIUM PRO LEAGUE U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "RWDM Brussels U21",
+      "away": "Sporting Hasselt U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "715295a3bab81cc3",
       "league": "PERU LIGA 1",
       "kickoff": "Sep 5 2026 2:00AM",
       "home": "FC Cajamarca",
       "away": "Cienciano",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "da40d5473dcd37d9",
+      "league": "ARGENTINA PRIMERA C",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Yupanqui",
+      "away": "Leones de Rosario",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "319248d0c26e4afd",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "XV de Piracicaba SP U20",
+      "away": "Ibrachina FC SP U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6cb223fad0de2606",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Portuguesa Santista SP U20",
+      "away": "Santos SP U20",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -37807,6 +37914,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "a08ffd1634c6f19c",
+      "league": "COLOMBIA WOMEN LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 5 2026 5:00AM",
+      "home": "Deportivo Cali (w)",
+      "away": "Orsomarso SC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "7e29a4400b269441",
       "league": "BOLIVIA PROFESSIONAL FOOTBALL LEAGUE",
       "kickoff": "Sep 5 2026 5:15AM",
@@ -38071,11 +38189,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "614ffc028c428fee",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 5 2026 9:30AM",
+      "home": "Utah Royals FC (w)",
+      "away": "Boston Legacy FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "5e6cb1f32c501112",
       "league": "COSTA RICA PRIMERA DIVISION",
       "kickoff": "Sep 5 2026 10:00AM",
       "home": "Escorpiones Belen",
       "away": "Inter de San Carlos",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "707c0409a25f6446",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 5 2026 10:00AM",
+      "home": "Bay FC (w)",
+      "away": "Kansas City Current (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
