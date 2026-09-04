@@ -1,9 +1,9 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-04T17:36:22+00:00",
+  "updated_at": "2026-09-04T17:50:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 2344,
-  "archive_count": 2072,
+  "count": 2352,
+  "archive_count": 2079,
   "matches": [
     {
       "id": "99a8389a1acf0fad",
@@ -13,6 +13,74 @@
       "away": "Deportivo Toluca",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "072abac932045240",
+      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:15AM",
+      "home": "Spain (V)",
+      "away": "Senegal (V)",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d808c8d4e6f6a787",
+      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:15AM",
+      "home": "USA (V)",
+      "away": "Greece (V)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c9fcbe5b63a28461",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:15AM",
+      "home": "Chelsea (V)",
+      "away": "Everton (V)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1cd5f91bf06662e5",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:15AM",
+      "home": "Juventus (V)",
+      "away": "Getafe CF (V)",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -63,6 +131,23 @@
       "ft": [
         1,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ea8e1dcaaaa586e7",
+      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
+      "kickoff": "Sep 5 2026 1:00AM",
+      "home": "Norway (V)",
+      "away": "Croatia (V)",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        2,
+        4
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -504,6 +589,40 @@
       ],
       "ft": [
         1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b1604aab56a2b251",
+      "league": "SLOVAKIA 2ND DIVISION",
+      "kickoff": "Sep 5 2026 12:00AM",
+      "home": "Tatran Liptovsky Mikulas",
+      "away": "Inter Bratislava",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": [
+        3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f96836bb2cb4972c",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Sep 5 2026 12:00AM",
+      "home": "PPJ Helsinki",
+      "away": "FC Kiffen",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        4,
         1
       ],
       "status": "Completed",
@@ -35305,20 +35424,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b1604aab56a2b251",
-      "league": "SLOVAKIA 2ND DIVISION",
-      "kickoff": "Sep 5 2026 12:00AM",
-      "home": "Tatran Liptovsky Mikulas",
-      "away": "Inter Bratislava",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d045dbee3eacf19a",
       "league": "ALGERIA 1ST DIVISION",
       "kickoff": "Sep 5 2026 12:00AM",
@@ -35397,20 +35502,6 @@
       "ht": [
         0,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f96836bb2cb4972c",
-      "league": "FINLAND KAKKONEN (PLAY OFF)",
-      "kickoff": "Sep 5 2026 12:00AM",
-      "home": "PPJ Helsinki",
-      "away": "FC Kiffen",
-      "ht": [
-        2,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -35891,7 +35982,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "Fredrikstad",
       "away": "Bodo Glimt",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35902,7 +35996,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "Viborg FF",
       "away": "Lyngby BK",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35913,7 +36010,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "Istanbul Basaksehir",
       "away": "Galatasaray",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35946,7 +36046,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "HB Koge",
       "away": "Hillerod",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35957,7 +36060,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "Ingolstadt 04",
       "away": "Alemannia Aachen",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35968,7 +36074,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "FC Rosengard 1917",
       "away": "Laholms FK",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -35990,7 +36099,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "FC Slavia Mozyr",
       "away": "FK Vitebsk",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36001,7 +36113,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "Floridsdorfer AC",
       "away": "SW Bregenz",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36034,7 +36149,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "AS Port (n)",
       "away": "El Zamalek",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36056,7 +36174,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "Landvetter IS",
       "away": "IK Kongahalla",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36067,7 +36188,10 @@
       "kickoff": "Sep 5 2026 1:00AM",
       "home": "B.93",
       "away": "Naestved",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36282,71 +36406,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ea8e1dcaaaa586e7",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:00AM",
-      "home": "Norway (V)",
-      "away": "Croatia (V)",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "072abac932045240",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:15AM",
-      "home": "Spain (V)",
-      "away": "Senegal (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d808c8d4e6f6a787",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:15AM",
-      "home": "USA (V)",
-      "away": "Greece (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c9fcbe5b63a28461",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:15AM",
-      "home": "Chelsea (V)",
-      "away": "Everton (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1cd5f91bf06662e5",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 5 2026 1:15AM",
-      "home": "Juventus (V)",
-      "away": "Getafe CF (V)",
-      "ht": [
-        2,
-        0
-      ],
+      "id": "7b41b80fe24ac1eb",
+      "league": "AUSTRIA REGIONAL LEAGUE SOUTH",
+      "kickoff": "Sep 5 2026 1:22AM",
+      "home": "SV Allerheiligen",
+      "away": "SV Tillmitsch",
+      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36544,7 +36609,10 @@
       "kickoff": "Sep 5 2026 1:30AM",
       "home": "Austria (V)",
       "away": "Russia (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36555,7 +36623,10 @@
       "kickoff": "Sep 5 2026 1:30AM",
       "home": "Iraq (V)",
       "away": "North Korea (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36566,7 +36637,10 @@
       "kickoff": "Sep 5 2026 1:30AM",
       "home": "AS Monaco (V)",
       "away": "Lazio (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36577,7 +36651,10 @@
       "kickoff": "Sep 5 2026 1:30AM",
       "home": "Liverpool (V)",
       "away": "Sevilla (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -36819,6 +36896,83 @@
       "kickoff": "Sep 5 2026 2:00AM",
       "home": "Al Ahli Jeddah",
       "away": "Al Riyadh",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8fcf180b4c18f4ca",
+      "league": "ENGLISH PREMIER LEAGUE CUP U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "West Ham United U21",
+      "away": "Brighton & Hove Albion U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "245bbc909dd2b052",
+      "league": "ENGLISH PREMIER LEAGUE CUP U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Leicester City U21",
+      "away": "AFC Bournemouth U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cc894b27e22a815f",
+      "league": "ENGLISH PREMIER LEAGUE CUP U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Bolton Wanderers U21",
+      "away": "Southampton U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "88fe659f7922d300",
+      "league": "ENGLISH PREMIER LEAGUE CUP U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Coventry City U21",
+      "away": "West Bromwich Albion U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0fe231d1b9a2a877",
+      "league": "ENGLISH PREMIER LEAGUE CUP U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Charlton Athletic U21",
+      "away": "Leeds United U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6aa8bb0ae6b20e45",
+      "league": "ENGLISH PREMIER LEAGUE CUP U21",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "Stockport County U21",
+      "away": "Stoke City U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c81727c6f508dde8",
+      "league": "CAF CHAMPIONS LEAGUE QUALIFIERS",
+      "kickoff": "Sep 5 2026 2:00AM",
+      "home": "JS Saoura (n)",
+      "away": "Horoya AC",
       "ht": null,
       "ft": null,
       "status": "Running",
