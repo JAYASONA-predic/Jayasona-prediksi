@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-07T04:09:13+00:00",
+  "updated_at": "2026-09-07T04:26:54+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3128,
+  "count": 3132,
   "archive_count": 3000,
   "matches": [
     {
@@ -50663,7 +50663,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Colombia (V)",
       "away": "Serbia (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50674,7 +50677,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Tunisia (V)",
       "away": "Hungary (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50685,7 +50691,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Belgium (V)",
       "away": "Scotland (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50696,7 +50705,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Romania (V)",
       "away": "Ghana (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50707,7 +50719,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "AS Roma (V)",
       "away": "Torino (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50718,7 +50733,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Bayern Munchen (V)",
       "away": "Udinese (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50740,7 +50758,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Getafe CF (V)",
       "away": "Tottenham Hotspur (V)",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50751,7 +50772,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Lazio (V)",
       "away": "Arminia Bielefeld (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50762,7 +50786,10 @@
       "kickoff": "Sep 7 2026 12:00PM",
       "home": "Leicester City (V)",
       "away": "FSV Mainz 05 (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51417,6 +51444,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "0400f611a0003096",
+      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 8 2026 12:30AM",
+      "home": "Cagliari",
+      "away": "Lecce",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "9a5a6675fbb8e006",
       "league": "RUSSIA PREMIER LEAGUE",
       "kickoff": "Sep 8 2026 12:30AM",
@@ -51463,6 +51501,17 @@
     {
       "id": "5a24d9f1a486ecfc",
       "league": "*SPAIN PRIMERA LALIGA - CORNERS",
+      "kickoff": "Sep 8 2026 1:00AM",
+      "home": "Getafe CF",
+      "away": "Celta Vigo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a68b989aad69dee8",
+      "league": "*SPAIN PRIMERA LALIGA - TOTAL GOALS MINUTES",
       "kickoff": "Sep 8 2026 1:00AM",
       "home": "Getafe CF",
       "away": "Celta Vigo",
@@ -51802,6 +51851,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "5ba9c896e603a8d4",
+      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 8 2026 2:45AM",
+      "home": "Udinese",
+      "away": "Lazio",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "3a4eeac0c1d319af",
       "league": "FRANCE LIGUE 2",
       "kickoff": "Sep 8 2026 2:45AM",
@@ -51881,6 +51941,17 @@
     {
       "id": "be85aea423ca06aa",
       "league": "*SPAIN PRIMERA LALIGA - CORNERS",
+      "kickoff": "Sep 8 2026 3:30AM",
+      "home": "Elche",
+      "away": "Real Sociedad",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "537b5956e3b3bffd",
+      "league": "*SPAIN PRIMERA LALIGA - TOTAL GOALS MINUTES",
       "kickoff": "Sep 8 2026 3:30AM",
       "home": "Elche",
       "away": "Real Sociedad",
