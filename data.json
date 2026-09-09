@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-09T04:09:14+00:00",
+  "updated_at": "2026-09-09T04:27:05+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3156,
+  "count": 3154,
   "archive_count": 3000,
   "matches": [
     {
@@ -50801,7 +50801,10 @@
       "kickoff": "Sep 9 2026 12:00PM",
       "home": "Egypt (V)",
       "away": "Costa Rica (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50812,7 +50815,10 @@
       "kickoff": "Sep 9 2026 12:00PM",
       "home": "Tunisia (V)",
       "away": "Ukraine (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50823,7 +50829,10 @@
       "kickoff": "Sep 9 2026 12:00PM",
       "home": "Morocco (V)",
       "away": "Ukraine (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50834,7 +50843,10 @@
       "kickoff": "Sep 9 2026 12:00PM",
       "home": "Sweden (V)",
       "away": "Mexico (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50845,7 +50857,10 @@
       "kickoff": "Sep 9 2026 12:00PM",
       "home": "Atletico de Madrid (V)",
       "away": "Manchester United (V)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50856,7 +50871,10 @@
       "kickoff": "Sep 9 2026 12:00PM",
       "home": "Everton (V)",
       "away": "Lille OSC (V)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50900,7 +50918,10 @@
       "kickoff": "Sep 9 2026 12:15PM",
       "home": "SHB Da Nang FC (V)",
       "away": "Binh Dinh (V)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51318,28 +51339,6 @@
       "kickoff": "Sep 9 2026 8:00PM",
       "home": "CD Santa Clara U23",
       "away": "SC Farense U23",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2ae7f55d7fcb9df5",
-      "league": "COPA LIBERTADORES",
-      "kickoff": "Sep 9 2026 8:00PM",
-      "home": "Palmeiras SP",
-      "away": "LDU Quito",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "73ab1f24dc866863",
-      "league": "COPA LIBERTADORES",
-      "kickoff": "Sep 9 2026 8:00PM",
-      "home": "Estudiantes La Plata",
-      "away": "Corinthians SP",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52226,11 +52225,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "1dc24372de2286b6",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 10 2026 7:30AM",
+      "home": "Atlanta United FC",
+      "away": "Orlando City SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ca1c7d35a1bc8e63",
       "league": "USA MAJOR LEAGUE SOCCER",
       "kickoff": "Sep 10 2026 7:30AM",
       "home": "CF Montreal",
       "away": "Charlotte FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a01b03d006dd477e",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 10 2026 7:30AM",
+      "home": "D.C. United",
+      "away": "Columbus Crew",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52253,28 +52274,6 @@
       "kickoff": "Sep 10 2026 7:30AM",
       "home": "Philadelphia Union",
       "away": "FC Cincinnati",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1dc24372de2286b6",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 10 2026 7:30AM",
-      "home": "Atlanta United FC",
-      "away": "Orlando City SC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a01b03d006dd477e",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 10 2026 7:30AM",
-      "home": "D.C. United",
-      "away": "Columbus Crew",
       "ht": null,
       "ft": null,
       "status": "Running",
