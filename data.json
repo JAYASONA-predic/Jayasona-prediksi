@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-14T07:14:14+00:00",
+  "updated_at": "2026-09-14T07:31:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3214,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ebcfdf2f2503f7a0",
+      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
+      "kickoff": "Sep 14 2026 2:45PM",
+      "home": "CA Osasuna (V)",
+      "away": "Tottenham Hotspur (V)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "c1b2db9f57884c22",
       "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
@@ -50722,23 +50739,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "895b0f5822c6724d",
-      "league": "ISRAEL WOMEN PREMIER LEAGUE",
-      "kickoff": "Sep 10 2026 9:35PM",
-      "home": "Hapoel Tel Aviv (w)",
-      "away": "Maccabi Tel Aviv (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "462a5bfb9c9ff8e8",
       "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
       "kickoff": "Sep 14 2026 2:45PM",
@@ -50778,20 +50778,6 @@
       "home": "Scotland (V)",
       "away": "Argentina (V)",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ebcfdf2f2503f7a0",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 14 2026 2:45PM",
-      "home": "CA Osasuna (V)",
-      "away": "Tottenham Hotspur (V)",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50923,7 +50909,10 @@
       "kickoff": "Sep 14 2026 3:15PM",
       "home": "Becamex Binh Duong (V)",
       "away": "Cong An Ha Noi FC (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50934,7 +50923,10 @@
       "kickoff": "Sep 14 2026 3:15PM",
       "home": "Hai Phong FC (V)",
       "away": "Song Lam Nghe An (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50967,7 +50959,10 @@
       "kickoff": "Sep 14 2026 3:15PM",
       "home": "FSV Mainz 05 (V)",
       "away": "Liverpool (V)",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50978,7 +50973,10 @@
       "kickoff": "Sep 14 2026 3:15PM",
       "home": "Girondins de Bordeaux (V)",
       "away": "Olympique Lyonnais (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51121,6 +51119,17 @@
       "kickoff": "Sep 14 2026 3:45PM",
       "home": "Barcelona (V)",
       "away": "Olympique de Marseille (V)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1d9bb44fbd1dc8c5",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 14 2026 4:00PM",
+      "home": "Shanghai Port FC U20",
+      "away": "Guangdong GZ-Power U20",
       "ht": null,
       "ft": null,
       "status": "Running",
