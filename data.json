@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-17T02:09:25+00:00",
+  "updated_at": "2026-09-17T02:26:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3019,
+  "count": 3021,
   "archive_count": 3000,
   "matches": [
     {
@@ -50899,7 +50899,10 @@
       "kickoff": "Sep 17 2026 9:00AM",
       "home": "Athletic Club Boise",
       "away": "Charlotte Independence",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50921,7 +50924,10 @@
       "kickoff": "Sep 17 2026 9:20AM",
       "home": "Internacional de Bogota (N)",
       "away": "Atletico Nacional",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50943,6 +50949,28 @@
       "kickoff": "Sep 17 2026 9:30AM",
       "home": "Colorado Rapids",
       "away": "St Louis City SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "43371ef6dc7748b3",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 17 2026 9:30AM",
+      "home": "Denver Summit FC (w)",
+      "away": "Bay FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7af994f2116d54ff",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 17 2026 10:00AM",
+      "home": "Angel City FC (w)",
+      "away": "Seattle Reign FC (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
