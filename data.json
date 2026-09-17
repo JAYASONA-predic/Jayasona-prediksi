@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-17T01:39:51+00:00",
+  "updated_at": "2026-09-17T01:53:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3021,
   "archive_count": 3000,
@@ -50860,7 +50860,10 @@
       "kickoff": "Sep 17 2026 8:30AM",
       "home": "Corinthians SP",
       "away": "Estudiantes La Plata",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50882,7 +50885,10 @@
       "kickoff": "Sep 17 2026 8:30AM",
       "home": "Blooming Santa Cruz",
       "away": "Universitario de Vinto",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50907,7 +50913,10 @@
       "kickoff": "Sep 17 2026 8:30AM",
       "home": "Cartagines",
       "away": "Deportivo Saprissa",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
