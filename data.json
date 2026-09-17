@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-17T00:55:29+00:00",
+  "updated_at": "2026-09-17T01:09:56+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3026,
+  "count": 3023,
   "archive_count": 3000,
   "matches": [
     {
@@ -375,6 +375,57 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8b29f8d3501a1b32",
+      "league": "US OPEN CUP",
+      "kickoff": "Sep 17 2026 7:00AM",
+      "home": "Columbus Crew",
+      "away": "Orlando City SC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dc6f1b40a1d227ab",
+      "league": "UNITED SOCCER LEAGUE ONE",
+      "kickoff": "Sep 17 2026 7:00AM",
+      "home": "Westchester SC",
+      "away": "Richmond Kickers",
+      "ht": [
+        5,
+        0
+      ],
+      "ft": [
+        5,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3b2228511c93d078",
+      "league": "VENEZUELA PRIMERA DIVISION",
+      "kickoff": "Sep 17 2026 7:00AM",
+      "home": "Trujillanos FC",
+      "away": "Deportivo Rayo Zuliano",
+      "ht": [
+        1,
+        3
+      ],
+      "ft": [
+        2,
+        4
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50685,57 +50736,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a6e991e2a2973bf1",
-      "league": "SLOVAKIA SUPER LEAGUE",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "Dukla Banska Bystrica",
-      "away": "MFK Skalica",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b44d1d9d0df90556",
-      "league": "SLOVAKIA SUPER LEAGUE",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "MFK Ruzomberok",
-      "away": "MFK Zemplin Michalovce",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "131001eee11a2a5e",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "UD San Sebastian Reyes",
-      "away": "Real Valladolid Promesas",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "09dabefd89916ab1",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 17 2026 1:00AM",
@@ -50786,20 +50786,6 @@
       "home": "Botafogo RJ",
       "away": "Corinthians SP",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8b29f8d3501a1b32",
-      "league": "US OPEN CUP",
-      "kickoff": "Sep 17 2026 7:00AM",
-      "home": "Columbus Crew",
-      "away": "Orlando City SC",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50858,34 +50844,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "dc6f1b40a1d227ab",
-      "league": "UNITED SOCCER LEAGUE ONE",
-      "kickoff": "Sep 17 2026 7:00AM",
-      "home": "Westchester SC",
-      "away": "Richmond Kickers",
-      "ht": [
-        5,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3b2228511c93d078",
-      "league": "VENEZUELA PRIMERA DIVISION",
-      "kickoff": "Sep 17 2026 7:00AM",
-      "home": "Trujillanos FC",
-      "away": "Deportivo Rayo Zuliano",
-      "ht": [
-        1,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "84826903ede19a15",
       "league": "COLOMBIA PRIMERA A",
       "kickoff": "Sep 17 2026 7:15AM",
@@ -50916,7 +50874,10 @@
       "kickoff": "Sep 17 2026 8:00AM",
       "home": "Inter Miami CF",
       "away": "Cruz Azul",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
