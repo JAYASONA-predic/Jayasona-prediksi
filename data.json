@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-17T02:54:21+00:00",
+  "updated_at": "2026-09-17T03:09:22+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3015,
+  "count": 3013,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cc6cd8b2e2d90e41",
+      "league": "UNITED SOCCER LEAGUE ONE",
+      "kickoff": "Sep 17 2026 9:00AM",
+      "home": "Athletic Club Boise",
+      "away": "Charlotte Independence",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cb621cad4e958a82",
+      "league": "EL SALVADOR PRIMERA DIVISION",
+      "kickoff": "Sep 17 2026 9:00AM",
+      "home": "Inter Santa Tecla",
+      "away": "Club Deportivo FAS",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d707f211b4de50b7",
       "league": "COPA LIBERTADORES",
@@ -50702,37 +50736,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "dbe46f1991f26651",
-      "league": "*ITALY SERIE A - OFFSIDE",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "Lazio",
-      "away": "AC Milan",
-      "ht": [
-        4,
-        4
-      ],
-      "ft": [
-        4,
-        7
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "67645bb672ea4a3f",
-      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "Lazio",
-      "away": "AC Milan",
-      "ht": null,
-      "ft": [
-        49,
-        132
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "09dabefd89916ab1",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 17 2026 1:00AM",
@@ -50805,34 +50808,6 @@
       "home": "Inter Miami CF",
       "away": "Cruz Azul",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cc6cd8b2e2d90e41",
-      "league": "UNITED SOCCER LEAGUE ONE",
-      "kickoff": "Sep 17 2026 9:00AM",
-      "home": "Athletic Club Boise",
-      "away": "Charlotte Independence",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cb621cad4e958a82",
-      "league": "EL SALVADOR PRIMERA DIVISION",
-      "kickoff": "Sep 17 2026 9:00AM",
-      "home": "Inter Santa Tecla",
-      "away": "Club Deportivo FAS",
-      "ht": [
-        1,
-        2
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
