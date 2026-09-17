@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-17T03:42:10+00:00",
+  "updated_at": "2026-09-17T03:54:35+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3011,
+  "count": 3007,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,23 @@
       "ft": [
         0,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "43371ef6dc7748b3",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 17 2026 9:30AM",
+      "home": "Denver Summit FC (w)",
+      "away": "Bay FC (w)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -887,6 +904,23 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "ed85825b1bc06bee",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 17 2026 6:30AM",
+      "home": "Botafogo RJ",
+      "away": "Corinthians SP",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b2735624ece8ca36",
       "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
       "kickoff": "Sep 17 2026 6:15AM",
@@ -1280,6 +1314,40 @@
       ],
       "ft": [
         3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6cbcd0a39626928a",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 17 2026 6:00AM",
+      "home": "Corinthians SP",
+      "away": "Atletico Mineiro",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f7ad7481bb292f86",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 17 2026 6:00AM",
+      "home": "Corinthians SP",
+      "away": "Independiente Rivadavia",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
         1
       ],
       "status": "Completed",
@@ -50668,74 +50736,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "73ea8def2f32c9f2",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "Qatar (V)",
-      "away": "Korea Republic (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "878eaf21a2d1c23a",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "Poland (V)",
-      "away": "Norway (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a5a0bd53e1a2f5fa",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "USA (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "283d60f1ad8327dc",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "Borussia Dortmund (V)",
-      "away": "Leicester City (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "09dabefd89916ab1",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 17 2026 1:00AM",
@@ -50752,39 +50752,6 @@
       "kickoff": "Sep 17 2026 1:00AM",
       "home": "Deportivo La Coruna",
       "away": "Athletic Bilbao",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6cbcd0a39626928a",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 17 2026 6:00AM",
-      "home": "Corinthians SP",
-      "away": "Atletico Mineiro",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f7ad7481bb292f86",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 17 2026 6:00AM",
-      "home": "Corinthians SP",
-      "away": "Independiente Rivadavia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ed85825b1bc06bee",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 17 2026 6:30AM",
-      "home": "Botafogo RJ",
-      "away": "Corinthians SP",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50819,20 +50786,6 @@
       "home": "Colorado Rapids",
       "away": "St Louis City SC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "43371ef6dc7748b3",
-      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
-      "kickoff": "Sep 17 2026 9:30AM",
-      "home": "Denver Summit FC (w)",
-      "away": "Bay FC (w)",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
