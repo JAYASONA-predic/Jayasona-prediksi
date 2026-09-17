@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-17T03:09:22+00:00",
+  "updated_at": "2026-09-17T03:26:49+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3013,
+  "count": 3012,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "dd1fa48d46a0ca56",
+      "league": "COLOMBIA PRIMERA A",
+      "kickoff": "Sep 17 2026 9:20AM",
+      "home": "Internacional de Bogota (N)",
+      "away": "Atletico Nacional",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "cc6cd8b2e2d90e41",
       "league": "UNITED SOCCER LEAGUE ONE",
@@ -50719,23 +50736,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c14cbc2fc3fa33e2",
-      "league": "*ITALY SERIE A",
-      "kickoff": "Sep 13 2026 12:00AM",
-      "home": "Lazio",
-      "away": "AC Milan",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "09dabefd89916ab1",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 17 2026 1:00AM",
@@ -50813,20 +50813,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "dd1fa48d46a0ca56",
-      "league": "COLOMBIA PRIMERA A",
-      "kickoff": "Sep 17 2026 9:20AM",
-      "home": "Internacional de Bogota (N)",
-      "away": "Atletico Nacional",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ce7a8e1fe16e38fb",
       "league": "US OPEN CUP",
       "kickoff": "Sep 17 2026 9:30AM",
@@ -50871,7 +50857,10 @@
       "kickoff": "Sep 17 2026 10:00AM",
       "home": "Angel City FC (w)",
       "away": "Seattle Reign FC (w)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
