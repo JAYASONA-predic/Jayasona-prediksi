@@ -1,10 +1,21 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-20T04:09:07+00:00",
+  "updated_at": "2026-09-20T04:25:47+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3363,
+  "count": 3386,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "eece115934bd43d4",
+      "league": "BULGARIA FIRST PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 21 2026 1:30AM",
+      "home": "Levski Sofia",
+      "away": "Ludogorets Razgrad",
+      "ht": null,
+      "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ff2652da8be9289e",
       "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
@@ -50737,20 +50748,14 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ba06583cdccd4fbd",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 17 2026 6:45PM",
-      "home": "England (V)",
-      "away": "Portugal (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
+      "id": "4cca2568fa7a2077",
+      "league": "*SPAIN PRIMERA LALIGA - OFFSIDE",
+      "kickoff": "Sep 19 2026 10:15PM",
+      "home": "Athletic Bilbao No.of Offsides",
+      "away": "Deportivo Alaves No.of Offsides",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -50776,6 +50781,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c178b252d96304ff",
+      "league": "MSG PRIME MINISTERS WOMEN CUP (IN FIJI)",
+      "kickoff": "Sep 20 2026 12:00PM",
+      "home": "New Caledonia (w)",
+      "away": "Papua New Guinea (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b76897cebfb9f5c7",
       "league": "RUSSIA SECOND LEAGUE DIVISION A",
       "kickoff": "Sep 20 2026 12:00PM",
@@ -50792,7 +50808,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "Bahrain (V)",
       "away": "North Korea (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50803,7 +50822,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "Mali (V)",
       "away": "Egypt (V)",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50814,7 +50836,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "Netherlands (V)",
       "away": "France (V)",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50825,7 +50850,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "New Zealand (V)",
       "away": "Wales (V)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50836,7 +50864,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "Arsenal (V)",
       "away": "Tottenham Hotspur (V)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50847,7 +50878,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "Chelsea (V)",
       "away": "Olympique de Marseille (V)",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50858,7 +50892,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "Girondins de Bordeaux (V)",
       "away": "Lille OSC (V)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50869,7 +50906,10 @@
       "kickoff": "Sep 20 2026 12:00PM",
       "home": "Valencia CF (V)",
       "away": "Everton (V)",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51733,6 +51773,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7103704968f6a25a",
+      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 20 2026 6:30PM",
+      "home": "Fiorentina",
+      "away": "Napoli",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a1ed09ac8c3cc2d1",
       "league": "THAILAND LEAGUE 1",
       "kickoff": "Sep 20 2026 7:00PM",
@@ -51986,8 +52037,19 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e0feb18ff900ee16",
-      "league": "*SPAIN PRIMERA LALIGA - CORNERS",
+      "id": "03fb190a5c9d799a",
+      "league": "*SPAIN PRIMERA LALIGA - OFFSIDE",
+      "kickoff": "Sep 20 2026 8:00PM",
+      "home": "Getafe CF",
+      "away": "Malaga",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bb9942ea22fa73a4",
+      "league": "*SPAIN PRIMERA LALIGA - TOTAL GOALS MINUTES",
       "kickoff": "Sep 20 2026 8:00PM",
       "home": "Getafe CF",
       "away": "Malaga",
@@ -52316,6 +52378,72 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c42160dfed3a36b4",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 1st half",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "AFC Bournemouth",
+      "away": "Liverpool",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ae8b57ab16f19339",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 1st half",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Leeds United",
+      "away": "Crystal Palace",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ec0b3eae2a25480c",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 1st half",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "70f9986c17ba3aa4",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 2nd half",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "AFC Bournemouth",
+      "away": "Liverpool",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "38363fa89f353d52",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 2nd half",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Leeds United",
+      "away": "Crystal Palace",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c72533fe46accb1d",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 2nd half",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "2ef04c6f589ca77c",
       "league": "*ENGLISH PREMIER LEAGUE - CORNERS",
       "kickoff": "Sep 20 2026 9:00PM",
@@ -52340,6 +52468,39 @@
     {
       "id": "bc4dddcb5d885923",
       "league": "*ENGLISH PREMIER LEAGUE - CORNERS",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9f97fbb13f4d81ec",
+      "league": "*ENGLISH PREMIER LEAGUE - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "AFC Bournemouth",
+      "away": "Liverpool",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d6c18f0e8e787dd6",
+      "league": "*ENGLISH PREMIER LEAGUE - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Leeds United",
+      "away": "Crystal Palace",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d0609bc405761ba0",
+      "league": "*ENGLISH PREMIER LEAGUE - TOTAL GOALS MINUTES",
       "kickoff": "Sep 20 2026 9:00PM",
       "home": "Manchester City",
       "away": "Sunderland",
@@ -52384,6 +52545,28 @@
     {
       "id": "c796614818693e04",
       "league": "*ITALY SERIE A - CORNERS",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Parma",
+      "away": "Genoa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5338508cf43e14ba",
+      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 20 2026 9:00PM",
+      "home": "Frosinone",
+      "away": "Como",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a2a5787165cb3cd0",
+      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
       "kickoff": "Sep 20 2026 9:00PM",
       "home": "Parma",
       "away": "Genoa",
@@ -52635,8 +52818,8 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c738005da5e88a5d",
-      "league": "*GERMANY-BUNDESLIGA I - CORNERS",
+      "id": "483bdd236a2c2e36",
+      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
       "kickoff": "Sep 20 2026 9:30PM",
       "home": "Bayer 04 Leverkusen",
       "away": "RB Leipzig",
@@ -52855,8 +53038,19 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6d28943d8ffa5177",
-      "league": "*SPAIN PRIMERA LALIGA - CORNERS",
+      "id": "73d975edd5e8bbf3",
+      "league": "*SPAIN PRIMERA LALIGA - OFFSIDE",
+      "kickoff": "Sep 20 2026 10:15PM",
+      "home": "Atletico de Madrid",
+      "away": "Real Madrid",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5737239b8105bc3e",
+      "league": "*SPAIN PRIMERA LALIGA - TOTAL GOALS MINUTES",
       "kickoff": "Sep 20 2026 10:15PM",
       "home": "Atletico de Madrid",
       "away": "Real Madrid",
@@ -53295,8 +53489,41 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "6e3e70d72ad63c6e",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 1st half",
+      "kickoff": "Sep 20 2026 11:30PM",
+      "home": "Fulham",
+      "away": "Manchester United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a73e2a4f9a63c122",
+      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 2nd half",
+      "kickoff": "Sep 20 2026 11:30PM",
+      "home": "Fulham",
+      "away": "Manchester United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "bf5882da5a5a2fd6",
       "league": "*ENGLISH PREMIER LEAGUE - CORNERS",
+      "kickoff": "Sep 20 2026 11:30PM",
+      "home": "Fulham",
+      "away": "Manchester United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "92c5f60a84b5d755",
+      "league": "*ENGLISH PREMIER LEAGUE - TOTAL GOALS MINUTES",
       "kickoff": "Sep 20 2026 11:30PM",
       "home": "Fulham",
       "away": "Manchester United",
@@ -53317,8 +53544,8 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "796a5afe28c17b7d",
-      "league": "*GERMANY-BUNDESLIGA I - CORNERS",
+      "id": "7c88de8979587817",
+      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
       "kickoff": "Sep 20 2026 11:30PM",
       "home": "Schalke 04",
       "away": "SV Elversberg",
@@ -53385,6 +53612,17 @@
     {
       "id": "597028eadb9272ad",
       "league": "*ITALY SERIE A - CORNERS",
+      "kickoff": "Sep 21 2026 12:00AM",
+      "home": "Juventus",
+      "away": "Atalanta",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "99851c6afe7a863b",
+      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
       "kickoff": "Sep 21 2026 12:00AM",
       "home": "Juventus",
       "away": "Atalanta",
@@ -53603,8 +53841,8 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "acc810547f836b40",
-      "league": "*SPAIN PRIMERA LALIGA - CORNERS",
+      "id": "455dfc85f90247e3",
+      "league": "*SPAIN PRIMERA LALIGA - OFFSIDE",
       "kickoff": "Sep 21 2026 12:30AM",
       "home": "Deportivo La Coruna",
       "away": "Real Betis",
@@ -53614,8 +53852,30 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "675e260a323f875e",
-      "league": "*SPAIN PRIMERA LALIGA - CORNERS",
+      "id": "cfec7ff491e79b22",
+      "league": "*SPAIN PRIMERA LALIGA - OFFSIDE",
+      "kickoff": "Sep 21 2026 12:30AM",
+      "home": "Villarreal CF",
+      "away": "Levante UD",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fdfb8699ee62b81a",
+      "league": "*SPAIN PRIMERA LALIGA - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 21 2026 12:30AM",
+      "home": "Deportivo La Coruna",
+      "away": "Real Betis",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7fe36aa71f613bb3",
+      "league": "*SPAIN PRIMERA LALIGA - TOTAL GOALS MINUTES",
       "kickoff": "Sep 21 2026 12:30AM",
       "home": "Villarreal CF",
       "away": "Levante UD",
@@ -53856,8 +54116,8 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "df09503b53c63435",
-      "league": "*GERMANY-BUNDESLIGA I - CORNERS",
+      "id": "467df43275a9beeb",
+      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
       "kickoff": "Sep 21 2026 1:30AM",
       "home": "SC Paderborn 07",
       "away": "TSG 1899 Hoffenheim",
@@ -53894,17 +54154,6 @@
       "kickoff": "Sep 21 2026 1:30AM",
       "home": "SV Wehen Wiesbaden",
       "away": "MSV Duisburg",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "eece115934bd43d4",
-      "league": "BULGARIA FIRST PROFESSIONAL LEAGUE",
-      "kickoff": "Sep 21 2026 1:30AM",
-      "home": "Levski Sofia",
-      "away": "Ludogorets Razgrad",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -54142,6 +54391,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "ae2a48f8e5bc7a53",
+      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
+      "kickoff": "Sep 21 2026 2:45AM",
+      "home": "AC Milan",
+      "away": "Lecce",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ec85f1c49568060e",
       "league": "FRANCE LIGUE 1",
       "kickoff": "Sep 21 2026 2:45AM",
@@ -54175,8 +54435,19 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "79e7570006670fc5",
-      "league": "*SPAIN PRIMERA LALIGA - CORNERS",
+      "id": "fd527d48f318fc18",
+      "league": "*SPAIN PRIMERA LALIGA - OFFSIDE",
+      "kickoff": "Sep 21 2026 3:00AM",
+      "home": "Valencia CF",
+      "away": "Real Sociedad",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f75e2896ce3f85aa",
+      "league": "*SPAIN PRIMERA LALIGA - TOTAL GOALS MINUTES",
       "kickoff": "Sep 21 2026 3:00AM",
       "home": "Valencia CF",
       "away": "Real Sociedad",
