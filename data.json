@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T19:38:41+00:00",
+  "updated_at": "2026-09-21T19:50:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3078,
+  "count": 3079,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "10dc55bb8dee56ef",
+      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
+      "kickoff": "Sep 22 2026 1:45AM",
+      "home": "CIG 7 De Abril RJ",
+      "away": "SE Paraty RJ",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50644,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "764781ded779c7f2",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:45AM",
-      "home": "Dundalk",
-      "away": "Bohemians",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e01fd788f04ad7eb",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 21 2026 11:00PM",
@@ -50777,20 +50777,6 @@
       "home": "Atletico Tucuman",
       "away": "Deportivo Tristan Suarez",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "10dc55bb8dee56ef",
-      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
-      "kickoff": "Sep 22 2026 1:45AM",
-      "home": "CIG 7 De Abril RJ",
-      "away": "SE Paraty RJ",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51204,7 +51190,10 @@
       "kickoff": "Sep 22 2026 3:00AM",
       "home": "Carrick Rangers (R)",
       "away": "Coleraine (R)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51215,7 +51204,10 @@
       "kickoff": "Sep 22 2026 3:00AM",
       "home": "Cliftonville Olympic",
       "away": "Bangor FC (R)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51303,6 +51295,17 @@
       "kickoff": "Sep 22 2026 6:00AM",
       "home": "CA Barracas Central",
       "away": "Independiente Rivadavia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "08675b789c49b6d1",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Sep 22 2026 6:00AM",
+      "home": "Club Deportivo Guabira",
+      "away": "CD San Antonio Bulo Bulo",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51567,6 +51570,17 @@
       "kickoff": "Sep 22 2026 8:30AM",
       "home": "Cuiaba MT",
       "away": "Nautico PE",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bc98dc6e7362cc47",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Sep 22 2026 8:30AM",
+      "home": "Independiente Petrolero",
+      "away": "CD Real Tomayapo",
       "ht": null,
       "ft": null,
       "status": "Running",
