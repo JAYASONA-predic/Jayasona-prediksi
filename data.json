@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T18:29:13+00:00",
+  "updated_at": "2026-09-21T18:47:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3089,
+  "count": 3092,
   "archive_count": 3000,
   "matches": [
     {
@@ -51026,7 +51026,10 @@
       "kickoff": "Sep 22 2026 1:45AM",
       "home": "CIG 7 De Abril RJ",
       "away": "SE Paraty RJ",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51037,7 +51040,10 @@
       "kickoff": "Sep 22 2026 1:45AM",
       "home": "Rio de Janeiro FC RJ",
       "away": "Santa Cruz RJ",
-      "ht": null,
+      "ht": [
+        1,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51180,7 +51186,10 @@
       "kickoff": "Sep 22 2026 2:00AM",
       "home": "EC Sao Bernardo SP U20",
       "away": "Sao Paulo SP U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51345,6 +51354,39 @@
       "kickoff": "Sep 22 2026 2:45AM",
       "home": "Redditch United",
       "away": "Racing Club Warwick",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b39ef00ce58b5dcc",
+      "league": "NORTHERN IRELAND PREMIERSHIP DEVELOPMENT LEAGUE",
+      "kickoff": "Sep 22 2026 3:00AM",
+      "home": "Carrick Rangers (R)",
+      "away": "Coleraine (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cd76d9f1bf88f02b",
+      "league": "NORTHERN IRELAND PREMIERSHIP DEVELOPMENT LEAGUE",
+      "kickoff": "Sep 22 2026 3:00AM",
+      "home": "Cliftonville Olympic",
+      "away": "Bangor FC (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c79218cab5bd97e8",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 22 2026 3:00AM",
+      "home": "Sportivo Luqueno (R)",
+      "away": "Deportivo Recoleta (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
