@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T13:08:14+00:00",
+  "updated_at": "2026-09-21T13:26:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3100,
+  "count": 3101,
   "archive_count": 3000,
   "matches": [
     {
@@ -50727,7 +50727,10 @@
       "kickoff": "Sep 21 2026 8:30PM",
       "home": "USD Fezzanese",
       "away": "AC Gozzano",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50837,6 +50840,17 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Deportivo Maldonado (R)",
       "away": "River Plate Montevideo (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3e7389e1ef44f704",
+      "league": "UZBEKISTAN PRO LEAGUE",
+      "kickoff": "Sep 21 2026 9:30PM",
+      "home": "FC Yaypan Fergana",
+      "away": "PFK Aral Nukus",
       "ht": null,
       "ft": null,
       "status": "Running",
