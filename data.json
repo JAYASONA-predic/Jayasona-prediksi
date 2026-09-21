@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T16:41:12+00:00",
+  "updated_at": "2026-09-21T16:53:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3085,
+  "count": 3087,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4b684e4cdc19da5a",
+      "league": "ESTONIA ESILIIGA B",
+      "kickoff": "Sep 21 2026 11:00PM",
+      "home": "FCI Levadia Tallinn U19",
+      "away": "Tammeka Tartu U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50635,23 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "383dfe3b5a22ffe9",
-      "league": "NETHERLANDS EERSTE DIVISIE",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "FC Eindhoven",
-      "away": "FC Emmen",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e7e9d20dc0e89789",
       "league": "OMAN FEDERATION CUP",
       "kickoff": "Sep 21 2026 9:40PM",
@@ -50738,20 +50738,6 @@
       "ht": [
         0,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4b684e4cdc19da5a",
-      "league": "ESTONIA ESILIIGA B",
-      "kickoff": "Sep 21 2026 11:00PM",
-      "home": "FCI Levadia Tallinn U19",
-      "away": "Tammeka Tartu U21",
-      "ht": [
-        0,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -50865,7 +50851,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Eswatini U20",
       "away": "Lesotho U20",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50876,7 +50865,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "FK Javor Ivanjica",
       "away": "FK Proleter Zrenjanin",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50887,7 +50879,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "FK Jedinstvo Ub",
       "away": "FK Loznica",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50898,7 +50893,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "FK Metalac",
       "away": "FK Graficar Beograd",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50909,7 +50907,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "FK Napredak Krusevac",
       "away": "FK Smederevo",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50920,7 +50921,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Dobrudzha Dobrich",
       "away": "CSKA Sofia II",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50931,7 +50935,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Spartak Pleven",
       "away": "Ludogorets Razgrad II",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50942,7 +50949,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Lyn 1896 FK 2",
       "away": "Sarpsborg 08 2",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50953,7 +50963,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Madla IL",
       "away": "Haugesund 2",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50964,7 +50977,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Spjelkavik IL Fotball",
       "away": "Rosenborg 2",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50975,7 +50991,10 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Werder Bremen (w)",
       "away": "VfB Stuttgart (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51063,6 +51082,39 @@
       "kickoff": "Sep 22 2026 1:00AM",
       "home": "Spaeri FC",
       "away": "FC Dila Gori",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8750322d4b9dc7e9",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 22 2026 1:00AM",
+      "home": "KFUM Oslo 2",
+      "away": "IF Ready",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "894e9b97a976ed88",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 22 2026 1:00AM",
+      "home": "Nardo FK",
+      "away": "Ranheim 2",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f871d07fb12aa51e",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 22 2026 1:00AM",
+      "home": "Central Espanol (R)",
+      "away": "CA Boston River (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
