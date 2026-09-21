@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-20T23:49:38+00:00",
+  "updated_at": "2026-09-21T00:12:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3026,
+  "count": 3025,
   "archive_count": 3000,
   "matches": [
     {
@@ -404,6 +404,23 @@
       "away": "Everton (V)",
       "ht": [
         2,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "44d504db00a97f26",
+      "league": "MEXICO LIGA PREMIER SERIE A",
+      "kickoff": "Sep 21 2026 6:00AM",
+      "home": "Real Apodaca FC",
+      "away": "Guerreros de Autlan",
+      "ht": [
+        1,
         0
       ],
       "ft": [
@@ -50644,43 +50661,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f37a4fbaf07abb8b",
-      "league": "DENMARK 1ST DIVISION",
-      "kickoff": "Sep 19 2026 1:00AM",
-      "home": "Kolding IF",
-      "away": "Hillerod",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "2c4bff6938c0dad9",
       "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
       "kickoff": "Sep 21 2026 1:45AM",
       "home": "Buzios RJ",
       "away": "Serra Macaense RJ",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "44d504db00a97f26",
-      "league": "MEXICO LIGA PREMIER SERIE A",
-      "kickoff": "Sep 21 2026 6:00AM",
-      "home": "Real Apodaca FC",
-      "away": "Guerreros de Autlan",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50719,7 +50705,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Inter Miami CF",
       "away": "San Diego FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50730,7 +50719,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Liverpool Montevideo",
       "away": "Racing Club Montevideo",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50741,7 +50733,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "CD Tapatio",
       "away": "Coyotes de Tlaxcala",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50752,7 +50747,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Alajuelense",
       "away": "Inter de San Carlos",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50763,7 +50761,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Sacramento Republic FC",
       "away": "San Antonio FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50774,7 +50775,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Spokane Velocity",
       "away": "Athletic Club Boise",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50796,7 +50800,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Atletico San Luis (w)",
       "away": "Pachuca (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50807,7 +50814,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Bay FC (w)",
       "away": "Racing Louisville FC (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50818,7 +50828,10 @@
       "kickoff": "Sep 21 2026 7:00AM",
       "home": "Utah Royals FC (w)",
       "away": "Angel City FC (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50829,7 +50842,10 @@
       "kickoff": "Sep 21 2026 7:10AM",
       "home": "Deportes Tolima",
       "away": "America de Cali",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50840,7 +50856,10 @@
       "kickoff": "Sep 21 2026 7:15AM",
       "home": "CD Olimpia",
       "away": "CA Independiente Siguatepeque",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
