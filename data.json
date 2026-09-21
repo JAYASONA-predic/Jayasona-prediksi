@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T20:09:05+00:00",
+  "updated_at": "2026-09-21T20:24:58+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3047,
   "archive_count": 3000,
@@ -50860,7 +50860,10 @@
       "kickoff": "Sep 22 2026 3:30AM",
       "home": "Club Dr. Benjamin Aceval",
       "away": "Club Atletico Tembetary",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
