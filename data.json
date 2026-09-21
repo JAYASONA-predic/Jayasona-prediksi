@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T12:46:07+00:00",
+  "updated_at": "2026-09-21T13:08:14+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3097,
+  "count": 3100,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,57 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e26d0163fa70b463",
+      "league": "UZBEKISTAN PRO LEAGUE",
+      "kickoff": "Sep 21 2026 7:00PM",
+      "home": "FC Lochin",
+      "away": "Respublika FA",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7e8fa90f8af42a67",
+      "league": "UZBEKISTAN PRO LEAGUE",
+      "kickoff": "Sep 21 2026 7:00PM",
+      "home": "Pakhtakor Tashkent II",
+      "away": "Shurtan Guzar",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b43621ab122af9e8",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 21 2026 7:00PM",
+      "home": "Sportivo San Lorenzo (R)",
+      "away": "Olimpia Asuncion (R)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        4
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50601,99 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c5947334f429edb7",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Pau FC",
-      "away": "Reims",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4ac9c8c0fa3a5e79",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Pau FC",
-      "away": "Rodez AF",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "642277bbee43c18d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Reims",
-      "away": "Rodez AF",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e26d0163fa70b463",
-      "league": "UZBEKISTAN PRO LEAGUE",
-      "kickoff": "Sep 21 2026 7:00PM",
-      "home": "FC Lochin",
-      "away": "Respublika FA",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7e8fa90f8af42a67",
-      "league": "UZBEKISTAN PRO LEAGUE",
-      "kickoff": "Sep 21 2026 7:00PM",
-      "home": "Pakhtakor Tashkent II",
-      "away": "Shurtan Guzar",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b43621ab122af9e8",
-      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
-      "kickoff": "Sep 21 2026 7:00PM",
-      "home": "Sportivo San Lorenzo (R)",
-      "away": "Olimpia Asuncion (R)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8d326b49efcc1e6d",
       "league": "CHINA LEAGUE U20",
       "kickoff": "Sep 21 2026 7:30PM",
@@ -50727,7 +50685,10 @@
       "kickoff": "Sep 21 2026 8:00PM",
       "home": "Botswana U20",
       "away": "Malawi U20",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50738,7 +50699,10 @@
       "kickoff": "Sep 21 2026 8:00PM",
       "home": "Bolton Wanderers U21",
       "away": "Queens Park Rangers U21",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50749,7 +50713,10 @@
       "kickoff": "Sep 21 2026 8:00PM",
       "home": "Thimphu FC",
       "away": "Ugyen Academy FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50810,11 +50777,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "255227ceba913e18",
+      "league": "RUSSIA SECOND LEAGUE DIVISION A",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Amkar Perm",
+      "away": "Dynamo Moscow 2",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "e9f979885fc7d863",
       "league": "NORWAY 3RD DIVISION",
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Odd BK 2",
       "away": "Stabaek 2",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8ad621c63226f92f",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Landskrona BoIS U21",
+      "away": "Halmstads U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50848,6 +50837,50 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Deportivo Maldonado (R)",
       "away": "River Plate Montevideo (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "052f9a4d2b0b1094",
+      "league": "RUSSIA SECOND LEAGUE DIVISION A",
+      "kickoff": "Sep 21 2026 9:30PM",
+      "home": "Dinamo Kirov",
+      "away": "Sokol Saratov",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f5f83a054494bf7e",
+      "league": "RUSSIA SECOND LEAGUE DIVISION A",
+      "kickoff": "Sep 21 2026 9:30PM",
+      "home": "Mashuk KMV",
+      "away": "Volgar Astrakhan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "db1e0c2c1d9fef9a",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Sep 21 2026 9:35PM",
+      "home": "Al Nahda (OMA)",
+      "away": "Saham",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e7e9d20dc0e89789",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Sep 21 2026 9:40PM",
+      "home": "Al Nasr (OMA)",
+      "away": "Bahla Club",
       "ht": null,
       "ft": null,
       "status": "Running",
