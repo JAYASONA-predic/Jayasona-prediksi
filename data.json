@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T11:41:32+00:00",
+  "updated_at": "2026-09-21T11:52:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3084,
+  "count": 3088,
   "archive_count": 3000,
   "matches": [
     {
@@ -50727,7 +50727,10 @@
       "kickoff": "Sep 21 2026 7:00PM",
       "home": "FC Lochin",
       "away": "Respublika FA",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50738,7 +50741,10 @@
       "kickoff": "Sep 21 2026 7:00PM",
       "home": "Pakhtakor Tashkent II",
       "away": "Shurtan Guzar",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50749,7 +50755,10 @@
       "kickoff": "Sep 21 2026 7:00PM",
       "home": "Sportivo San Lorenzo (R)",
       "away": "Olimpia Asuncion (R)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50782,6 +50791,39 @@
       "kickoff": "Sep 21 2026 8:00PM",
       "home": "Botswana U20",
       "away": "Malawi U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7474d898d9065885",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 21 2026 8:00PM",
+      "home": "Bolton Wanderers U21",
+      "away": "Queens Park Rangers U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3471eaa233b8bd5e",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 21 2026 8:00PM",
+      "home": "Thimphu FC",
+      "away": "Ugyen Academy FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a6d17d8c0526ebb4",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 21 2026 8:30PM",
+      "home": "USD Fezzanese",
+      "away": "AC Gozzano",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51277,6 +51319,17 @@
       "kickoff": "Sep 22 2026 2:30AM",
       "home": "US Pianese",
       "away": "Sambenedettese",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9e0149dde28dd6a9",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 22 2026 2:45AM",
+      "home": "Chievo",
+      "away": "Virtus Ciserano Bergamo 1909",
       "ht": null,
       "ft": null,
       "status": "Running",
