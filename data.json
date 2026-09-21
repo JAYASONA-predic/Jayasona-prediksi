@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T01:52:30+00:00",
+  "updated_at": "2026-09-21T02:09:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3010,
+  "count": 3008,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "c4b73301a33d1cde",
+      "league": "MEXICO PRIMERA DIVISION",
+      "kickoff": "Sep 21 2026 8:00AM",
+      "home": "Deportivo Toluca",
+      "away": "Santos Laguna",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ce075c8336cfff98",
+      "league": "MEXICO PRIMERA DIVISION",
+      "kickoff": "Sep 21 2026 8:00AM",
+      "home": "Pachuca",
+      "away": "Tijuana",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "a09e745dae9a2be2",
       "league": "BOLIVIA CUP",
@@ -50630,40 +50664,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d0bf667a24d1eff3",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 1:30AM",
-      "home": "Neuchatel Xamax",
-      "away": "Wil 1900",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "15a9fd99103f54c9",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 1:30AM",
-      "home": "Rapid Wien",
-      "away": "Annecy",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "2c4bff6938c0dad9",
       "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
       "kickoff": "Sep 21 2026 1:45AM",
@@ -50681,34 +50681,6 @@
       "home": "Suchitepequez",
       "away": "Xelaju MC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c4b73301a33d1cde",
-      "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 8:00AM",
-      "home": "Deportivo Toluca",
-      "away": "Santos Laguna",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ce075c8336cfff98",
-      "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 8:00AM",
-      "home": "Pachuca",
-      "away": "Tijuana",
-      "ht": [
-        0,
-        2
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50747,7 +50719,10 @@
       "kickoff": "Sep 21 2026 9:00AM",
       "home": "Malacateco",
       "away": "Deportivo Mixco",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50758,7 +50733,10 @@
       "kickoff": "Sep 21 2026 9:15AM",
       "home": "Llaneros SA",
       "away": "Atletico Nacional",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
