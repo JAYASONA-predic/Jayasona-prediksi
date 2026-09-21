@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T06:12:53+00:00",
+  "updated_at": "2026-09-21T06:36:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3077,
+  "count": 3078,
   "archive_count": 3000,
   "matches": [
     {
@@ -50663,7 +50663,10 @@
       "kickoff": "Sep 21 2026 1:30PM",
       "home": "FC Agniputhra",
       "away": "South United",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50773,6 +50776,17 @@
       "kickoff": "Sep 21 2026 6:30PM",
       "home": "Vietnam (w)",
       "away": "Thailand (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3112f3af8def5c79",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Sep 21 2026 10:00PM",
+      "home": "Dominica",
+      "away": "Anguilla",
       "ht": null,
       "ft": null,
       "status": "Running",
