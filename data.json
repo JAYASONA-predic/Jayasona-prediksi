@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T20:50:48+00:00",
+  "updated_at": "2026-09-21T21:08:40+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3037,
+  "count": 3036,
   "archive_count": 3000,
   "matches": [
     {
@@ -46,6 +46,40 @@
       "ft": [
         4,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c79218cab5bd97e8",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 22 2026 3:00AM",
+      "home": "Sportivo Luqueno (R)",
+      "away": "Deportivo Recoleta (R)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c506810c3db66892",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 22 2026 3:00AM",
+      "home": "Ituano FC SP U20",
+      "away": "Palmeiras SP U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50645,54 +50679,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "88c18e795078cbe0",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 3:00AM",
-      "home": "Chelsea",
-      "away": "Bristol City",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "52ad3912765e6583",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 3:00AM",
-      "home": "Chelsea",
-      "away": "RCD Espanyol",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c79218cab5bd97e8",
-      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
-      "kickoff": "Sep 22 2026 3:00AM",
-      "home": "Sportivo Luqueno (R)",
-      "away": "Deportivo Recoleta (R)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "77a851be19feb8e4",
       "league": "ECUADOR SERIE A (PLAY OFF)",
       "kickoff": "Sep 22 2026 3:00AM",
@@ -50700,20 +50686,6 @@
       "away": "Orense SC",
       "ht": [
         2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c506810c3db66892",
-      "league": "BRAZIL CAMPEONATO PAULISTA U20",
-      "kickoff": "Sep 22 2026 3:00AM",
-      "home": "Ituano FC SP U20",
-      "away": "Palmeiras SP U20",
-      "ht": [
-        0,
         0
       ],
       "ft": null,
@@ -50938,6 +50910,17 @@
       "kickoff": "Sep 22 2026 6:00AM",
       "home": "Nautico PE",
       "away": "Patronato",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "417e36f14f7cf7ab",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 22 2026 6:05AM",
+      "home": "Humble Lions",
+      "away": "Waterhouse FC",
       "ht": null,
       "ft": null,
       "status": "Running",
