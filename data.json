@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T08:43:09+00:00",
+  "updated_at": "2026-09-21T08:54:54+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3079,
+  "count": 3081,
   "archive_count": 3000,
   "matches": [
     {
@@ -50733,7 +50733,10 @@
       "kickoff": "Sep 21 2026 4:00PM",
       "home": "Roots FC",
       "away": "HAL SC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50821,6 +50824,17 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "Otelul Galati",
       "away": "FC Corvinul Hunedoara",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "34a06e2ec6055c2c",
+      "league": "GEORGIA EROVNULI LIGA",
+      "kickoff": "Sep 21 2026 11:00PM",
+      "home": "FC Rustavi",
+      "away": "Iberia 1999",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51008,6 +51022,17 @@
       "kickoff": "Sep 22 2026 1:00AM",
       "home": "Vasalunds IF",
       "away": "Assyriska FF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7c7bbc03d63ac64e",
+      "league": "GEORGIA EROVNULI LIGA",
+      "kickoff": "Sep 22 2026 1:00AM",
+      "home": "Spaeri FC",
+      "away": "FC Dila Gori",
       "ht": null,
       "ft": null,
       "status": "Running",
