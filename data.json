@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T02:53:11+00:00",
+  "updated_at": "2026-09-21T03:09:12+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3007,
+  "count": 3005,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "936300a7c2148a91",
+      "league": "COSTA RICA PRIMERA DIVISION",
+      "kickoff": "Sep 21 2026 9:00AM",
+      "home": "AD San Carlos",
+      "away": "Cartagines",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8f58f45c9a666566",
+      "league": "GUATEMALA LIGA NATIONAL",
+      "kickoff": "Sep 21 2026 9:00AM",
+      "home": "Malacateco",
+      "away": "Deportivo Mixco",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6751723b7c9bcab9",
       "league": "ARGENTINA LIGA PROFESIONAL",
@@ -50630,40 +50664,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "86ee5dcbbb27f0c8",
-      "league": "SWITZERLAND CHALLENGE LEAGUE",
-      "kickoff": "Sep 19 2026 1:30AM",
-      "home": "SC Kriens",
-      "away": "Etoile Carouge FC",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e9f3fc7804d05216",
-      "league": "JORDAN PRO LEAGUE",
-      "kickoff": "Sep 19 2026 1:30AM",
-      "home": "Al Wehdat Amman",
-      "away": "Al Ramtha",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "2c4bff6938c0dad9",
       "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
       "kickoff": "Sep 21 2026 1:45AM",
@@ -50681,34 +50681,6 @@
       "home": "Suchitepequez",
       "away": "Xelaju MC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "936300a7c2148a91",
-      "league": "COSTA RICA PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 9:00AM",
-      "home": "AD San Carlos",
-      "away": "Cartagines",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8f58f45c9a666566",
-      "league": "GUATEMALA LIGA NATIONAL",
-      "kickoff": "Sep 21 2026 9:00AM",
-      "home": "Malacateco",
-      "away": "Deportivo Mixco",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50747,7 +50719,10 @@
       "kickoff": "Sep 21 2026 10:05AM",
       "home": "Queretaro",
       "away": "Club Leon",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
