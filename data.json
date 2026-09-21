@@ -1,10 +1,21 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T09:41:31+00:00",
+  "updated_at": "2026-09-21T09:52:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3081,
+  "count": 3080,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "e5abaf5ff1778f2a",
+      "league": "ECUADOR SERIE A (PLAY OFF)",
+      "kickoff": "Sep 22 2026 8:30AM",
+      "home": "Barcelona SC",
+      "away": "Independiente del Valle",
+      "ht": null,
+      "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ab1375324217b96c",
       "league": "Results",
@@ -50641,23 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b6688135dedbcb57",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Juve Stabia",
-      "away": "Annecy",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "954ddd44bcd58312",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Sep 21 2026 4:00PM",
@@ -50677,7 +50671,10 @@
       "kickoff": "Sep 21 2026 4:00PM",
       "home": "FC Viktoriya Sumy",
       "away": "FC Nyva Ternopil",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51524,17 +51521,6 @@
       "kickoff": "Sep 22 2026 8:30AM",
       "home": "Cuiaba MT",
       "away": "Nautico PE",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e5abaf5ff1778f2a",
-      "league": "ECUADOR SERIE A (PLAY OFF)",
-      "kickoff": "Sep 22 2026 8:30AM",
-      "home": "Barcelona SC",
-      "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
       "status": "Running",
