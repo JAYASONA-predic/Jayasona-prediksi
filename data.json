@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T14:41:51+00:00",
+  "updated_at": "2026-09-21T14:54:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3102,
+  "count": 3100,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,57 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e9f979885fc7d863",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Odd BK 2",
+      "away": "Stabaek 2",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8ad621c63226f92f",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Landskrona BoIS U21",
+      "away": "Halmstads U21",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d35824dc8fce0ed5",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Albion FC (R)",
+      "away": "Defensor Sporting (R)",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50601,57 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "59df609173ecc4ce",
-      "league": "ENGLISH WOMEN SUPER LEAGUE",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Manchester City (w)",
-      "away": "Liverpool (w)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "25cb6d507513cf79",
-      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Cardiff City U21",
-      "away": "Peterborough United U21",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        6,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "602d8e730ecfb678",
-      "league": "SPAIN WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Deportivo Alaves (w)",
-      "away": "Barcelona (w)",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        6
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "29fb1f711be9894d",
       "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
       "kickoff": "Sep 21 2026 9:00PM",
@@ -50716,48 +50716,6 @@
       "ht": [
         3,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e9f979885fc7d863",
-      "league": "NORWAY 3RD DIVISION",
-      "kickoff": "Sep 21 2026 9:00PM",
-      "home": "Odd BK 2",
-      "away": "Stabaek 2",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8ad621c63226f92f",
-      "league": "SWEDEN LEAGUE CUP ELITE U21",
-      "kickoff": "Sep 21 2026 9:00PM",
-      "home": "Landskrona BoIS U21",
-      "away": "Halmstads U21",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d35824dc8fce0ed5",
-      "league": "URUGUAY RESERVE LEAGUE",
-      "kickoff": "Sep 21 2026 9:00PM",
-      "home": "Albion FC (R)",
-      "away": "Defensor Sporting (R)",
-      "ht": [
-        0,
-        2
       ],
       "ft": null,
       "status": "Running",
@@ -50864,7 +50822,10 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "Panthrakikos",
       "away": "Niki Volou",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50875,7 +50836,10 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "PAOK Thessaloniki B",
       "away": "Nestos Chrysoupoli",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50886,7 +50850,10 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "FC Struga Trim & Lum",
       "away": "KF Arsimi",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50897,7 +50864,10 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "OFK Vrsac",
       "away": "FK Bor 1919",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50908,7 +50878,10 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "TSC Backa Topola",
       "away": "GFK Dubocica",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50930,7 +50903,10 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "Club Oriental de Football (R)",
       "away": "Penarol (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51018,6 +50994,17 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "Uniao Leiria U23",
       "away": "Gil Vicente U23",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4b684e4cdc19da5a",
+      "league": "ESTONIA ESILIIGA B",
+      "kickoff": "Sep 21 2026 11:00PM",
+      "home": "FCI Levadia Tallinn U19",
+      "away": "Tammeka Tartu U21",
       "ht": null,
       "ft": null,
       "status": "Running",
