@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T17:07:51+00:00",
+  "updated_at": "2026-09-21T17:22:46+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3084,
+  "count": 3085,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "754dce8d0150c981",
+      "league": "UZBEKISTAN SUPER LEAGUE",
+      "kickoff": "Sep 21 2026 11:15PM",
+      "home": "Xorazm Urganch",
+      "away": "PFK Qizilqum",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        3
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -114,6 +131,20 @@
       "ft": [
         0,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "204d46343d913cba",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Sep 21 2026 11:00PM",
+      "home": "Dominica",
+      "away": "Anguilla",
+      "ht": null,
+      "ft": [
+        1,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50615,51 +50646,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2128a0795e68fd5a",
-      "league": "FRANCE LIGUE 2",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Annecy",
-      "away": "Dijon FCO",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6cdfed9da6529775",
-      "league": "FRANCE LIGUE 2",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Grenoble Foot 38",
-      "away": "Clermont",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "204d46343d913cba",
-      "league": "INTERNATIONAL FRIENDLY",
-      "kickoff": "Sep 21 2026 11:00PM",
-      "home": "Dominica",
-      "away": "Anguilla",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a27a2975d52b53d8",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 21 2026 11:00PM",
@@ -50743,20 +50729,6 @@
       "home": "Otelul Galati",
       "away": "Petrolul Ploiesti",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "754dce8d0150c981",
-      "league": "UZBEKISTAN SUPER LEAGUE",
-      "kickoff": "Sep 21 2026 11:15PM",
-      "home": "Xorazm Urganch",
-      "away": "PFK Qizilqum",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50921,7 +50893,10 @@
       "kickoff": "Sep 22 2026 12:30AM",
       "home": "Montana",
       "away": "FC Hebar 1918",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50932,7 +50907,10 @@
       "kickoff": "Sep 22 2026 12:30AM",
       "home": "Brann 2",
       "away": "FK Fyllingsdalen",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51180,11 +51158,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "10dc55bb8dee56ef",
+      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
+      "kickoff": "Sep 22 2026 1:45AM",
+      "home": "CIG 7 De Abril RJ",
+      "away": "SE Paraty RJ",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7dfa3a644b1453bf",
+      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
+      "kickoff": "Sep 22 2026 1:45AM",
+      "home": "Rio de Janeiro FC RJ",
+      "away": "Santa Cruz RJ",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ba9060be8519c504",
       "league": "ROMANIA LIGA I",
       "kickoff": "Sep 22 2026 2:00AM",
       "home": "Petrolul Ploiesti",
       "away": "AFK Csikszereda Miercurea Ciuc",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3f45c6ac233bd781",
+      "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
+      "kickoff": "Sep 22 2026 2:00AM",
+      "home": "Argentina U19",
+      "away": "Venezuela U19",
       "ht": null,
       "ft": null,
       "status": "Running",
