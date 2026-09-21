@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T13:40:05+00:00",
+  "updated_at": "2026-09-21T13:53:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3101,
+  "count": 3104,
   "archive_count": 3000,
   "matches": [
     {
@@ -29,6 +29,23 @@
       "ft": [
         0,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2566574683a300f9",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 21 2026 7:30PM",
+      "home": "Guangdong GZ-Power U20",
+      "away": "Shandong Taishan U20",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50635,37 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2a646ffc4d05e8f7",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Grenoble Foot 38",
-      "away": "Reims",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2566574683a300f9",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Sep 21 2026 7:30PM",
-      "home": "Guangdong GZ-Power U20",
-      "away": "Shandong Taishan U20",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "0f5d45cd66997876",
       "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
       "kickoff": "Sep 21 2026 8:00PM",
@@ -50727,7 +50713,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Paraguay U19",
       "away": "Uruguay U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50738,7 +50727,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Paraguay U20 (w)",
       "away": "Chile U20 (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50749,7 +50741,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Pyrgos AFC",
       "away": "AE Larissa",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50760,7 +50755,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "South Africa U20",
       "away": "Angola U20",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50771,7 +50769,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Amkar Perm",
       "away": "Dynamo Moscow 2",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50782,7 +50783,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Odd BK 2",
       "away": "Stabaek 2",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50793,7 +50797,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Landskrona BoIS U21",
       "away": "Halmstads U21",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50804,7 +50811,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Albion FC (R)",
       "away": "Defensor Sporting (R)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50826,7 +50836,10 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Deportivo Maldonado (R)",
       "away": "River Plate Montevideo (R)",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50936,6 +50949,17 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "OFK Vrsac",
       "away": "FK Bor 1919",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "89a36ebf37e8bab8",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 21 2026 10:00PM",
+      "home": "TSC Backa Topola",
+      "away": "GFK Dubocica",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51118,6 +51142,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "16e46fab9bd48a3b",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 22 2026 12:00AM",
+      "home": "FK Javor Ivanjica",
+      "away": "FK Proleter Zrenjanin",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "2d39ac342ed5ce05",
       "league": "SERBIA FIRST LEAGUE",
       "kickoff": "Sep 22 2026 12:00AM",
@@ -51134,6 +51169,17 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "FK Metalac",
       "away": "FK Graficar Beograd",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "676c3d9aafefe2ff",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 22 2026 12:00AM",
+      "home": "FK Napredak Krusevac",
+      "away": "FK Smederevo",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51365,6 +51411,17 @@
       "kickoff": "Sep 22 2026 2:00AM",
       "home": "Petrolul Ploiesti",
       "away": "AFK Csikszereda Miercurea Ciuc",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3c29d66d0b29e715",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 22 2026 2:00AM",
+      "home": "FK Spartak Subotica",
+      "away": "FK Vozdovac",
       "ht": null,
       "ft": null,
       "status": "Running",
