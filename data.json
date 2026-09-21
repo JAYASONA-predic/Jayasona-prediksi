@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T19:07:59+00:00",
+  "updated_at": "2026-09-21T19:25:05+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3084,
+  "count": 3082,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,40 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2c45989185dba650",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 22 2026 1:15AM",
+      "home": "Al Duhail SC (N)",
+      "away": "Al Arabi Doha",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ef85523604b62d1a",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 22 2026 1:15AM",
+      "home": "Lusail SC (N)",
+      "away": "Al Markhiya",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -532,7 +566,10 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "Dominica",
       "away": "Anguilla",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": [
         1,
         0
@@ -50624,40 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "19852ac61fbfde92",
-      "league": "AUSTRIA 2ND LEAGUE",
-      "kickoff": "Sep 19 2026 2:30AM",
-      "home": "Blau Weiss Linz",
-      "away": "Admira Wacker",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "66c817b0b66cebc8",
-      "league": "SCOTLAND CHAMPIONSHIP",
-      "kickoff": "Sep 19 2026 2:30AM",
-      "home": "Queens Park",
-      "away": "Ayr United",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e01fd788f04ad7eb",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 21 2026 11:00PM",
@@ -50785,34 +50788,6 @@
       "home": "Hobro IK",
       "away": "CA Atlanta",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2c45989185dba650",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 22 2026 1:15AM",
-      "home": "Al Duhail SC (N)",
-      "away": "Al Arabi Doha",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ef85523604b62d1a",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 22 2026 1:15AM",
-      "home": "Lusail SC (N)",
-      "away": "Al Markhiya",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51175,7 +51150,10 @@
       "kickoff": "Sep 22 2026 2:30AM",
       "home": "AC Dolomiti Bellunesi",
       "away": "Lumezzane",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51186,7 +51164,10 @@
       "kickoff": "Sep 22 2026 2:30AM",
       "home": "AC Trento",
       "away": "Pro Vercelli",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51197,7 +51178,10 @@
       "kickoff": "Sep 22 2026 2:30AM",
       "home": "Guidonia Montecelio FC",
       "away": "Livorno",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51208,7 +51192,10 @@
       "kickoff": "Sep 22 2026 2:30AM",
       "home": "Spezia",
       "away": "Vis Pesaro",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51219,7 +51206,10 @@
       "kickoff": "Sep 22 2026 2:30AM",
       "home": "Treviso",
       "away": "Desenzano FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51230,7 +51220,10 @@
       "kickoff": "Sep 22 2026 2:30AM",
       "home": "US Pianese",
       "away": "Sambenedettese",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
