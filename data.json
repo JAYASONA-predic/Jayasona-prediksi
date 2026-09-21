@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T00:35:03+00:00",
+  "updated_at": "2026-09-21T00:54:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3024,
+  "count": 3023,
   "archive_count": 3000,
   "matches": [
     {
@@ -273,6 +273,23 @@
       "ft": [
         1,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "15bd88ac5a35c2c7",
+      "league": "BRAZIL SERIE A",
+      "kickoff": "Sep 21 2026 6:30AM",
+      "home": "Atl Paranaense",
+      "away": "Bahia EC BA",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50644,43 +50661,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "17de73f85aa5fa50",
-      "league": "TURKEY SUPER LEAGUE",
-      "kickoff": "Sep 19 2026 1:00AM",
-      "home": "Kasimpasa",
-      "away": "Konyaspor",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "2c4bff6938c0dad9",
       "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
       "kickoff": "Sep 21 2026 1:45AM",
       "home": "Buzios RJ",
       "away": "Serra Macaense RJ",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "15bd88ac5a35c2c7",
-      "league": "BRAZIL SERIE A",
-      "kickoff": "Sep 21 2026 6:30AM",
-      "home": "Atl Paranaense",
-      "away": "Bahia EC BA",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50959,9 +50945,9 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4f1a126ad94bbc18",
+      "id": "e400efdbe33477e8",
       "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 10:00AM",
+      "kickoff": "Sep 21 2026 10:10AM",
       "home": "Queretaro",
       "away": "Club Leon",
       "ht": null,
