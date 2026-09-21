@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T06:36:27+00:00",
+  "updated_at": "2026-09-21T06:56:58+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3078,
   "archive_count": 3000,
@@ -50677,7 +50677,10 @@
       "kickoff": "Sep 21 2026 2:00PM",
       "home": "Okinawa SV",
       "away": "FC Tiamo Hirakata",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
