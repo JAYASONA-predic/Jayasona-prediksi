@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T14:09:12+00:00",
+  "updated_at": "2026-09-21T14:26:50+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3107,
+  "count": 3101,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a6d17d8c0526ebb4",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 21 2026 8:30PM",
+      "home": "USD Fezzanese",
+      "away": "AC Gozzano",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50635,70 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "73b8f6a4220169d2",
-      "league": "ARGENTINA PRIMERA B METROPOLITANA",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Club Comunicaciones",
-      "away": "Defensores Unidos",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "681da2d8e38aed40",
-      "league": "GREECE SUPER LEAGUE 2",
-      "kickoff": "Sep 21 2026 12:00PM",
-      "home": "Panthrakikos",
-      "away": "Niki Volou",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "79426f15687fad11",
-      "league": "GREECE SUPER LEAGUE 2",
-      "kickoff": "Sep 21 2026 12:00PM",
-      "home": "PAOK Thessaloniki B",
-      "away": "Nestos Chrysoupoli",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "41385cf22570d211",
-      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
-      "kickoff": "Sep 21 2026 12:00PM",
-      "home": "Sportist Svoge",
-      "away": "Vihren Sandanski",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a6d17d8c0526ebb4",
-      "league": "ITALY SERIE D",
-      "kickoff": "Sep 21 2026 8:30PM",
-      "home": "USD Fezzanese",
-      "away": "AC Gozzano",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "29fb1f711be9894d",
       "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
       "kickoff": "Sep 21 2026 9:00PM",
@@ -50844,7 +50797,10 @@
       "kickoff": "Sep 21 2026 9:30PM",
       "home": "FC Yaypan Fergana",
       "away": "PFK Aral Nukus",
-      "ht": null,
+      "ht": [
+        1,
+        4
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50855,7 +50811,10 @@
       "kickoff": "Sep 21 2026 9:30PM",
       "home": "Dinamo Kirov",
       "away": "Sokol Saratov",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50866,7 +50825,10 @@
       "kickoff": "Sep 21 2026 9:30PM",
       "home": "Mashuk KMV",
       "away": "Volgar Astrakhan",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50877,7 +50839,10 @@
       "kickoff": "Sep 21 2026 9:35PM",
       "home": "Al Nahda (OMA)",
       "away": "Saham",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50927,22 +50892,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "89a36ebf37e8bab8",
+      "id": "3c0de2772fb07427",
       "league": "SERBIA FIRST LEAGUE",
       "kickoff": "Sep 21 2026 10:00PM",
-      "home": "TSC Backa Topola",
-      "away": "GFK Dubocica",
+      "home": "OFK Vrsac",
+      "away": "FK Bor 1919",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "3c0de2772fb07427",
+      "id": "89a36ebf37e8bab8",
       "league": "SERBIA FIRST LEAGUE",
       "kickoff": "Sep 21 2026 10:00PM",
-      "home": "OFK Vrsac",
-      "away": "FK Bor 1919",
+      "home": "TSC Backa Topola",
+      "away": "GFK Dubocica",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50965,6 +50930,28 @@
       "kickoff": "Sep 21 2026 10:00PM",
       "home": "Club Oriental de Football (R)",
       "away": "Penarol (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a4feb5bb49fc0d25",
+      "league": "ESTONIA ESILIIGA",
+      "kickoff": "Sep 21 2026 10:30PM",
+      "home": "JK Nomme Kalju U21",
+      "away": "FC Nomme United U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "25a7d94ba7a29437",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Sep 21 2026 10:35PM",
+      "home": "Al Musannah FC (n)",
+      "away": "Al Shabab (OMA)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51015,55 +51002,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "89d2a55468d25c93",
-      "league": "NORTH MACEDONIA 1ST LEAGUE",
-      "kickoff": "Sep 21 2026 11:00PM",
-      "home": "FC Struga Trim & Lum",
-      "away": "KF Arsimi",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "6c2af0fc036dde40",
       "league": "PORTUGAL LIGA NEXT GEN U23",
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "Uniao Leiria U23",
       "away": "Gil Vicente U23",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "35cf0fb74a5c3b27",
-      "league": "SERBIA FIRST LEAGUE",
-      "kickoff": "Sep 21 2026 11:00PM",
-      "home": "OFK Vrsac",
-      "away": "FK Bor 1919",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "961ecf17a6de7e7a",
-      "league": "SERBIA FIRST LEAGUE",
-      "kickoff": "Sep 21 2026 11:00PM",
-      "home": "TSC Backa Topola",
-      "away": "GFK Dubocica",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "19a393646f27ab55",
-      "league": "URUGUAY RESERVE LEAGUE",
-      "kickoff": "Sep 21 2026 11:00PM",
-      "home": "Club Oriental de Football (R)",
-      "away": "Penarol (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
