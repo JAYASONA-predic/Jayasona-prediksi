@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T09:52:55+00:00",
+  "updated_at": "2026-09-21T10:09:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3080,
   "archive_count": 3000,
@@ -48,6 +48,23 @@
         2
       ],
       "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "954ddd44bcd58312",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 21 2026 4:00PM",
+      "home": "Roots FC",
+      "away": "HAL SC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -50635,37 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "121033afa8b107c6",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Winterthur",
-      "away": "Rapid Bucuresti",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "954ddd44bcd58312",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Sep 21 2026 4:00PM",
-      "home": "Roots FC",
-      "away": "HAL SC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea2a11fc0987ced2",
       "league": "UKRAINE 1ST LEAGUE",
       "kickoff": "Sep 21 2026 4:00PM",
@@ -50685,7 +50671,10 @@
       "kickoff": "Sep 21 2026 5:00PM",
       "home": "Zambia U20",
       "away": "Comoros U20",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50740,6 +50729,17 @@
       "kickoff": "Sep 21 2026 6:30PM",
       "home": "Vietnam (w)",
       "away": "Thailand (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ce784f69821a2742",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 21 2026 6:30PM",
+      "home": "ASC Football Club",
+      "away": "Kodagu FC",
       "ht": null,
       "ft": null,
       "status": "Running",
