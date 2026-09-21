@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T11:08:50+00:00",
+  "updated_at": "2026-09-21T11:26:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3083,
+  "count": 3084,
   "archive_count": 3000,
   "matches": [
     {
@@ -48,6 +48,23 @@
         2
       ],
       "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d0def46fe02ea979",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 21 2026 5:30PM",
+      "home": "Mylliem SC",
+      "away": "Meghalaya Police FT",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        5
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -50635,37 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "9857261e1578f939",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "FC Emmen",
-      "away": "Roda JC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d0def46fe02ea979",
-      "league": "INDIA SHILLONG PREMIER LEAGUE",
-      "kickoff": "Sep 21 2026 5:30PM",
-      "home": "Mylliem SC",
-      "away": "Meghalaya Police FT",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "031d6167612413a4",
       "league": "DENMARK FUTURE CUP",
       "kickoff": "Sep 21 2026 6:00PM",
@@ -50699,7 +50685,10 @@
       "kickoff": "Sep 21 2026 6:30PM",
       "home": "Japan (w)",
       "away": "Chinese Taipei (w)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50710,7 +50699,10 @@
       "kickoff": "Sep 21 2026 6:30PM",
       "home": "Vietnam (w)",
       "away": "Thailand (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50721,7 +50713,10 @@
       "kickoff": "Sep 21 2026 6:30PM",
       "home": "ASC Football Club",
       "away": "Kodagu FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50754,6 +50749,28 @@
       "kickoff": "Sep 21 2026 7:00PM",
       "home": "Sportivo San Lorenzo (R)",
       "away": "Olimpia Asuncion (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8d326b49efcc1e6d",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 21 2026 7:30PM",
+      "home": "Beijing Guoan U20",
+      "away": "Shenzhen Peng City U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2566574683a300f9",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 21 2026 7:30PM",
+      "home": "Guangdong GZ-Power U20",
+      "away": "Shandong Taishan U20",
       "ht": null,
       "ft": null,
       "status": "Running",
