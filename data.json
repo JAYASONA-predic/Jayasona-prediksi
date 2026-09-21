@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T15:38:28+00:00",
+  "updated_at": "2026-09-21T15:52:35+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3090,
+  "count": 3092,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fb50654b2c7c35e8",
+      "league": "NORTH MACEDONIA 1ST LEAGUE",
+      "kickoff": "Sep 21 2026 10:00PM",
+      "home": "FC Struga Trim & Lum",
+      "away": "KF Arsimi",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        6,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50635,23 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "3c41b0e100044675",
-      "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Chile U19",
-      "away": "Peru U19",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e7e9d20dc0e89789",
       "league": "OMAN FEDERATION CUP",
       "kickoff": "Sep 21 2026 9:40PM",
@@ -50684,20 +50684,6 @@
       "away": "Nestos Chrysoupoli",
       "ht": [
         1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fb50654b2c7c35e8",
-      "league": "NORTH MACEDONIA 1ST LEAGUE",
-      "kickoff": "Sep 21 2026 10:00PM",
-      "home": "FC Struga Trim & Lum",
-      "away": "KF Arsimi",
-      "ht": [
-        0,
         0
       ],
       "ft": null,
@@ -50805,7 +50791,10 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "Otelul Galati",
       "away": "FC Corvinul Hunedoara",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50816,7 +50805,10 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "Umm Salal (N)",
       "away": "Al Kharaitiyat",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50827,7 +50819,10 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "FC Rustavi",
       "away": "Iberia 1999",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50838,7 +50833,10 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "FC Petrzalka",
       "away": "FK Pohronie",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50849,7 +50847,10 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "Uniao Leiria U23",
       "away": "Gil Vicente U23",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50860,7 +50861,10 @@
       "kickoff": "Sep 21 2026 11:00PM",
       "home": "FCI Levadia Tallinn U19",
       "away": "Tammeka Tartu U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51036,6 +51040,39 @@
       "kickoff": "Sep 22 2026 12:00AM",
       "home": "Spartak Pleven",
       "away": "Ludogorets Razgrad II",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6cd8a7992d3b31db",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 22 2026 12:00AM",
+      "home": "Lyn 1896 FK 2",
+      "away": "Sarpsborg 08 2",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0ba68c1054933046",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 22 2026 12:00AM",
+      "home": "Madla IL",
+      "away": "Haugesund 2",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "04a29d573c081fe6",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 22 2026 12:00AM",
+      "home": "Spjelkavik IL Fotball",
+      "away": "Rosenborg 2",
       "ht": null,
       "ft": null,
       "status": "Running",
