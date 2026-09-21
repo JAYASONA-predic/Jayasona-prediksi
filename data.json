@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T10:26:06+00:00",
+  "updated_at": "2026-09-21T10:39:42+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3080,
+  "count": 3082,
   "archive_count": 3000,
   "matches": [
     {
@@ -63,6 +63,23 @@
       "ft": [
         3,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ea2a11fc0987ced2",
+      "league": "UKRAINE 1ST LEAGUE",
+      "kickoff": "Sep 21 2026 4:00PM",
+      "home": "FC Viktoriya Sumy",
+      "away": "FC Nyva Ternopil",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50635,37 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4d0a8c440fda023b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Roda JC",
-      "away": "RKC Waalwijk",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        6
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ea2a11fc0987ced2",
-      "league": "UKRAINE 1ST LEAGUE",
-      "kickoff": "Sep 21 2026 4:00PM",
-      "home": "FC Viktoriya Sumy",
-      "away": "FC Nyva Ternopil",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "1bf4041ccc2981b5",
       "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
       "kickoff": "Sep 21 2026 5:00PM",
@@ -50743,6 +50729,39 @@
       "kickoff": "Sep 21 2026 6:30PM",
       "home": "ASC Football Club",
       "away": "Kodagu FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e26d0163fa70b463",
+      "league": "UZBEKISTAN PRO LEAGUE",
+      "kickoff": "Sep 21 2026 7:00PM",
+      "home": "FC Lochin",
+      "away": "Respublika FA",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7e8fa90f8af42a67",
+      "league": "UZBEKISTAN PRO LEAGUE",
+      "kickoff": "Sep 21 2026 7:00PM",
+      "home": "Pakhtakor Tashkent II",
+      "away": "Shurtan Guzar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b43621ab122af9e8",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 21 2026 7:00PM",
+      "home": "Sportivo San Lorenzo (R)",
+      "away": "Olimpia Asuncion (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
