@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T00:12:45+00:00",
+  "updated_at": "2026-09-21T00:35:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3025,
+  "count": 3024,
   "archive_count": 3000,
   "matches": [
     {
@@ -341,6 +341,23 @@
       "ft": [
         0,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c05608e5cdebbb65",
+      "league": "ARGENTINA LIGA PROFESIONAL",
+      "kickoff": "Sep 21 2026 6:15AM",
+      "home": "Belgrano",
+      "away": "Estudiantes de Rio Cuarto",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50644,43 +50661,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7ee8813f56715a9a",
-      "league": "SWEDEN SUPERETTAN",
-      "kickoff": "Sep 19 2026 1:00AM",
-      "home": "Falkenbergs",
-      "away": "Ostersunds FK",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "2c4bff6938c0dad9",
       "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
       "kickoff": "Sep 21 2026 1:45AM",
       "home": "Buzios RJ",
       "away": "Serra Macaense RJ",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c05608e5cdebbb65",
-      "league": "ARGENTINA LIGA PROFESIONAL",
-      "kickoff": "Sep 21 2026 6:15AM",
-      "home": "Belgrano",
-      "away": "Estudiantes de Rio Cuarto",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50870,7 +50856,10 @@
       "kickoff": "Sep 21 2026 7:30AM",
       "home": "Oriente Petrolero",
       "away": "Blooming Santa Cruz",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50881,7 +50870,10 @@
       "kickoff": "Sep 21 2026 7:30AM",
       "home": "LDU Quito",
       "away": "Universidad Catolica del Ecuador",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50892,7 +50884,10 @@
       "kickoff": "Sep 21 2026 7:30AM",
       "home": "CD Luis Angel Firpo",
       "away": "Atletico Balboa",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
