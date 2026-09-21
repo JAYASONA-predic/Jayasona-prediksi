@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T10:51:34+00:00",
+  "updated_at": "2026-09-21T11:08:50+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3082,
+  "count": 3083,
   "archive_count": 3000,
   "matches": [
     {
@@ -48,6 +48,23 @@
         2
       ],
       "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1bf4041ccc2981b5",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 21 2026 5:00PM",
+      "home": "Zambia U20",
+      "away": "Comoros U20",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -50635,37 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5f21417474012ce5",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Heracles Almelo",
-      "away": "Den Bosch",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1bf4041ccc2981b5",
-      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
-      "kickoff": "Sep 21 2026 5:00PM",
-      "home": "Zambia U20",
-      "away": "Comoros U20",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d0def46fe02ea979",
       "league": "INDIA SHILLONG PREMIER LEAGUE",
       "kickoff": "Sep 21 2026 5:30PM",
@@ -50774,11 +50760,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "0f5d45cd66997876",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 21 2026 8:00PM",
+      "home": "Botswana U20",
+      "away": "Malawi U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ff8bc20b4dd7214b",
       "league": "GREECE SUPER LEAGUE 2",
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Pyrgos AFC",
       "away": "AE Larissa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b682196bb73dcff3",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "South Africa U20",
+      "away": "Angola U20",
       "ht": null,
       "ft": null,
       "status": "Running",
