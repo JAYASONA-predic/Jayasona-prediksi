@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T07:54:31+00:00",
+  "updated_at": "2026-09-21T08:10:06+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3078,
   "archive_count": 3000,
@@ -37,6 +37,23 @@
         2
       ],
       "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b5f0971805166b07",
+      "league": "JAPAN FOOTBALL LEAGUE",
+      "kickoff": "Sep 21 2026 2:00PM",
+      "home": "Okinawa SV",
+      "away": "FC Tiamo Hirakata",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
@@ -50641,37 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ebfd7151752bc7a2",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 1:45AM",
-      "home": "AS Roma (V)",
-      "away": "Barcelona (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b5f0971805166b07",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 21 2026 2:00PM",
-      "home": "Okinawa SV",
-      "away": "FC Tiamo Hirakata",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8d60e676ebb79e68",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
       "kickoff": "Sep 21 2026 3:00PM",
@@ -50746,6 +50732,17 @@
       "kickoff": "Sep 21 2026 4:00PM",
       "home": "FC Viktoriya Sumy",
       "away": "FC Nyva Ternopil",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1bf4041ccc2981b5",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 21 2026 5:00PM",
+      "home": "Zambia U20",
+      "away": "Comoros U20",
       "ht": null,
       "ft": null,
       "status": "Running",
