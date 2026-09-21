@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T03:09:12+00:00",
+  "updated_at": "2026-09-21T03:27:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3005,
+  "count": 3003,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "f39abf7871e5e1ff",
+      "league": "COLOMBIA PRIMERA A",
+      "kickoff": "Sep 21 2026 9:15AM",
+      "home": "Llaneros SA",
+      "away": "Atletico Nacional",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "936300a7c2148a91",
       "league": "COSTA RICA PRIMERA DIVISION",
@@ -460,6 +477,20 @@
       "ft": [
         0,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f2aec4cb715c21d8",
+      "league": "GUATEMALA LIGA NATIONAL",
+      "kickoff": "Sep 21 2026 7:00AM",
+      "home": "Suchitepequez",
+      "away": "Xelaju MC",
+      "ht": null,
+      "ft": [
+        2,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50630,71 +50661,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c6941c5ba9ddf2f9",
-      "league": "AUSTRIA BUNDESLIGA",
-      "kickoff": "Sep 19 2026 1:30AM",
-      "home": "Rapid Wien",
-      "away": "WSG Tirol",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "23743aa5f0c3b20b",
-      "league": "SWITZERLAND CHALLENGE LEAGUE",
-      "kickoff": "Sep 19 2026 1:30AM",
-      "home": "Neuchatel Xamax",
-      "away": "FC Rapperswil-Jona",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "2c4bff6938c0dad9",
       "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
       "kickoff": "Sep 21 2026 1:45AM",
       "home": "Buzios RJ",
       "away": "Serra Macaense RJ",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f2aec4cb715c21d8",
-      "league": "GUATEMALA LIGA NATIONAL",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Suchitepequez",
-      "away": "Xelaju MC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f39abf7871e5e1ff",
-      "league": "COLOMBIA PRIMERA A",
-      "kickoff": "Sep 21 2026 9:15AM",
-      "home": "Llaneros SA",
-      "away": "Atletico Nacional",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
