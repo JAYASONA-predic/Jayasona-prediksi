@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T16:26:42+00:00",
+  "updated_at": "2026-09-21T16:41:12+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3087,
+  "count": 3085,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "25a7d94ba7a29437",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Sep 21 2026 10:35PM",
+      "home": "Al Musannah FC (n)",
+      "away": "Al Shabab (OMA)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -131,6 +148,23 @@
       "ft": [
         0,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "21578fe87ff22832",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 21 2026 10:00PM",
+      "home": "Sportist Svoge",
+      "away": "Vihren Sandanski",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        3,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50618,74 +50652,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "dc60c18d7fa3a8af",
-      "league": "NETHERLANDS EERSTE DIVISIE",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Jong Ajax",
-      "away": "Roda JC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "db04dfaf89c35f77",
-      "league": "NETHERLANDS EERSTE DIVISIE",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Jong AZ Alkmaar",
-      "away": "Volendam",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e7e9d20dc0e89789",
       "league": "OMAN FEDERATION CUP",
       "kickoff": "Sep 21 2026 9:40PM",
       "home": "Al Nasr (OMA)",
       "away": "Bahla Club",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "21578fe87ff22832",
-      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
-      "kickoff": "Sep 21 2026 10:00PM",
-      "home": "Sportist Svoge",
-      "away": "Vihren Sandanski",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "25a7d94ba7a29437",
-      "league": "OMAN FEDERATION CUP",
-      "kickoff": "Sep 21 2026 10:35PM",
-      "home": "Al Musannah FC (n)",
-      "away": "Al Shabab (OMA)",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
