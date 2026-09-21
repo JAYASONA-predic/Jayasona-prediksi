@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T12:29:55+00:00",
+  "updated_at": "2026-09-21T12:46:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3095,
+  "count": 3097,
   "archive_count": 3000,
   "matches": [
     {
@@ -63,6 +63,40 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3872af8d9184206f",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
+      "kickoff": "Sep 21 2026 6:30PM",
+      "home": "Japan (w)",
+      "away": "Chinese Taipei (w)",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "acff51a338794a4f",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
+      "kickoff": "Sep 21 2026 6:30PM",
+      "home": "Vietnam (w)",
+      "away": "Thailand (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50618,68 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1598467b1ff5ad5c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Reims",
-      "away": "Stade Lavallois",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "044b8570add897d9",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:00AM",
-      "home": "Rodez AF",
-      "away": "Stade Lavallois",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3872af8d9184206f",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
-      "kickoff": "Sep 21 2026 6:30PM",
-      "home": "Japan (w)",
-      "away": "Chinese Taipei (w)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "acff51a338794a4f",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
-      "kickoff": "Sep 21 2026 6:30PM",
-      "home": "Vietnam (w)",
-      "away": "Thailand (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e26d0163fa70b463",
       "league": "UZBEKISTAN PRO LEAGUE",
       "kickoff": "Sep 21 2026 7:00PM",
@@ -50741,7 +50713,10 @@
       "kickoff": "Sep 21 2026 7:30PM",
       "home": "Guangdong GZ-Power U20",
       "away": "Shandong Taishan U20",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50791,6 +50766,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "29fb1f711be9894d",
+      "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Paraguay U19",
+      "away": "Uruguay U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "41a5cb13b7daea02",
+      "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - WOMEN FOOTBALL U20",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Paraguay U20 (w)",
+      "away": "Chile U20 (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ff8bc20b4dd7214b",
       "league": "GREECE SUPER LEAGUE 2",
       "kickoff": "Sep 21 2026 9:00PM",
@@ -50813,6 +50810,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "e9f979885fc7d863",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Odd BK 2",
+      "away": "Stabaek 2",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "d35824dc8fce0ed5",
       "league": "URUGUAY RESERVE LEAGUE",
       "kickoff": "Sep 21 2026 9:00PM",
@@ -50829,6 +50837,17 @@
       "kickoff": "Sep 21 2026 9:00PM",
       "home": "Colon FC (R)",
       "away": "CA Juventud (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f6be69f3bd3122c5",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 21 2026 9:00PM",
+      "home": "Deportivo Maldonado (R)",
+      "away": "River Plate Montevideo (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
