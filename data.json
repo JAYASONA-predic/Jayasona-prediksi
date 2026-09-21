@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T10:09:09+00:00",
+  "updated_at": "2026-09-21T10:26:06+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3080,
   "archive_count": 3000,
@@ -50685,7 +50685,10 @@
       "kickoff": "Sep 21 2026 5:30PM",
       "home": "Mylliem SC",
       "away": "Meghalaya Police FT",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
