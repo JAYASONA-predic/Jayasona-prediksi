@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-21T18:12:02+00:00",
+  "updated_at": "2026-09-21T18:29:13+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3090,
+  "count": 3089,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,40 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "160913e313268e7c",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 22 2026 12:30AM",
+      "home": "Montana",
+      "away": "FC Hebar 1918",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9332505ae609b4e0",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 22 2026 12:30AM",
+      "home": "Brann 2",
+      "away": "FK Fyllingsdalen",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        7,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50618,40 +50652,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e862b8aeb696e5b1",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:30AM",
-      "home": "Wisla Krakow",
-      "away": "Dundalk",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "63c1ef2ca1aa12ae",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 2:30AM",
-      "home": "Blau Weiss Linz",
-      "away": "Ruch Chorzow",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a27a2975d52b53d8",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 21 2026 11:00PM",
@@ -50735,34 +50735,6 @@
       "home": "Otelul Galati",
       "away": "Petrolul Ploiesti",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "160913e313268e7c",
-      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
-      "kickoff": "Sep 22 2026 12:30AM",
-      "home": "Montana",
-      "away": "FC Hebar 1918",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9332505ae609b4e0",
-      "league": "NORWAY 3RD DIVISION",
-      "kickoff": "Sep 22 2026 12:30AM",
-      "home": "Brann 2",
-      "away": "FK Fyllingsdalen",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51007,7 +50979,10 @@
       "kickoff": "Sep 22 2026 1:30AM",
       "home": "Aldosivi",
       "away": "Atletico Tucuman",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51084,6 +51059,17 @@
       "kickoff": "Sep 22 2026 2:00AM",
       "home": "Argentina U19",
       "away": "Venezuela U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9f8d3b389517f446",
+      "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
+      "kickoff": "Sep 22 2026 2:00AM",
+      "home": "Peru U19",
+      "away": "Panama U19",
       "ht": null,
       "ft": null,
       "status": "Running",
