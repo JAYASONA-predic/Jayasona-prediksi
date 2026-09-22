@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T09:09:26+00:00",
+  "updated_at": "2026-09-22T09:25:13+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3073,
+  "count": 3075,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "5a8a3c7cec5c6193",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 22 2026 3:30PM",
+      "home": "Lanzhou Longyuan Athletic U20",
+      "away": "Shijiazhuang Gongfu U20",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        6
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "b9b91e5037fda36d",
       "league": "CHINA LEAGUE U20",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a6dcb55cab7a8fc5",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 6:30AM",
-      "home": "Vila Nova GO",
-      "away": "Sao Bernardo SP",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5a8a3c7cec5c6193",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Sep 22 2026 3:30PM",
-      "home": "Lanzhou Longyuan Athletic U20",
-      "away": "Shijiazhuang Gongfu U20",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "26c2c09c0d2fbd3a",
       "league": "CHINA LEAGUE U20",
       "kickoff": "Sep 22 2026 3:30PM",
@@ -51250,6 +51236,39 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Stirling Albion",
       "away": "Cumbernauld Colts",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6c2379bfca44f185",
+      "league": "ENGLISH FA CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Gainsborough Trinity",
+      "away": "Leamington",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "78bea4f65f8f0a49",
+      "league": "ENGLISH FA CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Truro City FC",
+      "away": "Merthyr Town",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b425a5fa7048c208",
+      "league": "ENGLISH FA CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Worksop Town",
+      "away": "AFC Telford United",
       "ht": null,
       "ft": null,
       "status": "Running",
