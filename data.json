@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T22:08:37+00:00",
+  "updated_at": "2026-09-22T22:24:28+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3014,
   "archive_count": 3000,
@@ -50736,7 +50736,10 @@
       "kickoff": "Sep 23 2026 5:30AM",
       "home": "2 de Mayo (N)",
       "away": "Sol de America",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50747,7 +50750,10 @@
       "kickoff": "Sep 23 2026 5:30AM",
       "home": "Alianza FC (R)",
       "away": "CD Municipal Limeno (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
