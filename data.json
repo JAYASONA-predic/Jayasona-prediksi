@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T10:41:56+00:00",
+  "updated_at": "2026-09-22T10:53:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3076,
+  "count": 3074,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1d8498b5cd1f6162",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 22 2026 5:00PM",
+      "home": "RTC FC",
+      "away": "Tsirang FC",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        6,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1e4b401f770efbd0",
+      "league": "THAILAND LEAGUE U21",
+      "kickoff": "Sep 22 2026 4:30PM",
+      "home": "Port FC U21",
+      "away": "Bangkok United U21",
+      "ht": [
+        3,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "dc316db3f36f879c",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -50627,54 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4264f1ab9024a0f5",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:30AM",
-      "home": "USA (V)",
-      "away": "Colombia (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e5911ff5967bf111",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:30AM",
-      "home": "Chelsea (V)",
-      "away": "Lille OSC (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1e4b401f770efbd0",
-      "league": "THAILAND LEAGUE U21",
-      "kickoff": "Sep 22 2026 4:30PM",
-      "home": "Port FC U21",
-      "away": "Bangkok United U21",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "160c9f9913561964",
       "league": "MYANMAR NATIONAL LEAGUE U20",
       "kickoff": "Sep 22 2026 5:00PM",
@@ -50717,20 +50703,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1d8498b5cd1f6162",
-      "league": "BHUTAN PREMIER LEAGUE",
-      "kickoff": "Sep 22 2026 5:00PM",
-      "home": "RTC FC",
-      "away": "Tsirang FC",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "db2b6ae2931f132a",
       "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
       "kickoff": "Sep 22 2026 5:30PM",
@@ -50750,7 +50722,10 @@
       "kickoff": "Sep 22 2026 6:00PM",
       "home": "Korea Republic U23",
       "away": "Saudi Arabia U23",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50772,7 +50747,10 @@
       "kickoff": "Sep 22 2026 6:00PM",
       "home": "Elfsborg U21",
       "away": "Orgryte IS U21",
-      "ht": null,
+      "ht": [
+        3,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
