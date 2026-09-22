@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T01:38:33+00:00",
+  "updated_at": "2026-09-22T01:50:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3023,
   "archive_count": 3000,
@@ -50894,7 +50894,10 @@
       "kickoff": "Sep 22 2026 9:00AM",
       "home": "Umecit FC",
       "away": "Union Cocle FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50905,7 +50908,10 @@
       "kickoff": "Sep 22 2026 9:00AM",
       "home": "Arnett Gardens",
       "away": "Dunbeholden FC",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
