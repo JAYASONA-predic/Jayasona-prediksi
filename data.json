@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T19:37:35+00:00",
+  "updated_at": "2026-09-22T19:50:59+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3083,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cd4d2b171c690244",
+      "league": "AUSTRIA REGIONAL LEAGUE SOUTH",
+      "kickoff": "Sep 23 2026 1:45AM",
+      "home": "SK Austria Klagenfurt",
+      "away": "SV Donau Klagenfurt",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ffc6c057fe3db758",
       "league": "AUSTRIA REGIONAL LEAGUE EAST",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e79dab6574ed0922",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 8:15AM",
-      "home": "Colombia (V)",
-      "away": "Greece (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cd4d2b171c690244",
-      "league": "AUSTRIA REGIONAL LEAGUE SOUTH",
-      "kickoff": "Sep 23 2026 1:45AM",
-      "home": "SK Austria Klagenfurt",
-      "away": "SV Donau Klagenfurt",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "28c1289a592f5f32",
       "league": "ENGLISH FOOTBALL LEAGUE TROPHY",
       "kickoff": "Sep 23 2026 2:00AM",
@@ -51412,7 +51398,10 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Hashtag United",
       "away": "Walthamstow",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51521,7 +51510,10 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Stourbridge",
       "away": "Real Bedford FC",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51599,7 +51591,10 @@
       "kickoff": "Sep 23 2026 3:00AM",
       "home": "Arsenal (w)",
       "away": "HB Koge (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51621,6 +51616,20 @@
       "kickoff": "Sep 23 2026 3:00AM",
       "home": "Real Madrid (w)",
       "away": "Paris Saint Germain (w)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ba39a0813aff5df0",
+      "league": "ICELAND U19 LEAGUE A",
+      "kickoff": "Sep 23 2026 4:00AM",
+      "home": "Breidablik/Augnablik/Smari U19",
+      "away": "HK/Ymir U19",
       "ht": null,
       "ft": null,
       "status": "Running",
