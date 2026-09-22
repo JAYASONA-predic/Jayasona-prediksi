@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T10:10:16+00:00",
+  "updated_at": "2026-09-22T10:27:29+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3075,
   "archive_count": 3000,
@@ -50736,7 +50736,10 @@
       "kickoff": "Sep 22 2026 5:30PM",
       "home": "Uganda U20",
       "away": "Sudan U20",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
