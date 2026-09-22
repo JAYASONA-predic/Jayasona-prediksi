@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T17:24:54+00:00",
+  "updated_at": "2026-09-22T17:37:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3084,
+  "count": 3090,
   "archive_count": 3000,
   "matches": [
     {
@@ -50694,7 +50694,10 @@
       "kickoff": "Sep 23 2026 12:45AM",
       "home": "Bayern Munchen (w)",
       "away": "Manchester City (w)",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51041,6 +51044,61 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c3315f9c33671997",
+      "league": "NETHERLANDS CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 2:00AM",
+      "home": "HHC Hardenberg",
+      "away": "BVV Barendrecht",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "eb4d42dab4d903d0",
+      "league": "NETHERLANDS CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 2:00AM",
+      "home": "RKAV Volendam",
+      "away": "SV Spakenburg",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "126b1600092dbc67",
+      "league": "ARGENTINA TORNEO PROMOCIONAL AMATEUR (PLAY OFF)",
+      "kickoff": "Sep 23 2026 2:00AM",
+      "home": "Uribelarrea FC",
+      "away": "Club Nautico Hacoaj",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f1f9b8a00d9c3b57",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 23 2026 2:00AM",
+      "home": "San Lorenzo (R)",
+      "away": "CA Huracan (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aee6abd4dd6b6f05",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 23 2026 2:00AM",
+      "home": "Velez Sarsfield (R)",
+      "away": "Ferro Carril Oeste (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b53ad9d6b638ab8e",
       "league": "ENGLISH FOOTBALL LEAGUE TROPHY",
       "kickoff": "Sep 23 2026 2:30AM",
@@ -51332,6 +51390,17 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Binfield FC",
       "away": "Moneyfields",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "86799f6d09174719",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH CENTRAL",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Winchester City FC",
+      "away": "Bognor Regis Town",
       "ht": null,
       "ft": null,
       "status": "Running",
