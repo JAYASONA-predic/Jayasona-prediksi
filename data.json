@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T11:39:39+00:00",
+  "updated_at": "2026-09-22T11:51:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3071,
+  "count": 3074,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "6f7ff94915f018e0",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 22 2026 6:00PM",
+      "home": "Elfsborg U21",
+      "away": "Orgryte IS U21",
+      "ht": [
+        3,
+        2
+      ],
+      "ft": [
+        3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "db2b6ae2931f132a",
       "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
@@ -50644,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1c69ed4ea2a66381",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:45AM",
-      "home": "France (V)",
-      "away": "Croatia (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e8de7feeaeb70db4",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
       "kickoff": "Sep 22 2026 6:00PM",
@@ -50683,20 +50683,6 @@
       "ht": [
         0,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6f7ff94915f018e0",
-      "league": "SWEDEN LEAGUE CUP ELITE U21",
-      "kickoff": "Sep 22 2026 6:00PM",
-      "home": "Elfsborg U21",
-      "away": "Orgryte IS U21",
-      "ht": [
-        3,
-        2
       ],
       "ft": null,
       "status": "Running",
@@ -50733,6 +50719,20 @@
       "kickoff": "Sep 22 2026 7:00PM",
       "home": "CD Santa Clara U23",
       "away": "Portimonense U23",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0e91b7fc74dca689",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 22 2026 8:00PM",
+      "home": "Charlton Athletic U21",
+      "away": "Sheffield United U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50755,6 +50755,39 @@
       "kickoff": "Sep 22 2026 10:30PM",
       "home": "CSC Dumbravita",
       "away": "CSM Resita",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "389ae09e82969774",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 22 2026 10:40PM",
+      "home": "Al Hamriyah",
+      "away": "Al Dhaid",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "58c1b4135d8e5829",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 22 2026 10:40PM",
+      "home": "Al Oruba Fujairah",
+      "away": "Dubai City FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "06e084d0f04a3766",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 22 2026 10:40PM",
+      "home": "Dibba Al Fujairah",
+      "away": "Al Ittifaq (UAE)",
       "ht": null,
       "ft": null,
       "status": "Running",
