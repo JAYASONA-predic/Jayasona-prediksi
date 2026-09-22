@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T01:24:47+00:00",
+  "updated_at": "2026-09-22T01:38:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3022,
+  "count": 3023,
   "archive_count": 3000,
   "matches": [
     {
@@ -50866,7 +50866,10 @@
       "kickoff": "Sep 22 2026 8:30AM",
       "home": "Corinthians SP (w)",
       "away": "Bahia EC BA (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50924,6 +50927,17 @@
       "kickoff": "Sep 22 2026 9:06AM",
       "home": "Santos Laguna (w)",
       "away": "Cruz Azul (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "243efd314f3ac26e",
+      "league": "MEXICO PRIMERA PREMIER",
+      "kickoff": "Sep 22 2026 10:05AM",
+      "home": "Reboceros De La Piedad",
+      "away": "Deportivo Irapuato",
       "ht": null,
       "ft": null,
       "status": "Running",
