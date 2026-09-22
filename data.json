@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T15:11:33+00:00",
+  "updated_at": "2026-09-22T15:26:38+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3095,
+  "count": 3094,
   "archive_count": 3000,
   "matches": [
     {
@@ -52,6 +52,40 @@
       "ft": [
         5,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aa9b3a1bc722505d",
+      "league": "ARGENTINA PRIMERA C RESERVE",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Central Ballester (R)",
+      "away": "CA Claypole (R)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1c50709080b6399f",
+      "league": "ARGENTINA PRIMERA C RESERVE",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Juventud Unida San Miguel (R)",
+      "away": "Deportivo Paraguayo (R)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "279efe6ab2045bcf",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:15AM",
-      "home": "Bayer 04 Leverkusen (V)",
-      "away": "Manchester United (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5172dac9a3b60abe",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:15AM",
-      "home": "Lazio (V)",
-      "away": "Manchester City (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "aa9b3a1bc722505d",
-      "league": "ARGENTINA PRIMERA C RESERVE",
-      "kickoff": "Sep 22 2026 9:00PM",
-      "home": "Central Ballester (R)",
-      "away": "CA Claypole (R)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1c50709080b6399f",
-      "league": "ARGENTINA PRIMERA C RESERVE",
-      "kickoff": "Sep 22 2026 9:00PM",
-      "home": "Juventud Unida San Miguel (R)",
-      "away": "Deportivo Paraguayo (R)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "56649d78851197cc",
       "league": "UZBEKISTAN PRO LEAGUE",
       "kickoff": "Sep 22 2026 10:00PM",
@@ -50862,7 +50834,10 @@
       "kickoff": "Sep 22 2026 10:30PM",
       "home": "CSC Dumbravita",
       "away": "CSM Resita",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50917,6 +50892,17 @@
       "kickoff": "Sep 22 2026 11:00PM",
       "home": "DC Power FC (w)",
       "away": "Fort Lauderdale United FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "06ff3791de036001",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 22 2026 11:30PM",
+      "home": "Skjetten Fotball",
+      "away": "Skjervoy",
       "ht": null,
       "ft": null,
       "status": "Running",
