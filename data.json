@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T14:56:33+00:00",
+  "updated_at": "2026-09-22T15:11:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3097,
+  "count": 3095,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,40 @@
       "ft": [
         0,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "91ae5f3a96073180",
+      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Tanzania U20",
+      "away": "Burundi U20",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "265cd4464d26b48c",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Mozambique U20",
+      "away": "Mauritius U20",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d76e2e405b6afe54",
-      "league": "COLOMBIA PRIMERA B",
-      "kickoff": "Sep 19 2026 7:05AM",
-      "home": "Patriotas Boyaca",
-      "away": "Union Magdalena",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "805e223718964364",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "AS Monaco (V)",
-      "away": "Bayern Munchen (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "91ae5f3a96073180",
-      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
-      "kickoff": "Sep 22 2026 9:00PM",
-      "home": "Tanzania U20",
-      "away": "Burundi U20",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "265cd4464d26b48c",
-      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
-      "kickoff": "Sep 22 2026 9:00PM",
-      "home": "Mozambique U20",
-      "away": "Mauritius U20",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "aa9b3a1bc722505d",
       "league": "ARGENTINA PRIMERA C RESERVE",
       "kickoff": "Sep 22 2026 9:00PM",
@@ -50876,7 +50848,10 @@
       "kickoff": "Sep 22 2026 10:00PM",
       "home": "Yupanqui (R)",
       "away": "Victoriano Arenas (R)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
