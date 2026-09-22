@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T18:11:23+00:00",
+  "updated_at": "2026-09-22T18:30:37+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3088,
+  "count": 3093,
   "archive_count": 3000,
   "matches": [
     {
@@ -50792,7 +50792,10 @@
       "kickoff": "Sep 23 2026 1:30AM",
       "home": "FCM Traiskirchen",
       "away": "Kremser SC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51315,11 +51318,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "8bb8a05b832bbe90",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH EAST",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Faversham Town FC",
+      "away": "Whitstable Town",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "db3ac2e14ffb4153",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH EAST",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "South Park FC",
+      "away": "Cray Valley Paper Mills",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a2c7d5529d6bd1a9",
       "league": "ENGLISH ISTHMIAN LEAGUE PREMIER DIVISION",
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Brentwood Town",
       "away": "Maldon & Tiptree FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ab2ac02bf4140d89",
+      "league": "ENGLISH ISTHMIAN LEAGUE PREMIER DIVISION",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Three Bridges",
+      "away": "Leatherhead FC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51375,6 +51411,28 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Hashtag United",
       "away": "Walthamstow",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "738ac344b48bb115",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE NORTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Felixstowe & Walton United",
+      "away": "AFC Sudbury",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5da05836a0b88f7",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE NORTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Takeley",
+      "away": "Redbridge FC",
       "ht": null,
       "ft": null,
       "status": "Running",
