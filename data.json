@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T02:09:13+00:00",
+  "updated_at": "2026-09-22T02:26:14+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3022,
+  "count": 3017,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Independiente del Valle",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bc98dc6e7362cc47",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Sep 22 2026 8:30AM",
+      "home": "Independiente Petrolero",
+      "away": "CD Real Tomayapo",
+      "ht": [
+        4,
+        0
+      ],
+      "ft": [
+        5,
+        1
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -80,6 +97,23 @@
       "ft": [
         1,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "92d09dbf3a169673",
+      "league": "ARGENTINA LIGA PROFESIONAL",
+      "kickoff": "Sep 22 2026 8:15AM",
+      "home": "Lanus",
+      "away": "Estudiantes La Plata",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -911,6 +945,57 @@
       ],
       "ft": [
         1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7299dc675523ef29",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 22 2026 6:00AM",
+      "home": "CA Barracas Central",
+      "away": "Estudiantes La Plata",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "040f9f8055b91578",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 22 2026 6:00AM",
+      "home": "Independiente Rivadavia",
+      "away": "Lanus",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fedd982e672d0392",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 22 2026 6:00AM",
+      "home": "Lanus",
+      "away": "Nueva Chicago",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
         1
       ],
       "status": "Completed",
@@ -50588,91 +50673,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "33ac9f078423ec46",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30AM",
-      "home": "Sweden (V)",
-      "away": "Portugal (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2317773e08a73abd",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30AM",
-      "home": "Chelsea (V)",
-      "away": "Sevilla (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "313dc737fc66bfcf",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30AM",
-      "home": "Torino (V)",
-      "away": "Juventus (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6cd1f7cf839fa25a",
-      "league": "PARAGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 19 2026 5:30AM",
-      "home": "Nacional Asuncion",
-      "away": "2 de Mayo",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8294a9eade564fc2",
-      "league": "ARGENTINA PRIMERA C",
-      "kickoff": "Sep 19 2026 5:30AM",
-      "home": "Defensores de Cambaceres",
-      "away": "JJ Urquiza",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3705a6966e29aeb0",
       "league": "BRAZIL CAMPEONATO PAULISTA U20",
       "kickoff": "Sep 22 2026 4:00AM",
@@ -50695,28 +50695,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7299dc675523ef29",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 22 2026 6:00AM",
-      "home": "CA Barracas Central",
-      "away": "Estudiantes La Plata",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "040f9f8055b91578",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 22 2026 6:00AM",
-      "home": "Independiente Rivadavia",
-      "away": "Lanus",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cdeb87d879d6a4bd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 22 2026 6:00AM",
@@ -50733,17 +50711,6 @@
       "kickoff": "Sep 22 2026 6:00AM",
       "home": "Independiente Rivadavia",
       "away": "Criciuma EC SC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fedd982e672d0392",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 22 2026 6:00AM",
-      "home": "Lanus",
-      "away": "Nueva Chicago",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50783,20 +50750,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "92d09dbf3a169673",
-      "league": "ARGENTINA LIGA PROFESIONAL",
-      "kickoff": "Sep 22 2026 8:15AM",
-      "home": "Lanus",
-      "away": "Estudiantes La Plata",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e82e1d8e42925306",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 22 2026 8:15AM",
@@ -50826,20 +50779,6 @@
       "away": "Nautico PE",
       "ht": [
         1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bc98dc6e7362cc47",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Sep 22 2026 8:30AM",
-      "home": "Independiente Petrolero",
-      "away": "CD Real Tomayapo",
-      "ht": [
-        4,
         0
       ],
       "ft": null,
