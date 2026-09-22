@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T01:07:53+00:00",
+  "updated_at": "2026-09-22T01:24:47+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3022,
   "archive_count": 3000,
@@ -50838,7 +50838,10 @@
       "kickoff": "Sep 22 2026 8:30AM",
       "home": "Cuiaba MT",
       "away": "Nautico PE",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50849,7 +50852,10 @@
       "kickoff": "Sep 22 2026 8:30AM",
       "home": "Independiente Petrolero",
       "away": "CD Real Tomayapo",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50871,7 +50877,10 @@
       "kickoff": "Sep 22 2026 8:30AM",
       "home": "Real Cartagena",
       "away": "Envigado FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
