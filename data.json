@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T00:54:03+00:00",
+  "updated_at": "2026-09-22T01:07:53+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3023,
+  "count": 3022,
   "archive_count": 3000,
   "matches": [
     {
@@ -420,6 +420,23 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0766f4932ba49317",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 22 2026 7:00AM",
+      "home": "Club Leon (w)",
+      "away": "FC Juarez (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50656,23 +50673,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4552a82d0bd80d42",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:15AM",
-      "home": "Lazio (V)",
-      "away": "Napoli (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3705a6966e29aeb0",
       "league": "BRAZIL CAMPEONATO PAULISTA U20",
       "kickoff": "Sep 22 2026 4:00AM",
@@ -50783,26 +50783,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0766f4932ba49317",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 22 2026 7:00AM",
-      "home": "Club Leon (w)",
-      "away": "FC Juarez (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7fb7e13457e0d0c3",
       "league": "MEXICO WOMEN PRIMERA DIVISION",
       "kickoff": "Sep 22 2026 8:00AM",
       "home": "Deportivo Toluca (w)",
       "away": "Tigres UANL (w)",
-      "ht": null,
+      "ht": [
+        1,
+        5
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50813,7 +50802,10 @@
       "kickoff": "Sep 22 2026 8:15AM",
       "home": "Lanus",
       "away": "Estudiantes La Plata",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
