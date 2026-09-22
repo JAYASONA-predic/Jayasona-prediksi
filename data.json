@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T15:26:38+00:00",
+  "updated_at": "2026-09-22T15:40:01+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3094,
   "archive_count": 3000,
@@ -50848,7 +50848,10 @@
       "kickoff": "Sep 22 2026 10:40PM",
       "home": "Al Hamriyah",
       "away": "Al Dhaid",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50859,7 +50862,10 @@
       "kickoff": "Sep 22 2026 10:40PM",
       "home": "Al Oruba Fujairah",
       "away": "Dubai City FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50870,7 +50876,10 @@
       "kickoff": "Sep 22 2026 10:40PM",
       "home": "Dibba Al Fujairah",
       "away": "Al Ittifaq (UAE)",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
