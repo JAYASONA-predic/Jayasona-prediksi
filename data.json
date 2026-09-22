@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T17:37:55+00:00",
+  "updated_at": "2026-09-22T17:49:56+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3090,
   "archive_count": 3000,
@@ -50708,7 +50708,10 @@
       "kickoff": "Sep 23 2026 12:45AM",
       "home": "Inter Milan (w) (N)",
       "away": "BK Hacken FF (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50730,7 +50733,10 @@
       "kickoff": "Sep 23 2026 1:00AM",
       "home": "FC ASA Targu Mures",
       "away": "CS Dinamo Bucuresti",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50752,7 +50758,10 @@
       "kickoff": "Sep 23 2026 1:00AM",
       "home": "Norrby IF U21",
       "away": "Varbergs BoIS FC U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
