@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T17:49:56+00:00",
+  "updated_at": "2026-09-22T18:11:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3090,
+  "count": 3088,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "d2a2becde8d167ea",
+      "league": "ALGERIA 1ST DIVISION",
+      "kickoff": "Sep 23 2026 12:00AM",
+      "home": "US Biskra",
+      "away": "JS Saoura",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b7a11406d1fe2604",
+      "league": "PORTUGAL LIGA NEXT GEN U23",
+      "kickoff": "Sep 23 2026 12:00AM",
+      "home": "Academico Viseu U23",
+      "away": "Estoril U23",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "06ff3791de036001",
       "league": "NORWAY 3RD DIVISION",
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "9ba835dfae95dc08",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 8:00AM",
-      "home": "Croatia (V)",
-      "away": "Norway (V)",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8c1b3875a3a60090",
-      "league": "BRAZIL SERIE B",
-      "kickoff": "Sep 19 2026 8:00AM",
-      "home": "Sao Bernardo SP",
-      "away": "AC Goianiense GO",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d2a2becde8d167ea",
-      "league": "ALGERIA 1ST DIVISION",
-      "kickoff": "Sep 23 2026 12:00AM",
-      "home": "US Biskra",
-      "away": "JS Saoura",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b7a11406d1fe2604",
-      "league": "PORTUGAL LIGA NEXT GEN U23",
-      "kickoff": "Sep 23 2026 12:00AM",
-      "home": "Academico Viseu U23",
-      "away": "Estoril U23",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "5e11664827bc64ba",
       "league": "UEFA WOMEN CHAMPIONS LEAGUE",
       "kickoff": "Sep 23 2026 12:45AM",
@@ -50722,7 +50694,10 @@
       "kickoff": "Sep 23 2026 1:00AM",
       "home": "Husqvarna FF (w)",
       "away": "Vaxjo DFF (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50747,7 +50722,10 @@
       "kickoff": "Sep 23 2026 1:00AM",
       "home": "Bristol City U21",
       "away": "Hull City U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50772,7 +50750,10 @@
       "kickoff": "Sep 23 2026 1:00AM",
       "home": "AGF Aarhus (w)",
       "away": "Nordsjaelland (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50783,7 +50764,10 @@
       "kickoff": "Sep 23 2026 1:15AM",
       "home": "Mesaimeer SC (N)",
       "away": "Al Waab SC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50794,7 +50778,10 @@
       "kickoff": "Sep 23 2026 1:15AM",
       "home": "Muaither SC (N)",
       "away": "Al Khor",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
