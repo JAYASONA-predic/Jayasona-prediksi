@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T12:32:08+00:00",
+  "updated_at": "2026-09-22T12:55:12+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3081,
+  "count": 3085,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "b98070337f44d1c7",
+      "league": "UZBEKISTAN PRO LEAGUE",
+      "kickoff": "Sep 22 2026 7:00PM",
+      "home": "FarDu Fergana",
+      "away": "BuxDU FK",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "3d2bfa6a69303779",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "3172420cdc6dbf4d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "Napoli (V)",
-      "away": "Inter Milan (V)",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b98070337f44d1c7",
-      "league": "UZBEKISTAN PRO LEAGUE",
-      "kickoff": "Sep 22 2026 7:00PM",
-      "home": "FarDu Fergana",
-      "away": "BuxDU FK",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "72bd5890e0bd5a1c",
       "league": "PORTUGAL LIGA NEXT GEN U23",
       "kickoff": "Sep 22 2026 7:00PM",
@@ -50705,7 +50691,10 @@
       "kickoff": "Sep 22 2026 8:00PM",
       "home": "Wigan Athletic U21",
       "away": "Coventry City U21",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50727,6 +50716,39 @@
       "kickoff": "Sep 22 2026 9:00PM",
       "home": "Tanzania U20",
       "away": "Burundi U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "265cd4464d26b48c",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Mozambique U20",
+      "away": "Mauritius U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d09bcbf031065b04",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Seychelles U20",
+      "away": "Namibia U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aa9b3a1bc722505d",
+      "league": "ARGENTINA PRIMERA C RESERVE",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Central Ballester (R)",
+      "away": "CA Claypole (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51277,6 +51299,28 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Leek Town FC",
       "away": "Hyde United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5e61d465ccbc9e7c",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE NORTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Concord Rangers",
+      "away": "Buckhurst Hill FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2668dacc584554ff",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE NORTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Fakenham Town FC",
+      "away": "Mulbarton Wanderers FC",
       "ht": null,
       "ft": null,
       "status": "Running",
