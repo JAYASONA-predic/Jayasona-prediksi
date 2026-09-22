@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T07:40:41+00:00",
+  "updated_at": "2026-09-22T07:52:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3065,
+  "count": 3067,
   "archive_count": 3000,
   "matches": [
     {
@@ -50666,7 +50666,10 @@
       "kickoff": "Sep 22 2026 3:00PM",
       "home": "Ningbo Professional U20",
       "away": "Jiangxi Lushan FC U20",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50677,7 +50680,10 @@
       "kickoff": "Sep 22 2026 3:00PM",
       "home": "Qingdao Hainiu U20",
       "away": "Yunnan Yukun U20",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50688,7 +50694,10 @@
       "kickoff": "Sep 22 2026 3:00PM",
       "home": "Qingdao West Coast FC U20",
       "away": "Liaoning Tieren U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50710,6 +50719,28 @@
       "kickoff": "Sep 22 2026 3:30PM",
       "home": "Wenzhou Yincai U20",
       "away": "Nantong Zhiyun U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dc316db3f36f879c",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 22 2026 4:00PM",
+      "home": "Bangalore City FC",
+      "away": "United Stars FC Bangalore",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "21bbae8097772852",
+      "league": "JAPAN REGIONAL FOOTBALL LEAGUE",
+      "kickoff": "Sep 22 2026 4:00PM",
+      "home": "Toin University of Yokohama",
+      "away": "Aries Toshima FC",
       "ht": null,
       "ft": null,
       "status": "Running",
