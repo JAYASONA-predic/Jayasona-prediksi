@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T11:51:11+00:00",
+  "updated_at": "2026-09-22T12:11:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3074,
   "archive_count": 3000,
@@ -18,6 +18,40 @@
       "ft": [
         3,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e8de7feeaeb70db4",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
+      "kickoff": "Sep 22 2026 6:00PM",
+      "home": "Korea Republic U23",
+      "away": "Saudi Arabia U23",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2e44392f90de32d0",
+      "league": "THAILAND LEAGUE U21",
+      "kickoff": "Sep 22 2026 6:00PM",
+      "home": "Nongbua Pitchaya U21",
+      "away": "Chainat Hornbill FC U21",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "791784dca0cefe6f",
-      "league": "USA WOMEN SUPER LEAGUE",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "DC Power FC (w)",
-      "away": "Tampa Bay Sun FC (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1a692e4f15272bf8",
-      "league": "BOLIVIA PROFESSIONAL FOOTBALL LEAGUE",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "Independiente Petrolero",
-      "away": "CD San Antonio Bulo Bulo",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e8de7feeaeb70db4",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
-      "kickoff": "Sep 22 2026 6:00PM",
-      "home": "Korea Republic U23",
-      "away": "Saudi Arabia U23",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2e44392f90de32d0",
-      "league": "THAILAND LEAGUE U21",
-      "kickoff": "Sep 22 2026 6:00PM",
-      "home": "Nongbua Pitchaya U21",
-      "away": "Chainat Hornbill FC U21",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3d2bfa6a69303779",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Sep 22 2026 6:30PM",
@@ -50708,7 +50680,10 @@
       "kickoff": "Sep 22 2026 7:00PM",
       "home": "FarDu Fergana",
       "away": "BuxDU FK",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50733,6 +50708,28 @@
       "kickoff": "Sep 22 2026 8:00PM",
       "home": "Charlton Athletic U21",
       "away": "Sheffield United U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9b4cb46c9a9a7f1f",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 22 2026 8:00PM",
+      "home": "Wigan Athletic U21",
+      "away": "Coventry City U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ada6956803215102",
+      "league": "ARGENTINA PRIMERA C RESERVE",
+      "kickoff": "Sep 22 2026 8:00PM",
+      "home": "Sportivo Barracas (R)",
+      "away": "CA Puerto Nuevo (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
