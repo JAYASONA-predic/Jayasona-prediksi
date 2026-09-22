@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T16:09:06+00:00",
+  "updated_at": "2026-09-22T16:27:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3083,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9d1f257051c673d9",
+      "league": "ROMANIA 2ND DIVISION",
+      "kickoff": "Sep 22 2026 10:30PM",
+      "home": "CSC Dumbravita",
+      "away": "CSM Resita",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "631c6e0e40c4d968",
       "league": "ROMANIA 3RD DIVISION",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c094f71f96e170d6",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:45AM",
-      "home": "Australia (V)",
-      "away": "Korea Republic (V)",
-      "ht": [
-        3,
-        2
-      ],
-      "ft": [
-        5,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9d1f257051c673d9",
-      "league": "ROMANIA 2ND DIVISION",
-      "kickoff": "Sep 22 2026 10:30PM",
-      "home": "CSC Dumbravita",
-      "away": "CSM Resita",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "389ae09e82969774",
       "league": "UAE PRESIDENTS CUP QUALIFIERS",
       "kickoff": "Sep 22 2026 10:40PM",
@@ -50750,7 +50736,10 @@
       "kickoff": "Sep 22 2026 11:30PM",
       "home": "Skjetten Fotball",
       "away": "Skjervoy",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50805,6 +50794,17 @@
       "kickoff": "Sep 23 2026 1:00AM",
       "home": "AGF Aarhus (w)",
       "away": "Nordsjaelland (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ffc6c057fe3db758",
+      "league": "AUSTRIA REGIONAL LEAGUE EAST",
+      "kickoff": "Sep 23 2026 1:30AM",
+      "home": "FCM Traiskirchen",
+      "away": "Kremser SC",
       "ht": null,
       "ft": null,
       "status": "Running",
