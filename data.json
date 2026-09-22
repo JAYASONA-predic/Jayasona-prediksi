@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T08:09:35+00:00",
+  "updated_at": "2026-09-22T08:27:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3067,
+  "count": 3071,
   "archive_count": 3000,
   "matches": [
     {
@@ -50708,7 +50708,10 @@
       "kickoff": "Sep 22 2026 3:30PM",
       "home": "Lanzhou Longyuan Athletic U20",
       "away": "Shijiazhuang Gongfu U20",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50719,7 +50722,10 @@
       "kickoff": "Sep 22 2026 3:30PM",
       "home": "Wenzhou Yincai U20",
       "away": "Nantong Zhiyun U20",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50741,6 +50747,28 @@
       "kickoff": "Sep 22 2026 4:00PM",
       "home": "Toin University of Yokohama",
       "away": "Aries Toshima FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1e4b401f770efbd0",
+      "league": "THAILAND LEAGUE U21",
+      "kickoff": "Sep 22 2026 4:30PM",
+      "home": "Port FC U21",
+      "away": "Bangkok United U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "db2b6ae2931f132a",
+      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
+      "kickoff": "Sep 22 2026 5:30PM",
+      "home": "Uganda U20",
+      "away": "Sudan U20",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50769,11 +50797,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "91ae5f3a96073180",
+      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Tanzania U20",
+      "away": "Burundi U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "9d1f257051c673d9",
       "league": "ROMANIA 2ND DIVISION",
       "kickoff": "Sep 22 2026 10:30PM",
       "home": "CSC Dumbravita",
       "away": "CSM Resita",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d2a2becde8d167ea",
+      "league": "ALGERIA 1ST DIVISION",
+      "kickoff": "Sep 23 2026 12:00AM",
+      "home": "US Biskra",
+      "away": "JS Saoura",
       "ht": null,
       "ft": null,
       "status": "Running",
