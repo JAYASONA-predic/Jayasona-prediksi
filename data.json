@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T16:42:08+00:00",
+  "updated_at": "2026-09-22T16:53:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3084,
+  "count": 3085,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,40 @@
       "ft": [
         1,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "58c1b4135d8e5829",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 22 2026 10:40PM",
+      "home": "Al Oruba Fujairah",
+      "away": "Dubai City FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "06e084d0f04a3766",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 22 2026 10:40PM",
+      "home": "Dibba Al Fujairah",
+      "away": "Al Ittifaq (UAE)",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6dfd69b1ec8fb225",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 8:00AM",
-      "home": "Puebla FC",
-      "away": "Sao Bernardo SP",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "70a876ad6a380bff",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:45AM",
-      "home": "Arminia Bielefeld (V)",
-      "away": "FSV Mainz 05 (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "58c1b4135d8e5829",
-      "league": "UAE PRESIDENTS CUP QUALIFIERS",
-      "kickoff": "Sep 22 2026 10:40PM",
-      "home": "Al Oruba Fujairah",
-      "away": "Dubai City FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "06e084d0f04a3766",
-      "league": "UAE PRESIDENTS CUP QUALIFIERS",
-      "kickoff": "Sep 22 2026 10:40PM",
-      "home": "Dibba Al Fujairah",
-      "away": "Al Ittifaq (UAE)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b076eb938cfc9077",
       "league": "QATAR STARS LEAGUE CUP",
       "kickoff": "Sep 22 2026 11:00PM",
@@ -50736,7 +50708,10 @@
       "kickoff": "Sep 23 2026 12:00AM",
       "home": "US Biskra",
       "away": "JS Saoura",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50747,7 +50722,10 @@
       "kickoff": "Sep 23 2026 12:00AM",
       "home": "Academico Viseu U23",
       "away": "Estoril U23",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50797,11 +50775,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c821bbdfefe56ba1",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 23 2026 1:00AM",
+      "home": "Bristol City U21",
+      "away": "Hull City U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "f7a383a762a44a66",
       "league": "DENMARK WOMEN A-LIGA",
       "kickoff": "Sep 23 2026 1:00AM",
       "home": "AGF Aarhus (w)",
       "away": "Nordsjaelland (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d36f2d0e33fd4101",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 23 2026 1:15AM",
+      "home": "Mesaimeer SC (N)",
+      "away": "Al Waab SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b875cf45fa6722a0",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 23 2026 1:15AM",
+      "home": "Muaither SC (N)",
+      "away": "Al Khor",
       "ht": null,
       "ft": null,
       "status": "Running",
