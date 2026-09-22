@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T10:53:45+00:00",
+  "updated_at": "2026-09-22T11:08:48+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3074,
+  "count": 3072,
   "archive_count": 3000,
   "matches": [
     {
@@ -17,6 +17,57 @@
       ],
       "ft": [
         6,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "160c9f9913561964",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 22 2026 5:00PM",
+      "home": "Shan United FC U20",
+      "away": "Hantharwady United U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a9dc7d555dc451e6",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 22 2026 5:00PM",
+      "home": "Yangon City U20",
+      "away": "Thitsar Arman FC U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "511ca04b53848833",
+      "league": "BANGLADESH FEDERATION CUP",
+      "kickoff": "Sep 22 2026 5:00PM",
+      "home": "Fortis FC Limited (N)",
+      "away": "Fakirerpool Young Mens Club",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
         1
       ],
       "status": "Completed",
@@ -50610,99 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "46a053cea4450793",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:45AM",
-      "home": "Arsenal (V)",
-      "away": "Getafe CF (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0a103e32fab34128",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:45AM",
-      "home": "Real Sociedad (V)",
-      "away": "CA Osasuna (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "32f1686c517baff3",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:30AM",
-      "home": "Australia (V)",
-      "away": "Saudi Arabia (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "160c9f9913561964",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Sep 22 2026 5:00PM",
-      "home": "Shan United FC U20",
-      "away": "Hantharwady United U20",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a9dc7d555dc451e6",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Sep 22 2026 5:00PM",
-      "home": "Yangon City U20",
-      "away": "Thitsar Arman FC U20",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "511ca04b53848833",
-      "league": "BANGLADESH FEDERATION CUP",
-      "kickoff": "Sep 22 2026 5:00PM",
-      "home": "Fortis FC Limited (N)",
-      "away": "Fakirerpool Young Mens Club",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "db2b6ae2931f132a",
       "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
       "kickoff": "Sep 22 2026 5:30PM",
@@ -50736,7 +50694,10 @@
       "kickoff": "Sep 22 2026 6:00PM",
       "home": "Nongbua Pitchaya U21",
       "away": "Chainat Hornbill FC U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50761,6 +50722,17 @@
       "kickoff": "Sep 22 2026 6:30PM",
       "home": "MEG & Centre FC",
       "away": "SC Bengaluru",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b98070337f44d1c7",
+      "league": "UZBEKISTAN PRO LEAGUE",
+      "kickoff": "Sep 22 2026 7:00PM",
+      "home": "FarDu Fergana",
+      "away": "BuxDU FK",
       "ht": null,
       "ft": null,
       "status": "Running",
