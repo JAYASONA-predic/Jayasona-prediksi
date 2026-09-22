@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T12:55:12+00:00",
+  "updated_at": "2026-09-22T13:09:34+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3085,
+  "count": 3086,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,23 @@
       "ft": [
         3,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "72bd5890e0bd5a1c",
+      "league": "PORTUGAL LIGA NEXT GEN U23",
+      "kickoff": "Sep 22 2026 7:00PM",
+      "home": "CD Santa Clara U23",
+      "away": "Portimonense U23",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50644,43 +50661,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7f183c54141ca9cf",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "Barcelona (V)",
-      "away": "FC Koln (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "72bd5890e0bd5a1c",
-      "league": "PORTUGAL LIGA NEXT GEN U23",
-      "kickoff": "Sep 22 2026 7:00PM",
-      "home": "CD Santa Clara U23",
-      "away": "Portimonense U23",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "0e91b7fc74dca689",
       "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
       "kickoff": "Sep 22 2026 8:00PM",
       "home": "Charlton Athletic U21",
       "away": "Sheffield United U21",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50705,7 +50694,10 @@
       "kickoff": "Sep 22 2026 8:00PM",
       "home": "Sportivo Barracas (R)",
       "away": "CA Puerto Nuevo (R)",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50749,6 +50741,17 @@
       "kickoff": "Sep 22 2026 9:00PM",
       "home": "Central Ballester (R)",
       "away": "CA Claypole (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1c50709080b6399f",
+      "league": "ARGENTINA PRIMERA C RESERVE",
+      "kickoff": "Sep 22 2026 9:00PM",
+      "home": "Juventud Unida San Miguel (R)",
+      "away": "Deportivo Paraguayo (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51090,6 +51093,17 @@
       "kickoff": "Sep 23 2026 2:30AM",
       "home": "Bromley FC",
       "away": "Brentford U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b9b225fc15e595f5",
+      "league": "SCOTLAND CHALLENGE CUP",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Alloa Athletic",
+      "away": "Hibernian B",
       "ht": null,
       "ft": null,
       "status": "Running",
