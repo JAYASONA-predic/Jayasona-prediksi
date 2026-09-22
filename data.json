@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T01:50:19+00:00",
+  "updated_at": "2026-09-22T02:09:13+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3023,
+  "count": 3022,
   "archive_count": 3000,
   "matches": [
     {
@@ -148,6 +148,23 @@
       "ft": [
         3,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7fb7e13457e0d0c3",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 22 2026 8:00AM",
+      "home": "Deportivo Toluca (w)",
+      "away": "Tigres UANL (w)",
+      "ht": [
+        1,
+        5
+      ],
+      "ft": [
+        2,
+        7
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50656,23 +50673,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5a1304bb71cf582c",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:15AM",
-      "home": "Wales (V)",
-      "away": "Paraguay (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3705a6966e29aeb0",
       "league": "BRAZIL CAMPEONATO PAULISTA U20",
       "kickoff": "Sep 22 2026 4:00AM",
@@ -50778,20 +50778,6 @@
       "home": "Lanus",
       "away": "Criciuma EC SC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7fb7e13457e0d0c3",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 22 2026 8:00AM",
-      "home": "Deportivo Toluca (w)",
-      "away": "Tigres UANL (w)",
-      "ht": [
-        1,
-        5
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50922,7 +50908,10 @@
       "kickoff": "Sep 22 2026 9:00AM",
       "home": "Pitbulls Santa Barbara FC",
       "away": "AD Cariari Pococi",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50933,7 +50922,10 @@
       "kickoff": "Sep 22 2026 9:06AM",
       "home": "Santos Laguna (w)",
       "away": "Cruz Azul (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
