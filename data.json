@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T13:42:35+00:00",
+  "updated_at": "2026-09-22T13:55:05+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3094,
+  "count": 3096,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9b4cb46c9a9a7f1f",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 22 2026 8:00PM",
+      "home": "Wigan Athletic U21",
+      "away": "Coventry City U21",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "b98070337f44d1c7",
       "league": "UZBEKISTAN PRO LEAGUE",
@@ -50644,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b0c0f5d5ce790b72",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "Portugal (V)",
-      "away": "Senegal (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "0e91b7fc74dca689",
       "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
       "kickoff": "Sep 22 2026 8:00PM",
@@ -50668,20 +50668,6 @@
       "away": "Sheffield United U21",
       "ht": [
         2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9b4cb46c9a9a7f1f",
-      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
-      "kickoff": "Sep 22 2026 8:00PM",
-      "home": "Wigan Athletic U21",
-      "away": "Coventry City U21",
-      "ht": [
-        1,
         1
       ],
       "ft": null,
@@ -50708,7 +50694,10 @@
       "kickoff": "Sep 22 2026 9:00PM",
       "home": "Tanzania U20",
       "away": "Burundi U20",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50719,7 +50708,10 @@
       "kickoff": "Sep 22 2026 9:00PM",
       "home": "Mozambique U20",
       "away": "Mauritius U20",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50730,7 +50722,10 @@
       "kickoff": "Sep 22 2026 9:00PM",
       "home": "Seychelles U20",
       "away": "Namibia U20",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50780,6 +50775,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "b1b0ed39cfc9ffee",
+      "league": "ROMANIA 3RD DIVISION",
+      "kickoff": "Sep 22 2026 10:00PM",
+      "home": "ACS Poli Timisoara II",
+      "away": "ACS CIL Blaj",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "97287e94d7184e53",
+      "league": "ROMANIA 3RD DIVISION",
+      "kickoff": "Sep 22 2026 10:00PM",
+      "home": "CS Paulesti",
+      "away": "CS Tunari",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "bbad1ed804af662d",
       "league": "ROMANIA 3RD DIVISION",
       "kickoff": "Sep 22 2026 10:00PM",
@@ -50807,6 +50824,17 @@
       "kickoff": "Sep 22 2026 10:00PM",
       "home": "CSO Plopeni",
       "away": "CS Blejoi",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c2fe13a7a6103859",
+      "league": "ROMANIA 3RD DIVISION",
+      "kickoff": "Sep 22 2026 10:00PM",
+      "home": "FC Voluntari 2",
+      "away": "LPS HD Clinceni",
       "ht": null,
       "ft": null,
       "status": "Running",
