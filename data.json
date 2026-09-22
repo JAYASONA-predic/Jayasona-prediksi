@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T19:08:16+00:00",
+  "updated_at": "2026-09-22T19:23:36+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3086,
+  "count": 3083,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ffc6c057fe3db758",
+      "league": "AUSTRIA REGIONAL LEAGUE EAST",
+      "kickoff": "Sep 23 2026 1:30AM",
+      "home": "FCM Traiskirchen",
+      "away": "Kremser SC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d36f2d0e33fd4101",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 23 2026 1:15AM",
+      "home": "Mesaimeer SC (N)",
+      "away": "Al Waab SC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b875cf45fa6722a0",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 23 2026 1:15AM",
+      "home": "Muaither SC (N)",
+      "away": "Al Khor",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "576407d3c761f0e6",
       "league": "SWEDEN LEAGUE CUP ELITE U21",
@@ -50610,99 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "dfe01069c627e932",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 8:15AM",
-      "home": "Slovenia (V)",
-      "away": "Turkey (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c7c3a542ce568fc5",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 8:15AM",
-      "home": "Bayer 04 Leverkusen (V)",
-      "away": "Napoli (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1664f6d10a70180d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 8:15AM",
-      "home": "Udinese (V)",
-      "away": "Bayern Munchen (V)",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d36f2d0e33fd4101",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 23 2026 1:15AM",
-      "home": "Mesaimeer SC (N)",
-      "away": "Al Waab SC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b875cf45fa6722a0",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 23 2026 1:15AM",
-      "home": "Muaither SC (N)",
-      "away": "Al Khor",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ffc6c057fe3db758",
-      "league": "AUSTRIA REGIONAL LEAGUE EAST",
-      "kickoff": "Sep 23 2026 1:30AM",
-      "home": "FCM Traiskirchen",
-      "away": "Kremser SC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cd4d2b171c690244",
       "league": "AUSTRIA REGIONAL LEAGUE SOUTH",
       "kickoff": "Sep 23 2026 1:45AM",
@@ -51086,7 +51044,10 @@
       "kickoff": "Sep 23 2026 2:30AM",
       "home": "Bradford City",
       "away": "Newcastle United U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51097,7 +51058,10 @@
       "kickoff": "Sep 23 2026 2:30AM",
       "home": "Bromley FC",
       "away": "Brentford U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
