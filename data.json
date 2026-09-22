@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T13:55:05+00:00",
+  "updated_at": "2026-09-22T14:09:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3096,
   "archive_count": 3000,
@@ -18,6 +18,23 @@
       "ft": [
         2,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0e91b7fc74dca689",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 22 2026 8:00PM",
+      "home": "Charlton Athletic U21",
+      "away": "Sheffield United U21",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        3,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b5e4eda46345f034",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "Austria (V)",
-      "away": "Uruguay (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0e91b7fc74dca689",
-      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
-      "kickoff": "Sep 22 2026 8:00PM",
-      "home": "Charlton Athletic U21",
-      "away": "Sheffield United U21",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ada6956803215102",
       "league": "ARGENTINA PRIMERA C RESERVE",
       "kickoff": "Sep 22 2026 8:00PM",
@@ -50736,7 +50722,10 @@
       "kickoff": "Sep 22 2026 9:00PM",
       "home": "Central Ballester (R)",
       "away": "CA Claypole (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50756,7 +50745,7 @@
       "id": "56649d78851197cc",
       "league": "UZBEKISTAN PRO LEAGUE",
       "kickoff": "Sep 22 2026 10:00PM",
-      "home": "PFC TerDU (n)",
+      "home": "PFC TerDU (N)",
       "away": "FC Gazalkent",
       "ht": null,
       "ft": null,
@@ -50846,6 +50835,17 @@
       "kickoff": "Sep 22 2026 10:00PM",
       "home": "FCSB 2",
       "away": "CSM Alexandria",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "21a1bc7cce84b05a",
+      "league": "ROMANIA 3RD DIVISION",
+      "kickoff": "Sep 22 2026 10:00PM",
+      "home": "Carpati Covasna",
+      "away": "ACS Medias 2022",
       "ht": null,
       "ft": null,
       "status": "Running",
