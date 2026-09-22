@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T21:23:47+00:00",
+  "updated_at": "2026-09-22T21:38:16+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3016,
+  "count": 3015,
   "archive_count": 3000,
   "matches": [
     {
@@ -640,7 +640,10 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Elgin City",
       "away": "Dundee FC B",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": [
         3,
         0
@@ -654,7 +657,10 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Fraserburgh FC",
       "away": "Cove Rangers",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": [
         0,
         5
@@ -668,7 +674,10 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Gala Fairydean Rovers",
       "away": "The Spartans FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": [
         0,
         0
@@ -682,7 +691,10 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Kelty Hearts FC",
       "away": "Heart of Midlothian B",
-      "ht": null,
+      "ht": [
+        1,
+        4
+      ],
       "ft": [
         3,
         5
@@ -696,9 +708,29 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Three Bridges",
       "away": "Leatherhead FC",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": [
         3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8bb8a05b832bbe90",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH EAST",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Faversham Town FC",
+      "away": "Whitstable Town",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
         3
       ],
       "status": "Completed",
@@ -50629,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "95d867e12b18b0f7",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:00PM",
-      "home": "Arminia Bielefeld (V)",
-      "away": "Real Sociedad (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "126b1600092dbc67",
       "league": "ARGENTINA TORNEO PROMOCIONAL AMATEUR (PLAY OFF)",
       "kickoff": "Sep 23 2026 2:00AM",
@@ -50655,17 +50670,6 @@
         2,
         0
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8bb8a05b832bbe90",
-      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH EAST",
-      "kickoff": "Sep 23 2026 2:45AM",
-      "home": "Faversham Town FC",
-      "away": "Whitstable Town",
-      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
