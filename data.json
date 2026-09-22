@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T23:23:12+00:00",
+  "updated_at": "2026-09-22T23:36:57+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3012,
+  "count": 3010,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "e204c6c397bc8004",
+      "league": "PARAGUAY CUP",
+      "kickoff": "Sep 23 2026 5:30AM",
+      "home": "2 de Mayo (N)",
+      "away": "Sol de America",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2141830c98ff2d30",
+      "league": "EL SALVADOR PRIMERA RESERVE LEAGUE",
+      "kickoff": "Sep 23 2026 5:30AM",
+      "home": "Alianza FC (R)",
+      "away": "CD Municipal Limeno (R)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "702c58468a990847",
       "league": "CHILE CUP",
@@ -50627,40 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5e09b9f03c859435",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:15PM",
-      "home": "Paris Saint Germain (V)",
-      "away": "Girondins de Bordeaux (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "156a87ad44b72cb0",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:15PM",
-      "home": "Slovakia (V)",
-      "away": "Uruguay (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "126b1600092dbc67",
       "league": "ARGENTINA TORNEO PROMOCIONAL AMATEUR (PLAY OFF)",
       "kickoff": "Sep 23 2026 2:00AM",
@@ -50669,34 +50669,6 @@
       "ht": [
         2,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e204c6c397bc8004",
-      "league": "PARAGUAY CUP",
-      "kickoff": "Sep 23 2026 5:30AM",
-      "home": "2 de Mayo (N)",
-      "away": "Sol de America",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2141830c98ff2d30",
-      "league": "EL SALVADOR PRIMERA RESERVE LEAGUE",
-      "kickoff": "Sep 23 2026 5:30AM",
-      "home": "Alianza FC (R)",
-      "away": "CD Municipal Limeno (R)",
-      "ht": [
-        0,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -50722,7 +50694,10 @@
       "kickoff": "Sep 23 2026 6:30AM",
       "home": "Criciuma EC SC",
       "away": "Operario Ferroviario EC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
