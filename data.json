@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T12:11:27+00:00",
+  "updated_at": "2026-09-22T12:32:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3074,
+  "count": 3081,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "3d2bfa6a69303779",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 22 2026 6:30PM",
+      "home": "MEG & Centre FC",
+      "away": "SC Bengaluru",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6f7ff94915f018e0",
       "league": "SWEDEN LEAGUE CUP ELITE U21",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5d8537fc33c400ee",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00AM",
-      "home": "Tottenham Hotspur (V)",
-      "away": "Liverpool (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3d2bfa6a69303779",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Sep 22 2026 6:30PM",
-      "home": "MEG & Centre FC",
-      "away": "SC Bengaluru",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b98070337f44d1c7",
       "league": "UZBEKISTAN PRO LEAGUE",
       "kickoff": "Sep 22 2026 7:00PM",
@@ -51264,6 +51250,61 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "3de1bf26d88faf0a",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH EAST",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "AFC Croydon Athletic",
+      "away": "Erith Town",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a554e2ec32ea0c55",
+      "league": "ENGLISH NORTHERN PREMIER DIVISION",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Cleethorpes Town",
+      "away": "Redcar Athletic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9cfa85e72c0166d8",
+      "league": "ENGLISH NORTHERN PREMIER DIVISION",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Leek Town FC",
+      "away": "Hyde United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "08fd7987a8367e2a",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE NORTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Hashtag United",
+      "away": "Walthamstow",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ca4c04dd7fefbec1",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH CENTRAL",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Binfield FC",
+      "away": "Moneyfields",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "c35b8fc96801cdff",
       "league": "ENGLISH SOUTHERN PREMIER DIVISION CENTRAL",
       "kickoff": "Sep 23 2026 2:45AM",
@@ -51324,6 +51365,39 @@
       "kickoff": "Sep 23 2026 2:45AM",
       "home": "Worcester City",
       "away": "Banbury United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a6fa8fc10e01b7e1",
+      "league": "ENGLISH SOUTHERN PREMIER DIVISION SOUTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Berkhamsted FC",
+      "away": "Hanworth Villa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fb65b01e407b218a",
+      "league": "ENGLISH SOUTHERN PREMIER DIVISION SOUTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Chichester City",
+      "away": "Chertsey Town",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d6b03cb074430285",
+      "league": "ENGLISH SOUTHERN PREMIER DIVISION SOUTH",
+      "kickoff": "Sep 23 2026 2:45AM",
+      "home": "Malvern Town",
+      "away": "Gloucester City",
       "ht": null,
       "ft": null,
       "status": "Running",
