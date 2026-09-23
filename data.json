@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T13:45:10+00:00",
+  "updated_at": "2026-09-23T13:55:31+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3093,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "11a1ba3bba2a9975",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 23 2026 8:00PM",
+      "home": "Thimphu City FC",
+      "away": "Transport United",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ac5031837445e7cc",
       "league": "THAILAND LEAGUE U21",
@@ -50644,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "244ba0effe91daf7",
-      "league": "AUSTRALIA VICTORIA NATIONAL PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 19 2026 1:30PM",
-      "home": "Oakleigh Cannons (N)",
-      "away": "Avondale FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a7c895206670c349",
       "league": "RUSSIA YOUTH FOOTBALL LEAGUE U19 DIVISION A",
       "kickoff": "Sep 23 2026 8:00PM",
@@ -50689,26 +50689,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "11a1ba3bba2a9975",
-      "league": "BHUTAN PREMIER LEAGUE",
-      "kickoff": "Sep 23 2026 8:00PM",
-      "home": "Thimphu City FC",
-      "away": "Transport United",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "59f834f29108293d",
       "league": "U20 WOMEN WORLD CUP 2026 (IN POLAND)",
       "kickoff": "Sep 23 2026 9:00PM",
       "home": "Italy U20 (w)",
       "away": "Spain U20 (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50719,7 +50708,10 @@
       "kickoff": "Sep 23 2026 9:00PM",
       "home": "Paraguay U20 (w)",
       "away": "Uruguay U20 (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50730,7 +50722,10 @@
       "kickoff": "Sep 23 2026 9:00PM",
       "home": "PAOK Thessaloniki (w)",
       "away": "Spartak Myjava (w)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50741,7 +50736,10 @@
       "kickoff": "Sep 23 2026 9:00PM",
       "home": "Malawi U20",
       "away": "Comoros U20",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50752,7 +50750,10 @@
       "kickoff": "Sep 23 2026 9:00PM",
       "home": "Zambia U20",
       "away": "Botswana U20",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50763,7 +50764,10 @@
       "kickoff": "Sep 23 2026 9:00PM",
       "home": "Nautico PE U20",
       "away": "Guarany de Camaragibe PE U20",
-      "ht": null,
+      "ht": [
+        6,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50774,7 +50778,10 @@
       "kickoff": "Sep 23 2026 9:00PM",
       "home": "CA Acassuso (R)",
       "away": "CA Los Andes (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50807,6 +50814,17 @@
       "kickoff": "Sep 23 2026 10:00PM",
       "home": "Hapoel Azor",
       "away": "Hapoel Mahane Yehuda",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "58628bca9a07a060",
+      "league": "BOSNIA-HERZEGOVINA FIRST LEAGUE RS",
+      "kickoff": "Sep 23 2026 10:00PM",
+      "home": "FK Majevica Lopare",
+      "away": "FK Laktasi",
       "ht": null,
       "ft": null,
       "status": "Running",
