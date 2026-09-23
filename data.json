@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T00:32:31+00:00",
+  "updated_at": "2026-09-23T00:54:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3009,
+  "count": 3008,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "80daf9be52817a3e",
+      "league": "BRAZIL SERIE B",
+      "kickoff": "Sep 23 2026 6:30AM",
+      "home": "Criciuma EC SC",
+      "away": "Operario Ferroviario EC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6e4fafaffa33c977",
       "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
@@ -50644,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "db6879d475ee4ed5",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:15PM",
-      "home": "Romania (V)",
-      "away": "Germany (V)",
-      "ht": [
-        2,
-        3
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "126b1600092dbc67",
       "league": "ARGENTINA TORNEO PROMOCIONAL AMATEUR (PLAY OFF)",
       "kickoff": "Sep 23 2026 2:00AM",
@@ -50669,20 +50669,6 @@
       "ht": [
         2,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "80daf9be52817a3e",
-      "league": "BRAZIL SERIE B",
-      "kickoff": "Sep 23 2026 6:30AM",
-      "home": "Criciuma EC SC",
-      "away": "Operario Ferroviario EC",
-      "ht": [
-        0,
-        1
       ],
       "ft": null,
       "status": "Running",
