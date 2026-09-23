@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T15:55:30+00:00",
+  "updated_at": "2026-09-23T16:10:41+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3085,
+  "count": 3083,
   "archive_count": 3000,
   "matches": [
     {
@@ -120,6 +120,40 @@
       "ft": [
         1,
         6
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0edbf5e235b07c1e",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 23 2026 10:00PM",
+      "home": "Hapoel Azor",
+      "away": "Hapoel Mahane Yehuda",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "56747af3d721a7f7",
+      "league": "ROMANIA 3RD DIVISION",
+      "kickoff": "Sep 23 2026 10:00PM",
+      "home": "ACS Kids Tampa Brasov",
+      "away": "ASC Olimpic Zarnesti",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6a5a2680f7592538",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:00PM",
-      "home": "Germany (V)",
-      "away": "Poland (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "73904b89fe967b5f",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:00PM",
-      "home": "Norway (V)",
-      "away": "France (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0edbf5e235b07c1e",
-      "league": "ISRAEL LIGA ALEF",
-      "kickoff": "Sep 23 2026 10:00PM",
-      "home": "Hapoel Azor",
-      "away": "Hapoel Mahane Yehuda",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "56747af3d721a7f7",
-      "league": "ROMANIA 3RD DIVISION",
-      "kickoff": "Sep 23 2026 10:00PM",
-      "home": "ACS Kids Tampa Brasov",
-      "away": "ASC Olimpic Zarnesti",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "debfb85aac7118cf",
       "league": "GULF CUP (IN SAUDI ARABIA)",
       "kickoff": "Sep 23 2026 10:30PM",
@@ -50792,7 +50764,10 @@
       "kickoff": "Sep 23 2026 11:00PM",
       "home": "Slovan Liberec (w) (N)",
       "away": "Rosenborg (w)",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50817,7 +50792,10 @@
       "kickoff": "Sep 23 2026 11:00PM",
       "home": "Enugu Rangers International (N)",
       "away": "Ranchers Bees",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
