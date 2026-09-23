@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T22:51:03+00:00",
+  "updated_at": "2026-09-23T23:07:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3024,
+  "count": 3022,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "7c6f0583cd54748e",
+      "league": "CHILE CUP",
+      "kickoff": "Sep 24 2026 5:00AM",
+      "home": "Curico Unido",
+      "away": "Deportes Concepcion",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1fe641377644ab6e",
+      "league": "MEXICO COPA PROMESAS",
+      "kickoff": "Sep 24 2026 5:00AM",
+      "home": "Pumas UNAM U21",
+      "away": "Club America U21",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "e97396d4a0382b5e",
       "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5ab2ef5d5c75fc03",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 4:00PM",
-      "home": "Valencia CF (V)",
-      "away": "AS Roma (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "85f0e7f235b6ede8",
-      "league": "CHINA LEAGUE 2 (PLAY OFF)",
-      "kickoff": "Sep 19 2026 4:00PM",
-      "home": "Dalian Yingbo B",
-      "away": "Guangzhou Dandelion Alpha",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7c6f0583cd54748e",
-      "league": "CHILE CUP",
-      "kickoff": "Sep 24 2026 5:00AM",
-      "home": "Curico Unido",
-      "away": "Deportes Concepcion",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1fe641377644ab6e",
-      "league": "MEXICO COPA PROMESAS",
-      "kickoff": "Sep 24 2026 5:00AM",
-      "home": "Pumas UNAM U21",
-      "away": "Club America U21",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f4be849a214c240d",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 24 2026 5:00AM",
@@ -50719,7 +50691,10 @@
       "kickoff": "Sep 24 2026 6:00AM",
       "home": "Barra SC",
       "away": "Nacao Esportes FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50758,7 +50733,10 @@
       "kickoff": "Sep 24 2026 6:00AM",
       "home": "Sao Luis AC GO",
       "away": "Trindade GO",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50783,7 +50761,10 @@
       "kickoff": "Sep 24 2026 6:00AM",
       "home": "Esportivo RS",
       "away": "Sport Club Gaucho RS",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50794,7 +50775,10 @@
       "kickoff": "Sep 24 2026 6:00AM",
       "home": "Santa Cruz RS",
       "away": "APAFUT RS",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
