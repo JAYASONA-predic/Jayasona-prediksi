@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T15:12:06+00:00",
+  "updated_at": "2026-09-23T15:28:35+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3090,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "0e9e56c637f56093",
+      "league": "SLOVAKIA CUP",
+      "kickoff": "Sep 23 2026 9:30PM",
+      "home": "FK 05 Levoca",
+      "away": "Tatran Liptovsky Mikulas",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "3909ab674a1bf6c3",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b3568bb99385f3da",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 1:30PM",
-      "home": "Jordan (V)",
-      "away": "United Arab Emirates (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0e9e56c637f56093",
-      "league": "SLOVAKIA CUP",
-      "kickoff": "Sep 23 2026 9:30PM",
-      "home": "FK 05 Levoca",
-      "away": "Tatran Liptovsky Mikulas",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "5d6acd4bf4883853",
       "league": "CZECH REPUBLIC CUP",
       "kickoff": "Sep 23 2026 10:00PM",
@@ -50806,7 +50792,10 @@
       "kickoff": "Sep 23 2026 10:30PM",
       "home": "Iraq",
       "away": "Oman",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51015,6 +51004,17 @@
       "kickoff": "Sep 24 2026 12:00AM",
       "home": "Hapoel Marmorek Irony Rehovot",
       "away": "Shimshon Tel Aviv",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ecbd84c2f76f9017",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "Ironi Beit Shemesh",
+      "away": "Agudat Sport Nordia Jerusalem FC",
       "ht": null,
       "ft": null,
       "status": "Running",
