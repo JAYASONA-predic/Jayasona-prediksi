@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-22T23:49:54+00:00",
+  "updated_at": "2026-09-23T00:12:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3010,
+  "count": 3009,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "6e4fafaffa33c977",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 23 2026 6:00AM",
+      "home": "Central Cordoba Santiago del Estero (R)",
+      "away": "Atletico Tucuman (R)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "e204c6c397bc8004",
       "league": "PARAGUAY CUP",
@@ -50644,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7ac6e3217acc93d4",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:15PM",
-      "home": "Barcelona (V)",
-      "away": "Everton (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "126b1600092dbc67",
       "league": "ARGENTINA TORNEO PROMOCIONAL AMATEUR (PLAY OFF)",
       "kickoff": "Sep 23 2026 2:00AM",
@@ -50669,20 +50669,6 @@
       "ht": [
         2,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6e4fafaffa33c977",
-      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
-      "kickoff": "Sep 23 2026 6:00AM",
-      "home": "Central Cordoba Santiago del Estero (R)",
-      "away": "Atletico Tucuman (R)",
-      "ht": [
-        0,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -50708,7 +50694,10 @@
       "kickoff": "Sep 23 2026 7:00AM",
       "home": "Nacional Potosi",
       "away": "Real Potosi",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50719,7 +50708,10 @@
       "kickoff": "Sep 23 2026 7:00AM",
       "home": "Independiente Medellin",
       "away": "Jaguares de Cordoba",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50730,7 +50722,10 @@
       "kickoff": "Sep 23 2026 7:00AM",
       "home": "Inter Playa del Carmen",
       "away": "Deportiva Venados",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50741,7 +50736,10 @@
       "kickoff": "Sep 23 2026 7:00AM",
       "home": "Terremoto",
       "away": "Salto FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
