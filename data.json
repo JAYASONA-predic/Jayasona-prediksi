@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T15:28:35+00:00",
+  "updated_at": "2026-09-23T15:44:12+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3090,
+  "count": 3092,
   "archive_count": 3000,
   "matches": [
     {
@@ -50806,7 +50806,10 @@
       "kickoff": "Sep 23 2026 10:40PM",
       "home": "Al Arabi (UAE)",
       "away": "Emirates Club",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50817,7 +50820,10 @@
       "kickoff": "Sep 23 2026 10:40PM",
       "home": "Al Bataeh CSC",
       "away": "FC Palm City",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50828,7 +50834,10 @@
       "kickoff": "Sep 23 2026 10:40PM",
       "home": "Al Jazira Al Hamra",
       "away": "Forte Virtus FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50839,7 +50848,10 @@
       "kickoff": "Sep 23 2026 10:40PM",
       "home": "Gulf United FC",
       "away": "Al Fujairah",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50870,7 +50882,7 @@
       "id": "e6566cfc58a8fef1",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
       "kickoff": "Sep 23 2026 11:00PM",
-      "home": "Slovan Liberec (w) (n)",
+      "home": "Slovan Liberec (w) (N)",
       "away": "Rosenborg (w)",
       "ht": null,
       "ft": null,
@@ -50881,7 +50893,7 @@
       "id": "12838b838c63b041",
       "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
       "kickoff": "Sep 23 2026 11:00PM",
-      "home": "Barau FC (n)",
+      "home": "Barau FC (N)",
       "away": "Abia Warriors",
       "ht": null,
       "ft": null,
@@ -50988,6 +51000,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "a50970fa83e9383f",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "SC Wiedenbruck 2000",
+      "away": "VfL Osnabruck",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "1dcd2f6d3d4f9db9",
       "league": "NORWAY CUP",
       "kickoff": "Sep 24 2026 12:00AM",
@@ -51070,6 +51093,17 @@
       "kickoff": "Sep 24 2026 12:00AM",
       "home": "Birmingham Legion",
       "away": "Brooklyn FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "619209a305df29ae",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "Deportivo Tristan Suarez (R)",
+      "away": "Defensores de Belgrano (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
