@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T10:41:07+00:00",
+  "updated_at": "2026-09-23T10:53:28+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3064,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "44f3c75160013ac6",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 23 2026 5:00PM",
+      "home": "Yadanarbon FC U20",
+      "away": "Myawady FC U20",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "2920c07057fbab72",
       "league": "JAPAN EMPEROR CUP",
@@ -50644,23 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5d27a86c1e55bb29",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 1:00PM",
-      "home": "Bayer 04 Leverkusen (V)",
-      "away": "Atalanta (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a3d4c6be5e241e30",
       "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
       "kickoff": "Sep 23 2026 5:00PM",
@@ -50668,20 +50668,6 @@
       "away": "Sanfrecce Hiroshima Regina (w)",
       "ht": [
         1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "44f3c75160013ac6",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Sep 23 2026 5:00PM",
-      "home": "Yadanarbon FC U20",
-      "away": "Myawady FC U20",
-      "ht": [
-        3,
         0
       ],
       "ft": null,
@@ -50736,7 +50722,10 @@
       "kickoff": "Sep 23 2026 6:00PM",
       "home": "Real Madrid U19",
       "away": "Getafe CF U19",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50758,7 +50747,10 @@
       "kickoff": "Sep 23 2026 6:00PM",
       "home": "South Africa U20",
       "away": "Eswatini U20",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50769,7 +50761,10 @@
       "kickoff": "Sep 23 2026 6:00PM",
       "home": "Lesotho U20",
       "away": "Angola U20",
-      "ht": null,
+      "ht": [
+        0,
+        4
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50912,6 +50907,17 @@
       "kickoff": "Sep 24 2026 12:00AM",
       "home": "Azerbaijan",
       "away": "Tajikistan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2b6e512017e1e508",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "Gibraltar",
+      "away": "Sao Tome and Principe",
       "ht": null,
       "ft": null,
       "status": "Running",
