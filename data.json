@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T07:28:12+00:00",
+  "updated_at": "2026-09-23T07:42:40+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3051,
   "archive_count": 3000,
@@ -35,6 +35,23 @@
       "ft": [
         1,
         4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7e09939ed6557e46",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 23 2026 1:30PM",
+      "home": "Parikrma FC",
+      "away": "FC Real Bengaluru",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "affc1ebf0047d46d",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:30PM",
-      "home": "Wales (V)",
-      "away": "Turkey (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7e09939ed6557e46",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Sep 23 2026 1:30PM",
-      "home": "Parikrma FC",
-      "away": "FC Real Bengaluru",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "416540cdd7b6bb95",
       "league": "KOREA WOMEN K-LEAGUE",
       "kickoff": "Sep 23 2026 3:00PM",
@@ -50922,6 +50908,17 @@
       "kickoff": "Sep 23 2026 10:30PM",
       "home": "Iraq",
       "away": "Oman",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4c705de7565b2769",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 10:40PM",
+      "home": "Al Jazira Al Hamra",
+      "away": "Forte Virtus FC",
       "ht": null,
       "ft": null,
       "status": "Running",
