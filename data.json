@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T11:26:02+00:00",
+  "updated_at": "2026-09-23T11:40:30+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3066,
+  "count": 3067,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "7724dad2593f85d7",
+      "league": "IFA SHIELD (IN INDIA)",
+      "kickoff": "Sep 23 2026 5:30PM",
+      "home": "Mohun Bagan Super Giant",
+      "away": "Sreenidi Deccan FC",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        6,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cc98d85165fea00e",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 23 2026 5:30PM",
+      "home": "Rangdajied United FC",
+      "away": "Nongkseh SSCC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "44f3c75160013ac6",
       "league": "MYANMAR NATIONAL LEAGUE U20",
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6cc0bb1961f058c3",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 1:00PM",
-      "home": "Croatia (V)",
-      "away": "Poland (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "28658484c2adc357",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 1:00PM",
-      "home": "Denmark (V)",
-      "away": "Croatia (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7724dad2593f85d7",
-      "league": "IFA SHIELD (IN INDIA)",
-      "kickoff": "Sep 23 2026 5:30PM",
-      "home": "Mohun Bagan Super Giant",
-      "away": "Sreenidi Deccan FC",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cc98d85165fea00e",
-      "league": "INDIA SHILLONG PREMIER LEAGUE",
-      "kickoff": "Sep 23 2026 5:30PM",
-      "home": "Rangdajied United FC",
-      "away": "Nongkseh SSCC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "9d381e8a20d5a32a",
       "league": "SPAIN DIVISION DE HONOR U19",
       "kickoff": "Sep 23 2026 6:00PM",
@@ -50708,7 +50680,10 @@
       "kickoff": "Sep 23 2026 6:00PM",
       "home": "FC Kharkiv (w) (N)",
       "away": "SCU Torreense (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50789,6 +50764,17 @@
       "kickoff": "Sep 23 2026 7:00PM",
       "home": "Kanchanaburi Power FC U21",
       "away": "Rasi Salai United U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a7c895206670c349",
+      "league": "RUSSIA YOUTH FOOTBALL LEAGUE U19 DIVISION A",
+      "kickoff": "Sep 23 2026 8:00PM",
+      "home": "Rubin Kazan U19",
+      "away": "FK Krasnodar U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50888,6 +50874,17 @@
       "kickoff": "Sep 23 2026 10:40PM",
       "home": "Al Jazira Al Hamra",
       "away": "Forte Virtus FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dab8764dc1b7bd5b",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 10:40PM",
+      "home": "Gulf United FC",
+      "away": "Al Fujairah",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51207,6 +51204,17 @@
       "kickoff": "Sep 24 2026 2:45AM",
       "home": "Hamilton Academical",
       "away": "Cowdenbeath",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0091962de5aa5826",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE SOUTH CENTRAL",
+      "kickoff": "Sep 24 2026 2:45AM",
+      "home": "Kingstonian",
+      "away": "Bedfont Sports",
       "ht": null,
       "ft": null,
       "status": "Running",
