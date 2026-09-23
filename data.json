@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T19:08:10+00:00",
+  "updated_at": "2026-09-23T19:24:34+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3058,
+  "count": 3056,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "0bb7ef473d69bdf0",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 24 2026 1:15AM",
+      "home": "Hapoel Herzliya",
+      "away": "Tzeirey Tira FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "df0ae60ead3ecf5b",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 24 2026 1:15AM",
+      "home": "Hapoel Nir Ramat Hasharon",
+      "away": "FC Sderot",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "088b8c1166363830",
       "league": "ISRAEL LIGA ALEF",
@@ -50627,68 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "17d89bd233fd446f",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 3:15PM",
-      "home": "Real Sociedad (V)",
-      "away": "Napoli (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6bcba3e3eec801fe",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 3:15PM",
-      "home": "Torino (V)",
-      "away": "Getafe CF (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0bb7ef473d69bdf0",
-      "league": "ISRAEL LIGA ALEF",
-      "kickoff": "Sep 24 2026 1:15AM",
-      "home": "Hapoel Herzliya",
-      "away": "Tzeirey Tira FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "df0ae60ead3ecf5b",
-      "league": "ISRAEL LIGA ALEF",
-      "kickoff": "Sep 24 2026 1:15AM",
-      "home": "Hapoel Nir Ramat Hasharon",
-      "away": "FC Sderot",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "866714d21cb8060f",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
       "kickoff": "Sep 24 2026 1:30AM",
@@ -51044,7 +51016,10 @@
       "kickoff": "Sep 24 2026 2:30AM",
       "home": "Sevenoaks Town",
       "away": "Eastbourne Town FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51055,7 +51030,10 @@
       "kickoff": "Sep 24 2026 2:30AM",
       "home": "Leicester City (w)",
       "away": "London City Lionesses (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51066,7 +51044,10 @@
       "kickoff": "Sep 24 2026 2:30AM",
       "home": "CA Boston River",
       "away": "Centro Atletico Fenix",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51077,7 +51058,10 @@
       "kickoff": "Sep 24 2026 2:30AM",
       "home": "Liverpool Montevideo",
       "away": "Colon FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
