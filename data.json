@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T06:11:36+00:00",
+  "updated_at": "2026-09-23T06:33:29+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3045,
+  "count": 3046,
   "archive_count": 3000,
   "matches": [
     {
@@ -50694,7 +50694,10 @@
       "kickoff": "Sep 23 2026 1:30PM",
       "home": "China U23",
       "away": "United Arab Emirates U23",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50705,7 +50708,10 @@
       "kickoff": "Sep 23 2026 1:30PM",
       "home": "Iran U23",
       "away": "North Korea U23",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50716,7 +50722,10 @@
       "kickoff": "Sep 23 2026 1:30PM",
       "home": "Parikrma FC",
       "away": "FC Real Bengaluru",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50837,6 +50846,17 @@
       "kickoff": "Sep 23 2026 5:00PM",
       "home": "Cerezo Osaka Yanmar (w)",
       "away": "Sanfrecce Hiroshima Regina (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9d381e8a20d5a32a",
+      "league": "SPAIN DIVISION DE HONOR U19",
+      "kickoff": "Sep 23 2026 6:00PM",
+      "home": "Real Madrid U19",
+      "away": "Getafe CF U19",
       "ht": null,
       "ft": null,
       "status": "Running",
