@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T16:10:41+00:00",
+  "updated_at": "2026-09-23T16:28:17+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3083,
+  "count": 3085,
   "archive_count": 3000,
   "matches": [
     {
@@ -50876,7 +50876,10 @@
       "kickoff": "Sep 23 2026 11:30PM",
       "home": "HJK Helsinki (w)",
       "away": "Brann (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50992,6 +50995,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "ae21ef738157f824",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "FH Hafnarfjordur (w)",
+      "away": "Eintracht Frankfurt (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "d06af9ac31808590",
       "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
       "kickoff": "Sep 24 2026 12:00AM",
@@ -51091,6 +51105,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "505a81b4eff69fa4",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 24 2026 1:00AM",
+      "home": "PSV Eindhoven (w)",
+      "away": "Fortuna Hjorring (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "db7f116457b376f7",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
       "kickoff": "Sep 24 2026 1:00AM",
@@ -51102,11 +51127,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "505a81b4eff69fa4",
-      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
-      "kickoff": "Sep 24 2026 1:00AM",
-      "home": "PSV Eindhoven (w)",
-      "away": "Fortuna Hjorring (w)",
+      "id": "088b8c1166363830",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 24 2026 1:10AM",
+      "home": "Sport Club Dimona",
+      "away": "Maccabi Ironi Kiryat Malakhi",
       "ht": null,
       "ft": null,
       "status": "Running",
