@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T17:09:24+00:00",
+  "updated_at": "2026-09-23T17:25:59+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3078,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "d9a44c71e3efd276",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 11:30PM",
+      "home": "HJK Helsinki (w)",
+      "away": "Brann (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "a02a4d5e7e60421f",
       "league": "ISRAEL LIGA ALEF",
@@ -130,6 +147,40 @@
       "kickoff": "Sep 23 2026 11:00PM",
       "home": "Chacarita Juniors (R)",
       "away": "CA Estudiantes de Caseros (R)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e6566cfc58a8fef1",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 23 2026 11:00PM",
+      "home": "Slovan Liberec (w) (N)",
+      "away": "Rosenborg (w)",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8e83843c22cfaa59",
+      "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
+      "kickoff": "Sep 23 2026 11:00PM",
+      "home": "Enugu Rangers International (N)",
+      "away": "Ranchers Bees",
       "ht": [
         0,
         0
@@ -50610,99 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5a3c8bc197094f56",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:15PM",
-      "home": "New Zealand (V)",
-      "away": "China (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f4c28cc4f842a93c",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:15PM",
-      "home": "Slovenia (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "045248c736ee977a",
-      "league": "SABA VIETNAM V LEAGUE 1 VIRTUAL PES 24 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:15PM",
-      "home": "Becamex Binh Duong (V)",
-      "away": "Quang Nam (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e6566cfc58a8fef1",
-      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
-      "kickoff": "Sep 23 2026 11:00PM",
-      "home": "Slovan Liberec (w) (N)",
-      "away": "Rosenborg (w)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8e83843c22cfaa59",
-      "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
-      "kickoff": "Sep 23 2026 11:00PM",
-      "home": "Enugu Rangers International (N)",
-      "away": "Ranchers Bees",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d9a44c71e3efd276",
-      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
-      "kickoff": "Sep 23 2026 11:30PM",
-      "home": "HJK Helsinki (w)",
-      "away": "Brann (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "bc9cbeef9e57c894",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 24 2026 12:00AM",
@@ -50890,7 +50848,10 @@
       "kickoff": "Sep 24 2026 12:30AM",
       "home": "North Korea U20 (w)",
       "away": "Colombia U20 (w)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51017,6 +50978,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "09012b0437867cc2",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 24 2026 1:05AM",
+      "home": "TuPS Tuusula",
+      "away": "Helsingin Ponnistus",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "088b8c1166363830",
       "league": "ISRAEL LIGA ALEF",
       "kickoff": "Sep 24 2026 1:10AM",
@@ -51066,6 +51038,28 @@
       "kickoff": "Sep 24 2026 1:30AM",
       "home": "Canuelas (R)",
       "away": "Leones de Rosario (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f9eeae575da28884",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 24 2026 1:45AM",
+      "home": "Hapoel Ironi Baqa Al-Gharbiyye",
+      "away": "Hapoel Tirat HaCarmel FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6d0d1aa2c3e8c8b4",
+      "league": "BRAZIL RIO CUP",
+      "kickoff": "Sep 24 2026 1:45AM",
+      "home": "Madureira RJ",
+      "away": "Sampaio Correa RJ",
       "ht": null,
       "ft": null,
       "status": "Running",
