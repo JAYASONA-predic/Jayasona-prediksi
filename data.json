@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T10:26:21+00:00",
+  "updated_at": "2026-09-23T10:41:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3063,
+  "count": 3064,
   "archive_count": 3000,
   "matches": [
     {
@@ -50708,7 +50708,10 @@
       "kickoff": "Sep 23 2026 5:30PM",
       "home": "Mohun Bagan Super Giant",
       "away": "Sreenidi Deccan FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50799,6 +50802,17 @@
       "kickoff": "Sep 23 2026 6:30PM",
       "home": "Bengaluru FC B",
       "away": "FC Agniputhra",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ac5031837445e7cc",
+      "league": "THAILAND LEAGUE U21",
+      "kickoff": "Sep 23 2026 7:00PM",
+      "home": "Kanchanaburi Power FC U21",
+      "away": "Rasi Salai United U21",
       "ht": null,
       "ft": null,
       "status": "Running",
