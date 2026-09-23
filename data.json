@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T01:38:03+00:00",
+  "updated_at": "2026-09-23T01:50:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3002,
   "archive_count": 3000,
@@ -50680,7 +50680,10 @@
       "kickoff": "Sep 23 2026 9:00AM",
       "home": "Independiente Santa Fe",
       "away": "Deportivo Cali",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
