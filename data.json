@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T12:32:57+00:00",
+  "updated_at": "2026-09-23T12:55:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3079,
+  "count": 3081,
   "archive_count": 3000,
   "matches": [
     {
@@ -50680,7 +50680,10 @@
       "kickoff": "Sep 23 2026 8:00PM",
       "home": "Bosnia-Herzegovina U17",
       "away": "Greece U17",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50691,7 +50694,10 @@
       "kickoff": "Sep 23 2026 8:00PM",
       "home": "Rubin Kazan U19",
       "away": "FK Krasnodar U19",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50702,7 +50708,10 @@
       "kickoff": "Sep 23 2026 8:00PM",
       "home": "Thimphu City FC",
       "away": "Transport United",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50763,11 +50772,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "a4d76b41307d4341",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 23 2026 9:00PM",
+      "home": "CA Acassuso (R)",
+      "away": "CA Los Andes (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "5d6acd4bf4883853",
       "league": "CZECH REPUBLIC CUP",
       "kickoff": "Sep 23 2026 10:00PM",
       "home": "SK Kladno",
       "away": "Banik Ostrava",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0edbf5e235b07c1e",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 23 2026 10:00PM",
+      "home": "Hapoel Azor",
+      "away": "Hapoel Mahane Yehuda",
       "ht": null,
       "ft": null,
       "status": "Running",
