@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T14:10:31+00:00",
+  "updated_at": "2026-09-23T14:27:51+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3091,
+  "count": 3092,
   "archive_count": 3000,
   "matches": [
     {
@@ -50764,7 +50764,10 @@
       "kickoff": "Sep 23 2026 9:30PM",
       "home": "FK 05 Levoca",
       "away": "Tatran Liptovsky Mikulas",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51677,6 +51680,17 @@
       "kickoff": "Sep 24 2026 10:00AM",
       "home": "Vancouver FC",
       "away": "Inter Toronto FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c0d3eca04e639e7d",
+      "league": "GUATEMALA LIGA NATIONAL",
+      "kickoff": "Sep 24 2026 10:00AM",
+      "home": "Xelaju MC",
+      "away": "Antigua GFC",
       "ht": null,
       "ft": null,
       "status": "Running",
