@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T10:09:04+00:00",
+  "updated_at": "2026-09-23T10:26:21+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3062,
+  "count": 3063,
   "archive_count": 3000,
   "matches": [
     {
@@ -50719,7 +50719,10 @@
       "kickoff": "Sep 23 2026 5:30PM",
       "home": "Rangdajied United FC",
       "away": "Nongkseh SSCC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50785,6 +50788,17 @@
       "kickoff": "Sep 23 2026 6:30PM",
       "home": "Kyrgyzstan U23",
       "away": "Hong Kong U23",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "28d90ec8da0dccea",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 23 2026 6:30PM",
+      "home": "Bengaluru FC B",
+      "away": "FC Agniputhra",
       "ht": null,
       "ft": null,
       "status": "Running",
