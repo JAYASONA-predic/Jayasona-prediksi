@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T17:25:59+00:00",
+  "updated_at": "2026-09-23T17:39:00+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3078,
+  "count": 3083,
   "archive_count": 3000,
   "matches": [
     {
@@ -50862,7 +50862,10 @@
       "kickoff": "Sep 24 2026 12:45AM",
       "home": "Oud-Heverlee Leuven (w)",
       "away": "AS Roma (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50873,7 +50876,10 @@
       "kickoff": "Sep 24 2026 12:45AM",
       "home": "Servette Chenois (w)",
       "away": "Olympique Lyonnais (w)",
-      "ht": null,
+      "ht": [
+        0,
+        4
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50884,7 +50890,10 @@
       "kickoff": "Sep 24 2026 12:45AM",
       "home": "SKN St. Polten (w)",
       "away": "Malmo FF (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51099,6 +51108,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "e846344f01c6912d",
+      "league": "PREMIER LEAGUE INTERNATIONAL CUP (IN ENGLAND)",
+      "kickoff": "Sep 24 2026 2:00AM",
+      "home": "Middlesbrough U21",
+      "away": "KRC Genk U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0f39d47d03e86a7",
+      "league": "PREMIER LEAGUE INTERNATIONAL CUP (IN ENGLAND)",
+      "kickoff": "Sep 24 2026 2:00AM",
+      "home": "West Ham United U21",
+      "away": "Valencia CF U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "8d7ee48b5d38db09",
       "league": "ENGLISH NATIONAL LEAGUE CUP",
       "kickoff": "Sep 24 2026 2:00AM",
@@ -51181,6 +51212,39 @@
       "kickoff": "Sep 24 2026 2:00AM",
       "home": "Tottenham Hotspur (w)",
       "away": "West Ham United (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f824dec804b1880f",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 24 2026 2:00AM",
+      "home": "Gremio Prudente SP U20",
+      "away": "Juventus SP U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "07f7950db6e3e00f",
+      "league": "BRAZIL CAMPEONATO GAUCHO SERIE A2",
+      "kickoff": "Sep 24 2026 2:00AM",
+      "home": "Brasil de Pelotas RS",
+      "away": "GE Gloria RS",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a799cff6d101c942",
+      "league": "BRAZIL CAMPEONATO GAUCHO SERIE A2",
+      "kickoff": "Sep 24 2026 2:00AM",
+      "home": "CE Gramadense RS",
+      "away": "EC Pelotas",
       "ht": null,
       "ft": null,
       "status": "Running",
