@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T09:41:13+00:00",
+  "updated_at": "2026-09-23T09:53:44+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3070,
+  "count": 3069,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "2920c07057fbab72",
+      "league": "JAPAN EMPEROR CUP",
+      "kickoff": "Sep 23 2026 4:00PM",
+      "home": "Kashima Antlers",
+      "away": "Ventforet Kofu",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3707e470f1d727cf",
+      "league": "JAPAN EMPEROR CUP",
+      "kickoff": "Sep 23 2026 4:00PM",
+      "home": "Kashiwa Reysol",
+      "away": "FC Imabari",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "01ecded43152d9e6",
       "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
@@ -50627,40 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4319dc01389b2cb4",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:45PM",
-      "home": "Israel (V)",
-      "away": "Romania (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "85547870ba1e3056",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:45PM",
-      "home": "Korea Republic (V)",
-      "away": "Egypt (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "5f233fa65632bdd9",
       "league": "JAPAN EMPEROR CUP",
       "kickoff": "Sep 23 2026 4:00PM",
@@ -50682,34 +50682,6 @@
       "away": "Tokushima Vortis",
       "ht": [
         1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2920c07057fbab72",
-      "league": "JAPAN EMPEROR CUP",
-      "kickoff": "Sep 23 2026 4:00PM",
-      "home": "Kashima Antlers",
-      "away": "Ventforet Kofu",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3707e470f1d727cf",
-      "league": "JAPAN EMPEROR CUP",
-      "kickoff": "Sep 23 2026 4:00PM",
-      "home": "Kashiwa Reysol",
-      "away": "FC Imabari",
-      "ht": [
-        2,
         0
       ],
       "ft": null,
@@ -50783,7 +50755,10 @@
       "kickoff": "Sep 23 2026 5:00PM",
       "home": "Cerezo Osaka Yanmar (w)",
       "away": "Sanfrecce Hiroshima Regina (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50794,7 +50769,10 @@
       "kickoff": "Sep 23 2026 5:00PM",
       "home": "Yadanarbon FC U20",
       "away": "Myawady FC U20",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50805,7 +50783,10 @@
       "kickoff": "Sep 23 2026 5:00PM",
       "home": "ACF Brescia (w)",
       "away": "Venezia (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50860,6 +50841,17 @@
       "kickoff": "Sep 23 2026 6:00PM",
       "home": "South Africa U20",
       "away": "Eswatini U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0bd0d1789819af12",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 23 2026 6:00PM",
+      "home": "Lesotho U20",
+      "away": "Angola U20",
       "ht": null,
       "ft": null,
       "status": "Running",
