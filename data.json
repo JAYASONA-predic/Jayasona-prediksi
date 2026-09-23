@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T18:11:42+00:00",
+  "updated_at": "2026-09-23T18:30:40+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3070,
+  "count": 3069,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "5158302b6596873e",
+      "league": "U20 WOMEN WORLD CUP 2026 (IN POLAND)",
+      "kickoff": "Sep 24 2026 12:30AM",
+      "home": "North Korea U20 (w)",
+      "away": "Colombia U20 (w)",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "a50970fa83e9383f",
       "league": "CLUB FRIENDLY",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5fadac1c7224ee9e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:45PM",
-      "home": "Norway (V)",
-      "away": "Czech Republic (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5158302b6596873e",
-      "league": "U20 WOMEN WORLD CUP 2026 (IN POLAND)",
-      "kickoff": "Sep 24 2026 12:30AM",
-      "home": "North Korea U20 (w)",
-      "away": "Colombia U20 (w)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "5b8029c680bd732d",
       "league": "UEFA WOMEN CHAMPIONS LEAGUE",
       "kickoff": "Sep 24 2026 12:45AM",
@@ -50887,7 +50873,10 @@
       "kickoff": "Sep 24 2026 1:30AM",
       "home": "Ajax (w)",
       "away": "FK Aktobe (w)",
-      "ht": null,
+      "ht": [
+        5,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50898,7 +50887,10 @@
       "kickoff": "Sep 24 2026 1:30AM",
       "home": "Canuelas (R)",
       "away": "Leones de Rosario (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51234,22 +51226,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "578c6f231e5240ec",
+      "id": "20f70e3ea7ee64b6",
       "league": "UEFA WOMEN CHAMPIONS LEAGUE",
       "kickoff": "Sep 24 2026 3:00AM",
-      "home": "Barcelona (w)",
-      "away": "Paris FC (w)",
+      "home": "Chelsea (w) (N)",
+      "away": "Austria Wien (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "20f70e3ea7ee64b6",
+      "id": "578c6f231e5240ec",
       "league": "UEFA WOMEN CHAMPIONS LEAGUE",
       "kickoff": "Sep 24 2026 3:00AM",
-      "home": "Chelsea (w) (N)",
-      "away": "Austria Wien (w)",
+      "home": "Barcelona (w)",
+      "away": "Paris FC (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
