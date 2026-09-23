@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T08:55:17+00:00",
+  "updated_at": "2026-09-23T09:09:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3069,
+  "count": 3067,
   "archive_count": 3000,
   "matches": [
     {
@@ -35,6 +35,57 @@
       "ft": [
         2,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "416540cdd7b6bb95",
+      "league": "KOREA WOMEN K-LEAGUE",
+      "kickoff": "Sep 23 2026 3:00PM",
+      "home": "Seoul FC (w)",
+      "away": "Hwacheon KSPO (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5185eefe1d12c6e5",
+      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
+      "kickoff": "Sep 23 2026 3:00PM",
+      "home": "Omiya Ardija Ventus (w)",
+      "away": "Mynavi Sendai (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ff6b1a11c36640b4",
+      "league": "MSG PRIME MINISTERS WOMEN CUP (IN FIJI)",
+      "kickoff": "Sep 23 2026 3:00PM",
+      "home": "Fiji (w)",
+      "away": "Solomon Islands (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50610,99 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "475a641aca05065e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:45PM",
-      "home": "Belgium (V)",
-      "away": "USA (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7bcf91e210944f23",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:45PM",
-      "home": "Italy (V)",
-      "away": "Spain (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d744d0610bd836ff",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 12:45PM",
-      "home": "Inter Milan (V)",
-      "away": "FSV Mainz 05 (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "416540cdd7b6bb95",
-      "league": "KOREA WOMEN K-LEAGUE",
-      "kickoff": "Sep 23 2026 3:00PM",
-      "home": "Seoul FC (w)",
-      "away": "Hwacheon KSPO (w)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5185eefe1d12c6e5",
-      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
-      "kickoff": "Sep 23 2026 3:00PM",
-      "home": "Omiya Ardija Ventus (w)",
-      "away": "Mynavi Sendai (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ff6b1a11c36640b4",
-      "league": "MSG PRIME MINISTERS WOMEN CUP (IN FIJI)",
-      "kickoff": "Sep 23 2026 3:00PM",
-      "home": "Fiji (w)",
-      "away": "Solomon Islands (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "5f233fa65632bdd9",
       "league": "JAPAN EMPEROR CUP",
       "kickoff": "Sep 23 2026 4:00PM",
@@ -50847,6 +50805,17 @@
       "kickoff": "Sep 23 2026 5:00PM",
       "home": "ACF Brescia (w)",
       "away": "Venezia (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cc98d85165fea00e",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 23 2026 5:30PM",
+      "home": "Rangdajied United FC",
+      "away": "Nongkseh SSCC",
       "ht": null,
       "ft": null,
       "status": "Running",
