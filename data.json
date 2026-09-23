@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-23T17:39:00+00:00",
+  "updated_at": "2026-09-23T17:50:49+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3083,
+  "count": 3080,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "a50970fa83e9383f",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "SC Wiedenbruck 2000",
+      "away": "VfL Osnabruck",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "11c2f99b0df3c170",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "Brondby IF (w)",
+      "away": "Sporting Lisbon (w)",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fb7de7f0c48bdfe8",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 24 2026 12:00AM",
+      "home": "Sparta Praha (w)",
+      "away": "Farul Constanta (w)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d9a44c71e3efd276",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
@@ -50610,57 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0a7a9dee25112b88",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:30PM",
-      "home": "Sevilla (V)",
-      "away": "Leicester City (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7a066cf8095f1a6c",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:30PM",
-      "home": "Torino (V)",
-      "away": "Manchester United (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dfa17b0270b8984b",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 2:30PM",
-      "home": "Udinese (V)",
-      "away": "Getafe CF (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "bc9cbeef9e57c894",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 24 2026 12:00AM",
@@ -50683,20 +50683,6 @@
       "ht": [
         0,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a50970fa83e9383f",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 24 2026 12:00AM",
-      "home": "SC Wiedenbruck 2000",
-      "away": "VfL Osnabruck",
-      "ht": [
-        0,
-        3
       ],
       "ft": null,
       "status": "Running",
@@ -50767,34 +50753,6 @@
       "ht": [
         1,
         4
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "11c2f99b0df3c170",
-      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
-      "kickoff": "Sep 24 2026 12:00AM",
-      "home": "Brondby IF (w)",
-      "away": "Sporting Lisbon (w)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fb7de7f0c48bdfe8",
-      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
-      "kickoff": "Sep 24 2026 12:00AM",
-      "home": "Sparta Praha (w)",
-      "away": "Farul Constanta (w)",
-      "ht": [
-        1,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -50904,7 +50862,10 @@
       "kickoff": "Sep 24 2026 1:00AM",
       "home": "Argentina U19",
       "away": "Peru U19",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50926,7 +50887,10 @@
       "kickoff": "Sep 24 2026 1:00AM",
       "home": "Feyenoord (w)",
       "away": "Valerenga (w)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50937,7 +50901,10 @@
       "kickoff": "Sep 24 2026 1:00AM",
       "home": "Hammarby (w)",
       "away": "Rangers FC (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50948,7 +50915,10 @@
       "kickoff": "Sep 24 2026 1:00AM",
       "home": "PSV Eindhoven (w)",
       "away": "Fortuna Hjorring (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50959,7 +50929,10 @@
       "kickoff": "Sep 24 2026 1:00AM",
       "home": "VfL Wolfsburg (w)",
       "away": "Sturm Graz (w)",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
