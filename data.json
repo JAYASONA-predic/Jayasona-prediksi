@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T19:08:32+00:00",
+  "updated_at": "2026-09-24T19:24:30+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3064,
+  "count": 3062,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "7f17bf4548bfa664",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 25 2026 1:30AM",
+      "home": "MPS Helsinki",
+      "away": "SexyPoxyt",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fddb6135f091b484",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 25 2026 1:15AM",
+      "home": "Hapoel Hadera",
+      "away": "Maccabi Ironi Ashdod",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "b79c5ecfe57234f1",
       "league": "CLUB FRIENDLY",
@@ -50624,40 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "01735ee67d36ce96",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:45PM",
-      "home": "Arminia Bielefeld (V)",
-      "away": "Tottenham Hotspur (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6dcdb5e79c759133",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:45PM",
-      "home": "Manchester United (V)",
-      "away": "Torino (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7dfec03e8773cf25",
       "league": "ISRAEL LIGA ALEF",
       "kickoff": "Sep 25 2026 12:00AM",
@@ -50719,34 +50719,6 @@
       "home": "Malta",
       "away": "Lithuania",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fddb6135f091b484",
-      "league": "ISRAEL LIGA ALEF",
-      "kickoff": "Sep 25 2026 1:15AM",
-      "home": "Hapoel Hadera",
-      "away": "Maccabi Ironi Ashdod",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7f17bf4548bfa664",
-      "league": "FINLAND KOLMONEN",
-      "kickoff": "Sep 25 2026 1:30AM",
-      "home": "MPS Helsinki",
-      "away": "SexyPoxyt",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50869,7 +50841,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "Baerum U19",
       "away": "Ullern IF U19",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50894,7 +50869,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "Haslum U19",
       "away": "Asker U19",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50905,7 +50883,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "IF Ready U19",
       "away": "Skedsmo U19",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50958,7 +50939,10 @@
       "kickoff": "Sep 25 2026 2:30AM",
       "home": "San Marino U21",
       "away": "Kosovo U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50969,7 +50953,10 @@
       "kickoff": "Sep 25 2026 2:30AM",
       "home": "Lorenskog U19",
       "away": "Kjelsas Fotball U19",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50980,7 +50967,10 @@
       "kickoff": "Sep 25 2026 2:30AM",
       "home": "Montevideo City Torque",
       "away": "Atenas de San Carlos",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
