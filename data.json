@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T06:12:05+00:00",
+  "updated_at": "2026-09-24T06:33:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3064,
   "archive_count": 3000,
@@ -50666,7 +50666,10 @@
       "kickoff": "Sep 24 2026 1:30PM",
       "home": "HAL SC",
       "away": "Kickstart FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
