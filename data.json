@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T09:52:57+00:00",
+  "updated_at": "2026-09-24T10:08:56+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3069,
+  "count": 3071,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "2763d4facf832db2",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 24 2026 4:00PM",
+      "home": "South United",
+      "away": "ASC Football Club",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "1b3e8ed71303339d",
       "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e2739da0619b5862",
-      "league": "INDONESIA SUPER LEAGUE",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "PSM Makassar",
-      "away": "Persita Tangerang",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2763d4facf832db2",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Sep 24 2026 4:00PM",
-      "home": "South United",
-      "away": "ASC Football Club",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a71785425c03f36b",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 24 2026 4:30PM",
@@ -50703,12 +50689,26 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "ed26c47161de4577",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Sagaing United FC U20",
+      "away": "Chinland FC U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "c2100c2f22ab5588",
       "league": "MYANMAR NATIONAL LEAGUE U20",
       "kickoff": "Sep 24 2026 5:00PM",
       "home": "Yangon United U20",
       "away": "Ayeyawady United U20",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50780,6 +50780,17 @@
       "kickoff": "Sep 24 2026 5:30PM",
       "home": "Uganda U20",
       "away": "Burundi U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "62b484387a14c854",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 24 2026 6:00PM",
+      "home": "Brommapojkarna U21",
+      "away": "IFK Norrkoping U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50890,6 +50901,17 @@
       "kickoff": "Sep 24 2026 10:00PM",
       "home": "Serbia U19",
       "away": "Bulgaria U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dbde44d4fc960fc0",
+      "league": "ESTONIA CUP",
+      "kickoff": "Sep 24 2026 10:00PM",
+      "home": "FC Elva",
+      "away": "JK Tallinna Kalev",
       "ht": null,
       "ft": null,
       "status": "Running",
