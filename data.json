@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T18:10:53+00:00",
+  "updated_at": "2026-09-24T18:30:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3069,
+  "count": 3066,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "a63b372cdd6304a2",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 25 2026 12:30AM",
+      "home": "Sportfreunde Siegen",
+      "away": "Borussia Monchengladbach",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "9d294f98fc635787",
       "league": "UEFA NATIONS LEAGUE D",
@@ -50641,23 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5259db87d667a6dc",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30PM",
-      "home": "Atletico de Madrid (V)",
-      "away": "AC Milan (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7dfec03e8773cf25",
       "league": "ISRAEL LIGA ALEF",
       "kickoff": "Sep 25 2026 12:00AM",
@@ -50724,20 +50724,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a63b372cdd6304a2",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 25 2026 12:30AM",
-      "home": "Sportfreunde Siegen",
-      "away": "Borussia Monchengladbach",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b1f70bad816e7882",
       "league": "ISRAEL LIGA ALEF",
       "kickoff": "Sep 25 2026 12:45AM",
@@ -50761,28 +50747,6 @@
         2,
         1
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1181e86d18bf7e84",
-      "league": "FINLAND KOLMONEN TEAM TOTAL GOAL",
-      "kickoff": "Sep 25 2026 1:00AM",
-      "home": "Fish United TG - Over",
-      "away": "Fish United TG - Under",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4ee2c1938d9cd181",
-      "league": "FINLAND KOLMONEN TEAM TOTAL GOAL",
-      "kickoff": "Sep 25 2026 1:00AM",
-      "home": "Loiske FC TG - Over",
-      "away": "Loiske FC TG - Under",
-      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50835,7 +50799,10 @@
       "kickoff": "Sep 25 2026 1:30AM",
       "home": "MPS Helsinki",
       "away": "SexyPoxyt",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51011,6 +50978,17 @@
       "kickoff": "Sep 25 2026 2:30AM",
       "home": "San Marino U21",
       "away": "Kosovo U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b7a6dbddbce06e21",
+      "league": "NORWAY U19 INTERKRETS B",
+      "kickoff": "Sep 25 2026 2:30AM",
+      "home": "Lorenskog U19",
+      "away": "Kjelsas Fotball U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51242,17 +51220,6 @@
       "kickoff": "Sep 25 2026 3:00AM",
       "home": "Tunisia",
       "away": "Uganda",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1fc162520141c88b",
-      "league": "MOROCCO BOTOLA PRO",
-      "kickoff": "Sep 25 2026 3:00AM",
-      "home": "US Amal Tiznit",
-      "away": "Ittihad Riadi Tanger",
       "ht": null,
       "ft": null,
       "status": "Running",
