@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T00:11:56+00:00",
+  "updated_at": "2026-09-24T00:34:44+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3014,
   "archive_count": 3000,
@@ -50733,7 +50733,10 @@
       "kickoff": "Sep 24 2026 7:30AM",
       "home": "Deportes Iquique",
       "away": "Antofagasta",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50744,7 +50747,10 @@
       "kickoff": "Sep 24 2026 7:30AM",
       "home": "Union La Calera",
       "away": "CD Universidad Catolica",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
