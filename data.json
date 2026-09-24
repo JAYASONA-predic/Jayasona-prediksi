@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T06:33:43+00:00",
+  "updated_at": "2026-09-24T06:55:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3064,
   "archive_count": 3000,
@@ -50691,7 +50691,10 @@
       "kickoff": "Sep 24 2026 2:00PM",
       "home": "Australia U16",
       "away": "Vietnam U16",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
