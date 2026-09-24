@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T18:54:05+00:00",
+  "updated_at": "2026-09-24T19:08:32+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3064,
   "archive_count": 3000,
@@ -35,6 +35,23 @@
       "ft": [
         4,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e3eaa98e262b4820",
+      "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
+      "kickoff": "Sep 25 2026 1:00AM",
+      "home": "Egypt U20",
+      "away": "Libya U20",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50641,23 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "aa6576ec2d7792bb",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30PM",
-      "home": "Cyprus (V)",
-      "away": "Belarus (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7dfec03e8773cf25",
       "league": "ISRAEL LIGA ALEF",
       "kickoff": "Sep 25 2026 12:00AM",
@@ -50719,20 +50719,6 @@
       "home": "Malta",
       "away": "Lithuania",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e3eaa98e262b4820",
-      "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
-      "kickoff": "Sep 25 2026 1:00AM",
-      "home": "Egypt U20",
-      "away": "Libya U20",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50869,7 +50855,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "IK Kongahalla",
       "away": "Lindome GIF",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50891,7 +50880,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "Follo U19",
       "away": "Lillehammer FK U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50924,7 +50916,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "KFUM Oslo U19",
       "away": "Nordstrand IF U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50935,7 +50930,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "Christiania BK U19",
       "away": "Gjovik Lyn U19",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50946,7 +50944,10 @@
       "kickoff": "Sep 25 2026 2:15AM",
       "home": "Sprint Jeloy U19",
       "away": "Sarpsborg FK U19",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51221,6 +51222,17 @@
       "kickoff": "Sep 25 2026 3:00AM",
       "home": "Puerto Rico",
       "away": "Guyana",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f4b59ffacd5f0246",
+      "league": "URUGUAY CUP QUALIFIERS",
+      "kickoff": "Sep 25 2026 3:00AM",
+      "home": "Danubio",
+      "away": "Penarol",
       "ht": null,
       "ft": null,
       "status": "Running",
