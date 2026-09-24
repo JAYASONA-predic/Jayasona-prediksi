@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T02:26:25+00:00",
+  "updated_at": "2026-09-24T02:41:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3007,
+  "count": 3006,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "37daa7a582045783",
+      "league": "COLOMBIA PRIMERA A",
+      "kickoff": "Sep 24 2026 8:30AM",
+      "home": "America de Cali",
+      "away": "Aguilas Doradas",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "80f28ab9b8dc93ae",
       "league": "CHILE CUP",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "613499c43c3cbb41",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 4:15PM",
-      "home": "Japan (V)",
-      "away": "Qatar (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "37daa7a582045783",
-      "league": "COLOMBIA PRIMERA A",
-      "kickoff": "Sep 24 2026 8:30AM",
-      "home": "America de Cali",
-      "away": "Aguilas Doradas",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f3fbd7ce8b7c6841",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 24 2026 8:30AM",
@@ -50719,7 +50705,10 @@
       "kickoff": "Sep 24 2026 9:30AM",
       "home": "Seattle Sounders",
       "away": "Real Salt Lake",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
