@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T18:30:19+00:00",
+  "updated_at": "2026-09-24T18:54:05+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3066,
+  "count": 3064,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "b79c5ecfe57234f1",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 25 2026 1:00AM",
+      "home": "Rot Weiss Oberhausen",
+      "away": "Schalke 04",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1ed6a9cd88e0b081",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 25 2026 1:00AM",
+      "home": "Fish United",
+      "away": "Loiske FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        4,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b1f70bad816e7882",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 25 2026 12:45AM",
+      "home": "FC Holon Yermiyahu",
+      "away": "MK Kfar Saba 1928",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "a63b372cdd6304a2",
       "league": "CLUB FRIENDLY",
@@ -50607,57 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "92c061281a0b7101",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30PM",
-      "home": "France (V)",
-      "away": "Argentina (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8087839ab031aecb",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30PM",
-      "home": "Mexico (V)",
-      "away": "Sweden (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5a528f88d3782329",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:30PM",
-      "home": "Wales (V)",
-      "away": "Belgium (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7dfec03e8773cf25",
       "league": "ISRAEL LIGA ALEF",
       "kickoff": "Sep 25 2026 12:00AM",
@@ -50724,48 +50724,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b1f70bad816e7882",
-      "league": "ISRAEL LIGA ALEF",
-      "kickoff": "Sep 25 2026 12:45AM",
-      "home": "FC Holon Yermiyahu",
-      "away": "MK Kfar Saba 1928",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b79c5ecfe57234f1",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 25 2026 1:00AM",
-      "home": "Rot Weiss Oberhausen",
-      "away": "Schalke 04",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1ed6a9cd88e0b081",
-      "league": "FINLAND KOLMONEN",
-      "kickoff": "Sep 25 2026 1:00AM",
-      "home": "Fish United",
-      "away": "Loiske FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e3eaa98e262b4820",
       "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
       "kickoff": "Sep 25 2026 1:00AM",
@@ -50813,7 +50771,10 @@
       "kickoff": "Sep 25 2026 2:00AM",
       "home": "Belgium U21",
       "away": "Belarus U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50824,7 +50785,10 @@
       "kickoff": "Sep 25 2026 2:00AM",
       "home": "Qatar",
       "away": "Bahrain",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50835,7 +50799,10 @@
       "kickoff": "Sep 25 2026 2:00AM",
       "home": "Argentinos Juniors (R)",
       "away": "CA Platense (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50846,7 +50813,10 @@
       "kickoff": "Sep 25 2026 2:00AM",
       "home": "Deportivo Riestra (R)",
       "away": "CA Barracas Central (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50857,7 +50827,10 @@
       "kickoff": "Sep 25 2026 2:00AM",
       "home": "Instituto (R)",
       "away": "Estudiantes de Rio Cuarto (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50868,7 +50841,10 @@
       "kickoff": "Sep 25 2026 2:00AM",
       "home": "Newells Old Boys (R)",
       "away": "Rosario Central (R)",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50879,7 +50855,10 @@
       "kickoff": "Sep 25 2026 2:00AM",
       "home": "Argentino De Quilmes (R)",
       "away": "Defensores Unidos (R)",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51220,6 +51199,17 @@
       "kickoff": "Sep 25 2026 3:00AM",
       "home": "Tunisia",
       "away": "Uganda",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b35f4c18ffd2764a",
+      "league": "ICELAND U19 LEAGUE C",
+      "kickoff": "Sep 25 2026 3:00AM",
+      "home": "Breidablik/Augnablik/Smari 2 U19",
+      "away": "HK/Ymir 2 U19",
       "ht": null,
       "ft": null,
       "status": "Running",
