@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T14:27:40+00:00",
+  "updated_at": "2026-09-24T14:44:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3083,
+  "count": 3087,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "61f276e9a2e0212d",
+      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
+      "kickoff": "Sep 24 2026 8:30PM",
+      "home": "Tanzania U20",
+      "away": "Sudan U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "524823be1bd548f9",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
@@ -50641,37 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d327b12fcfa3932d",
-      "league": "BANGLADESH FOOTBALL LEAGUE",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Arambagh Krira Sangha",
-      "away": "Bashundhara Kings",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "61f276e9a2e0212d",
-      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
-      "kickoff": "Sep 24 2026 8:30PM",
-      "home": "Tanzania U20",
-      "away": "Sudan U20",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "9a99bb69ace3b75b",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
       "kickoff": "Sep 24 2026 9:00PM",
@@ -51015,11 +51001,66 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f0b791fecf510e68",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Sep 24 2026 10:40PM",
+      "home": "Sohar",
+      "away": "Al-Seeb",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "534a98cda1eaa795",
       "league": "CROATIA SECOND LEAGUE",
       "kickoff": "Sep 24 2026 11:00PM",
       "home": "NK Koprivnica",
       "away": "NK Uskok",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3ae84804068c4d75",
+      "league": "ARGENTINA PRIMERA C RESERVE",
+      "kickoff": "Sep 24 2026 11:00PM",
+      "home": "Club Estrella del Sur AK (R)",
+      "away": "Defensores De Cambaceres (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ccef4dc7ce9ada30",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 24 2026 11:00PM",
+      "home": "CA Atlanta (R)",
+      "away": "CA All Boys (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c9d847fd01338eab",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 24 2026 11:00PM",
+      "home": "Club Almagro (R)",
+      "away": "Almirante Brown (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "94903f177935ed40",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 24 2026 11:00PM",
+      "home": "Nueva Chicago (R)",
+      "away": "Club Atletico Mitre (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
