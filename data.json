@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T10:53:54+00:00",
+  "updated_at": "2026-09-24T11:09:01+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3071,
+  "count": 3069,
   "archive_count": 3000,
   "matches": [
     {
@@ -35,6 +35,54 @@
       "ft": [
         2,
         4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4296dedf38a875b0",
+      "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Laos",
+      "away": "Brunei Darussalam",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ed26c47161de4577",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Sagaing United FC U20",
+      "away": "Chinland FC U20",
+      "ht": null,
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "89963f761ac4f661",
+      "league": "INTERNATIONAL FRIENDLY U19",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Scotland U19 (N)",
+      "away": "Finland U19",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50610,96 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "13f8da691fbc8b15",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Juventus (V)",
-      "away": "Borussia Dortmund (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dd69bc32648d18a5",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Napoli (V)",
-      "away": "AS Monaco (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9a3a1fe282ce6e01",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Real Sociedad (V)",
-      "away": "FC Koln (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4296dedf38a875b0",
-      "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
-      "kickoff": "Sep 24 2026 5:00PM",
-      "home": "Laos",
-      "away": "Brunei Darussalam",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ed26c47161de4577",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Sep 24 2026 5:00PM",
-      "home": "Sagaing United FC U20",
-      "away": "Chinland FC U20",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "89963f761ac4f661",
-      "league": "INTERNATIONAL FRIENDLY U19",
-      "kickoff": "Sep 24 2026 5:00PM",
-      "home": "Scotland U19 (N)",
-      "away": "Finland U19",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ffd9aff3e4af8e9e",
       "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
       "kickoff": "Sep 24 2026 5:30PM",
@@ -50772,7 +50730,10 @@
       "kickoff": "Sep 24 2026 6:05PM",
       "home": "Japan",
       "away": "Uruguay",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50860,6 +50821,17 @@
       "kickoff": "Sep 24 2026 9:00PM",
       "home": "Namibia",
       "away": "Congo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a521c99f762a5067",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 24 2026 9:00PM",
+      "home": "TSV Hartberg (N)",
+      "away": "Kapfenberger SV",
       "ht": null,
       "ft": null,
       "status": "Running",
