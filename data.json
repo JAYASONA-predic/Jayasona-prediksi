@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T09:14:08+00:00",
+  "updated_at": "2026-09-24T09:30:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3064,
+  "count": 3065,
   "archive_count": 3000,
   "matches": [
     {
@@ -50680,7 +50680,10 @@
       "kickoff": "Sep 24 2026 4:30PM",
       "home": "Austria Lustenau",
       "away": "SW Bregenz",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50713,6 +50716,17 @@
       "kickoff": "Sep 24 2026 5:00PM",
       "home": "Scotland U19 (N)",
       "away": "Finland U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5c68fbf335045de",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Ugyen Academy FC",
+      "away": "Drukpa FC",
       "ht": null,
       "ft": null,
       "status": "Running",
