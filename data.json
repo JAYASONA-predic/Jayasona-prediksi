@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T17:38:12+00:00",
+  "updated_at": "2026-09-24T17:51:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3073,
   "archive_count": 3000,
@@ -50936,7 +50936,10 @@
       "kickoff": "Sep 25 2026 1:00AM",
       "home": "Rot Weiss Oberhausen",
       "away": "Schalke 04",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50969,7 +50972,10 @@
       "kickoff": "Sep 25 2026 1:00AM",
       "home": "Fish United",
       "away": "Loiske FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50980,7 +50986,10 @@
       "kickoff": "Sep 25 2026 1:00AM",
       "home": "Egypt U20",
       "away": "Libya U20",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
