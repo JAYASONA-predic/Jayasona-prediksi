@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T11:52:48+00:00",
+  "updated_at": "2026-09-24T12:11:31+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3074,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "4c58fb7c22bd1b64",
+      "league": "KIRIN CHALLENGE CUP (IN JAPAN)",
+      "kickoff": "Sep 24 2026 6:05PM",
+      "home": "Japan",
+      "away": "Uruguay",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "62b484387a14c854",
       "league": "SWEDEN LEAGUE CUP ELITE U21",
@@ -50641,43 +50658,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4659654d8d053ea5",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Russia (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ffd9aff3e4af8e9e",
       "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
       "kickoff": "Sep 24 2026 5:30PM",
       "home": "Palestine",
       "away": "New Zealand",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4c58fb7c22bd1b64",
-      "league": "KIRIN CHALLENGE CUP (IN JAPAN)",
-      "kickoff": "Sep 24 2026 6:05PM",
-      "home": "Japan",
-      "away": "Uruguay",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50702,7 +50688,10 @@
       "kickoff": "Sep 24 2026 7:00PM",
       "home": "Korea Republic",
       "away": "Ecuador",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50713,7 +50702,10 @@
       "kickoff": "Sep 24 2026 7:00PM",
       "home": "Netherlands U19",
       "away": "Belgium U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50782,6 +50774,17 @@
       "kickoff": "Sep 24 2026 8:00PM",
       "home": "Myanmar",
       "away": "Timor Leste",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "61f276e9a2e0212d",
+      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
+      "kickoff": "Sep 24 2026 8:30PM",
+      "home": "Tanzania U20",
+      "away": "Sudan U20",
       "ht": null,
       "ft": null,
       "status": "Running",
