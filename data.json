@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T01:38:58+00:00",
+  "updated_at": "2026-09-24T01:52:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3007,
   "archive_count": 3000,
@@ -50691,7 +50691,10 @@
       "kickoff": "Sep 24 2026 9:00AM",
       "home": "CD Luis Angel Firpo",
       "away": "CD Cacahuatique",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50702,7 +50705,10 @@
       "kickoff": "Sep 24 2026 9:00AM",
       "home": "Alianza FC",
       "away": "CD Fuerte San Francisco",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
