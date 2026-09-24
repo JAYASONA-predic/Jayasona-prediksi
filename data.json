@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T13:29:04+00:00",
+  "updated_at": "2026-09-24T13:46:18+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3083,
+  "count": 3084,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "45d8b25c5024f615",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 24 2026 7:45PM",
+      "home": "Maccabi Ata Bialik",
+      "away": "Hapoel Ihud Bnei Jatt",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "10f16131f9bc9467",
       "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
@@ -18,6 +35,23 @@
       "ft": [
         3,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "21c87446b05971e4",
+      "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 24 2026 7:35PM",
+      "home": "China",
+      "away": "Maldives",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        3,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50624,68 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "14766ec5300b080d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Sanfrecce Hiroshima",
-      "away": "Cerezo Osaka",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d0603dd05f3f1402",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Sanfrecce Hiroshima",
-      "away": "Shimizu S-Pulse",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "21c87446b05971e4",
-      "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
-      "kickoff": "Sep 24 2026 7:35PM",
-      "home": "China",
-      "away": "Maldives",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "45d8b25c5024f615",
-      "league": "ISRAEL LIGA ALEF",
-      "kickoff": "Sep 24 2026 7:45PM",
-      "home": "Maccabi Ata Bialik",
-      "away": "Hapoel Ihud Bnei Jatt",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "524823be1bd548f9",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
       "kickoff": "Sep 24 2026 8:00PM",
@@ -50769,6 +50741,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "cb099cde17289f58",
+      "league": "NORTH MACEDONIA 2ND LEAGUE",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "FK Teteks Tetovo",
+      "away": "FK Rabotnicki",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "4a7609bb8479b0a5",
       "league": "EGYPT SECOND DIVISION A",
       "kickoff": "Sep 24 2026 9:30PM",
@@ -50818,6 +50801,17 @@
       "kickoff": "Sep 24 2026 9:30PM",
       "home": "Team FC Cairo",
       "away": "El Daklyeh",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1338da4ec13fec5b",
+      "league": "UAE YOUTH LEAGUE U21",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Al Wasl U21",
+      "away": "Al Fujairah U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50939,6 +50933,17 @@
       "kickoff": "Sep 24 2026 10:00PM",
       "home": "Real Pilar FC (R)",
       "away": "Argentino De Merlo (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "434f92186a55c0b6",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 24 2026 10:00PM",
+      "home": "Talleres Remedios (R)",
+      "away": "CA San Miguel (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
