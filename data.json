@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T10:41:44+00:00",
+  "updated_at": "2026-09-24T10:53:54+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3071,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "c2100c2f22ab5588",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Yangon United U20",
+      "away": "Ayeyawady United U20",
+      "ht": [
+        4,
+        0
+      ],
+      "ft": [
+        8,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5c68fbf335045de",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Ugyen Academy FC",
+      "away": "Drukpa FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "a71785425c03f36b",
       "league": "CLUB FRIENDLY",
@@ -50627,40 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4c0dec6bda090556",
-      "league": "CZECH REPUBLIC U19 LEAGUE",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "FC Zlin U19",
-      "away": "FC Zbrojovka Brno U19",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3064702e5151b6b9",
-      "league": "AUSTRALIA NORTHERN TERRITORY PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Darwin Olympic",
-      "away": "Port Darwin",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4296dedf38a875b0",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
       "kickoff": "Sep 24 2026 5:00PM",
@@ -50669,20 +50669,6 @@
       "ht": [
         2,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c2100c2f22ab5588",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Sep 24 2026 5:00PM",
-      "home": "Yangon United U20",
-      "away": "Ayeyawady United U20",
-      "ht": [
-        4,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -50705,20 +50691,6 @@
       "kickoff": "Sep 24 2026 5:00PM",
       "home": "Scotland U19 (N)",
       "away": "Finland U19",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e5c68fbf335045de",
-      "league": "BHUTAN PREMIER LEAGUE",
-      "kickoff": "Sep 24 2026 5:00PM",
-      "home": "Ugyen Academy FC",
-      "away": "Drukpa FC",
       "ht": [
         1,
         1
@@ -50786,7 +50758,10 @@
       "kickoff": "Sep 24 2026 6:00PM",
       "home": "Brommapojkarna U21",
       "away": "IFK Norrkoping U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50830,6 +50805,28 @@
       "kickoff": "Sep 24 2026 7:00PM",
       "home": "Netherlands U19",
       "away": "Belgium U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0b1b91d73c402db",
+      "league": "DENMARK FUTURE CUP",
+      "kickoff": "Sep 24 2026 7:00PM",
+      "home": "Vejle BK U21",
+      "away": "OB Odense U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5adf188752b92dbc",
+      "league": "DENMARK U19 LEAGUE",
+      "kickoff": "Sep 24 2026 7:00PM",
+      "home": "Viborg FF U19",
+      "away": "Brondby IF U19",
       "ht": null,
       "ft": null,
       "status": "Running",
