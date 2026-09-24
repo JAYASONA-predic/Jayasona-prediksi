@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T03:41:15+00:00",
+  "updated_at": "2026-09-24T03:53:06+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3003,
+  "count": 3002,
   "archive_count": 3000,
   "matches": [
     {
@@ -69,6 +69,23 @@
       "ft": [
         1,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f3fbd7ce8b7c6841",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 24 2026 8:30AM",
+      "home": "Seattle Sounders",
+      "away": "America de Cali",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50641,34 +50658,6 @@
         5
       ],
       "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7850d44ab6e4fa44",
-      "league": "INDONESIA CHAMPIONSHIP",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "PSGC Ciamis",
-      "away": "Sumsel United FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f3fbd7ce8b7c6841",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 24 2026 8:30AM",
-      "home": "Seattle Sounders",
-      "away": "America de Cali",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
