@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T11:40:31+00:00",
+  "updated_at": "2026-09-24T11:52:48+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3068,
+  "count": 3074,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "62b484387a14c854",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 24 2026 6:00PM",
+      "home": "Brommapojkarna U21",
+      "away": "IFK Norrkoping U21",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "89dd69d8b49bee20",
       "league": "IFA SHIELD (IN INDIA)",
@@ -50641,43 +50658,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "be01ef12b2826a3c",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Switzerland (V)",
-      "away": "Colombia (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ffd9aff3e4af8e9e",
       "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
       "kickoff": "Sep 24 2026 5:30PM",
       "home": "Palestine",
       "away": "New Zealand",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "62b484387a14c854",
-      "league": "SWEDEN LEAGUE CUP ELITE U21",
-      "kickoff": "Sep 24 2026 6:00PM",
-      "home": "Brommapojkarna U21",
-      "away": "IFK Norrkoping U21",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50749,7 +50735,10 @@
       "kickoff": "Sep 24 2026 7:00PM",
       "home": "Viborg FF U19",
       "away": "Brondby IF U19",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50760,6 +50749,17 @@
       "kickoff": "Sep 24 2026 7:35PM",
       "home": "China",
       "away": "Maldives",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "10f16131f9bc9467",
+      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 24 2026 7:35PM",
+      "home": "China U16",
+      "away": "Kyrgyzstan U16",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50931,6 +50931,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "9bed39f149e6ff6d",
+      "league": "JORDAN 1ST DIVISION",
+      "kickoff": "Sep 25 2026 12:00AM",
+      "home": "Al Ahli (JOR) (N)",
+      "away": "Maan Club",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "00bd94418afbedb2",
+      "league": "JORDAN 1ST DIVISION",
+      "kickoff": "Sep 25 2026 12:00AM",
+      "home": "Sahl Horan SC",
+      "away": "Hay Al-Amir Hassan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "218dbe2d79d026c6",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 25 2026 12:00AM",
@@ -50980,6 +51002,28 @@
       "kickoff": "Sep 25 2026 12:00AM",
       "home": "Malta",
       "away": "Lithuania",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a63b372cdd6304a2",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 25 2026 12:30AM",
+      "home": "Sportfreunde Siegen",
+      "away": "Borussia Monchengladbach",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b79c5ecfe57234f1",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 25 2026 1:00AM",
+      "home": "Rot Weiss Oberhausen",
+      "away": "Schalke 04",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51283,6 +51327,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "8f7da52575349d6a",
+      "league": "PARAGUAY CUP",
+      "kickoff": "Sep 25 2026 3:00AM",
+      "home": "Club Atletico Tembetary (N)",
+      "away": "Sportivo Iteno",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "5160a9490bc9964a",
       "league": "ECUADOR SERIE B (PLAY OFF)",
       "kickoff": "Sep 25 2026 3:00AM",
@@ -51321,6 +51376,17 @@
       "kickoff": "Sep 25 2026 5:00AM",
       "home": "O Higgins",
       "away": "Deportes Santa Cruz",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "14d856c8de88a8cd",
+      "league": "PARAGUAY CUP",
+      "kickoff": "Sep 25 2026 5:30AM",
+      "home": "Deportivo Recoleta (N)",
+      "away": "Guairena Villarrica FC",
       "ht": null,
       "ft": null,
       "status": "Running",
