@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T05:52:41+00:00",
+  "updated_at": "2026-09-24T06:12:05+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3064,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9815d8c5861fd0b2",
+      "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
+      "kickoff": "Sep 24 2026 12:00PM",
+      "home": "Solomon Islands",
+      "away": "Vanuatu",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d1f17391389e5edc",
       "league": "USA MAJOR LEAGUE SOCCER",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "46c26d0626e57e46",
-      "league": "CZECH REPUBLIC U19 LEAGUE",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Teplice U19",
-      "away": "SFC Opava U19",
-      "ht": [
-        0,
-        4
-      ],
-      "ft": [
-        0,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9815d8c5861fd0b2",
-      "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
-      "kickoff": "Sep 24 2026 12:00PM",
-      "home": "Solomon Islands",
-      "away": "Vanuatu",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "590348c2f8ab5565",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Sep 24 2026 1:30PM",
@@ -50691,6 +50677,17 @@
       "kickoff": "Sep 24 2026 2:00PM",
       "home": "Yangon United U20",
       "away": "Ayeyawady United U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e561d0f9f5c60259",
+      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 24 2026 2:00PM",
+      "home": "Australia U16",
+      "away": "Vietnam U16",
       "ht": null,
       "ft": null,
       "status": "Running",
