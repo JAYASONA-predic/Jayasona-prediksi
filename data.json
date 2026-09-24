@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T14:57:56+00:00",
+  "updated_at": "2026-09-24T15:15:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3086,
+  "count": 3087,
   "archive_count": 3000,
   "matches": [
     {
@@ -17,6 +17,40 @@
       ],
       "ft": [
         2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9a99bb69ace3b75b",
+      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 24 2026 9:00PM",
+      "home": "Namibia",
+      "away": "Congo",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fea60a8dd1aaa341",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 24 2026 9:00PM",
+      "home": "Deportivo Moron (R)",
+      "away": "CA San Telmo (R)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
         0
       ],
       "status": "Completed",
@@ -50624,54 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b823e0d552cd3dc4",
-      "league": "VIETNAM NATIONAL CUP QUALIFIERS",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Long An FC",
-      "away": "Bac Ninh FC",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f3ea7443aa7a27fc",
-      "league": "JAPAN J-LEAGUE U21",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Nagoya Grampus U21",
-      "away": "Gamba Osaka U21",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9a99bb69ace3b75b",
-      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
-      "kickoff": "Sep 24 2026 9:00PM",
-      "home": "Namibia",
-      "away": "Congo",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a521c99f762a5067",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 24 2026 9:00PM",
@@ -50679,20 +50665,6 @@
       "away": "Kapfenberger SV",
       "ht": [
         2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fea60a8dd1aaa341",
-      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
-      "kickoff": "Sep 24 2026 9:00PM",
-      "home": "Deportivo Moron (R)",
-      "away": "CA San Telmo (R)",
-      "ht": [
-        0,
         0
       ],
       "ft": null,
@@ -50971,7 +50943,10 @@
       "kickoff": "Sep 24 2026 10:00PM",
       "home": "Real Pilar FC (R)",
       "away": "Argentino De Merlo (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51035,6 +51010,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "dd8ebd8157b98649",
+      "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
+      "kickoff": "Sep 24 2026 11:00PM",
+      "home": "Rivers United",
+      "away": "Kun Khalifat FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ccef4dc7ce9ada30",
       "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
       "kickoff": "Sep 24 2026 11:00PM",
@@ -51062,6 +51048,17 @@
       "kickoff": "Sep 24 2026 11:00PM",
       "home": "Nueva Chicago (R)",
       "away": "Club Atletico Mitre (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2bae7646f03442c9",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 24 2026 11:15PM",
+      "home": "JYTY Turku",
+      "away": "Abo CF",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51139,6 +51136,17 @@
       "kickoff": "Sep 25 2026 12:00AM",
       "home": "Sahl Horan SC",
       "away": "Hay Al-Amir Hassan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7dfec03e8773cf25",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 25 2026 12:00AM",
+      "home": "Jerusalem FC",
+      "away": "Maccabi Yavne",
       "ht": null,
       "ft": null,
       "status": "Running",
