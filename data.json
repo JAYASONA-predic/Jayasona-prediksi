@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T10:08:56+00:00",
+  "updated_at": "2026-09-24T10:26:54+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3071,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "a71785425c03f36b",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 24 2026 4:30PM",
+      "home": "Austria Lustenau",
+      "away": "SW Bregenz",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "2763d4facf832db2",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "142206552daabbbb",
-      "league": "INDONESIA SUPER LEAGUE",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Persebaya Surabaya",
-      "away": "Garudayaksa FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a71785425c03f36b",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 24 2026 4:30PM",
-      "home": "Austria Lustenau",
-      "away": "SW Bregenz",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4296dedf38a875b0",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
       "kickoff": "Sep 24 2026 5:00PM",
@@ -50689,17 +50675,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ed26c47161de4577",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Sep 24 2026 5:00PM",
-      "home": "Sagaing United FC U20",
-      "away": "Chinland FC U20",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "c2100c2f22ab5588",
       "league": "MYANMAR NATIONAL LEAGUE U20",
       "kickoff": "Sep 24 2026 5:00PM",
@@ -50709,6 +50684,17 @@
         4,
         0
       ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ed26c47161de4577",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 24 2026 5:00PM",
+      "home": "Sagaing United FC U20",
+      "away": "Chinland FC U20",
+      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50758,7 +50744,10 @@
       "kickoff": "Sep 24 2026 5:30PM",
       "home": "East Bengal FC",
       "away": "Calcutta Customs",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50780,7 +50769,10 @@
       "kickoff": "Sep 24 2026 5:30PM",
       "home": "Uganda U20",
       "away": "Burundi U20",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50802,6 +50794,17 @@
       "kickoff": "Sep 24 2026 6:05PM",
       "home": "Japan",
       "away": "Uruguay",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d4e454398970825a",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 24 2026 6:30PM",
+      "home": "Rebels FC",
+      "away": "Roots FC",
       "ht": null,
       "ft": null,
       "status": "Running",
