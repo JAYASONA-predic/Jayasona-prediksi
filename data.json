@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T09:30:27+00:00",
+  "updated_at": "2026-09-24T09:52:57+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3065,
+  "count": 3069,
   "archive_count": 3000,
   "matches": [
     {
@@ -50694,7 +50694,10 @@
       "kickoff": "Sep 24 2026 5:00PM",
       "home": "Laos",
       "away": "Brunei Darussalam",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50716,7 +50719,10 @@
       "kickoff": "Sep 24 2026 5:00PM",
       "home": "Scotland U19 (N)",
       "away": "Finland U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50727,7 +50733,10 @@
       "kickoff": "Sep 24 2026 5:00PM",
       "home": "Ugyen Academy FC",
       "away": "Drukpa FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50738,6 +50747,39 @@
       "kickoff": "Sep 24 2026 5:30PM",
       "home": "Palestine",
       "away": "New Zealand",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "89dd69d8b49bee20",
+      "league": "IFA SHIELD (IN INDIA)",
+      "kickoff": "Sep 24 2026 5:30PM",
+      "home": "East Bengal FC",
+      "away": "Calcutta Customs",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7645abc8af6eff2c",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 5:30PM",
+      "home": "Shillong Lajong FC (R)",
+      "away": "Laitkor SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7f093f149113d40e",
+      "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
+      "kickoff": "Sep 24 2026 5:30PM",
+      "home": "Uganda U20",
+      "away": "Burundi U20",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50859,6 +50901,17 @@
       "kickoff": "Sep 24 2026 11:00PM",
       "home": "Mauritania (N)",
       "away": "Central African Republic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "534a98cda1eaa795",
+      "league": "CROATIA SECOND LEAGUE",
+      "kickoff": "Sep 24 2026 11:00PM",
+      "home": "NK Koprivnica",
+      "away": "NK Uskok",
       "ht": null,
       "ft": null,
       "status": "Running",
