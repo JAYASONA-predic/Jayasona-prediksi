@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T13:46:18+00:00",
+  "updated_at": "2026-09-24T14:09:15+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3084,
+  "count": 3083,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "524823be1bd548f9",
+      "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
+      "kickoff": "Sep 24 2026 8:00PM",
+      "home": "Myanmar",
+      "away": "Timor Leste",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "45d8b25c5024f615",
       "league": "ISRAEL LIGA ALEF",
@@ -50641,37 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0d07780e771f3492",
-      "league": "JAPAN J-LEAGUE DIVISION 1",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Avispa Fukuoka",
-      "away": "Sanfrecce Hiroshima",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "524823be1bd548f9",
-      "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
-      "kickoff": "Sep 24 2026 8:00PM",
-      "home": "Myanmar",
-      "away": "Timor Leste",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "61f276e9a2e0212d",
       "league": "CECAFA U20 CHAMPIONSHIP (IN TANZANIA)",
       "kickoff": "Sep 24 2026 8:30PM",
@@ -50691,7 +50677,10 @@
       "kickoff": "Sep 24 2026 9:00PM",
       "home": "Namibia",
       "away": "Congo",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50713,7 +50702,10 @@
       "kickoff": "Sep 24 2026 9:00PM",
       "home": "Deportivo Espanol (R)",
       "away": "Centro Espanol (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50724,7 +50716,10 @@
       "kickoff": "Sep 24 2026 9:00PM",
       "home": "Deportivo Moron (R)",
       "away": "CA San Telmo (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50807,22 +50802,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1338da4ec13fec5b",
+      "id": "4020b42c3ade527c",
       "league": "UAE YOUTH LEAGUE U21",
       "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Al Wasl U21",
-      "away": "Al Fujairah U21",
+      "home": "Al Jazira Abu Dhabi U21",
+      "away": "Al Oruba Fujairah U21",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4020b42c3ade527c",
+      "id": "1338da4ec13fec5b",
       "league": "UAE YOUTH LEAGUE U21",
       "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Al Jazira Abu Dhabi U21",
-      "away": "Al Oruba Fujairah U21",
+      "home": "Al Wasl U21",
+      "away": "Al Fujairah U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50878,6 +50873,17 @@
       "kickoff": "Sep 24 2026 9:30PM",
       "home": "Maccabi Kishronot Hadera (w)",
       "away": "Maccabi Holon FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "14a460012204df9e",
+      "league": "ISRAEL WOMEN PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Bnot Netanya (w)",
+      "away": "Maccabi Tel Aviv (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50955,17 +50961,6 @@
       "kickoff": "Sep 24 2026 10:30PM",
       "home": "Oman Club",
       "away": "SUR Club (OMA)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f94082af9f386048",
-      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
-      "kickoff": "Sep 24 2026 11:00PM",
-      "home": "Mauritania (N)",
-      "away": "Central African Republic",
       "ht": null,
       "ft": null,
       "status": "Running",
