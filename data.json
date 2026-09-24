@@ -1,10 +1,248 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T15:15:25+00:00",
+  "updated_at": "2026-09-24T15:40:36+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3087,
+  "count": 3076,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cb099cde17289f58",
+      "league": "NORTH MACEDONIA 2ND LEAGUE",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "FK Teteks Tetovo",
+      "away": "FK Rabotnicki",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7dde73a9e68382cb",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "FC Masar",
+      "away": "Proxy SC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3f0711dea0896bb6",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Kahrabaa Ismailia SC",
+      "away": "Pharco FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a496f4ae99fa06e4",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Maleyeit Kafr El Zayiat",
+      "away": "El Mansoura",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2b3c84f83ba8dd9c",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Team FC Cairo",
+      "away": "El Daklyeh",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4020b42c3ade527c",
+      "league": "UAE YOUTH LEAGUE U21",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Al Jazira Abu Dhabi U21",
+      "away": "Al Oruba Fujairah U21",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1338da4ec13fec5b",
+      "league": "UAE YOUTH LEAGUE U21",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Al Wasl U21",
+      "away": "Al Fujairah U21",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a78e1c7bce85c123",
+      "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Algeria U20",
+      "away": "Tunisia U20",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "40977c10a00c02a5",
+      "league": "SLOVAKIA LIGA 3",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "FK Podkonice",
+      "away": "MFK Ruzomberok B",
+      "ht": [
+        1,
+        3
+      ],
+      "ft": [
+        4,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "14a460012204df9e",
+      "league": "ISRAEL WOMEN PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Bnot Netanya (w)",
+      "away": "Maccabi Tel Aviv (w)",
+      "ht": [
+        0,
+        4
+      ],
+      "ft": [
+        0,
+        7
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b84461b8984815ea",
+      "league": "ISRAEL WOMEN PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Hapoel Jerusalem (w)",
+      "away": "FC Kiryat Gat (w)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "445d1df8bbec4641",
+      "league": "ISRAEL WOMEN PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Hapoel Tel Aviv (w)",
+      "away": "Hapoel Raanana (w)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9270d9cf07d5ed6d",
+      "league": "ISRAEL WOMEN PREMIER LEAGUE",
+      "kickoff": "Sep 24 2026 9:30PM",
+      "home": "Maccabi Kishronot Hadera (w)",
+      "away": "Maccabi Holon FC (w)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ef7e2ac0b37754e7",
+      "league": "UAE YOUTH LEAGUE U21",
+      "kickoff": "Sep 24 2026 9:25PM",
+      "home": "Al Dhaid U21",
+      "away": "Shabab Al Ahli Dubai U21",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "70523ebd12e866db",
       "league": "ARGENTINA PRIMERA C RESERVE",
@@ -51,6 +289,23 @@
       ],
       "ft": [
         1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a521c99f762a5067",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 24 2026 9:00PM",
+      "home": "TSV Hartberg (N)",
+      "away": "Kapfenberger SV",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        5,
         0
       ],
       "status": "Completed",
@@ -50403,303 +50658,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e35240ab7efc1a9d",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Sweden (V)",
-      "away": "Portugal (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d0542d7c4b215bcb",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Italy (V)",
-      "away": "Spain (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c0dafb8f003d0c32",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Portugal (V)",
-      "away": "France (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1ce3050a2696699d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Manchester United (V)",
-      "away": "AS Roma (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c43fef3e67a35bf6",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Paris Saint Germain (V)",
-      "away": "Atalanta (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "efcbc72e7206c94d",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Reinmeer Aomori FC",
-      "away": "Honda FC",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3514fdbaed86898c",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Veertien Mie FC",
-      "away": "Yokogawa Musashino FC",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9dafd84bd258b043",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Azul Claro Numazu FC",
-      "away": "Criacao Shinjuku",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5dc471f02904a558",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "J-Lease FC",
-      "away": "Verspah Oita",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a612b1724403d811",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Vonds Ichihara",
-      "away": "Maruyasu Okazaki",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "204894dc4f5f31aa",
-      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "AC Nagano Parceiro (w)",
-      "away": "Cerezo Osaka Yanmar (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6bcc6b01b79e9805",
-      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "INAC Kobe Leonessa (w)",
-      "away": "Nojima Stella Kanagawa Sagamihara (w)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a75247367edb10b0",
-      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Mynavi Sendai (w)",
-      "away": "Albirex Niigata (w)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9f66e3aab44ccaf5",
-      "league": "JAPAN J-LEAGUE DIVISION 1",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Kawasaki Frontale",
-      "away": "Kashima Antlers",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "567254d85e67144c",
-      "league": "CHINA LEAGUE 2 (PLAY OFF)",
-      "kickoff": "Sep 19 2026 5:00PM",
-      "home": "Dalian Kewei",
-      "away": "Shenzhen 2028 FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a521c99f762a5067",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 24 2026 9:00PM",
-      "home": "TSV Hartberg (N)",
-      "away": "Kapfenberger SV",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ef7e2ac0b37754e7",
-      "league": "UAE YOUTH LEAGUE U21",
-      "kickoff": "Sep 24 2026 9:25PM",
-      "home": "Al Dhaid U21",
-      "away": "Shabab Al Ahli Dubai U21",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cb099cde17289f58",
-      "league": "NORTH MACEDONIA 2ND LEAGUE",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "FK Teteks Tetovo",
-      "away": "FK Rabotnicki",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4a7609bb8479b0a5",
       "league": "EGYPT SECOND DIVISION A",
       "kickoff": "Sep 24 2026 9:30PM",
@@ -50708,174 +50666,6 @@
       "ht": [
         2,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7dde73a9e68382cb",
-      "league": "EGYPT SECOND DIVISION A",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "FC Masar",
-      "away": "Proxy SC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3f0711dea0896bb6",
-      "league": "EGYPT SECOND DIVISION A",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Kahrabaa Ismailia SC",
-      "away": "Pharco FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a496f4ae99fa06e4",
-      "league": "EGYPT SECOND DIVISION A",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Maleyeit Kafr El Zayiat",
-      "away": "El Mansoura",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2b3c84f83ba8dd9c",
-      "league": "EGYPT SECOND DIVISION A",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Team FC Cairo",
-      "away": "El Daklyeh",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4020b42c3ade527c",
-      "league": "UAE YOUTH LEAGUE U21",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Al Jazira Abu Dhabi U21",
-      "away": "Al Oruba Fujairah U21",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1338da4ec13fec5b",
-      "league": "UAE YOUTH LEAGUE U21",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Al Wasl U21",
-      "away": "Al Fujairah U21",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a78e1c7bce85c123",
-      "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Algeria U20",
-      "away": "Tunisia U20",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "40977c10a00c02a5",
-      "league": "SLOVAKIA LIGA 3",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "FK Podkonice",
-      "away": "MFK Ruzomberok B",
-      "ht": [
-        1,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b84461b8984815ea",
-      "league": "ISRAEL WOMEN PREMIER LEAGUE",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Hapoel Jerusalem (w)",
-      "away": "FC Kiryat Gat (w)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "445d1df8bbec4641",
-      "league": "ISRAEL WOMEN PREMIER LEAGUE",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Hapoel Tel Aviv (w)",
-      "away": "Hapoel Raanana (w)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9270d9cf07d5ed6d",
-      "league": "ISRAEL WOMEN PREMIER LEAGUE",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Maccabi Kishronot Hadera (w)",
-      "away": "Maccabi Holon FC (w)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "14a460012204df9e",
-      "league": "ISRAEL WOMEN PREMIER LEAGUE",
-      "kickoff": "Sep 24 2026 9:30PM",
-      "home": "Bnot Netanya (w)",
-      "away": "Maccabi Tel Aviv (w)",
-      "ht": [
-        0,
-        4
       ],
       "ft": null,
       "status": "Running",
@@ -50971,7 +50761,10 @@
       "kickoff": "Sep 24 2026 10:30PM",
       "home": "Oman Club",
       "away": "SUR Club (OMA)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50982,7 +50775,10 @@
       "kickoff": "Sep 24 2026 10:40PM",
       "home": "Sohar",
       "away": "Al-Seeb",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51048,6 +50844,17 @@
       "kickoff": "Sep 24 2026 11:00PM",
       "home": "Nueva Chicago (R)",
       "away": "Club Atletico Mitre (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c9c6bea9ced295cf",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Sep 24 2026 11:00PM",
+      "home": "Club Agropecuario Argentino (R)",
+      "away": "CA Colegiales (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51147,6 +50954,39 @@
       "kickoff": "Sep 25 2026 12:00AM",
       "home": "Jerusalem FC",
       "away": "Maccabi Yavne",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "59ab98d2fef03260",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 25 2026 12:00AM",
+      "home": "Hapoel Acre FC",
+      "away": "Hapoel Afula",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e76b1ca2bf50d8e5",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 25 2026 12:00AM",
+      "home": "Ironi Modiin FC",
+      "away": "Ashdod",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "27beb5cc37d8e680",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 25 2026 12:00AM",
+      "home": "Maccabi Herzliya",
+      "away": "Kiryat Yam SC",
       "ht": null,
       "ft": null,
       "status": "Running",
