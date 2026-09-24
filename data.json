@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T07:27:58+00:00",
+  "updated_at": "2026-09-24T07:42:59+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3066,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "590348c2f8ab5565",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 24 2026 1:30PM",
+      "home": "HAL SC",
+      "away": "Kickstart FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "9815d8c5861fd0b2",
       "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
@@ -50644,37 +50661,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2f0d5823d98c857d",
-      "league": "ISRAEL PREMIER LEAGUE U19",
-      "kickoff": "Sep 19 2026 4:30PM",
-      "home": "Hapoel Haifa U19",
-      "away": "Hapoel Jerusalem U19",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "590348c2f8ab5565",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Sep 24 2026 1:30PM",
-      "home": "HAL SC",
-      "away": "Kickstart FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4a62785200c0ec81",
       "league": "MYANMAR NATIONAL LEAGUE U20",
       "kickoff": "Sep 24 2026 2:00PM",
@@ -50705,6 +50691,17 @@
       "kickoff": "Sep 24 2026 3:00PM",
       "home": "Papua New Guinea",
       "away": "New Caledonia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2763d4facf832db2",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 24 2026 4:00PM",
+      "home": "South United",
+      "away": "ASC Football Club",
       "ht": null,
       "ft": null,
       "status": "Running",
