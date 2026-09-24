@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-24T01:08:44+00:00",
+  "updated_at": "2026-09-24T01:25:04+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3010,
   "archive_count": 3000,
@@ -50705,7 +50705,10 @@
       "kickoff": "Sep 24 2026 8:30AM",
       "home": "America de Cali",
       "away": "Aguilas Doradas",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
