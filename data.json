@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T22:09:07+00:00",
+  "updated_at": "2026-09-25T22:25:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3055,
+  "count": 3051,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "6c5cb42cce54ec3a",
+      "league": "PERU LIGA 2 (PLAY OFF)",
+      "kickoff": "Sep 26 2026 4:15AM",
+      "home": "Comerciantes FC",
+      "away": "Sport Huancayo II",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d5a2ada71d66b6d9",
       "league": "SPAIN TERCERA FEDERACION",
@@ -18,6 +35,23 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "294f492f5499a7f4",
+      "league": "PERU LIGA 2 (PLAY OFF)",
+      "kickoff": "Sep 26 2026 4:00AM",
+      "home": "Club ADA Jaen",
+      "away": "Deportivo Llacuabamba",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -1174,6 +1208,23 @@
       "ft": [
         0,
         4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "abdb399ecd54f94a",
+      "league": "INTERNATIONAL FRIENDLY U19",
+      "kickoff": "Sep 26 2026 2:00AM",
+      "home": "England U19",
+      "away": "Ireland U19",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -2789,6 +2840,23 @@
       "ft": [
         0,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0bdc33bcb4dc0b3",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Sep 25 2026 9:30PM",
+      "home": "Al-Shanwani SC",
+      "away": "Diamond SC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50602,96 +50670,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "929bc25a22294076",
-      "league": "URUGUAY SEGUNDA DIVISION",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Centro Atletico Fenix",
-      "away": "Colon FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b161dd812ff00a2b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "IK Oddevold",
-      "away": "SCR Altach",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "82d6c38321dae7cf",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "IK Oddevold",
-      "away": "Sandvikens IF",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "258641f94057d8d1",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Cremonese",
-      "away": "Sampdoria",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e0bdc33bcb4dc0b3",
-      "league": "EGYPT SECOND DIVISION B",
-      "kickoff": "Sep 25 2026 9:30PM",
-      "home": "Al-Shanwani SC",
-      "away": "Diamond SC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "abdb399ecd54f94a",
-      "league": "INTERNATIONAL FRIENDLY U19",
-      "kickoff": "Sep 26 2026 2:00AM",
-      "home": "England U19",
-      "away": "Ireland U19",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "fccb36fe6ee19b6c",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 26 2026 3:30AM",
@@ -50719,28 +50697,6 @@
       "kickoff": "Sep 26 2026 4:00AM",
       "home": "UD Oliveirense",
       "away": "CP Esgueira",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "294f492f5499a7f4",
-      "league": "PERU LIGA 2 (PLAY OFF)",
-      "kickoff": "Sep 26 2026 4:00AM",
-      "home": "Club ADA Jaen",
-      "away": "Deportivo Llacuabamba",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6c5cb42cce54ec3a",
-      "league": "PERU LIGA 2 (PLAY OFF)",
-      "kickoff": "Sep 26 2026 4:15AM",
-      "home": "Comerciantes FC",
-      "away": "Sport Huancayo II",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50780,7 +50736,10 @@
       "kickoff": "Sep 26 2026 5:30AM",
       "home": "General Caballero JLM",
       "away": "3 de Noviembre",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
