@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T06:33:46+00:00",
+  "updated_at": "2026-09-25T06:56:13+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3158,
+  "count": 3160,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "856d855dc9828988",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
+      "kickoff": "Sep 25 2026 1:00PM",
+      "home": "Uzbekistan U23",
+      "away": "Saudi Arabia U23",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "0ca2906115a04ebc",
       "league": "MEXICO LIGA DE EXPANSION",
@@ -50638,37 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d8d6ae8440911e65",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:15PM",
-      "home": "FSV Mainz 05 (V)",
-      "away": "Bayer 04 Leverkusen (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "856d855dc9828988",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
-      "kickoff": "Sep 25 2026 1:00PM",
-      "home": "Uzbekistan U23",
-      "away": "Saudi Arabia U23",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "23aa133a223726fd",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Sep 25 2026 1:30PM",
@@ -50699,6 +50685,39 @@
       "kickoff": "Sep 25 2026 2:00PM",
       "home": "North Korea (w)",
       "away": "Chinese Taipei (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d6723833007a3155",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 25 2026 3:00PM",
+      "home": "Jiangxi Lushan FC U20",
+      "away": "Qingdao West Coast FC U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "028d157fe1f38d08",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 25 2026 3:00PM",
+      "home": "Qingdao Hainiu U20",
+      "away": "Ningbo Professional U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4727d9a6214ca658",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 25 2026 3:00PM",
+      "home": "Yunnan Yukun U20",
+      "away": "Liaoning Tieren U20",
       "ht": null,
       "ft": null,
       "status": "Running",
