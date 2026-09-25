@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T11:41:41+00:00",
+  "updated_at": "2026-09-25T11:53:29+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3167,
+  "count": 3168,
   "archive_count": 3000,
   "matches": [
     {
@@ -50744,7 +50744,10 @@
       "kickoff": "Sep 25 2026 6:30PM",
       "home": "Zurich (N)",
       "away": "Neuchatel Xamax",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50755,7 +50758,10 @@
       "kickoff": "Sep 25 2026 7:00PM",
       "home": "Wuxi Wugo FC",
       "away": "Guangxi Hengchen FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50766,7 +50772,10 @@
       "kickoff": "Sep 25 2026 7:00PM",
       "home": "Pecsi MFC (w)",
       "away": "Ujpest (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50777,7 +50786,10 @@
       "kickoff": "Sep 25 2026 7:00PM",
       "home": "Wisla Krakow II",
       "away": "MKS Czarni Polaniec",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50788,7 +50800,10 @@
       "kickoff": "Sep 25 2026 7:00PM",
       "home": "Nacional Asuncion (R)",
       "away": "Sportivo Ameliano (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50799,6 +50814,17 @@
       "kickoff": "Sep 25 2026 8:00PM",
       "home": "Persiba Balikpapan",
       "away": "De Red FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5771bff70b259ab",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 25 2026 8:00PM",
+      "home": "Barnsley U21",
+      "away": "Sheffield United U21",
       "ht": null,
       "ft": null,
       "status": "Running",
