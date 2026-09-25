@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T21:40:23+00:00",
+  "updated_at": "2026-09-25T21:52:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3056,
   "archive_count": 3000,
@@ -50766,7 +50766,10 @@
       "kickoff": "Sep 26 2026 5:00AM",
       "home": "Grenada",
       "away": "Cuba",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
