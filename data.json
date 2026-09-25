@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T22:39:14+00:00",
+  "updated_at": "2026-09-25T22:52:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3051,
   "archive_count": 3000,
@@ -50761,7 +50761,10 @@
       "kickoff": "Sep 26 2026 6:00AM",
       "home": "CA River Plate (R)",
       "away": "Boca Juniors (R)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50772,7 +50775,10 @@
       "kickoff": "Sep 26 2026 6:00AM",
       "home": "CA Ituzaingo",
       "away": "Defensores Unidos",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
