@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T13:29:58+00:00",
+  "updated_at": "2026-09-25T13:46:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3189,
+  "count": 3192,
   "archive_count": 3000,
   "matches": [
     {
@@ -50702,7 +50702,10 @@
       "kickoff": "Sep 25 2026 8:30PM",
       "home": "Aparecidense GO U20",
       "away": "Guanabara City Go U20",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51038,6 +51041,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "e109a7e09553919e",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 25 2026 10:00PM",
+      "home": "FK Gornji Rahic",
+      "away": "FK Sarajevo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "570646854b30ad1c",
       "league": "CROATIA SECOND LEAGUE",
       "kickoff": "Sep 25 2026 10:00PM",
@@ -51054,6 +51068,28 @@
       "kickoff": "Sep 25 2026 10:00PM",
       "home": "Jadran Dekani",
       "away": "ND Ilirija 1911",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9047532a273ceaa6",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Sep 25 2026 10:00PM",
+      "home": "Swit Nowy Dwor Mazowiecki",
+      "away": "Lks lomza",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8c03cde9393ba8bd",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Sep 25 2026 10:00PM",
+      "home": "Wisla Plock II",
+      "away": "Jagiellonia Bialystok II",
       "ht": null,
       "ft": null,
       "status": "Running",
