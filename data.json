@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T05:40:22+00:00",
+  "updated_at": "2026-09-25T05:53:48+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3157,
   "archive_count": 3000,
@@ -50660,7 +50660,10 @@
       "kickoff": "Sep 25 2026 1:00PM",
       "home": "Uzbekistan U23",
       "away": "Saudi Arabia U23",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
