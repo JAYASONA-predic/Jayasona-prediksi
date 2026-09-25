@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T16:10:01+00:00",
+  "updated_at": "2026-09-25T16:28:34+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3168,
   "archive_count": 3000,
@@ -18,6 +18,40 @@
       "ft": [
         1,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "905c26459a7d2428",
+      "league": "SLOVAKIA 2ND DIVISION",
+      "kickoff": "Sep 25 2026 10:30PM",
+      "home": "FK Pohronie",
+      "away": "Inter Bratislava",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8b2b613c88ba5beb",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 25 2026 10:30PM",
+      "home": "Nokian Palloseura",
+      "away": "TPV Tampere 2",
+      "ht": [
+        1,
+        4
+      ],
+      "ft": [
+        4,
+        6
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50621,40 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ae77e464f03a4d4e",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00PM",
-      "home": "Napoli (V)",
-      "away": "Sevilla (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "51a246f08f93b27d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:00PM",
-      "home": "Tottenham Hotspur (V)",
-      "away": "Arsenal (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
@@ -50674,34 +50674,6 @@
       "ht": [
         1,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "905c26459a7d2428",
-      "league": "SLOVAKIA 2ND DIVISION",
-      "kickoff": "Sep 25 2026 10:30PM",
-      "home": "FK Pohronie",
-      "away": "Inter Bratislava",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8b2b613c88ba5beb",
-      "league": "FINLAND KOLMONEN",
-      "kickoff": "Sep 25 2026 10:30PM",
-      "home": "Nokian Palloseura",
-      "away": "TPV Tampere 2",
-      "ht": [
-        1,
-        4
       ],
       "ft": null,
       "status": "Running",
@@ -50839,7 +50811,10 @@
       "kickoff": "Sep 25 2026 11:30PM",
       "home": "Bulgaria U21",
       "away": "Portugal U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50850,7 +50825,10 @@
       "kickoff": "Sep 25 2026 11:30PM",
       "home": "Finland U21",
       "away": "Spain U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50861,7 +50839,10 @@
       "kickoff": "Sep 25 2026 11:30PM",
       "home": "FC KTP",
       "away": "Mikkelin Palloilijat",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50872,7 +50853,10 @@
       "kickoff": "Sep 25 2026 11:30PM",
       "home": "Germany U20",
       "away": "France U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51351,6 +51335,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "687484758467868b",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 1:00AM",
+      "home": "UFC Fehring",
+      "away": "SV Pachern",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "c08ac7f45a7697bf",
       "league": "SWEDEN 2ND DIVISION",
       "kickoff": "Sep 26 2026 1:00AM",
@@ -51378,6 +51373,17 @@
       "kickoff": "Sep 26 2026 1:00AM",
       "home": "Hellerup IK",
       "away": "FC Roskilde",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f9c0162390ac5dc3",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Sep 26 2026 1:00AM",
+      "home": "Wislanie Skawina",
+      "away": "KS Wisloka Debica",
       "ht": null,
       "ft": null,
       "status": "Running",
