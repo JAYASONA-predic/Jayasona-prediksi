@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T21:25:47+00:00",
+  "updated_at": "2026-09-25T21:40:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3056,
   "archive_count": 3000,
@@ -17,6 +17,23 @@
       ],
       "ft": [
         0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5e6b29b4ae4a16af",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 26 2026 3:30AM",
+      "home": "Academia Puerto Cabello B",
+      "away": "Atletico El Vigia",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
         1
       ],
       "status": "Completed",
@@ -50653,39 +50670,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "dc2f07db42c28ef6",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "IFK Goteborg",
-      "away": "IK Sirius",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
       "home": "Al-Shanwani SC",
       "away": "Diamond SC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f6ed75eb405fb91e",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 26 2026 12:00AM",
-      "home": "Twarde Pierniki Torun",
-      "away": "Arka Gdynia",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50698,20 +50687,6 @@
       "home": "England U19",
       "away": "Ireland U19",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5e6b29b4ae4a16af",
-      "league": "VENEZUELA SEGUNDA DIVISION",
-      "kickoff": "Sep 26 2026 3:30AM",
-      "home": "Academia Puerto Cabello B",
-      "away": "Atletico El Vigia",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50857,6 +50832,17 @@
       "kickoff": "Sep 26 2026 6:00AM",
       "home": "Club Mercedes",
       "away": "CA Puerto Nuevo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e8aff3adb88637ab",
+      "league": "MEXICO LIGA PREMIER SERIE A",
+      "kickoff": "Sep 26 2026 6:00AM",
+      "home": "ACF Zapotlanejo",
+      "away": "Santiago FC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51220,6 +51206,17 @@
       "kickoff": "Sep 26 2026 9:00AM",
       "home": "Cavalry FC",
       "away": "FC Supra du Quebec",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "16e5c622b1141eec",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 26 2026 9:00AM",
+      "home": "Cruz Azul (w)",
+      "away": "Guadalajara Chivas (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
