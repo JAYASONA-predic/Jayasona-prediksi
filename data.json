@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T01:50:58+00:00",
+  "updated_at": "2026-09-25T02:08:32+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3010,
+  "count": 3007,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "8c745aa85aac41f7",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Sep 25 2026 8:10AM",
+      "home": "Cayman Islands (N)",
+      "away": "Dominica",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b705c830cf17e046",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Sep 25 2026 8:00AM",
+      "home": "Dominican Republic",
+      "away": "Nicaragua",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "729797b903cb59ac",
+      "league": "ECUADOR CUP",
+      "kickoff": "Sep 25 2026 8:00AM",
+      "home": "Gualaceo SC (N)",
+      "away": "Independiente del Valle",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "55550b1fab802fc2",
       "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
@@ -50607,104 +50658,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2f0028a8acc118c5",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:15PM",
-      "home": "Manchester City (V)",
-      "away": "Napoli (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2ab561f3451588d4",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:15PM",
-      "home": "Austria (V)",
-      "away": "England (V)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9707eda146380bfc",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:00PM",
-      "home": "FC Koln (V)",
-      "away": "Getafe CF (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d34c8d1a92a76c5d",
       "league": "CHILE CUP",
       "kickoff": "Sep 25 2026 7:30AM",
       "home": "Everton Vina del Mar",
       "away": "Universidad de Chile",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b705c830cf17e046",
-      "league": "CONCACAF NATIONS LEAGUE A",
-      "kickoff": "Sep 25 2026 8:00AM",
-      "home": "Dominican Republic",
-      "away": "Nicaragua",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "729797b903cb59ac",
-      "league": "ECUADOR CUP",
-      "kickoff": "Sep 25 2026 8:00AM",
-      "home": "Gualaceo SC (N)",
-      "away": "Independiente del Valle",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8c745aa85aac41f7",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Sep 25 2026 8:10AM",
-      "home": "Cayman Islands (N)",
-      "away": "Dominica",
       "ht": [
         0,
         0
@@ -50761,7 +50719,10 @@
       "kickoff": "Sep 25 2026 9:00AM",
       "home": "Mineros de Zacatecas",
       "away": "Piratas FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
