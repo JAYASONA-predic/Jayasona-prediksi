@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T19:10:33+00:00",
+  "updated_at": "2026-09-25T19:24:16+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3137,
+  "count": 3138,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "02b80bf80f60b661",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Sep 26 2026 1:30AM",
+      "home": "Switzerland U21",
+      "away": "Luxembourg U21",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "e832d19326c231fc",
       "league": "GERMANY 3RD LIGA",
@@ -50647,23 +50664,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c402b6183b8620cf",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:30PM",
-      "home": "Denmark (V)",
-      "away": "Paraguay (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
@@ -50862,20 +50862,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "02b80bf80f60b661",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Sep 26 2026 1:30AM",
-      "home": "Switzerland U21",
-      "away": "Luxembourg U21",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "24e610d603e1cb27",
       "league": "SWEDEN 2ND DIVISION",
       "kickoff": "Sep 26 2026 1:30AM",
@@ -51046,7 +51032,10 @@
       "kickoff": "Sep 26 2026 2:30AM",
       "home": "Girona",
       "away": "Albacete Balompie",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51057,7 +51046,10 @@
       "kickoff": "Sep 26 2026 2:30AM",
       "home": "England U21",
       "away": "Kazakhstan U21",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51068,7 +51060,10 @@
       "kickoff": "Sep 26 2026 2:30AM",
       "home": "Colchester United U21",
       "away": "Sheffield Wednesday U21",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52020,6 +52015,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "4387b2b892a5134c",
+      "league": "USA WOMEN SUPER LEAGUE",
+      "kickoff": "Sep 26 2026 7:30AM",
+      "home": "Lexington SC (w)",
+      "away": "Dallas Trinity FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "1f64f1ae7f710121",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 26 2026 7:30AM",
@@ -52069,6 +52075,17 @@
       "kickoff": "Sep 26 2026 8:00AM",
       "home": "Barbados",
       "away": "Saint Lucia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3625ea64fd057263",
+      "league": "ECUADOR SERIE B (PLAY OFF)",
+      "kickoff": "Sep 26 2026 8:00AM",
+      "home": "El Nacional (N)",
+      "away": "Cumbaya FC",
       "ht": null,
       "ft": null,
       "status": "Running",
