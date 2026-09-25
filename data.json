@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T21:52:25+00:00",
+  "updated_at": "2026-09-25T22:09:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3056,
+  "count": 3055,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "d5a2ada71d66b6d9",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 26 2026 4:00AM",
+      "home": "Estrella CF",
+      "away": "Las Palmas C",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "89b137de662f4183",
       "league": "PARAGUAY PRIMERA DIVISION",
@@ -50653,23 +50670,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2d717b3980a11c25",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Palermo",
-      "away": "Sampdoria",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
@@ -50725,20 +50725,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d5a2ada71d66b6d9",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 26 2026 4:00AM",
-      "home": "Estrella CF",
-      "away": "Las Palmas C",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "294f492f5499a7f4",
       "league": "PERU LIGA 2 (PLAY OFF)",
       "kickoff": "Sep 26 2026 4:00AM",
@@ -50780,7 +50766,10 @@
       "kickoff": "Sep 26 2026 5:15AM",
       "home": "Academia del Balompie Boliviano",
       "away": "Club Aurora",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
