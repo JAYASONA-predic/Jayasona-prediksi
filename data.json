@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T18:10:26+00:00",
+  "updated_at": "2026-09-25T18:28:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3145,
+  "count": 3146,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "458cfe28250cfc71",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Sep 26 2026 12:30AM",
+      "home": "Netherlands U21",
+      "away": "Norway U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "0cc07160e731f9b6",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
@@ -50638,23 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "15761094b0c15db5",
-      "league": "ENGLISH LEAGUE ONE",
-      "kickoff": "Sep 19 2026 7:30PM",
-      "home": "Barnsley",
-      "away": "Leicester City",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
@@ -50848,20 +50848,6 @@
       "home": "Latvia",
       "away": "Dordrecht",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "458cfe28250cfc71",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Sep 26 2026 12:30AM",
-      "home": "Netherlands U21",
-      "away": "Norway U21",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51096,7 +51082,10 @@
       "kickoff": "Sep 26 2026 1:30AM",
       "home": "Switzerland U21",
       "away": "Luxembourg U21",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51107,7 +51096,10 @@
       "kickoff": "Sep 26 2026 1:30AM",
       "home": "Dalstorps IF",
       "away": "IF Boljan",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51118,7 +51110,10 @@
       "kickoff": "Sep 26 2026 1:30AM",
       "home": "SC Bad Sauerbrunn",
       "away": "FC Deutschkreutz",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51256,6 +51251,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "1b0ab34773cf0949",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 26 2026 2:30AM",
+      "home": "Colchester United U21",
+      "away": "Sheffield Wednesday U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "23bc12d7358249ed",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 26 2026 2:30AM",
@@ -51382,6 +51388,17 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Montenegro",
       "away": "Cyprus",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "511c6131924b9a91",
+      "league": "ENGLISH FA TROPHY QUALIFIERS",
+      "kickoff": "Sep 26 2026 2:45AM",
+      "home": "Biggleswade FC",
+      "away": "Three Bridges",
       "ht": null,
       "ft": null,
       "status": "Running",
