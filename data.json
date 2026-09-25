@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T20:08:27+00:00",
+  "updated_at": "2026-09-25T20:25:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3130,
+  "count": 3129,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "3838293a9b3d6857",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Sep 26 2026 2:30AM",
+      "home": "England U21",
+      "away": "Kazakhstan U21",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "b1b740270bee06cd",
       "league": "BELGIUM WOMEN SUPER LEAGUE",
@@ -50647,23 +50664,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c40f3b758c82c5bd",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 8:00PM",
-      "home": "RCD Mallorca",
-      "away": "Hibernian",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
@@ -50881,20 +50881,6 @@
       "ht": [
         2,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3838293a9b3d6857",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Sep 26 2026 2:30AM",
-      "home": "England U21",
-      "away": "Kazakhstan U21",
-      "ht": [
-        2,
-        2
       ],
       "ft": null,
       "status": "Running",
@@ -51598,7 +51584,10 @@
       "kickoff": "Sep 26 2026 3:30AM",
       "home": "Sportivo Luqueno",
       "away": "Guarani Asuncion",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51609,7 +51598,10 @@
       "kickoff": "Sep 26 2026 3:30AM",
       "home": "Academia Puerto Cabello B",
       "away": "Atletico El Vigia",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
