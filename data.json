@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T10:41:59+00:00",
+  "updated_at": "2026-09-25T10:54:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3168,
+  "count": 3169,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "701cb8b90c439842",
+      "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
+      "kickoff": "Sep 25 2026 5:00PM",
+      "home": "Bangladesh",
+      "away": "Malaysia",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "18518e623098bbec",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -50638,37 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1c9fcd5889ee4a25",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:30PM",
-      "home": "Slovenia (V)",
-      "away": "Greece (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "701cb8b90c439842",
-      "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
-      "kickoff": "Sep 25 2026 5:00PM",
-      "home": "Bangladesh",
-      "away": "Malaysia",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f3a423660ac9d3b5",
       "league": "CZECH REPUBLIC U19 LEAGUE",
       "kickoff": "Sep 25 2026 5:00PM",
@@ -50741,7 +50727,10 @@
       "kickoff": "Sep 25 2026 6:00PM",
       "home": "Ho Chi Minh City FC",
       "away": "Dai Hoc Van Hien FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50752,7 +50741,10 @@
       "kickoff": "Sep 25 2026 6:00PM",
       "home": "South Africa U20",
       "away": "Zambia U20",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50813,11 +50805,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "be796dee6a0ca437",
+      "league": "HUNGARY WOMEN NB I",
+      "kickoff": "Sep 25 2026 7:00PM",
+      "home": "Pecsi MFC (w)",
+      "away": "Ujpest (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "1b30f9fe776df387",
       "league": "POLAND 3RD DIVISION",
       "kickoff": "Sep 25 2026 7:00PM",
       "home": "Wisla Krakow II",
       "away": "MKS Czarni Polaniec",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "71063a3a19ec87b5",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 25 2026 7:00PM",
+      "home": "Nacional Asuncion (R)",
+      "away": "Sportivo Ameliano (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
