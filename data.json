@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T17:25:37+00:00",
+  "updated_at": "2026-09-25T17:40:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3163,
+  "count": 3164,
   "archive_count": 3000,
   "matches": [
     {
@@ -52,6 +52,40 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3741e99c7aeca3f0",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Sep 25 2026 11:30PM",
+      "home": "Finland U21",
+      "away": "Spain U21",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4e2fa518da547983",
+      "league": "INTERNATIONAL FOOTBALL TOURNAMENT U20 (IN SPAIN)",
+      "kickoff": "Sep 25 2026 11:30PM",
+      "home": "Germany U20",
+      "away": "France U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50621,74 +50655,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4ecf488a16bdffb1",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 7:30PM",
-      "home": "West Ham United",
-      "away": "Portsmouth",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a54ae96afc403d94",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:15PM",
-      "home": "Burkina Faso (V)",
-      "away": "China (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
       "home": "Al-Shanwani SC",
       "away": "Diamond SC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3741e99c7aeca3f0",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Sep 25 2026 11:30PM",
-      "home": "Finland U21",
-      "away": "Spain U21",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4e2fa518da547983",
-      "league": "INTERNATIONAL FOOTBALL TOURNAMENT U20 (IN SPAIN)",
-      "kickoff": "Sep 25 2026 11:30PM",
-      "home": "Germany U20",
-      "away": "France U20",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51389,6 +51361,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "dce45a04699a0466",
+      "league": "SOUTH AMERICAN GAMES 2026 (IN ARGENTINA) - MEN FOOTBALL U19",
+      "kickoff": "Sep 26 2026 2:00AM",
+      "home": "Argentina U19",
+      "away": "Paraguay U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b1b740270bee06cd",
+      "league": "BELGIUM WOMEN SUPER LEAGUE",
+      "kickoff": "Sep 26 2026 2:00AM",
+      "home": "KRC Genk (w)",
+      "away": "KAA Gent (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "414cdb833410ba15",
       "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
       "kickoff": "Sep 26 2026 2:00AM",
@@ -51427,6 +51421,17 @@
       "kickoff": "Sep 26 2026 2:00AM",
       "home": "Atlante U21",
       "away": "Monterrey U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "59df9c013ee24bc8",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 26 2026 2:00AM",
+      "home": "Sao Paulo SP U20",
+      "away": "EC Sao Bernardo SP U20",
       "ht": null,
       "ft": null,
       "status": "Running",
