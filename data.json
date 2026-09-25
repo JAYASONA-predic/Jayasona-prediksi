@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T02:39:24+00:00",
+  "updated_at": "2026-09-25T02:52:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3005,
   "archive_count": 3000,
@@ -50705,7 +50705,10 @@
       "kickoff": "Sep 25 2026 10:00AM",
       "home": "Costa Rica",
       "away": "Curacao",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
