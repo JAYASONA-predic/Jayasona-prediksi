@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T08:11:25+00:00",
+  "updated_at": "2026-09-25T08:29:24+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3160,
   "archive_count": 3000,
@@ -50702,7 +50702,10 @@
       "kickoff": "Sep 25 2026 3:30PM",
       "home": "Nantong Zhiyun U20",
       "away": "Qingdao Red Lions U20",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50713,7 +50716,10 @@
       "kickoff": "Sep 25 2026 3:30PM",
       "home": "Wenzhou Yincai U20",
       "away": "Shijiazhuang Gongfu U20",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
