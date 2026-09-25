@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T06:56:13+00:00",
+  "updated_at": "2026-09-25T07:12:00+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3160,
+  "count": 3162,
   "archive_count": 3000,
   "matches": [
     {
@@ -50674,7 +50674,10 @@
       "kickoff": "Sep 25 2026 2:00PM",
       "home": "China (w)",
       "away": "Vietnam (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50685,7 +50688,10 @@
       "kickoff": "Sep 25 2026 2:00PM",
       "home": "North Korea (w)",
       "away": "Chinese Taipei (w)",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50718,6 +50724,28 @@
       "kickoff": "Sep 25 2026 3:00PM",
       "home": "Yunnan Yukun U20",
       "away": "Liaoning Tieren U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1f2a955f1fc0d9cf",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 25 2026 3:30PM",
+      "home": "Nantong Zhiyun U20",
+      "away": "Qingdao Red Lions U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "de9e90249aeab895",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 25 2026 3:30PM",
+      "home": "Wenzhou Yincai U20",
+      "away": "Shijiazhuang Gongfu U20",
       "ht": null,
       "ft": null,
       "status": "Running",
