@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T13:46:07+00:00",
+  "updated_at": "2026-09-25T14:10:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3192,
+  "count": 3190,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "2d7992861487948b",
+      "league": "INDONESIA CHAMPIONSHIP",
+      "kickoff": "Sep 25 2026 8:00PM",
+      "home": "Persiba Balikpapan",
+      "away": "De Red FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5771bff70b259ab",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 25 2026 8:00PM",
+      "home": "Barnsley U21",
+      "away": "Sheffield United U21",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b2540b11afecd5e2",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 25 2026 8:00PM",
+      "home": "Thimphu FC",
+      "away": "Tensung FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f0c6d65c67e809cf",
       "league": "CHINA LEAGUE 1",
@@ -50604,99 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "378f6c6ea9244f5e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 7:00PM",
-      "home": "Nurnberg",
-      "away": "IFK Goteborg",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9ba1df4fac649af7",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 7:00PM",
-      "home": "Nurnberg",
-      "away": "Malmo FF",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d934d68180342b3d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 7:00PM",
-      "home": "Cremonese",
-      "away": "Nordic United FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2d7992861487948b",
-      "league": "INDONESIA CHAMPIONSHIP",
-      "kickoff": "Sep 25 2026 8:00PM",
-      "home": "Persiba Balikpapan",
-      "away": "De Red FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e5771bff70b259ab",
-      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
-      "kickoff": "Sep 25 2026 8:00PM",
-      "home": "Barnsley U21",
-      "away": "Sheffield United U21",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b2540b11afecd5e2",
-      "league": "BHUTAN PREMIER LEAGUE",
-      "kickoff": "Sep 25 2026 8:00PM",
-      "home": "Thimphu FC",
-      "away": "Tensung FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cc779bd334bfdc8a",
       "league": "BRAZIL GOIAS CUP U20 DIVISION 1",
       "kickoff": "Sep 25 2026 8:30PM",
@@ -50716,7 +50674,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Indonesia",
       "away": "Singapore",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50727,7 +50688,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Mozambique",
       "away": "Senegal",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50749,7 +50713,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Tanzania",
       "away": "Guinea-Bissau",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50760,7 +50727,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Chile U19",
       "away": "Peru U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50782,7 +50752,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "NK Dinamo Zagreb II",
       "away": "NK Mladost Zdralovi",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50793,7 +50766,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Maritimo U23",
       "away": "Benfica U23",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50804,7 +50780,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Slavia TU Kosice",
       "away": "MFK Spartak Medzev",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50815,7 +50794,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Paris Saint Germain U19",
       "away": "SM Caen U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50826,7 +50808,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Club Olimpia de Ita",
       "away": "Sport Colombia Fernando de la Mora",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51728,6 +51713,17 @@
       "kickoff": "Sep 26 2026 2:00AM",
       "home": "England U19",
       "away": "Ireland U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "414cdb833410ba15",
+      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 26 2026 2:00AM",
+      "home": "Valur (w)",
+      "away": "Vikingur Reykjavik (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
