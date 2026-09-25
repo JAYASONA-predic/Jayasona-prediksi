@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T23:37:37+00:00",
+  "updated_at": "2026-09-25T23:50:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3049,
   "archive_count": 3000,
@@ -50905,7 +50905,10 @@
       "kickoff": "Sep 26 2026 7:00AM",
       "home": "Union Magdalena",
       "away": "Independiente Santa Fe",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
