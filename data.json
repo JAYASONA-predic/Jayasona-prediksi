@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T00:13:21+00:00",
+  "updated_at": "2026-09-25T00:36:35+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3009,
+  "count": 3010,
   "archive_count": 3000,
   "matches": [
     {
@@ -50663,7 +50663,10 @@
       "kickoff": "Sep 25 2026 7:30AM",
       "home": "Everton Vina del Mar",
       "away": "Universidad de Chile",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50751,6 +50754,17 @@
       "kickoff": "Sep 25 2026 10:00AM",
       "home": "Costa Rica",
       "away": "Curacao",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d51f93714f2c1595",
+      "league": "GUATEMALA LIGA NATIONAL",
+      "kickoff": "Sep 25 2026 10:00AM",
+      "home": "CSD Municipal",
+      "away": "Suchitepequez",
       "ht": null,
       "ft": null,
       "status": "Running",
