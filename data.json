@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T22:52:09+00:00",
+  "updated_at": "2026-09-25T23:08:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3051,
+  "count": 3049,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "55baf1f3ae2274ef",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Sep 26 2026 5:15AM",
+      "home": "Academia del Balompie Boliviano",
+      "away": "Club Aurora",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7733f98893e558f3",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Sep 26 2026 5:00AM",
+      "home": "Grenada",
+      "away": "Cuba",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6c5cb42cce54ec3a",
       "league": "PERU LIGA 2 (PLAY OFF)",
@@ -50636,40 +50670,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e5a68f74a000436f",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Udinese",
-      "away": "Athletic Bilbao",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "961bbc0aae73c61a",
-      "league": "SOUTH AFRICA PREMIERSHIP",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Richards Bay (N)",
-      "away": "Sekhukhune United",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "fccb36fe6ee19b6c",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 26 2026 3:30AM",
@@ -50703,34 +50703,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7733f98893e558f3",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Sep 26 2026 5:00AM",
-      "home": "Grenada",
-      "away": "Cuba",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "55baf1f3ae2274ef",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Sep 26 2026 5:15AM",
-      "home": "Academia del Balompie Boliviano",
-      "away": "Club Aurora",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d26ef06a00282243",
       "league": "PARAGUAY DIVISION INTERMEDIA",
       "kickoff": "Sep 26 2026 5:30AM",
@@ -50750,7 +50722,10 @@
       "kickoff": "Sep 26 2026 6:00AM",
       "home": "Nacional Asuncion",
       "away": "Sportivo Ameliano",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50789,7 +50764,10 @@
       "kickoff": "Sep 26 2026 6:00AM",
       "home": "Club Mercedes",
       "away": "CA Puerto Nuevo",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50800,7 +50778,10 @@
       "kickoff": "Sep 26 2026 6:00AM",
       "home": "ACF Zapotlanejo",
       "away": "Santiago FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
