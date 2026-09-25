@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T00:36:35+00:00",
+  "updated_at": "2026-09-25T00:54:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3010,
   "archive_count": 3000,
@@ -50677,7 +50677,10 @@
       "kickoff": "Sep 25 2026 8:00AM",
       "home": "Dominican Republic",
       "away": "Nicaragua",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50688,7 +50691,10 @@
       "kickoff": "Sep 25 2026 8:00AM",
       "home": "Gualaceo SC (N)",
       "away": "Independiente del Valle",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
