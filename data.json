@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T09:42:47+00:00",
+  "updated_at": "2026-09-25T09:54:48+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3166,
   "archive_count": 3000,
@@ -50674,7 +50674,10 @@
       "kickoff": "Sep 25 2026 5:00PM",
       "home": "Bangladesh",
       "away": "Malaysia",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50685,7 +50688,10 @@
       "kickoff": "Sep 25 2026 5:00PM",
       "home": "Sparta Praha U19",
       "away": "Mlada Boleslav U19",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
