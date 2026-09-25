@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T01:08:48+00:00",
+  "updated_at": "2026-09-25T01:24:42+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3010,
   "archive_count": 3000,
@@ -50719,7 +50719,10 @@
       "kickoff": "Sep 25 2026 8:20AM",
       "home": "Haiti",
       "away": "Trinidad & Tobago",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50730,7 +50733,10 @@
       "kickoff": "Sep 25 2026 8:30AM",
       "home": "Atletico Nacional",
       "away": "Millonarios",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
