@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T11:53:29+00:00",
+  "updated_at": "2026-09-25T12:11:49+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3168,
+  "count": 3172,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1261a9e22bed8732",
+      "league": "VIETNAM V LEAGUE 2",
+      "kickoff": "Sep 25 2026 6:00PM",
+      "home": "Ho Chi Minh City FC",
+      "away": "Dai Hoc Van Hien FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "54254da091a33d48",
+      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
+      "kickoff": "Sep 25 2026 6:00PM",
+      "home": "South Africa U20",
+      "away": "Zambia U20",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "211c7da934e504f0",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
@@ -50621,40 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fe14fa3bfd7a5617",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:45PM",
-      "home": "Bosnia-Herzegovina (V)",
-      "away": "Argentina (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1a0b1ec9c079c947",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:45PM",
-      "home": "Finland (V)",
-      "away": "Qatar (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d01cf589ddb378c8",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 25 2026 6:00PM",
@@ -50663,34 +50663,6 @@
       "ht": [
         0,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1261a9e22bed8732",
-      "league": "VIETNAM V LEAGUE 2",
-      "kickoff": "Sep 25 2026 6:00PM",
-      "home": "Ho Chi Minh City FC",
-      "away": "Dai Hoc Van Hien FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "54254da091a33d48",
-      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
-      "kickoff": "Sep 25 2026 6:00PM",
-      "home": "South Africa U20",
-      "away": "Zambia U20",
-      "ht": [
-        0,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -50886,11 +50858,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f80869d424bf591a",
+      "league": "CROATIA FIRST LEAGUE",
+      "kickoff": "Sep 25 2026 9:00PM",
+      "home": "NK Dinamo Zagreb II",
+      "away": "NK Mladost Zdralovi",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "f56e138b1ba582f1",
       "league": "PORTUGAL LIGA NEXT GEN U23",
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Maritimo U23",
       "away": "Benfica U23",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4b49e9de6b3ca36a",
+      "league": "SLOVAKIA LIGA 3",
+      "kickoff": "Sep 25 2026 9:00PM",
+      "home": "Slavia TU Kosice",
+      "away": "MFK Spartak Medzev",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50924,6 +50918,28 @@
       "kickoff": "Sep 25 2026 10:00PM",
       "home": "India",
       "away": "Panama",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "570646854b30ad1c",
+      "league": "CROATIA SECOND LEAGUE",
+      "kickoff": "Sep 25 2026 10:00PM",
+      "home": "NK Hrvatski Dragovoljac",
+      "away": "NK Radnik Krizevci",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "048286bff28b0105",
+      "league": "SLOVENIA 2ND DIVISION",
+      "kickoff": "Sep 25 2026 10:00PM",
+      "home": "Jadran Dekani",
+      "away": "ND Ilirija 1911",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51001,6 +51017,17 @@
       "kickoff": "Sep 25 2026 11:00PM",
       "home": "KAC 1909",
       "away": "SV Spittal/Drau",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9e44dceb9997e8ab",
+      "league": "SLOVAKIA LIGA 3",
+      "kickoff": "Sep 25 2026 11:00PM",
+      "home": "KFC Komarno B",
+      "away": "FC Banik Prievidza",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51485,6 +51512,17 @@
       "kickoff": "Sep 26 2026 1:00AM",
       "home": "Rappe GOIF",
       "away": "Vaxjo Norra IF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ce0512fe5df89106",
+      "league": "SLOVAKIA LIGA 3",
+      "kickoff": "Sep 26 2026 1:00AM",
+      "home": "Spartak Myjava",
+      "away": "SK 1923 Gabcikovo",
       "ht": null,
       "ft": null,
       "status": "Running",
