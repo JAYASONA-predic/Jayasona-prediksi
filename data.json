@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T19:37:39+00:00",
+  "updated_at": "2026-09-25T19:51:49+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3139,
+  "count": 3138,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "b1b740270bee06cd",
+      "league": "BELGIUM WOMEN SUPER LEAGUE",
+      "kickoff": "Sep 26 2026 2:00AM",
+      "home": "KRC Genk (w)",
+      "away": "KAA Gent (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "02b80bf80f60b661",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
@@ -50647,23 +50664,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b1ee04fdbc115c0b",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:45PM",
-      "home": "Juventus (V)",
-      "away": "Real Sociedad (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
@@ -50878,20 +50878,6 @@
       "kickoff": "Sep 26 2026 2:00AM",
       "home": "Argentina U19",
       "away": "Paraguay U19",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b1b740270bee06cd",
-      "league": "BELGIUM WOMEN SUPER LEAGUE",
-      "kickoff": "Sep 26 2026 2:00AM",
-      "home": "KRC Genk (w)",
-      "away": "KAA Gent (w)",
       "ht": [
         0,
         0
@@ -51140,7 +51126,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Hungary",
       "away": "Ukraine",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51193,7 +51182,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Biggleswade FC",
       "away": "Three Bridges",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51204,7 +51196,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Galway United",
       "away": "Shelbourne",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51547,7 +51542,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "Dordrecht",
       "away": "Almere City FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51558,7 +51556,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "Algeria",
       "away": "Zambia",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51580,7 +51581,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "Egypt",
       "away": "Angola",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51602,7 +51606,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "Morocco",
       "away": "Gabon",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51613,7 +51620,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "CD San Antonio Bulo Bulo",
       "away": "Real Potosi",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51624,7 +51634,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "Bermuda",
       "away": "Guadeloupe",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51635,7 +51648,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "Atlantida SC",
       "away": "Club 29 de Setiembre",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51646,7 +51662,10 @@
       "kickoff": "Sep 26 2026 3:00AM",
       "home": "Independiente FBC",
       "away": "Sportivo Carapegua",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
