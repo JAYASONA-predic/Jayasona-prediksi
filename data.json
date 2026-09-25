@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T23:24:03+00:00",
+  "updated_at": "2026-09-25T23:37:37+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3049,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "d26ef06a00282243",
+      "league": "PARAGUAY DIVISION INTERMEDIA",
+      "kickoff": "Sep 26 2026 5:30AM",
+      "home": "General Caballero JLM",
+      "away": "3 de Noviembre",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "55baf1f3ae2274ef",
       "league": "BOLIVIA CUP",
@@ -50653,23 +50670,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "704266fa212d4332",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Rosenborg",
-      "away": "Malmo FF",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "fccb36fe6ee19b6c",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 26 2026 3:30AM",
@@ -50698,20 +50698,6 @@
       "home": "UD Oliveirense",
       "away": "CP Esgueira",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d26ef06a00282243",
-      "league": "PARAGUAY DIVISION INTERMEDIA",
-      "kickoff": "Sep 26 2026 5:30AM",
-      "home": "General Caballero JLM",
-      "away": "3 de Noviembre",
-      "ht": [
-        0,
-        2
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50839,7 +50825,10 @@
       "kickoff": "Sep 26 2026 6:30AM",
       "home": "Racing Louisville FC (w)",
       "away": "San Diego Wave FC (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51026,6 +51015,17 @@
       "kickoff": "Sep 26 2026 7:30AM",
       "home": "Vila Nova GO",
       "away": "Once Caldas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "06f1353cc43a51ca",
+      "league": "MEXICO PRIMERA PREMIER",
+      "kickoff": "Sep 26 2026 8:00AM",
+      "home": "Chapulineros de Oaxaca",
+      "away": "Pioneros de Cancun",
       "ht": null,
       "ft": null,
       "status": "Running",
