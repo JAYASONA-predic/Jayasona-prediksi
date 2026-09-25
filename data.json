@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T11:09:33+00:00",
+  "updated_at": "2026-09-25T11:26:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3169,
+  "count": 3168,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "211c7da934e504f0",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
+      "kickoff": "Sep 25 2026 5:30PM",
+      "home": "Switzerland U19",
+      "away": "Poland U19",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "701cb8b90c439842",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
@@ -50638,23 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ef288f43834891af",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 6:45PM",
-      "home": "Liverpool (V)",
-      "away": "Bayern Munchen (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "68f5998f78f3b30b",
       "league": "INTERNATIONAL FOOTBALL TOURNAMENT U20 (IN SPAIN)",
       "kickoff": "Sep 25 2026 5:30PM",
@@ -50674,20 +50674,6 @@
       "kickoff": "Sep 25 2026 5:30PM",
       "home": "Kanan FC",
       "away": "Dinthar FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "211c7da934e504f0",
-      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
-      "kickoff": "Sep 25 2026 5:30PM",
-      "home": "Switzerland U19",
-      "away": "Poland U19",
       "ht": [
         0,
         0
@@ -50744,7 +50730,10 @@
       "kickoff": "Sep 25 2026 6:30PM",
       "home": "Korea Republic U23",
       "away": "Vietnam U23",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50755,7 +50744,10 @@
       "kickoff": "Sep 25 2026 6:30PM",
       "home": "Japan (w)",
       "away": "Philippines (w)",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50766,7 +50758,10 @@
       "kickoff": "Sep 25 2026 6:30PM",
       "home": "Korea Republic (w)",
       "away": "Uzbekistan (w)",
-      "ht": null,
+      "ht": [
+        4,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50838,6 +50833,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "3d813c4209aaca4d",
+      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 25 2026 9:00PM",
+      "home": "Sudan (N)",
+      "away": "Ethiopia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "d85928582d52050e",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
       "kickoff": "Sep 25 2026 9:00PM",
@@ -50854,17 +50860,6 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Tanzania",
       "away": "Guinea-Bissau",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3d813c4209aaca4d",
-      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
-      "kickoff": "Sep 25 2026 9:00PM",
-      "home": "Sudan (N)",
-      "away": "Ethiopia",
       "ht": null,
       "ft": null,
       "status": "Running",
