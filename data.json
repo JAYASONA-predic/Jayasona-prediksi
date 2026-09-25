@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T19:24:16+00:00",
+  "updated_at": "2026-09-25T19:37:39+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3138,
+  "count": 3139,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,40 @@
       "away": "Luxembourg U21",
       "ht": [
         3,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "24e610d603e1cb27",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 26 2026 1:30AM",
+      "home": "Dalstorps IF",
+      "away": "IF Boljan",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2d77745a7fc441ac",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 1:30AM",
+      "home": "SC Bad Sauerbrunn",
+      "away": "FC Deutschkreutz",
+      "ht": [
+        1,
         0
       ],
       "ft": [
@@ -50630,40 +50664,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f7a6ff4ecb1feeb5",
-      "league": "ENGLISH WOMEN SUPER LEAGUE",
-      "kickoff": "Sep 19 2026 7:45PM",
-      "home": "Chelsea (w)",
-      "away": "Birmingham City (w)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "884878036911151a",
-      "league": "CHINA LEAGUE 2 (PLAY OFF)",
-      "kickoff": "Sep 19 2026 7:35PM",
-      "home": "Chengdu Rongcheng B",
-      "away": "Taian Tiankuang",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
@@ -50857,34 +50857,6 @@
       "home": "Latvia",
       "away": "Dordrecht",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "24e610d603e1cb27",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Sep 26 2026 1:30AM",
-      "home": "Dalstorps IF",
-      "away": "IF Boljan",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2d77745a7fc441ac",
-      "league": "AUSTRIA LANDESLIGA",
-      "kickoff": "Sep 26 2026 1:30AM",
-      "home": "SC Bad Sauerbrunn",
-      "away": "FC Deutschkreutz",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51140,7 +51112,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Italy",
       "away": "Belgium",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51151,7 +51126,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Turkey",
       "away": "France",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51173,7 +51151,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Poland",
       "away": "Bosnia-Herzegovina",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51184,7 +51165,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Sweden",
       "away": "Romania",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51195,7 +51179,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Montenegro",
       "away": "Cyprus",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51228,7 +51215,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "The Spartans FC",
       "away": "Dundee FC B",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51239,7 +51229,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Arbroath",
       "away": "Queens Park",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51250,7 +51243,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Ayr United",
       "away": "Stenhousemuir",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51261,7 +51257,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Inverness CT",
       "away": "Greenock Morton",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51272,7 +51271,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Raith Rovers",
       "away": "Livingston",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51283,7 +51285,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Cobh Ramblers",
       "away": "Athlone Town",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51305,7 +51310,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "Treaty United",
       "away": "Finn Harps",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51316,7 +51324,10 @@
       "kickoff": "Sep 26 2026 2:45AM",
       "home": "UC Dublin",
       "away": "Bray Wanderers",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51872,6 +51883,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "d2d5a76ac0c30d86",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 26 2026 6:30AM",
+      "home": "Racing Louisville FC (w)",
+      "away": "San Diego Wave FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "37005622d220689f",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 26 2026 6:30AM",
@@ -52086,6 +52108,28 @@
       "kickoff": "Sep 26 2026 8:00AM",
       "home": "El Nacional (N)",
       "away": "Cumbaya FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fc8598f19a8fc15e",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 26 2026 8:00AM",
+      "home": "Gotham FC (w)",
+      "away": "Chicago Stars FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6691d54a7bfc2c2b",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 26 2026 8:30AM",
+      "home": "Seattle Reign FC (w)",
+      "away": "Boston Legacy FC (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
