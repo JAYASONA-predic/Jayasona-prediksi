@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T17:08:08+00:00",
+  "updated_at": "2026-09-25T17:25:37+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3164,
+  "count": 3163,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,40 @@
       "ft": [
         1,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0ba95fe9e7707688",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Sep 25 2026 11:30PM",
+      "home": "Bulgaria U21",
+      "away": "Portugal U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "75000a29caa85ca1",
+      "league": "FINLAND YKKOSLIIGA",
+      "kickoff": "Sep 25 2026 11:30PM",
+      "home": "FC KTP",
+      "away": "Mikkelin Palloilijat",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50621,60 +50655,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ef0888ea58baae43",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:15PM",
-      "home": "Slovakia (V)",
-      "away": "USA (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1c431344cef98aea",
-      "league": "SABA VIETNAM V LEAGUE 1 VIRTUAL PES 24 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 7:15PM",
-      "home": "Song Lam Nghe An (V)",
-      "away": "Quang Nam (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0bdc33bcb4dc0b3",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 25 2026 9:30PM",
       "home": "Al-Shanwani SC",
       "away": "Diamond SC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0ba95fe9e7707688",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Sep 25 2026 11:30PM",
-      "home": "Bulgaria U21",
-      "away": "Portugal U21",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50688,20 +50674,6 @@
       "ht": [
         1,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "75000a29caa85ca1",
-      "league": "FINLAND YKKOSLIIGA",
-      "kickoff": "Sep 25 2026 11:30PM",
-      "home": "FC KTP",
-      "away": "Mikkelin Palloilijat",
-      "ht": [
-        0,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -50937,34 +50909,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f603953b6b0051f9",
-      "league": "AUSTRIA LANDESLIGA",
-      "kickoff": "Sep 26 2026 12:00AM",
-      "home": "1. Simmeringer SC",
-      "away": "Post SV Wien",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1cd4f87190077cae",
-      "league": "AUSTRIA LANDESLIGA",
-      "kickoff": "Sep 26 2026 12:00AM",
-      "home": "TWL Elektra",
-      "away": "Floridsdorfer AC AM",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "71f18d30fad3c9c6",
       "league": "CZECH REPUBLIC 3RD DIVISION CFL",
       "kickoff": "Sep 26 2026 12:00AM",
@@ -50998,6 +50942,34 @@
       "kickoff": "Sep 26 2026 12:00AM",
       "home": "Mozambique U20",
       "away": "Namibia U20",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f603953b6b0051f9",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 12:00AM",
+      "home": "1. Simmeringer SC",
+      "away": "Post SV Wien",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1cd4f87190077cae",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 12:00AM",
+      "home": "TWL Elektra",
+      "away": "Floridsdorfer AC AM",
       "ht": [
         1,
         0
@@ -51188,7 +51160,10 @@
       "kickoff": "Sep 26 2026 12:30AM",
       "home": "Netherlands U21",
       "away": "Norway U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51238,17 +51213,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "687484758467868b",
-      "league": "AUSTRIA LANDESLIGA",
-      "kickoff": "Sep 26 2026 1:00AM",
-      "home": "UFC Fehring",
-      "away": "SV Pachern",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "c08ac7f45a7697bf",
       "league": "SWEDEN 2ND DIVISION",
       "kickoff": "Sep 26 2026 1:00AM",
@@ -51271,33 +51235,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "caa3bfb87cf90db5",
-      "league": "DENMARK 3RD DIVISION",
-      "kickoff": "Sep 26 2026 1:00AM",
-      "home": "FC Helsingor",
-      "away": "Holbaek B&I",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "114b8075d3cb9ac3",
       "league": "DENMARK 2ND DIVISION",
       "kickoff": "Sep 26 2026 1:00AM",
       "home": "Hellerup IK",
       "away": "FC Roskilde",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f9c0162390ac5dc3",
-      "league": "POLAND 3RD DIVISION",
-      "kickoff": "Sep 26 2026 1:00AM",
-      "home": "Wislanie Skawina",
-      "away": "KS Wisloka Debica",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51315,11 +51257,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e50724ad65f5e8c8",
-      "league": "DENMARK SERIES",
+      "id": "f9c0162390ac5dc3",
+      "league": "POLAND 3RD DIVISION",
       "kickoff": "Sep 26 2026 1:00AM",
-      "home": "Horsens fS",
-      "away": "BK Marienlyst",
+      "home": "Wislanie Skawina",
+      "away": "KS Wisloka Debica",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51331,6 +51273,39 @@
       "kickoff": "Sep 26 2026 1:00AM",
       "home": "Toukolan Teras",
       "away": "Helsingin Palloseura 2",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a1494452d55372ac",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 26 2026 1:00AM",
+      "home": "Atlantis Akatemia",
+      "away": "JaPS/47",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e50724ad65f5e8c8",
+      "league": "DENMARK SERIES",
+      "kickoff": "Sep 26 2026 1:00AM",
+      "home": "Horsens fS",
+      "away": "BK Marienlyst",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "caa3bfb87cf90db5",
+      "league": "DENMARK 3RD DIVISION",
+      "kickoff": "Sep 26 2026 1:00AM",
+      "home": "FC Helsingor",
+      "away": "Holbaek B&I",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51359,22 +51334,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "02b80bf80f60b661",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Sep 26 2026 1:30AM",
-      "home": "Switzerland U21",
-      "away": "Luxembourg U21",
+      "id": "687484758467868b",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 1:00AM",
+      "home": "UFC Fehring",
+      "away": "SV Pachern",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2d77745a7fc441ac",
-      "league": "AUSTRIA LANDESLIGA",
+      "id": "02b80bf80f60b661",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
       "kickoff": "Sep 26 2026 1:30AM",
-      "home": "SC Bad Sauerbrunn",
-      "away": "FC Deutschkreutz",
+      "home": "Switzerland U21",
+      "away": "Luxembourg U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51392,22 +51367,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "abdb399ecd54f94a",
-      "league": "INTERNATIONAL FRIENDLY U19",
-      "kickoff": "Sep 26 2026 2:00AM",
-      "home": "England U19",
-      "away": "Ireland U19",
+      "id": "2d77745a7fc441ac",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 1:30AM",
+      "home": "SC Bad Sauerbrunn",
+      "away": "FC Deutschkreutz",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b73dd08d2690f570",
-      "league": "AUSTRIA LANDESLIGA",
+      "id": "abdb399ecd54f94a",
+      "league": "INTERNATIONAL FRIENDLY U19",
       "kickoff": "Sep 26 2026 2:00AM",
-      "home": "USV Halbturn",
-      "away": "SC Oberpullendorf",
+      "home": "England U19",
+      "away": "Ireland U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51452,6 +51427,17 @@
       "kickoff": "Sep 26 2026 2:00AM",
       "home": "Atlante U21",
       "away": "Monterrey U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b73dd08d2690f570",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 2:00AM",
+      "home": "USV Halbturn",
+      "away": "SC Oberpullendorf",
       "ht": null,
       "ft": null,
       "status": "Running",
