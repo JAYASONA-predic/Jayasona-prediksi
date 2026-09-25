@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-25T14:28:11+00:00",
+  "updated_at": "2026-09-25T14:44:24+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3192,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cc779bd334bfdc8a",
+      "league": "BRAZIL GOIAS CUP U20 DIVISION 1",
+      "kickoff": "Sep 25 2026 8:30PM",
+      "home": "Aparecidense GO U20",
+      "away": "Guanabara City Go U20",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "2d7992861487948b",
       "league": "INDONESIA CHAMPIONSHIP",
@@ -50638,37 +50655,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4e9a65beac8a88d6",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 7:00PM",
-      "home": "IFK Norrkoping",
-      "away": "Nantes",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cc779bd334bfdc8a",
-      "league": "BRAZIL GOIAS CUP U20 DIVISION 1",
-      "kickoff": "Sep 25 2026 8:30PM",
-      "home": "Aparecidense GO U20",
-      "away": "Guanabara City Go U20",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "0670604c6c38b61f",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Sep 25 2026 9:00PM",
@@ -50741,7 +50727,10 @@
       "kickoff": "Sep 25 2026 9:00PM",
       "home": "Sama Al Sarhan FC",
       "away": "Shabab Al Aqaba",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50906,7 +50895,10 @@
       "kickoff": "Sep 25 2026 9:30PM",
       "home": "El Entag El Harby",
       "away": "Tanta FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50931,7 +50923,10 @@
       "kickoff": "Sep 25 2026 9:30PM",
       "home": "Mega Sport",
       "away": "Ismaily SC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50970,7 +50965,10 @@
       "kickoff": "Sep 25 2026 9:30PM",
       "home": "Al Qanater Al Khayreyah",
       "away": "Levels FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51020,7 +51018,10 @@
       "kickoff": "Sep 25 2026 9:30PM",
       "home": "El Obour SC",
       "away": "El Alameen",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51045,7 +51046,10 @@
       "kickoff": "Sep 25 2026 9:45PM",
       "home": "Azerbaijan U21",
       "away": "Czech Republic U21",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51232,6 +51236,17 @@
       "kickoff": "Sep 25 2026 11:00PM",
       "home": "Slovakia U19",
       "away": "Kazakhstan U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "07dcdf4a59ad70f7",
+      "league": "COLOMBIA SUPER COPA U19",
+      "kickoff": "Sep 25 2026 11:00PM",
+      "home": "Llaneros SA U19",
+      "away": "Independiente Santa Fe U19",
       "ht": null,
       "ft": null,
       "status": "Running",
