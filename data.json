@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T22:38:20+00:00",
+  "updated_at": "2026-09-26T22:51:36+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3070,
+  "count": 3071,
   "archive_count": 3000,
   "matches": [
     {
@@ -51021,7 +51021,10 @@
       "kickoff": "Sep 27 2026 6:00AM",
       "home": "Boca Juniors de Cali",
       "away": "Patriotas Boyaca",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51142,6 +51145,17 @@
       "kickoff": "Sep 27 2026 7:00AM",
       "home": "Venados FC",
       "away": "Atletico Morelia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0440c12141237581",
+      "league": "COLOMBIA WOMEN LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Deportivo Cali (w)",
+      "away": "Independiente Santa Fe (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
