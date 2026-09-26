@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T00:11:50+00:00",
+  "updated_at": "2026-09-26T00:33:36+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3045,
+  "count": 3042,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1f00b74cfbaeacb6",
+      "league": "BRAZIL SERIE B",
+      "kickoff": "Sep 26 2026 6:30AM",
+      "home": "Gremio Novorizontino SP",
+      "away": "Sao Bernardo SP",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d52a007544541529",
       "league": "PARAGUAY PRIMERA DIVISION",
@@ -222,6 +239,40 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fccb36fe6ee19b6c",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 3:30AM",
+      "home": "Gremio Novorizontino SP",
+      "away": "Guarani Asuncion",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cf038dd086efe371",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 3:30AM",
+      "home": "Sao Bernardo SP",
+      "away": "Sportivo Luqueno",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50625,76 +50676,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "cf7ccf6f581417fa",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Benevento",
-      "away": "Palermo",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0a6abb749a9f516e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Cremonese",
-      "away": "Palermo",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a1eeebb472d6ef4c",
-      "league": "*ITALY SERIE A - OFFSIDE",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Udinese No.of Offsides",
-      "away": "Cagliari No.of Offsides",
-      "ht": null,
-      "ft": [
-        2,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fccb36fe6ee19b6c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 3:30AM",
-      "home": "Gremio Novorizontino SP",
-      "away": "Guarani Asuncion",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cf038dd086efe371",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 3:30AM",
-      "home": "Sao Bernardo SP",
-      "away": "Sportivo Luqueno",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "9f69c4da77d180b7",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 4:00AM",
@@ -50734,20 +50715,6 @@
       "home": "Monterrey",
       "away": "Nacional Asuncion",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1f00b74cfbaeacb6",
-      "league": "BRAZIL SERIE B",
-      "kickoff": "Sep 26 2026 6:30AM",
-      "home": "Gremio Novorizontino SP",
-      "away": "Sao Bernardo SP",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50897,7 +50864,10 @@
       "kickoff": "Sep 26 2026 7:30AM",
       "home": "Vila Nova GO",
       "away": "Londrina PR",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50908,7 +50878,10 @@
       "kickoff": "Sep 26 2026 7:30AM",
       "home": "Nacional Potosi",
       "away": "Club Always Ready",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50919,7 +50892,10 @@
       "kickoff": "Sep 26 2026 7:30AM",
       "home": "Sporting JAX",
       "away": "Loudoun United FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50930,7 +50906,10 @@
       "kickoff": "Sep 26 2026 7:30AM",
       "home": "Lexington SC (w)",
       "away": "Dallas Trinity FC (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
