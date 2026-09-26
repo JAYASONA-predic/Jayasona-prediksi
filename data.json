@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T10:08:45+00:00",
+  "updated_at": "2026-09-26T10:24:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3428,
+  "count": 3439,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,57 @@
       "ft": [
         4,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8f0cfacee3870810",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "FK Loko Praha",
+      "away": "Kraluv Dvur",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f7f86e6cd49b6ff5",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "MFK Chrudim",
+      "away": "FK Pardubice B",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2f3f8adc2bd916ee",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "Povltavska FA",
+      "away": "FK Motorlet Praha",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50649,99 +50700,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c34fae79705a8023",
-      "league": "SCOTLAND LEAGUE 2",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Elgin City",
-      "away": "Stranraer",
-      "ht": [
-        1,
-        3
-      ],
-      "ft": [
-        1,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fdaa4008393ca834",
-      "league": "SCOTLAND LEAGUE 2",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Forfar Athletic",
-      "away": "Annan Athletic",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7fdc0875b84f3d81",
-      "league": "SCOTLAND LEAGUE 2",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Kelty Hearts FC",
-      "away": "Edinburgh City",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8f0cfacee3870810",
-      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
-      "kickoff": "Sep 26 2026 4:15PM",
-      "home": "FK Loko Praha",
-      "away": "Kraluv Dvur",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f7f86e6cd49b6ff5",
-      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
-      "kickoff": "Sep 26 2026 4:15PM",
-      "home": "MFK Chrudim",
-      "away": "FK Pardubice B",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2f3f8adc2bd916ee",
-      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
-      "kickoff": "Sep 26 2026 4:15PM",
-      "home": "Povltavska FA",
-      "away": "FK Motorlet Praha",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ab256112ca01a2ff",
       "league": "INDONESIA CHAMPIONSHIP",
       "kickoff": "Sep 26 2026 4:30PM",
@@ -50884,7 +50842,10 @@
       "kickoff": "Sep 26 2026 5:30PM",
       "home": "Mizoram Police FC",
       "away": "Chanmari FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50895,7 +50856,10 @@
       "kickoff": "Sep 26 2026 5:30PM",
       "home": "Gnistan Helsinki (w)",
       "away": "Ilves Tampere (w)",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50906,7 +50870,10 @@
       "kickoff": "Sep 26 2026 5:30PM",
       "home": "Paide Linnameeskond (w)",
       "away": "FC Elva (w)",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51132,11 +51099,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "9287dba9bc809379",
+      "league": "HUNGARY WOMEN NB I",
+      "kickoff": "Sep 26 2026 6:30PM",
+      "home": "ETO FC Gyor (w)",
+      "away": "Astra Hungary FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "65b53f8ca37e96ba",
       "league": "SWEDEN 2ND DIVISION",
       "kickoff": "Sep 26 2026 6:30PM",
       "home": "Helges IF",
       "away": "FC Gute",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "96b688d8455a6bc8",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 26 2026 6:30PM",
+      "home": "Pargas IF",
+      "away": "MaPS Masku",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51220,6 +51209,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "919e5d2c6505693c",
+      "league": "CZECH REPUBLIC U19 LEAGUE",
+      "kickoff": "Sep 26 2026 6:45PM",
+      "home": "FK Pardubice U19",
+      "away": "MFK Karvina U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "25dc2805aef36866",
       "league": "SWEDEN ETTAN SOUTH",
       "kickoff": "Sep 26 2026 7:00PM",
@@ -51236,6 +51236,17 @@
       "kickoff": "Sep 26 2026 7:00PM",
       "home": "FC Trollhattan",
       "away": "Tvaakers IF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5abe9234b137d685",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "Villa Santa Brigida",
+      "away": "SD Villaverde Norte",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51324,6 +51335,17 @@
       "kickoff": "Sep 26 2026 7:00PM",
       "home": "Kristianstads DFF (w)",
       "away": "Vittsjo GIK (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "436ae33987e0aaf2",
+      "league": "ENGLISH WOMEN SUPER LEAGUE 2",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "Burnley (w)",
+      "away": "Bristol City (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51423,6 +51445,17 @@
       "kickoff": "Sep 26 2026 8:00PM",
       "home": "EIF Ekenas",
       "away": "SJK Akatemia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0ea4f8bd72c0eb7",
+      "league": "INDONESIA CHAMPIONSHIP",
+      "kickoff": "Sep 26 2026 8:00PM",
+      "home": "Persikad Depok (N)",
+      "away": "Persiraja Banda Aceh",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -53673,6 +53706,61 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "812a34407b9e9efa",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 11:30PM",
+      "home": "AZ Picerno",
+      "away": "Audace Cerignola",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "803202022445cbe0",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 11:30PM",
+      "home": "Bari",
+      "away": "Cosenza",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6259f3a868e6877f",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 11:30PM",
+      "home": "Desenzano FC",
+      "away": "Juventus Next Gen",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8df8d039bb357aad",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 11:30PM",
+      "home": "Livorno",
+      "away": "US Pianese",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1f5889ae36b76b7e",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 11:30PM",
+      "home": "Novara",
+      "away": "AC Ospitaletto",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "d93e54c2fdad3b8f",
       "league": "CHILE PRIMERA B",
       "kickoff": "Sep 26 2026 11:30PM",
@@ -54536,6 +54624,39 @@
       "kickoff": "Sep 27 2026 2:30AM",
       "home": "Longford Town",
       "away": "Cork City",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7e3fe2f7d3a4abe2",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 27 2026 2:30AM",
+      "home": "Cavese",
+      "away": "Savoia 1908",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "46f211c058099e1d",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 27 2026 2:30AM",
+      "home": "Cittadella",
+      "away": "Lecco",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6a019206aaae0f55",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 27 2026 2:30AM",
+      "home": "Sambenedettese",
+      "away": "Campobasso",
       "ht": null,
       "ft": null,
       "status": "Running",
