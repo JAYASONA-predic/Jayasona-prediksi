@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T09:38:09+00:00",
+  "updated_at": "2026-09-26T09:50:57+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3451,
+  "count": 3462,
   "archive_count": 3000,
   "matches": [
     {
@@ -51344,7 +51344,10 @@
       "kickoff": "Sep 26 2026 5:00PM",
       "home": "Pakistan",
       "away": "Thailand",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51377,7 +51380,10 @@
       "kickoff": "Sep 26 2026 5:00PM",
       "home": "Sreenidi Deccan FC",
       "away": "NorthEast United FC",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51388,7 +51394,10 @@
       "kickoff": "Sep 26 2026 5:00PM",
       "home": "Korona Kielce II",
       "away": "KS Wieczysta Krakow II",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51526,6 +51535,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "bf4d4fecfa62ac48",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "IF Sibbo Vargarna",
+      "away": "FC Lahti/69",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ac071961f7874e27",
       "league": "DENMARK SERIES",
       "kickoff": "Sep 26 2026 6:00PM",
@@ -51586,6 +51606,17 @@
       "kickoff": "Sep 26 2026 6:00PM",
       "home": "CA Osasuna (w)",
       "away": "Barcelona B (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3a854548f18acc36",
+      "league": "ROMANIA WOMEN LIGA 1",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "Rapid Bucuresti (w)",
+      "away": "Politehnica Timisoara (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51713,6 +51744,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7443b94cb336a251",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "PuiU",
+      "away": "Union Plaani",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "803c5610545940b7",
       "league": "DENMARK 3RD DIVISION",
       "kickoff": "Sep 26 2026 7:00PM",
@@ -51740,6 +51782,17 @@
       "kickoff": "Sep 26 2026 7:00PM",
       "home": "KuPS (w)",
       "away": "HJK Helsinki (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "13e45dec61e8980f",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "Kristianstads DFF (w)",
+      "away": "Vittsjo GIK (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52202,6 +52255,39 @@
       "kickoff": "Sep 26 2026 9:00PM",
       "home": "Lazio (w)",
       "away": "Parma (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e9359d74c3d80a19",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "AIK Fotboll (w)",
+      "away": "Vaxjo DFF (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "43d6d74f41c81148",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "Hammarby (w)",
+      "away": "Eskilstuna United DFF (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "229a2ad14b4678d5",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "IK Uppsala Fotboll (w)",
+      "away": "Djurgardens (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -53258,6 +53344,39 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Walton & Hersham FC",
       "away": "Farnborough",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8218164013ebdf94",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "FC Reipas Lahti",
+      "away": "Mypa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "688ab8d18e1e7e95",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "JS Hercules",
+      "away": "FC Vaajakoski",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "374d1bb2616b5abf",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "IFK Norrkoping (w)",
+      "away": "BK Hacken FF (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -54820,6 +54939,17 @@
       "kickoff": "Sep 27 2026 2:00AM",
       "home": "Talleres Remedios",
       "away": "San Martin de Burzaco",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6132fbe2584e9d61",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 27 2026 2:06AM",
+      "home": "Queretaro (w)",
+      "away": "Atlas (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
