@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T23:37:05+00:00",
+  "updated_at": "2026-09-26T23:50:37+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3062,
   "archive_count": 3000,
@@ -69,6 +69,23 @@
       "ft": [
         0,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a3e144f1eba87f44",
+      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B1",
+      "kickoff": "Sep 27 2026 5:30AM",
+      "home": "Macae Esporte RJ",
+      "away": "Artsul FC RJ",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50785,43 +50802,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "171bad73fe659d9f",
-      "league": "PORTUGAL PRIMEIRA LIGA",
-      "kickoff": "Sep 20 2026 3:30AM",
-      "home": "Sporting Lisbon",
-      "away": "Arouca",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
       "home": "Lokomotiv Moscow (N)",
       "away": "Arsenal Tula",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a3e144f1eba87f44",
-      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B1",
-      "kickoff": "Sep 27 2026 5:30AM",
-      "home": "Macae Esporte RJ",
-      "away": "Artsul FC RJ",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50986,7 +50972,10 @@
       "kickoff": "Sep 27 2026 6:50AM",
       "home": "Cruz Azul",
       "away": "Deportivo Toluca",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51272,6 +51261,17 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "Inter Santa Tecla",
       "away": "Atletico Balboa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7e43ff54b0c615ac",
+      "league": "MEXICO LIGA PREMIER SERIE A",
+      "kickoff": "Sep 27 2026 8:00AM",
+      "home": "Halcones Negros FC",
+      "away": "Club Calor",
       "ht": null,
       "ft": null,
       "status": "Running",
