@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T00:33:36+00:00",
+  "updated_at": "2026-09-26T00:54:29+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3042,
+  "count": 3040,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "afc3efd8f63f3c8f",
+      "league": "COLOMBIA CUP",
+      "kickoff": "Sep 26 2026 7:00AM",
+      "home": "Union Magdalena",
+      "away": "Independiente Santa Fe",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "1f00b74cfbaeacb6",
       "league": "BRAZIL SERIE B",
@@ -18,6 +35,23 @@
       "ft": [
         0,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d2d5a76ac0c30d86",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 26 2026 6:30AM",
+      "home": "Racing Louisville FC (w)",
+      "away": "San Diego Wave FC (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50642,40 +50676,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0e915d6d9ff6d201",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "IFK Goteborg",
-      "away": "Malmo FF",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "26970fd70dffaa4a",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:00PM",
-      "home": "Benevento",
-      "away": "Cremonese",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "9f69c4da77d180b7",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 4:00AM",
@@ -50715,20 +50715,6 @@
       "home": "Monterrey",
       "away": "Nacional Asuncion",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d2d5a76ac0c30d86",
-      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
-      "kickoff": "Sep 26 2026 6:30AM",
-      "home": "Racing Louisville FC (w)",
-      "away": "San Diego Wave FC (w)",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50794,20 +50780,6 @@
       "kickoff": "Sep 26 2026 7:00AM",
       "home": "Colo Colo (N)",
       "away": "Audax Italiano",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "afc3efd8f63f3c8f",
-      "league": "COLOMBIA CUP",
-      "kickoff": "Sep 26 2026 7:00AM",
-      "home": "Union Magdalena",
-      "away": "Independiente Santa Fe",
       "ht": [
         1,
         0
@@ -50953,7 +50925,10 @@
       "kickoff": "Sep 26 2026 8:00AM",
       "home": "Chapulineros de Oaxaca",
       "away": "Pioneros de Cancun",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50964,7 +50939,10 @@
       "kickoff": "Sep 26 2026 8:00AM",
       "home": "Jamaica",
       "away": "Guatemala",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50975,7 +50953,10 @@
       "kickoff": "Sep 26 2026 8:00AM",
       "home": "Barbados",
       "away": "Saint Lucia",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50986,7 +50967,10 @@
       "kickoff": "Sep 26 2026 8:00AM",
       "home": "Bonaire (N)",
       "away": "St. Kitts & Nevis",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50997,7 +50981,10 @@
       "kickoff": "Sep 26 2026 8:00AM",
       "home": "El Nacional (N)",
       "away": "Cumbaya FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
