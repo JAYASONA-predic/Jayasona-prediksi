@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T14:08:44+00:00",
+  "updated_at": "2026-09-26T14:25:36+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3404,
+  "count": 3408,
   "archive_count": 3000,
   "matches": [
     {
@@ -51452,7 +51452,10 @@
       "kickoff": "Sep 26 2026 9:15PM",
       "home": "Amsterdamsche FC",
       "away": "VV Katwijk",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51474,7 +51477,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "Cambrian United",
       "away": "Llandudno FC",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51485,7 +51491,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "Cardiff Met",
       "away": "Caernarfon Town",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51496,7 +51505,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "Colwyn Bay",
       "away": "Haverfordwest County",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51507,7 +51519,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "Flint Town United FC",
       "away": "Ammanford",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51529,7 +51544,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "Penybont",
       "away": "Airbus UK Broughton",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51551,7 +51569,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "OFK Banik Lehota pod Vtacnikom",
       "away": "Slovan Galanta",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51562,7 +51583,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "STK 1914 Samorin",
       "away": "MFK Lokomotiva Zvolen",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51573,7 +51597,10 @@
       "kickoff": "Sep 26 2026 9:30PM",
       "home": "MSK Povazska Bystrica",
       "away": "MFK Bytca",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52547,6 +52574,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "44e3b3ce6fce81bc",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "Asane Fotball 2",
+      "away": "Forde",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "c34b2602c86b77ed",
       "league": "GERMANY WOMEN FOOTBALL CUP",
       "kickoff": "Sep 26 2026 10:00PM",
@@ -53185,11 +53223,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "727b3b86821a4046",
+      "league": "AUSTRIA REGIONAL LEAGUE SOUTH",
+      "kickoff": "Sep 26 2026 10:30PM",
+      "home": "SV Donau Klagenfurt",
+      "away": "Wolfsberger AC AM",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "acd781022126ad5b",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 10:30PM",
+      "home": "Jiskra Domazlice",
+      "away": "Dynamo Ceske Budejovice",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "fc9dcd2547c1a337",
       "league": "SPAIN WOMEN PRIMERA DIVISION",
       "kickoff": "Sep 26 2026 10:30PM",
       "home": "DUX Logrono (w)",
       "away": "Barcelona (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9e85862ad11e9d59",
+      "league": "AUSTRIA REGIONAL LEAGUE EAST",
+      "kickoff": "Sep 26 2026 10:30PM",
+      "home": "SV Leobendorf",
+      "away": "SC Wiener Viktoria",
       "ht": null,
       "ft": null,
       "status": "Running",
