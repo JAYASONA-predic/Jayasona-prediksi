@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T07:08:50+00:00",
+  "updated_at": "2026-09-26T07:24:58+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3396,
+  "count": 3401,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "79b612e569747e0e",
+      "league": "JAPAN FOOTBALL LEAGUE",
+      "kickoff": "Sep 26 2026 1:30PM",
+      "home": "FC Tiamo Hirakata",
+      "away": "Vonds Ichihara",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ec43e938f7d02979",
       "league": "JAPAN WOMEN FOOTBALL DIVISION 1",
@@ -50665,37 +50682,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5d71ffe2c32c561b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Celta Vigo",
-      "away": "Eintracht Frankfurt",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        5,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "79b612e569747e0e",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 26 2026 1:30PM",
-      "home": "FC Tiamo Hirakata",
-      "away": "Vonds Ichihara",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "68e749cd6b006854",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
       "kickoff": "Sep 26 2026 2:00PM",
@@ -50754,7 +50740,10 @@
       "kickoff": "Sep 26 2026 2:30PM",
       "home": "Azzurri United FC (w)",
       "away": "Port Darwin (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51623,6 +51612,72 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "Vietnam",
       "away": "Philippines",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "137b2a021d8509f5",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 8:30PM",
+      "home": "AS Giana Erminio",
+      "away": "Pro Vercelli",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cacd2cdde2730445",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 8:30PM",
+      "home": "ASD Pineto",
+      "away": "US Grosseto 1912",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5715c875d71e4f37",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 8:30PM",
+      "home": "Crotone",
+      "away": "Salernitana",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dcb0c1ab64ea5544",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 8:30PM",
+      "home": "Lumezzane",
+      "away": "Folgore Caratese",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "799fff5592c2be22",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 8:30PM",
+      "home": "Torres Calcio",
+      "away": "Vado FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b3e0cea57e7bbe54",
+      "league": "ITALY SERIE C",
+      "kickoff": "Sep 26 2026 8:30PM",
+      "home": "US Pergolettese",
+      "away": "AC Trento",
       "ht": null,
       "ft": null,
       "status": "Running",
