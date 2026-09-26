@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T16:40:34+00:00",
+  "updated_at": "2026-09-26T16:52:20+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3232,
+  "count": 3231,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "674bf764937173d6",
+      "league": "SPAIN SEGUNDA FEDERACION",
+      "kickoff": "Sep 26 2026 11:00PM",
+      "home": "SD Amorebieta",
+      "away": "Ourense CF",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "19cd26d4209a8e2c",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Sep 26 2026 11:00PM",
+      "home": "MuSa",
+      "away": "NJS Nurmijarven",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "3b2dc233d5a32adf",
       "league": "NETHERLANDS EERSTE DIVISIE",
@@ -154,6 +188,23 @@
       "ft": [
         0,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f0f178ba0aa78eb2",
+      "league": "SPAIN PRIMERA FEDERACION",
+      "kickoff": "Sep 26 2026 10:30PM",
+      "home": "Juventud Torremolinos CF",
+      "away": "Algeciras CF",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50709,48 +50760,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1f923f8839596269",
-      "league": "*ENGLISH PREMIER LEAGUE - OFFSIDE",
-      "kickoff": "Sep 20 2026 12:30AM",
-      "home": "Nottingham Forest No.of Offsides",
-      "away": "Coventry City No.of Offsides",
-      "ht": null,
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2f01d44e50a5f7f5",
-      "league": "*SPAIN PRIMERA LALIGA - OFFSIDE",
-      "kickoff": "Sep 20 2026 12:30AM",
-      "home": "Celta Vigo No.of Offsides",
-      "away": "Racing Santander No.of Offsides",
-      "ht": null,
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a69d5695b44d4b29",
-      "league": "*GERMANY-BUNDESLIGA I - OFFSIDE",
-      "kickoff": "Sep 20 2026 12:30AM",
-      "home": "VfB Stuttgart No.of Offsides",
-      "away": "Borussia Dortmund No.of Offsides",
-      "ht": null,
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -50952,20 +50961,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f0f178ba0aa78eb2",
-      "league": "SPAIN PRIMERA FEDERACION",
-      "kickoff": "Sep 26 2026 10:30PM",
-      "home": "Juventud Torremolinos CF",
-      "away": "Algeciras CF",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f130261358ddc111",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
       "kickoff": "Sep 26 2026 11:00PM",
@@ -51008,20 +51003,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "674bf764937173d6",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Sep 26 2026 11:00PM",
-      "home": "SD Amorebieta",
-      "away": "Ourense CF",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ef94efbed50066b5",
       "league": "SPAIN TERCERA FEDERACION",
       "kickoff": "Sep 26 2026 11:00PM",
@@ -51057,20 +51038,6 @@
       "away": "CD Acero",
       "ht": [
         0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "19cd26d4209a8e2c",
-      "league": "FINLAND KAKKONEN (PLAY OFF)",
-      "kickoff": "Sep 26 2026 11:00PM",
-      "home": "MuSa",
-      "away": "NJS Nurmijarven",
-      "ht": [
-        1,
         1
       ],
       "ft": null,
@@ -51346,7 +51313,10 @@
       "kickoff": "Sep 26 2026 11:55PM",
       "home": "Kuwait",
       "away": "Iraq",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51357,7 +51327,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Bulgaria",
       "away": "Luxembourg",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51368,7 +51341,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Faroe Islands",
       "away": "Kazakhstan",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51379,7 +51355,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Iceland",
       "away": "Estonia",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51390,7 +51369,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "San Marino",
       "away": "Finland",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51401,7 +51383,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Latvia U21",
       "away": "Germany U21",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51412,7 +51397,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Ukraine U21 (N)",
       "away": "Turkey U21",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51423,7 +51411,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "HJK Klubi 04",
       "away": "JaPS",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51445,7 +51436,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Portugal U20",
       "away": "Poland U20",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51478,7 +51472,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Italy U20 (w)",
       "away": "Colombia U20 (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51511,7 +51508,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Vion Zlate Moravce",
       "away": "FC Petrzalka",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51522,7 +51522,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "UTS Rabat",
       "away": "FUS Rabat",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51555,7 +51558,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "EBK Espoo",
       "away": "GrIFK Grankulla",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51566,7 +51572,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "SC Kalsdorf",
       "away": "SV Tillmitsch",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51588,7 +51597,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "LKS Barycz Sulow",
       "away": "Zaglebie Lubin II",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51599,7 +51611,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "London City Lionesses (w)",
       "away": "Brighton & Hove Albion (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51610,7 +51625,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Como 1907 (w)",
       "away": "AC Milan (w)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51621,7 +51639,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Alhama CF (w)",
       "away": "Fundacion Albacete (w)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51632,7 +51653,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Ayacucho FC",
       "away": "Union Minas",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51643,7 +51667,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Uruguay Montevideo FC",
       "away": "Rentistas",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51654,7 +51681,10 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "Orsomarso SC U19",
       "away": "Aguilas Doradas U19",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52171,6 +52201,17 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "NK Tabor Sezana",
       "away": "NK Bistrica",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "727319408a444a07",
+      "league": "SPAIN WOMEN SEGUNDA FEDERACION",
+      "kickoff": "Sep 27 2026 1:00AM",
+      "home": "Zaragoza CFF (w)",
+      "away": "Atletico Balears FC (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52721,6 +52762,17 @@
       "kickoff": "Sep 27 2026 3:30AM",
       "home": "Rubio Nu",
       "away": "2 de Mayo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c84e6048a88273e0",
+      "league": "MOROCCO BOTOLA PRO",
+      "kickoff": "Sep 27 2026 4:00AM",
+      "home": "Wydad Casablanca",
+      "away": "Wydad Temara",
       "ht": null,
       "ft": null,
       "status": "Running",
