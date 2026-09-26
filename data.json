@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T13:08:30+00:00",
+  "updated_at": "2026-09-26T13:23:59+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3419,
+  "count": 3417,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "29f271d9a6959115",
+      "league": "FINLAND YKKONEN (PLAY OFF)",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "OLS Oulu",
+      "away": "PK Keski Uusimaa",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ffcf12d0ddfccc4d",
+      "league": "CHINA LEAGUE 1",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "Nantong Zhiyun",
+      "away": "Changchun Yatai",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "077c23f61f5be070",
+      "league": "BELARUS DIVISION 1",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "FC Soligorsk",
+      "away": "FC Minsk 2",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "63413868aae6f063",
       "league": "FINLAND KOLMONEN",
@@ -50658,57 +50709,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4e2415843a96c01b",
-      "league": "ENGLISH LEAGUE TWO",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Accrington Stanley",
-      "away": "Newport County",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "07bfc1b979fd2055",
-      "league": "ENGLISH LEAGUE TWO",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Barnet",
-      "away": "Fleetwood Town",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5d74e97052140f6a",
-      "league": "ENGLISH LEAGUE TWO",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Colchester United",
-      "away": "Cheltenham Town",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cd2fbccd6441814c",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Sep 26 2026 5:00PM",
@@ -50786,20 +50786,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "29f271d9a6959115",
-      "league": "FINLAND YKKONEN (PLAY OFF)",
-      "kickoff": "Sep 26 2026 7:30PM",
-      "home": "OLS Oulu",
-      "away": "PK Keski Uusimaa",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a7e4475317dc7003",
       "league": "RUSSIA FIRST LEAGUE",
       "kickoff": "Sep 26 2026 7:30PM",
@@ -50808,34 +50794,6 @@
       "ht": [
         1,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ffcf12d0ddfccc4d",
-      "league": "CHINA LEAGUE 1",
-      "kickoff": "Sep 26 2026 7:30PM",
-      "home": "Nantong Zhiyun",
-      "away": "Changchun Yatai",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "077c23f61f5be070",
-      "league": "BELARUS DIVISION 1",
-      "kickoff": "Sep 26 2026 7:30PM",
-      "home": "FC Soligorsk",
-      "away": "FC Minsk 2",
-      "ht": [
-        1,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -51250,7 +51208,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "GVVV Veenendaal",
       "away": "RKAV Volendam",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51261,7 +51222,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "AS Giana Erminio",
       "away": "Pro Vercelli",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51272,7 +51236,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "ASD Pineto",
       "away": "US Grosseto 1912",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51283,7 +51250,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "Crotone",
       "away": "Salernitana",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51294,7 +51264,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "Lumezzane",
       "away": "Folgore Caratese",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51305,7 +51278,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "Torres Calcio",
       "away": "Vado FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51316,7 +51292,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "US Pergolettese",
       "away": "AC Trento",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51327,7 +51306,10 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "Ankaraspor",
       "away": "Somaspor",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51338,6 +51320,20 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "Charlton Athletic (w)",
       "away": "Manchester City (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "397222670ef4fa99",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 26 2026 8:45PM",
+      "home": "Dalin Myslenice",
+      "away": "Wisla Krakow",
       "ht": null,
       "ft": null,
       "status": "Running",
