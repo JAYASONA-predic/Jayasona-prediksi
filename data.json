@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T14:39:27+00:00",
+  "updated_at": "2026-09-26T14:51:29+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3398,
+  "count": 3399,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1e39b1f2b74830b9",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "Rilski Sportist",
+      "away": "Pirin Blagoevgrad",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e9359d74c3d80a19",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "AIK Fotboll (w)",
+      "away": "Vaxjo DFF (w)",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "229a2ad14b4678d5",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "IK Uppsala Fotboll (w)",
+      "away": "Djurgardens (w)",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "397222670ef4fa99",
       "league": "CLUB FRIENDLY",
@@ -50676,51 +50727,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5b1f2c070be2dd7c",
-      "league": "*ENGLISH PREMIER LEAGUE",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Newcastle United",
-      "away": "Hull City",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dbb6a1e50f60998c",
-      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 2nd half",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Brighton & Hove Albion",
-      "away": "Arsenal",
-      "ht": null,
-      "ft": [
-        6,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "94b01653e8f04d01",
-      "league": "*ENGLISH PREMIER LEAGUE - Injury time awarded at end of 2nd half",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Everton",
-      "away": "Ipswich Town",
-      "ht": null,
-      "ft": [
-        7,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cd2fbccd6441814c",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Sep 26 2026 5:00PM",
@@ -51152,20 +51158,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1e39b1f2b74830b9",
-      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
-      "kickoff": "Sep 26 2026 9:00PM",
-      "home": "Rilski Sportist",
-      "away": "Pirin Blagoevgrad",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "93b99a93090f5baf",
       "league": "DENMARK 2ND DIVISION",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -51205,20 +51197,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e9359d74c3d80a19",
-      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
-      "kickoff": "Sep 26 2026 9:00PM",
-      "home": "AIK Fotboll (w)",
-      "away": "Vaxjo DFF (w)",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "43d6d74f41c81148",
       "league": "SWEDEN WOMEN DAMALLSVENSKAN",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -51227,20 +51205,6 @@
       "ht": [
         1,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "229a2ad14b4678d5",
-      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
-      "kickoff": "Sep 26 2026 9:00PM",
-      "home": "IK Uppsala Fotboll (w)",
-      "away": "Djurgardens (w)",
-      "ht": [
-        0,
-        2
       ],
       "ft": null,
       "status": "Running",
@@ -51489,7 +51453,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Cambridge United",
       "away": "AFC Wimbledon",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51500,7 +51467,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Plymouth Argyle",
       "away": "Burton Albion",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51511,7 +51481,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Stockport County",
       "away": "Peterborough United",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51522,7 +51495,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Wycombe Wanderers",
       "away": "Reading",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51643,7 +51619,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Kelty Hearts FC",
       "away": "Montrose",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51654,7 +51633,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Peterhead",
       "away": "Elgin City",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51665,7 +51647,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Stranraer",
       "away": "East Kilbride",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51676,7 +51661,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Bristol Rovers",
       "away": "Exeter City",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51687,7 +51675,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Cheltenham Town",
       "away": "Chesterfield",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51698,7 +51689,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Fleetwood Town",
       "away": "Rochdale",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51709,7 +51703,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Newport County",
       "away": "Grimsby Town",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51720,7 +51717,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Rotherham United",
       "away": "Crewe Alexandra",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51742,7 +51742,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Swindon Town",
       "away": "Accrington Stanley",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51753,7 +51756,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Tranmere Rovers",
       "away": "Walsall",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51775,7 +51781,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "VJS Vantaa",
       "away": "KPV Kokkola",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51786,7 +51795,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Hungary U19",
       "away": "Bulgaria U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51797,7 +51809,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Serbia U19",
       "away": "Romania U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51808,7 +51823,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Bohemians",
       "away": "Bohemians 1905",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51819,7 +51837,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Laholms FK",
       "away": "Atvidabergs",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51830,7 +51851,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Skovde AIK",
       "away": "BK Olympic",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51841,7 +51865,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "FC Jarfalla",
       "away": "AFC Eskilstuna",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51852,7 +51879,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Sollentuna FK",
       "away": "FC Stockholm Internazionale",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51885,7 +51915,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Boston United",
       "away": "AFC Fylde",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51896,7 +51929,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Carlisle United",
       "away": "Woking",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51907,7 +51943,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Harrogate Town",
       "away": "Eastleigh",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51918,7 +51957,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Kidderminster Harriers",
       "away": "Yeovil Town",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51940,7 +51982,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Solihull Moors",
       "away": "Boreham Wood FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51951,7 +51996,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Southend United",
       "away": "Barrow AFC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51962,7 +52010,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Sutton United",
       "away": "Forest Green Rovers",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51973,7 +52024,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Wealdstone",
       "away": "Gateshead",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51984,7 +52038,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Worthing",
       "away": "Halifax Town",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52039,7 +52096,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Cadiz Mirandilla",
       "away": "CD Pozoblanco",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52072,7 +52132,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Unionistas de Salamanca CF B",
       "away": "Turegano CF",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52083,7 +52146,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "NK Dubrava Zagreb (N)",
       "away": "BSK Bijelo Brdo",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52094,7 +52160,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "NK Hrvace",
       "away": "HNK Orijent 1919",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52105,7 +52174,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "NK Jadran Luka Ploce",
       "away": "NK Kustosija Zagreb",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52116,7 +52188,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "NK Bjelovar",
       "away": "NK Varteks Varazdin",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52127,7 +52202,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "NK Dugo Selo",
       "away": "NK Inker Zapresic",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52138,7 +52216,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "NK Lucko",
       "away": "NK Zagora Unesic",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52149,7 +52230,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "AFC Telford United",
       "away": "Kings Lynn Town",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52160,7 +52244,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Bedford Town",
       "away": "Hereford FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52171,7 +52258,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Brackley Town",
       "away": "Scarborough Athletic FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52182,7 +52272,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Chester FC",
       "away": "Worksop Town",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52193,7 +52286,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Chorley FC",
       "away": "Spalding United",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52204,7 +52300,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Darlington",
       "away": "Hebburn Town",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52215,7 +52314,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Hednesford Town",
       "away": "Radcliffe FC",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52226,7 +52328,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Macclesfield FC",
       "away": "Harborough Town",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52248,7 +52353,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Oxford City FC",
       "away": "Morecambe",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52259,7 +52367,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "South Shields FC",
       "away": "Buxton FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52270,7 +52381,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Southport FC",
       "away": "Spennymoor Town FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52292,7 +52406,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Chesham United",
       "away": "Maidenhead United",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52303,7 +52420,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Chelmsford City",
       "away": "Horsham",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52314,7 +52434,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Dagenham & Redbridge",
       "away": "Hampton & Richmond Borough",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52336,7 +52459,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Dover Athletic",
       "away": "AFC Totton",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52347,7 +52473,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Farnham Town",
       "away": "Weston Super Mare",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52358,7 +52487,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Maidstone United",
       "away": "Truro City FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52369,7 +52501,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Salisbury FC",
       "away": "Folkestone Invicta",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52402,7 +52537,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Walton & Hersham FC",
       "away": "Farnborough",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52413,7 +52551,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "FC Reipas Lahti",
       "away": "Mypa",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52424,7 +52565,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "JS Hercules",
       "away": "FC Vaajakoski",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52435,7 +52579,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Skiljebo SK",
       "away": "Taby FK",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52446,7 +52593,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "FK Neratovice Byskovice",
       "away": "FK Caslav",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52457,7 +52607,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Asane Fotball 2",
       "away": "Forde",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52479,7 +52632,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "IFK Norrkoping (w)",
       "away": "BK Hacken FF (w)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52490,7 +52646,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "SV Donau",
       "away": "Wiener SC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52501,7 +52660,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "IBV Vestmannaeyjar (w)",
       "away": "Breidablik (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52534,7 +52696,10 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "CA Progreso",
       "away": "Racing Club Montevideo",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -53211,11 +53376,55 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7a673407803baa29",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 26 2026 11:00PM",
+      "home": "CD Espanol de San Vicente",
+      "away": "CD Acero",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "19cd26d4209a8e2c",
       "league": "FINLAND KAKKONEN (PLAY OFF)",
       "kickoff": "Sep 26 2026 11:00PM",
       "home": "MuSa",
       "away": "NJS Nurmijarven",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2dbf431f47aa7170",
+      "league": "GHANA PREMIER LEAGUE",
+      "kickoff": "Sep 26 2026 11:00PM",
+      "home": "Karela United FC",
+      "away": "Accra Hearts of Oak",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1d78ae52e8072436",
+      "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
+      "kickoff": "Sep 26 2026 11:00PM",
+      "home": "Sporting Lagos",
+      "away": "Barau FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "57d9eaa203a44666",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 26 2026 11:00PM",
+      "home": "SPG Edelserpentin",
+      "away": "SpG Neudorf/Parndorf Juniors",
       "ht": null,
       "ft": null,
       "status": "Running",
