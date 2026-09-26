@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T09:25:03+00:00",
+  "updated_at": "2026-09-26T09:38:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3445,
+  "count": 3451,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "5b0f2baa2dae6403",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 26 2026 3:30PM",
+      "home": "Shandong Taishan U20",
+      "away": "Shanghai Port FC U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "3ed0ca30f8196ac9",
       "league": "MSG PRIME MINISTERS WOMEN CUP (IN FIJI)",
@@ -50668,37 +50685,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "76f04d94f4d574f3",
-      "league": "UAE LEAGUE CUP",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Hatta Dubai",
-      "away": "Shabab Al Ahli Dubai",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5b0f2baa2dae6403",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Sep 26 2026 3:30PM",
-      "home": "Shandong Taishan U20",
-      "away": "Shanghai Port FC U20",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ce6cdb61671572af",
       "league": "JAPAN J-LEAGUE DIVISION 2",
       "kickoff": "Sep 26 2026 4:00PM",
@@ -51330,7 +51316,10 @@
       "kickoff": "Sep 26 2026 4:30PM",
       "home": "Azzurri United FC",
       "away": "Darwin Olympic",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51341,7 +51330,10 @@
       "kickoff": "Sep 26 2026 4:30PM",
       "home": "SFC Opava U19",
       "away": "Slovacko U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51501,6 +51493,39 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "75d0d84c4f5d7f8b",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "KS Polonia Sroda Wielkopolska",
+      "away": "Elana Torun",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "868c47d6d13c41e1",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "Miedz Legnica II",
+      "away": "Sparta Katowice",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a6960895461b1d69",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "Wiked Luzino",
+      "away": "MKS Notec Czarnkow",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ac071961f7874e27",
       "league": "DENMARK SERIES",
       "kickoff": "Sep 26 2026 6:00PM",
@@ -51550,6 +51575,17 @@
       "kickoff": "Sep 26 2026 6:00PM",
       "home": "Real Sociedad (w)",
       "away": "Real Madrid (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "effb19090e9f52b3",
+      "league": "SPAIN WOMEN PRIMERA FEDERACION",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "CA Osasuna (w)",
+      "away": "Barcelona B (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51704,6 +51740,39 @@
       "kickoff": "Sep 26 2026 7:00PM",
       "home": "KuPS (w)",
       "away": "HJK Helsinki (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fba9126e6bb312c5",
+      "league": "DENMARK WOMEN A-LIGA",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "Brondby IF (w)",
+      "away": "ASA Aarhus (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "489df82a8e10d48e",
+      "league": "DENMARK WOMEN A-LIGA",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "Fortuna Hjorring (w)",
+      "away": "Nordsjaelland (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2546a5e1a008a15c",
+      "league": "DENMARK WOMEN A-LIGA",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "HB Koge (w)",
+      "away": "Kolding IF (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
