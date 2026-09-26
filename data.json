@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T12:30:13+00:00",
+  "updated_at": "2026-09-26T12:47:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3444,
+  "count": 3447,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "63413868aae6f063",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "KPV Akatemia",
+      "away": "Sundom IF",
+      "ht": [
+        0,
+        4
+      ],
+      "ft": [
+        0,
+        7
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f4c0e1816c42e769",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
@@ -50692,23 +50709,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "064655373a7df858",
-      "league": "NORTHERN IRELAND PREMIERSHIP",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Linfield FC",
-      "away": "Crusaders FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cd2fbccd6441814c",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Sep 26 2026 5:00PM",
@@ -50948,20 +50948,6 @@
       "ht": [
         1,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "63413868aae6f063",
-      "league": "FINLAND KOLMONEN",
-      "kickoff": "Sep 26 2026 7:00PM",
-      "home": "KPV Akatemia",
-      "away": "Sundom IF",
-      "ht": [
-        0,
-        4
       ],
       "ft": null,
       "status": "Running",
@@ -51394,7 +51380,10 @@
       "kickoff": "Sep 26 2026 8:00PM",
       "home": "Byasen",
       "away": "Orkla",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51427,7 +51416,10 @@
       "kickoff": "Sep 26 2026 8:00PM",
       "home": "Kumu",
       "away": "LAUTP",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51785,11 +51777,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "9be1e05314d38f3b",
-      "league": "IRELAND NATIONAL LEAGUE",
+      "id": "ea07829c61dc65b6",
+      "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
-      "home": "Home Farm FC",
-      "away": "Cockhill Celtic",
+      "home": "Lokomotiv Moscow (N)",
+      "away": "Arsenal Tula",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51807,22 +51799,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "76381f7e97c2473f",
-      "league": "NETHERLANDS TWEEDE DIVISIE",
+      "id": "9be1e05314d38f3b",
+      "league": "IRELAND NATIONAL LEAGUE",
       "kickoff": "Sep 26 2026 9:00PM",
-      "home": "Ijsselmeervogels",
-      "away": "Rijnsburgse Boys",
+      "home": "Home Farm FC",
+      "away": "Cockhill Celtic",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c32f561c49caef44",
+      "id": "a6a255082e8bca46",
       "league": "NETHERLANDS TWEEDE DIVISIE",
       "kickoff": "Sep 26 2026 9:00PM",
-      "home": "Jong Almere City FC",
-      "away": "BVV Barendrecht",
+      "home": "Kozakken Boys",
+      "away": "Koninklijke HFC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51840,11 +51832,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a6a255082e8bca46",
+      "id": "c32f561c49caef44",
       "league": "NETHERLANDS TWEEDE DIVISIE",
       "kickoff": "Sep 26 2026 9:00PM",
-      "home": "Kozakken Boys",
-      "away": "Koninklijke HFC",
+      "home": "Jong Almere City FC",
+      "away": "BVV Barendrecht",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "76381f7e97c2473f",
+      "league": "NETHERLANDS TWEEDE DIVISIE",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "Ijsselmeervogels",
+      "away": "Rijnsburgse Boys",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51884,6 +51887,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "b540bd485a82db30",
+      "league": "NORWAY 2ND DIVISION",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "Vidar FK",
+      "away": "Mjondalen",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "f224cbaf5f852892",
       "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -51911,6 +51925,17 @@
       "kickoff": "Sep 26 2026 9:00PM",
       "home": "B.93",
       "away": "Thisted FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9ce86119eb06bf5e",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "Sandefjord 2",
+      "away": "Elverum",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52021,6 +52046,17 @@
       "kickoff": "Sep 26 2026 9:00PM",
       "home": "PK-35",
       "away": "JaPS",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8812c89bd842f94d",
+      "league": "NETHERLANDS TWEEDE DIVISIE",
+      "kickoff": "Sep 26 2026 9:15PM",
+      "home": "Amsterdamsche FC",
+      "away": "VV Katwijk",
       "ht": null,
       "ft": null,
       "status": "Running",
