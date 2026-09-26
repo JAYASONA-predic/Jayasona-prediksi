@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T08:10:05+00:00",
+  "updated_at": "2026-09-26T08:27:24+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3432,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1ba8cb95c104e413",
+      "league": "AUSTRALIA NORTHERN TERRITORY WOMENS PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 26 2026 2:30PM",
+      "home": "Azzurri United FC (w)",
+      "away": "Port Darwin (w)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "68e749cd6b006854",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
@@ -50671,40 +50688,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "08ac452c16863ef8",
-      "league": "*GERMANY-BUNDESLIGA I - OFFSIDE",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Borussia Monchengladbach No.of Offsides",
-      "away": "FSV Mainz 05 No.of Offsides",
-      "ht": null,
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "c0e98f4070290cd7",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
       "kickoff": "Sep 26 2026 2:00PM",
       "home": "China U23",
       "away": "Thailand U23",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1ba8cb95c104e413",
-      "league": "AUSTRALIA NORTHERN TERRITORY WOMENS PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 26 2026 2:30PM",
-      "home": "Azzurri United FC (w)",
-      "away": "Port Darwin (w)",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50729,7 +50718,10 @@
       "kickoff": "Sep 26 2026 3:30PM",
       "home": "Shandong Taishan U20",
       "away": "Shanghai Port FC U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52423,6 +52415,17 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Serbia U19",
       "away": "Romania U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a3e0b5faaa39f1c2",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "Bohemians",
+      "away": "Bohemians 1905",
       "ht": null,
       "ft": null,
       "status": "Running",
