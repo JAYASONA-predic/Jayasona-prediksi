@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T11:08:19+00:00",
+  "updated_at": "2026-09-26T11:24:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3450,
+  "count": 3451,
   "archive_count": 3000,
   "matches": [
     {
@@ -51010,7 +51010,10 @@
       "kickoff": "Sep 26 2026 6:30PM",
       "home": "Japan U23",
       "away": "North Korea U23",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51021,7 +51024,10 @@
       "kickoff": "Sep 26 2026 6:30PM",
       "home": "ETO FC Gyor (w)",
       "away": "Astra Hungary FC (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51032,7 +51038,10 @@
       "kickoff": "Sep 26 2026 6:30PM",
       "home": "Helges IF",
       "away": "FC Gute",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51043,7 +51052,10 @@
       "kickoff": "Sep 26 2026 6:30PM",
       "home": "Pargas IF",
       "away": "MaPS Masku",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51054,7 +51066,10 @@
       "kickoff": "Sep 26 2026 6:30PM",
       "home": "Juventus (w)",
       "away": "Napoli (w)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51505,6 +51520,17 @@
       "kickoff": "Sep 26 2026 7:30PM",
       "home": "VSK Aarhus",
       "away": "Skive IK",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5c2431b8711fe2e4",
+      "league": "BELGIUM WOMEN SUPER LEAGUE",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "RSC Anderlecht (w)",
+      "away": "RAAL La Louviere (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
