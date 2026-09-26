@@ -1,10 +1,741 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T09:50:57+00:00",
+  "updated_at": "2026-09-26T10:08:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3462,
+  "count": 3428,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cd0dc5eca522b4cf",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "FK Horni Redice",
+      "away": "Teplice B",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ce6cdb61671572af",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Blaublitz Akita",
+      "away": "Albirex Niigata",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3de94247944cd9b7",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "FC Imabari",
+      "away": "Shonan Bellmare",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "48755b5ed9d51f14",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Iwaki FC",
+      "away": "Vegalta Sendai",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2de83e2f2145a774",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Jubilo Iwata",
+      "away": "Vanraure Hachinohe FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cf4a5a55482b2494",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Kataller Toyama",
+      "away": "Yokohama FC",
+      "ht": [
+        1,
+        3
+      ],
+      "ft": [
+        3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f4d7dd9d2a2cb9aa",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Montedio Yamagata",
+      "away": "Sagan Tosu",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cc9b02397f9ebdd2",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Oita Trinita",
+      "away": "Fujieda MYFC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "24f504aa456b0c08",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "RB Omiya Ardija",
+      "away": "Ventforet Kofu",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        5,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b1c3337d8805c3d4",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Tegevajaro Miyazaki",
+      "away": "Hokkaido Consadole Sapporo",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6004873705cfe79c",
+      "league": "JAPAN J-LEAGUE DIVISION 2",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Tokushima Vortis",
+      "away": "Tochigi City FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "581f355f12a0fae1",
+      "league": "JAPAN J-LEAGUE DIVISION 3",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Fukushima United FC",
+      "away": "AC Nagano Parceiro",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        4,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3dd2d16a3bff6d02",
+      "league": "JAPAN J-LEAGUE DIVISION 3",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Giravanz Kitakyushu",
+      "away": "Kagoshima United",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4eed7b7f69bed0ad",
+      "league": "JAPAN J-LEAGUE DIVISION 3",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Kamatamare Sanuki",
+      "away": "FC Gifu",
+      "ht": [
+        2,
+        3
+      ],
+      "ft": [
+        3,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3426fe7a8b3f5465",
+      "league": "JAPAN J-LEAGUE DIVISION 3",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Kochi United SC",
+      "away": "FC Osaka",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ee4c7970a0fc0d2e",
+      "league": "JAPAN J-LEAGUE DIVISION 3",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "FC Ryukyu",
+      "away": "Ehime FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "da7d66787acc8faa",
+      "league": "JAPAN J-LEAGUE DIVISION 3",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Thespakusatsu Gunma",
+      "away": "Roasso Kumamoto",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "eb915612a61276ce",
+      "league": "JAPAN J-LEAGUE DIVISION 3",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Tochigi SC",
+      "away": "Matsumoto Yamaga FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3f31349fb4742fd3",
+      "league": "HONG KONG LEAGUE CUP",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Eastern (N)",
+      "away": "Kitchee",
+      "ht": [
+        3,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "689c9e9475822dd7",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "ACS Sepsi OSK Sfantu Gheorghe",
+      "away": "CS Gloria Bistrita",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "71429f5eed56cafa",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Steaua Bucuresti",
+      "away": "CS Stefanesti",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "41683a7115d5f414",
+      "league": "CZECH REPUBLIC U19 LEAGUE",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Hradec Kralove U19",
+      "away": "FK Dukla Praha U19",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "42eb8ae4ada89269",
+      "league": "SOUTH AFRICA RESERVE LEAGUE",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Siwelele FC (R)",
+      "away": "Sekhukhune United (R)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1755611d99a83a2d",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "FC Imabari",
+      "away": "Hokkaido Consadole Sapporo",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "92aa13f2f6937e10",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "FC Imabari",
+      "away": "Iwaki FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "90fa5bdbb16a64fc",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "FC Imabari",
+      "away": "Vanraure Hachinohe FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3d1bd2a1b77ebe4f",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "FC Imabari",
+      "away": "Ventforet Kofu",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "38deb2fbd50375e2",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Iwaki FC",
+      "away": "Hokkaido Consadole Sapporo",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f43d8b94b8469dc9",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Iwaki FC",
+      "away": "Vanraure Hachinohe FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "58ec8a72bbcc089d",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Iwaki FC",
+      "away": "Ventforet Kofu",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "757ce2f95da0d330",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Jubilo Iwata",
+      "away": "Tegevajaro Miyazaki",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8551a5150e0a50cb",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Jubilo Iwata",
+      "away": "RB Omiya Ardija",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "98ca561f9c388d13",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "RB Omiya Ardija",
+      "away": "Tegevajaro Miyazaki",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": [
+        5,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2f108f747ad84852",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Shonan Bellmare",
+      "away": "RB Omiya Ardija",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "291a0955561e0a00",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Shonan Bellmare",
+      "away": "Jubilo Iwata",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b5e26c0b25440d5e",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Shonan Bellmare",
+      "away": "Vegalta Sendai",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ae3f2b4ebe3f2397",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Shonan Bellmare",
+      "away": "Tegevajaro Miyazaki",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bd5987d99dbd42a6",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Vanraure Hachinohe FC",
+      "away": "Hokkaido Consadole Sapporo",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f5356a1d61bb4d38",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Vanraure Hachinohe FC",
+      "away": "Ventforet Kofu",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ef5d28392cb4bdbd",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Vegalta Sendai",
+      "away": "Jubilo Iwata",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "746185ba4a34fe44",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Vegalta Sendai",
+      "away": "RB Omiya Ardija",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f18243c0d742cf2e",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Vegalta Sendai",
+      "away": "Tegevajaro Miyazaki",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "259a5bb3e6b37f3f",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 26 2026 4:00PM",
+      "home": "Ventforet Kofu",
+      "away": "Hokkaido Consadole Sapporo",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "5b0f2baa2dae6403",
       "league": "CHINA LEAGUE U20",
@@ -49969,1264 +50700,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6f4527b3d3dd5305",
-      "league": "SCOTLAND LEAGUE 2",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Stirling Albion",
-      "away": "Clyde",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d1251a38b185497b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "ADO Den Haag",
-      "away": "KuPS",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3faab61214a9bdaa",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "KuPS",
-      "away": "Famalicao",
-      "ht": [
-        2,
-        3
-      ],
-      "ft": [
-        2,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3977fc0b376dffea",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "KuPS",
-      "away": "Gil Vicente",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3fca89c152ffb4fd",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Paris FC",
-      "away": "Burnley",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "22107c7dc519c542",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Paris FC",
-      "away": "Middlesbrough",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8fe4abb6ce609213",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Rosenborg",
-      "away": "Molde",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "183964d3ab679b4b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "KuPS",
-      "away": "Midtjylland",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f5ff3d6287ce3427",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Young Boys",
-      "away": "Oud-Heverlee Leuven",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a837802adb503ff1",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Oud-Heverlee Leuven",
-      "away": "Royal Charleroi SC",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "eb121f89e0f0640d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Arsenal",
-      "away": "Nottingham Forest",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7bd60e310c2dda3d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Everton",
-      "away": "Nottingham Forest",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "aa5dcc99262fb8ca",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Newcastle United",
-      "away": "Nottingham Forest",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "82d8be4b171aee7d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Saint Johnstone FC",
-      "away": "Heart of Midlothian",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "03e449c749b4255e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "St. Mirren",
-      "away": "Heart of Midlothian",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3fb51ab31edc0d17",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:45PM",
-      "home": "Denmark (V)",
-      "away": "Algeria (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9caf3da6714dbed3",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:45PM",
-      "home": "Italy (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c7544a7e14cf1ece",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:45PM",
-      "home": "Czech Republic (V)",
-      "away": "Netherlands (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1791bae47ec226b2",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:45PM",
-      "home": "England (V)",
-      "away": "Argentina (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "236b523d276321f4",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:45PM",
-      "home": "Everton (V)",
-      "away": "Manchester City (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "34e15cfdcc374856",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:45PM",
-      "home": "Leicester City (V)",
-      "away": "Arsenal (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a2a916d53b5363a0",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Saudi Arabia (V)",
-      "away": "New Zealand (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9336fe220560962d",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Denmark (V)",
-      "away": "Norway (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f8a258e7a6280311",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Poland (V)",
-      "away": "Belgium (V)",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "aefa4e70cfc69bf3",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Getafe CF (V)",
-      "away": "Borussia Dortmund (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8ae3445792661bda",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Olympique de Marseille (V)",
-      "away": "FSV Mainz 05 (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d2f208b6b04e63ec",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "England (V)",
-      "away": "Serbia (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d96991a9f4c46c06",
-      "league": "*GERMANY-BUNDESLIGA I",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Eintracht Frankfurt",
-      "away": "SC Freiburg",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d9db70887569b94b",
-      "league": "*GERMANY-BUNDESLIGA I",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Hamburger SV",
-      "away": "FC Koln",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d1d7b5bfd1cb27df",
-      "league": "AUSTRIA 2ND LEAGUE",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Sturm Graz II",
-      "away": "Wacker Innsbruck",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e38f80df2c0af1ee",
-      "league": "BULGARIA FIRST PROFESSIONAL LEAGUE",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "FC Septemvri Sofia",
-      "away": "Botev Plovdiv",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c22cf0bf46340d0d",
-      "league": "*GERMANY-BUNDESLIGA I",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Borussia Monchengladbach",
-      "away": "FSV Mainz 05",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        3,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "eb6110dc47947f82",
-      "league": "*GERMANY-BUNDESLIGA I",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Werder Bremen",
-      "away": "Augsburg",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b9ce5f589e10e79c",
-      "league": "*GERMANY-BUNDESLIGA I - OFFSIDE",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Hamburger SV No.of Offsides",
-      "away": "FC Koln No.of Offsides",
-      "ht": null,
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4da4497059ee1cfb",
-      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Borussia Monchengladbach",
-      "away": "FSV Mainz 05",
-      "ht": null,
-      "ft": [
-        160,
-        229
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e5d489365ab4716a",
-      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Eintracht Frankfurt",
-      "away": "SC Freiburg",
-      "ht": null,
-      "ft": [
-        46,
-        82
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "92fc6a22258887d4",
-      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Hamburger SV",
-      "away": "FC Koln",
-      "ht": null,
-      "ft": [
-        93,
-        90
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fc1707e365b530ac",
-      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Werder Bremen",
-      "away": "Augsburg",
-      "ht": null,
-      "ft": [
-        242,
-        76
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "99595a32b31dfa49",
-      "league": "AUSTRIA 2ND LEAGUE",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "ASK Voitsberg",
-      "away": "SV Austria Salzburg",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "32abcd22e9e294a6",
-      "league": "POLAND 1ST DIVISION",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Bruk-Bet Termalica Nieciecza",
-      "away": "Odra Opole",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bce7ea25ed813d6e",
-      "league": "POLAND 1ST DIVISION",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Pogon Grodzisk Mazowiecki",
-      "away": "LKS Lodz",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "055b52458ad99427",
-      "league": "POLAND 1ST DIVISION",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Polonia Warszawa",
-      "away": "MZKS Chrobry Glogow",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c9512935e73e6fe8",
-      "league": "UAE LEAGUE CUP",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Al Ittihad Kalba",
-      "away": "Khor Fakkan",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ce6cdb61671572af",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Blaublitz Akita",
-      "away": "Albirex Niigata",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3de94247944cd9b7",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "FC Imabari",
-      "away": "Shonan Bellmare",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "48755b5ed9d51f14",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Iwaki FC",
-      "away": "Vegalta Sendai",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2de83e2f2145a774",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Jubilo Iwata",
-      "away": "Vanraure Hachinohe FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cf4a5a55482b2494",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Kataller Toyama",
-      "away": "Yokohama FC",
-      "ht": [
-        1,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f4d7dd9d2a2cb9aa",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Montedio Yamagata",
-      "away": "Sagan Tosu",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cc9b02397f9ebdd2",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Oita Trinita",
-      "away": "Fujieda MYFC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "24f504aa456b0c08",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "RB Omiya Ardija",
-      "away": "Ventforet Kofu",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b1c3337d8805c3d4",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Tegevajaro Miyazaki",
-      "away": "Hokkaido Consadole Sapporo",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6004873705cfe79c",
-      "league": "JAPAN J-LEAGUE DIVISION 2",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Tokushima Vortis",
-      "away": "Tochigi City FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "581f355f12a0fae1",
-      "league": "JAPAN J-LEAGUE DIVISION 3",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Fukushima United FC",
-      "away": "AC Nagano Parceiro",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3dd2d16a3bff6d02",
-      "league": "JAPAN J-LEAGUE DIVISION 3",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Giravanz Kitakyushu",
-      "away": "Kagoshima United",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4eed7b7f69bed0ad",
-      "league": "JAPAN J-LEAGUE DIVISION 3",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Kamatamare Sanuki",
-      "away": "FC Gifu",
-      "ht": [
-        2,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3426fe7a8b3f5465",
-      "league": "JAPAN J-LEAGUE DIVISION 3",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Kochi United SC",
-      "away": "FC Osaka",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ee4c7970a0fc0d2e",
-      "league": "JAPAN J-LEAGUE DIVISION 3",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "FC Ryukyu",
-      "away": "Ehime FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "da7d66787acc8faa",
-      "league": "JAPAN J-LEAGUE DIVISION 3",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Thespakusatsu Gunma",
-      "away": "Roasso Kumamoto",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "eb915612a61276ce",
-      "league": "JAPAN J-LEAGUE DIVISION 3",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Tochigi SC",
-      "away": "Matsumoto Yamaga FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3f31349fb4742fd3",
-      "league": "HONG KONG LEAGUE CUP",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Eastern (N)",
-      "away": "Kitchee",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "689c9e9475822dd7",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "ACS Sepsi OSK Sfantu Gheorghe",
-      "away": "CS Gloria Bistrita",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "71429f5eed56cafa",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Steaua Bucuresti",
-      "away": "CS Stefanesti",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "41683a7115d5f414",
-      "league": "CZECH REPUBLIC U19 LEAGUE",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Hradec Kralove U19",
-      "away": "FK Dukla Praha U19",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "42eb8ae4ada89269",
-      "league": "SOUTH AFRICA RESERVE LEAGUE",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Siwelele FC (R)",
-      "away": "Sekhukhune United (R)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1755611d99a83a2d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "FC Imabari",
-      "away": "Hokkaido Consadole Sapporo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "92aa13f2f6937e10",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "FC Imabari",
-      "away": "Iwaki FC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "90fa5bdbb16a64fc",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "FC Imabari",
-      "away": "Vanraure Hachinohe FC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3d1bd2a1b77ebe4f",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "FC Imabari",
-      "away": "Ventforet Kofu",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "38deb2fbd50375e2",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Iwaki FC",
-      "away": "Hokkaido Consadole Sapporo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f43d8b94b8469dc9",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Iwaki FC",
-      "away": "Vanraure Hachinohe FC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "58ec8a72bbcc089d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Iwaki FC",
-      "away": "Ventforet Kofu",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "757ce2f95da0d330",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Jubilo Iwata",
-      "away": "Tegevajaro Miyazaki",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8551a5150e0a50cb",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Jubilo Iwata",
-      "away": "RB Omiya Ardija",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "98ca561f9c388d13",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "RB Omiya Ardija",
-      "away": "Tegevajaro Miyazaki",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2f108f747ad84852",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Shonan Bellmare",
-      "away": "RB Omiya Ardija",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "291a0955561e0a00",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Shonan Bellmare",
-      "away": "Jubilo Iwata",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b5e26c0b25440d5e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Shonan Bellmare",
-      "away": "Vegalta Sendai",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ae3f2b4ebe3f2397",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Shonan Bellmare",
-      "away": "Tegevajaro Miyazaki",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bd5987d99dbd42a6",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Vanraure Hachinohe FC",
-      "away": "Hokkaido Consadole Sapporo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f5356a1d61bb4d38",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Vanraure Hachinohe FC",
-      "away": "Ventforet Kofu",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ef5d28392cb4bdbd",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Vegalta Sendai",
-      "away": "Jubilo Iwata",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "746185ba4a34fe44",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Vegalta Sendai",
-      "away": "RB Omiya Ardija",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f18243c0d742cf2e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Vegalta Sendai",
-      "away": "Tegevajaro Miyazaki",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "259a5bb3e6b37f3f",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 26 2026 4:00PM",
-      "home": "Ventforet Kofu",
-      "away": "Hokkaido Consadole Sapporo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cd0dc5eca522b4cf",
-      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
-      "kickoff": "Sep 26 2026 4:15PM",
-      "home": "FK Horni Redice",
-      "away": "Teplice B",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8f0cfacee3870810",
       "league": "CZECH REPUBLIC 3RD DIVISION CFL",
       "kickoff": "Sep 26 2026 4:15PM",
@@ -51369,7 +50842,10 @@
       "kickoff": "Sep 26 2026 5:00PM",
       "home": "FK Chelyabinsk",
       "away": "Yenisey Krasnoyarsk",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51430,6 +50906,17 @@
       "kickoff": "Sep 26 2026 5:30PM",
       "home": "Paide Linnameeskond (w)",
       "away": "FC Elva (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0a7b8377580bfc01",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "Tianjin Jinmen Tiger U20",
+      "away": "Shaanxi Union U20",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51645,6 +51132,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "65b53f8ca37e96ba",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 26 2026 6:30PM",
+      "home": "Helges IF",
+      "away": "FC Gute",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "f5d20c3077508c95",
       "league": "ITALY WOMEN SERIE A",
       "kickoff": "Sep 26 2026 6:30PM",
@@ -51749,6 +51247,39 @@
       "kickoff": "Sep 26 2026 7:00PM",
       "home": "PuiU",
       "away": "Union Plaani",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5288622873a3169",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "Jonsereds IF",
+      "away": "Hestrafors IF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cde8e46d3aa3d43f",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "Viggbyholms IK FF",
+      "away": "Korsnas IF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "10c92c5ba9ab1215",
+      "league": "SWEDEN 2ND DIVISION (PLAY OFF)",
+      "kickoff": "Sep 26 2026 7:00PM",
+      "home": "IFK Umea",
+      "away": "Umea FF",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51892,6 +51423,17 @@
       "kickoff": "Sep 26 2026 8:00PM",
       "home": "EIF Ekenas",
       "away": "SJK Akatemia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "67ef9fa1165469af",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 26 2026 8:00PM",
+      "home": "Fittja IF",
+      "away": "Nacka FC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52145,6 +51687,17 @@
       "kickoff": "Sep 26 2026 8:30PM",
       "home": "US Pergolettese",
       "away": "AC Trento",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "717b8922c1b6d247",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Sep 26 2026 8:30PM",
+      "home": "Ankaraspor",
+      "away": "Somaspor",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -54032,6 +53585,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "19cd26d4209a8e2c",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Sep 26 2026 11:00PM",
+      "home": "MuSa",
+      "away": "NJS Nurmijarven",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "febde4621a1b126f",
       "league": "FINLAND YKKONEN (PLAY OFF)",
       "kickoff": "Sep 26 2026 11:15PM",
@@ -54257,6 +53821,17 @@
       "kickoff": "Sep 27 2026 12:00AM",
       "home": "UTS Rabat",
       "away": "FUS Rabat",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7b2c5b194f44d6f8",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Sep 27 2026 12:00AM",
+      "home": "EBK Espoo",
+      "away": "GrIFK Grankulla",
       "ht": null,
       "ft": null,
       "status": "Running",
