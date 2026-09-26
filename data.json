@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T21:08:38+00:00",
+  "updated_at": "2026-09-26T21:25:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3084,
+  "count": 3081,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "0002a5e6f8b2fede",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 27 2026 3:30AM",
+      "home": "Real Frontera FC",
+      "away": "Yaracuyanos FC",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6874233f752c7ee7",
       "league": "SCOTLAND CHALLENGE CUP",
@@ -154,6 +171,23 @@
       "ft": [
         3,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cea7bd6435b158da",
+      "league": "ARGENTINA SUPERCOPA INTERNACIONAL",
+      "kickoff": "Sep 27 2026 3:00AM",
+      "home": "Estudiantes La Plata (N)",
+      "away": "Rosario Central",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50759,71 +50793,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "8a1d9e0819710f59",
-      "league": "URUGUAY SEGUNDA DIVISION",
-      "kickoff": "Sep 20 2026 3:00AM",
-      "home": "Plaza Colonia",
-      "away": "Paysandu FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "19851786d7c9dfd0",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 3:00AM",
-      "home": "Atletico Mineiro",
-      "away": "Mirassol SP",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
       "home": "Lokomotiv Moscow (N)",
       "away": "Arsenal Tula",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a7d994d0f1526599",
-      "league": "BELGIUM CUP",
-      "kickoff": "Sep 27 2026 3:00AM",
-      "home": "LDP Donza",
-      "away": "BBC Falco Gent",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cea7bd6435b158da",
-      "league": "ARGENTINA SUPERCOPA INTERNACIONAL",
-      "kickoff": "Sep 27 2026 3:00AM",
-      "home": "Estudiantes La Plata (N)",
-      "away": "Rosario Central",
-      "ht": [
-        1,
-        2
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50890,20 +50865,6 @@
       "ht": [
         1,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0002a5e6f8b2fede",
-      "league": "VENEZUELA SEGUNDA DIVISION",
-      "kickoff": "Sep 27 2026 3:30AM",
-      "home": "Real Frontera FC",
-      "away": "Yaracuyanos FC",
-      "ht": [
-        0,
-        2
       ],
       "ft": null,
       "status": "Running",
@@ -51063,7 +51024,10 @@
       "kickoff": "Sep 27 2026 4:30AM",
       "home": "Atletico Nacional",
       "away": "Chapecoense SC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51074,7 +51038,10 @@
       "kickoff": "Sep 27 2026 4:30AM",
       "home": "Nublense",
       "away": "Deportes Puerto Montt",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
