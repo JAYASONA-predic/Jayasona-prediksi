@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T07:38:12+00:00",
+  "updated_at": "2026-09-26T07:51:05+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3406,
+  "count": 3413,
   "archive_count": 3000,
   "matches": [
     {
@@ -50754,7 +50754,10 @@
       "kickoff": "Sep 26 2026 3:00PM",
       "home": "Papua New Guinea (w)",
       "away": "Vanuatu (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51227,6 +51230,83 @@
       "kickoff": "Sep 26 2026 4:00PM",
       "home": "Ventforet Kofu",
       "away": "Hokkaido Consadole Sapporo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cd0dc5eca522b4cf",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "FK Horni Redice",
+      "away": "Teplice B",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8f0cfacee3870810",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "FK Loko Praha",
+      "away": "Kraluv Dvur",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f7f86e6cd49b6ff5",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "MFK Chrudim",
+      "away": "FK Pardubice B",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2f3f8adc2bd916ee",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 4:15PM",
+      "home": "Povltavska FA",
+      "away": "FK Motorlet Praha",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ab256112ca01a2ff",
+      "league": "INDONESIA CHAMPIONSHIP",
+      "kickoff": "Sep 26 2026 4:30PM",
+      "home": "Kendal Tornado FC",
+      "away": "PS Barito Putera",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "602201d0aa2fb0de",
+      "league": "INDONESIA CHAMPIONSHIP",
+      "kickoff": "Sep 26 2026 4:30PM",
+      "home": "PSGC Ciamis",
+      "away": "Semen Padang",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d01f5ace1aa3dfc9",
+      "league": "INDONESIA CHAMPIONSHIP",
+      "kickoff": "Sep 26 2026 4:30PM",
+      "home": "Sumsel United FC",
+      "away": "PSPS Pekanbaru",
       "ht": null,
       "ft": null,
       "status": "Running",
