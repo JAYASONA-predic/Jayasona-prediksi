@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T04:40:30+00:00",
+  "updated_at": "2026-09-26T04:52:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3270,
+  "count": 3275,
   "archive_count": 3000,
   "matches": [
     {
@@ -50682,12 +50682,29 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "dab481c766a10bbc",
+      "league": "NEW ZEALAND NATIONAL LEAGUE CHAMPIONSHIP",
+      "kickoff": "Sep 26 2026 11:30AM",
+      "home": "Ferrymead Bays",
+      "away": "Eastern Suburbs AFC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a80f2e55e5b48c6c",
       "league": "JAPAN J-LEAGUE DIVISION 3",
       "kickoff": "Sep 26 2026 12:00PM",
       "home": "Zweigen Kanazawa",
       "away": "Gainare Tottori",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50698,7 +50715,10 @@
       "kickoff": "Sep 26 2026 12:00PM",
       "home": "Nittaidai SMG Yokohama (w)",
       "away": "Yokohama FC Seagulls (w)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50709,7 +50729,10 @@
       "kickoff": "Sep 26 2026 12:00PM",
       "home": "Diosa Izumo FC (w)",
       "away": "OSA Rhea Shonan FC (w)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50731,7 +50754,10 @@
       "kickoff": "Sep 26 2026 12:00PM",
       "home": "New Caledonia (w)",
       "away": "Solomon Islands (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51039,6 +51065,17 @@
       "kickoff": "Sep 26 2026 4:00PM",
       "home": "Tochigi SC",
       "away": "Matsumoto Yamaga FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3de5cad8f709cf17",
+      "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
+      "kickoff": "Sep 26 2026 5:00PM",
+      "home": "Pakistan",
+      "away": "Thailand",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51930,6 +51967,39 @@
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "Limavady United",
       "away": "Cliftonville",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4d3739edb8ce7146",
+      "league": "CROATIA FIRST LEAGUE",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "NK Dubrava Zagreb (N)",
+      "away": "BSK Bijelo Brdo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4368273510389903",
+      "league": "CROATIA FIRST LEAGUE",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "NK Hrvace",
+      "away": "HNK Orijent 1919",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4a80287aeee4972c",
+      "league": "CROATIA FIRST LEAGUE",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "NK Jadran Luka Ploce",
+      "away": "NK Kustosija Zagreb",
       "ht": null,
       "ft": null,
       "status": "Running",
