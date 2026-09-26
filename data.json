@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T06:31:56+00:00",
+  "updated_at": "2026-09-26T06:54:14+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3396,
+  "count": 3398,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ec43e938f7d02979",
+      "league": "JAPAN WOMEN FOOTBALL DIVISION 1",
+      "kickoff": "Sep 26 2026 1:00PM",
+      "home": "VONDS Ichihara (w)",
+      "away": "Sfida Setagaya FC (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "24d511d651995616",
+      "league": "JAPAN WOMEN FOOTBALL DIVISION 2",
+      "kickoff": "Sep 26 2026 1:00PM",
+      "home": "Bunnys Gunma FC White Star (w)",
+      "away": "JFA Academy Fukushima (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "385fe7e6afbf218d",
+      "league": "JAPAN WOMEN FOOTBALL DIVISION 2",
+      "kickoff": "Sep 26 2026 1:00PM",
+      "home": "Nankatsu SC (w)",
+      "away": "Veertien Mie FC (w)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "a80f2e55e5b48c6c",
       "league": "JAPAN J-LEAGUE DIVISION 3",
@@ -50631,57 +50682,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b52334a8dfb5b8cb",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 19 2026 9:30PM",
-      "home": "Werder Bremen",
-      "away": "VfB Stuttgart",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7ddf2a2aa93132c3",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:15PM",
-      "home": "Egypt (V)",
-      "away": "Qatar (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "227e2f1776901d4a",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 19 2026 9:15PM",
-      "home": "Indonesia (V)",
-      "away": "Jordan (V)",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "c849956cd877da07",
       "league": "JAPAN J-LEAGUE DIVISION 3",
       "kickoff": "Sep 26 2026 1:00PM",
@@ -50710,48 +50710,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ec43e938f7d02979",
-      "league": "JAPAN WOMEN FOOTBALL DIVISION 1",
-      "kickoff": "Sep 26 2026 1:00PM",
-      "home": "VONDS Ichihara (w)",
-      "away": "Sfida Setagaya FC (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "24d511d651995616",
-      "league": "JAPAN WOMEN FOOTBALL DIVISION 2",
-      "kickoff": "Sep 26 2026 1:00PM",
-      "home": "Bunnys Gunma FC White Star (w)",
-      "away": "JFA Academy Fukushima (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "385fe7e6afbf218d",
-      "league": "JAPAN WOMEN FOOTBALL DIVISION 2",
-      "kickoff": "Sep 26 2026 1:00PM",
-      "home": "Nankatsu SC (w)",
-      "away": "Veertien Mie FC (w)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "79b612e569747e0e",
       "league": "JAPAN FOOTBALL LEAGUE",
       "kickoff": "Sep 26 2026 1:30PM",
@@ -50771,7 +50729,10 @@
       "kickoff": "Sep 26 2026 2:00PM",
       "home": "China U23",
       "away": "Thailand U23",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50793,7 +50754,10 @@
       "kickoff": "Sep 26 2026 2:00PM",
       "home": "Nara Club",
       "away": "Reilac Shiga FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50804,6 +50768,20 @@
       "kickoff": "Sep 26 2026 2:00PM",
       "home": "Minebea Mitsumi FC",
       "away": "Veertien Mie FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1ba8cb95c104e413",
+      "league": "AUSTRALIA NORTHERN TERRITORY WOMENS PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 26 2026 2:30PM",
+      "home": "Azzurri United FC (w)",
+      "away": "Port Darwin (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51481,6 +51459,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "73b0e429d9a12a9e",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "VSK Aarhus",
+      "away": "Skive IK",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "7652188ef7d04222",
       "league": "SPAIN SEGUNDA DIVISION",
       "kickoff": "Sep 26 2026 8:00PM",
@@ -51497,6 +51486,28 @@
       "kickoff": "Sep 26 2026 8:00PM",
       "home": "EIF Ekenas",
       "away": "SJK Akatemia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b07a97b6150a352f",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Sep 26 2026 8:00PM",
+      "home": "Brabrand",
+      "away": "Nykobing FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6f0b59f5d6655f09",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Sep 26 2026 8:00PM",
+      "home": "FA 2000",
+      "away": "Fremad Amager",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51728,6 +51739,17 @@
       "kickoff": "Sep 26 2026 9:00PM",
       "home": "FC Samtredia",
       "away": "FC Rustavi",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "93b99a93090f5baf",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Sep 26 2026 9:00PM",
+      "home": "B.93",
+      "away": "Thisted FC",
       "ht": null,
       "ft": null,
       "status": "Running",
