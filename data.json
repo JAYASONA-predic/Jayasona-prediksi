@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T17:38:49+00:00",
+  "updated_at": "2026-09-26T17:51:18+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3221,
+  "count": 3224,
   "archive_count": 3000,
   "matches": [
     {
@@ -205,6 +205,23 @@
       "ft": [
         1,
         4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3f4cc9003ccafd8b",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 26 2026 11:30PM",
+      "home": "Cordoba CF B",
+      "away": "Dos Hermanas CF",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50755,23 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4a385893e89b38ce",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 12:30AM",
-      "home": "Olympique de Marseille (V)",
-      "away": "Lazio (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -50968,20 +50968,6 @@
       "home": "Granada CF",
       "away": "Tenerife",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3f4cc9003ccafd8b",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 26 2026 11:30PM",
-      "home": "Cordoba CF B",
-      "away": "Dos Hermanas CF",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51860,7 +51846,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "Malta U21",
       "away": "Northern Ireland U21",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51871,7 +51860,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "Barcelona B",
       "away": "Pena Sport",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51893,7 +51885,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "CE Manresa",
       "away": "UD Logrones B",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51904,7 +51899,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "AD Cala Pozuelo",
       "away": "Leganes B",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51915,7 +51913,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "Atletico Malagueno",
       "away": "CD Atletico de Marbella Paraiso",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51926,7 +51927,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "SD Sarriana",
       "away": "Gran Pena",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51937,7 +51941,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "NK Tabor Sezana",
       "away": "NK Bistrica",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51948,7 +51955,10 @@
       "kickoff": "Sep 27 2026 1:00AM",
       "home": "Zaragoza CFF (w)",
       "away": "Atletico Balears FC (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52256,6 +52266,50 @@
       "kickoff": "Sep 27 2026 2:00AM",
       "home": "Yupanqui",
       "away": "CA General Lamadrid",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "389b6dd513970cde",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 27 2026 2:00AM",
+      "home": "Ferroviaria SP U20",
+      "away": "AA Flamengo SP U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1f100bda76040fbe",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 27 2026 2:00AM",
+      "home": "Gremio Osasco Audax SP U20",
+      "away": "Botafogo SP U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b4f5e15ecb31c2b8",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 27 2026 2:00AM",
+      "home": "Ibrachina FC SP U20",
+      "away": "SC Paulinense SP U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "697db4e1392c8c32",
+      "league": "BRAZIL CAMPEONATO PAULISTA U20",
+      "kickoff": "Sep 27 2026 2:00AM",
+      "home": "ABA Araraquara U20",
+      "away": "F.R. Marilia U20",
       "ht": null,
       "ft": null,
       "status": "Running",
