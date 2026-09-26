@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T19:23:18+00:00",
+  "updated_at": "2026-09-26T19:36:30+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3170,
+  "count": 3172,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ea6a0344a6f94c0b",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 1:30AM",
+      "home": "Caudal Deportivo",
+      "away": "L Entregu CF",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aa42d9c3f2fff8ff",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 27 2026 1:17AM",
+      "home": "HNK Rijeka",
+      "away": "Union Berlin",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "7414c7a7f87db346",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
@@ -50732,40 +50766,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4f8b90ffbd15fdaf",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 1:45AM",
-      "home": "Slovakia (V)",
-      "away": "Norway (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "519298caab52bc27",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 1:45AM",
-      "home": "Arminia Bielefeld (V)",
-      "away": "Chelsea (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -51102,34 +51102,6 @@
       "home": "Slovakia",
       "away": "Tenerife",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "aa42d9c3f2fff8ff",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 27 2026 1:17AM",
-      "home": "HNK Rijeka",
-      "away": "Union Berlin",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ea6a0344a6f94c0b",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 27 2026 1:30AM",
-      "home": "Caudal Deportivo",
-      "away": "L Entregu CF",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51649,7 +51621,10 @@
       "kickoff": "Sep 27 2026 2:30AM",
       "home": "Cittadella",
       "away": "Lecco",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51660,7 +51635,10 @@
       "kickoff": "Sep 27 2026 2:30AM",
       "home": "Sambenedettese",
       "away": "Campobasso",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51671,7 +51649,10 @@
       "kickoff": "Sep 27 2026 2:30AM",
       "home": "Almirante Brown",
       "away": "CA Acassuso",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51724,7 +51705,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "Czech Republic",
       "away": "Croatia",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51735,7 +51719,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "England",
       "away": "Spain",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51746,7 +51733,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "North Macedonia",
       "away": "Switzerland",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51768,7 +51758,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "Slovakia",
       "away": "Moldova",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51801,7 +51794,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "Paris 13 Atletico",
       "away": "SC Bastia",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51823,7 +51819,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "US Quevilly",
       "away": "Amiens",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51834,7 +51833,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "US Thionville Lusitanos",
       "away": "VFC La Roche-sur-Yon",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51845,7 +51847,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "Valenciennes",
       "away": "Le Puy Foot 43 Auvergne",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51856,7 +51861,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "Villefranche",
       "away": "FC Versailles 78",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52082,6 +52090,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "961029177975a578",
+      "league": "BRAZIL SANTA CATARINA CUP",
+      "kickoff": "Sep 27 2026 4:00AM",
+      "home": "Blumenau SC (n)",
+      "away": "Marcilio Dias SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "cbaa8771abe5d26b",
       "league": "CHILE SEGUNDA DIVISION (PLAY OFF)",
       "kickoff": "Sep 27 2026 4:00AM",
@@ -52115,11 +52134,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c1757033d7c6c77b",
+      "league": "BRAZIL COPA PAULISTA",
+      "kickoff": "Sep 27 2026 4:00AM",
+      "home": "Gremio Prudente SP",
+      "away": "Uniao Sao Joao SP",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "166a353876525282",
       "league": "CANADIAN PREMIER LEAGUE",
       "kickoff": "Sep 27 2026 4:00AM",
       "home": "HFX Wanderers FC",
       "away": "Atletico Ottawa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "03fe529617c55291",
+      "league": "COSTA RICA LIGA DE ASCENSO",
+      "kickoff": "Sep 27 2026 4:00AM",
+      "home": "FC Moravia FCM",
+      "away": "AD Aserri",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52516,6 +52557,17 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "Universitario de Vinto (N)",
       "away": "Oriente Petrolero",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0b7f39a10b0a0f4",
+      "league": "GUATEMALA LIGA NATIONAL",
+      "kickoff": "Sep 27 2026 8:00AM",
+      "home": "Marquense",
+      "away": "Malacateco",
       "ht": null,
       "ft": null,
       "status": "Running",
