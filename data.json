@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T20:08:23+00:00",
+  "updated_at": "2026-09-26T20:24:50+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3126,
+  "count": 3125,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9fb5be42fe895b2b",
+      "league": "IRELAND 1ST DIVISION",
+      "kickoff": "Sep 27 2026 2:30AM",
+      "home": "Longford Town",
+      "away": "Cork City",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6132fbe2584e9d61",
       "league": "MEXICO WOMEN PRIMERA DIVISION",
@@ -50752,23 +50769,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "30150f5b27c09753",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 20 2026 2:30AM",
-      "home": "CA San Telmo",
-      "away": "CA Estudiantes De Caseros",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -50940,20 +50940,6 @@
       "home": "ABA Araraquara U20",
       "away": "F.R. Marilia U20",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9fb5be42fe895b2b",
-      "league": "IRELAND 1ST DIVISION",
-      "kickoff": "Sep 27 2026 2:30AM",
-      "home": "Longford Town",
-      "away": "Cork City",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51417,7 +51403,10 @@
       "kickoff": "Sep 27 2026 3:30AM",
       "home": "Operario Ferroviario EC",
       "away": "Ceara CE",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51428,7 +51417,10 @@
       "kickoff": "Sep 27 2026 3:30AM",
       "home": "Rubio Nu",
       "away": "2 de Mayo",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51439,7 +51431,10 @@
       "kickoff": "Sep 27 2026 3:30AM",
       "home": "Corinthians SP (w)",
       "away": "Sao Paulo SP (w)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51450,7 +51445,10 @@
       "kickoff": "Sep 27 2026 3:30AM",
       "home": "Real Frontera FC",
       "away": "Yaracuyanos FC",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51461,7 +51459,10 @@
       "kickoff": "Sep 27 2026 3:30AM",
       "home": "Zamora FC B",
       "away": "Atletico Barinas",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
