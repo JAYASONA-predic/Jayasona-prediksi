@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T09:08:47+00:00",
+  "updated_at": "2026-09-26T09:25:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3441,
+  "count": 3445,
   "archive_count": 3000,
   "matches": [
     {
@@ -51288,7 +51288,10 @@
       "kickoff": "Sep 26 2026 4:30PM",
       "home": "Kendal Tornado FC",
       "away": "PS Barito Putera",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51299,7 +51302,10 @@
       "kickoff": "Sep 26 2026 4:30PM",
       "home": "PSGC Ciamis",
       "away": "Semen Padang",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51310,7 +51316,10 @@
       "kickoff": "Sep 26 2026 4:30PM",
       "home": "Sumsel United FC",
       "away": "PSPS Pekanbaru",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51415,6 +51424,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "1d8b3e9e8a47bd56",
+      "league": "ESTONIA NAISTE MEISTRILIIGA",
+      "kickoff": "Sep 26 2026 5:30PM",
+      "home": "Paide Linnameeskond (w)",
+      "away": "FC Elva (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "bfe5e2a600f942e8",
       "league": "INTERNATIONAL FRIENDLY U20",
       "kickoff": "Sep 26 2026 6:00PM",
@@ -51475,6 +51495,39 @@
       "kickoff": "Sep 26 2026 6:00PM",
       "home": "Villarreal CF C",
       "away": "Atletico Levante UD",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ac071961f7874e27",
+      "league": "DENMARK SERIES",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "Glostrup FK",
+      "away": "Nerashte Ballerup",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "56d7f7ea8fdf7f40",
+      "league": "DENMARK SERIES",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "Holstebro BK II",
+      "away": "Viby IF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d253987391d4759a",
+      "league": "DENMARK SERIES",
+      "kickoff": "Sep 26 2026 6:00PM",
+      "home": "Kolding Boldklub",
+      "away": "Odder IGF",
       "ht": null,
       "ft": null,
       "status": "Running",
