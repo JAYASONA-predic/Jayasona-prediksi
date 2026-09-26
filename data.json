@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T13:23:59+00:00",
+  "updated_at": "2026-09-26T13:38:02+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3417,
+  "count": 3422,
   "archive_count": 3000,
   "matches": [
     {
@@ -47,6 +47,57 @@
       "away": "FC Minsk 2",
       "ht": [
         1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a7e4475317dc7003",
+      "league": "RUSSIA FIRST LEAGUE",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "Spartak Kostroma",
+      "away": "Ural Sverdlovsk Oblast",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "73b0e429d9a12a9e",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "VSK Aarhus",
+      "away": "Skive IK",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5c2431b8711fe2e4",
+      "league": "BELGIUM WOMEN SUPER LEAGUE",
+      "kickoff": "Sep 26 2026 7:30PM",
+      "home": "RSC Anderlecht (w)",
+      "away": "RAAL La Louviere (w)",
+      "ht": [
+        0,
         0
       ],
       "ft": [
@@ -50658,57 +50709,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "acdebf998ec1e8f6",
-      "league": "ICELAND PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "KR Reykjavik",
-      "away": "Vikingur Reykjavik",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "526d9188bb8e0ba1",
-      "league": "FINLAND YKKOSLIIGA",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "PK-35",
-      "away": "FC KTP",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d85022a32ced1e22",
-      "league": "NORWAY 1ST DIVISION",
-      "kickoff": "Sep 19 2026 10:00PM",
-      "home": "Asane Fotball",
-      "away": "Bryne",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cd2fbccd6441814c",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Sep 26 2026 5:00PM",
@@ -50781,48 +50781,6 @@
       "home": "North Korea U23",
       "away": "PK-35",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a7e4475317dc7003",
-      "league": "RUSSIA FIRST LEAGUE",
-      "kickoff": "Sep 26 2026 7:30PM",
-      "home": "Spartak Kostroma",
-      "away": "Ural Sverdlovsk Oblast",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "73b0e429d9a12a9e",
-      "league": "DENMARK 2ND DIVISION",
-      "kickoff": "Sep 26 2026 7:30PM",
-      "home": "VSK Aarhus",
-      "away": "Skive IK",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5c2431b8711fe2e4",
-      "league": "BELGIUM WOMEN SUPER LEAGUE",
-      "kickoff": "Sep 26 2026 7:30PM",
-      "home": "RSC Anderlecht (w)",
-      "away": "RAAL La Louviere (w)",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52429,6 +52387,39 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "27a2730fb5fc90c3",
+      "league": "CROATIA SECOND LEAGUE",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "NK Bjelovar",
+      "away": "NK Varteks Varazdin",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "09461c20b062cbfa",
+      "league": "CROATIA SECOND LEAGUE",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "NK Dugo Selo",
+      "away": "NK Inker Zapresic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ddf1a3ec18728eac",
+      "league": "CROATIA SECOND LEAGUE",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "NK Lucko",
+      "away": "NK Zagora Unesic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "f29124ac910c4099",
       "league": "ENGLISH NATIONAL LEAGUE NORTH",
       "kickoff": "Sep 26 2026 10:00PM",
@@ -52715,11 +52706,66 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c33d84c742337312",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "Skiljebo SK",
+      "away": "Taby FK",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f1ddc2278fefeef0",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "FK Neratovice Byskovice",
+      "away": "FK Caslav",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c34b2602c86b77ed",
+      "league": "GERMANY WOMEN FOOTBALL CUP",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "VfL Bochum (w)",
+      "away": "Werder Bremen (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "374d1bb2616b5abf",
       "league": "SWEDEN WOMEN DAMALLSVENSKAN",
       "kickoff": "Sep 26 2026 10:00PM",
       "home": "IFK Norrkoping (w)",
       "away": "BK Hacken FF (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0c4815c341e21430",
+      "league": "AUSTRIA REGIONAL LEAGUE EAST",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "SV Donau",
+      "away": "Wiener SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5753246af64372bd",
+      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 26 2026 10:00PM",
+      "home": "IBV Vestmannaeyjar (w)",
+      "away": "Breidablik (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
