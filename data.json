@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-26T19:36:30+00:00",
+  "updated_at": "2026-09-26T19:50:01+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3172,
+  "count": 3171,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "55c083549260872f",
+      "league": "BELGIUM CUP",
+      "kickoff": "Sep 27 2026 2:00AM",
+      "home": "KSC Lokeren",
+      "away": "KFC Houtvenne",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e9b2f2eb7a697421",
+      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B1",
+      "kickoff": "Sep 27 2026 1:45AM",
+      "home": "EC Nova Cidade RJ",
+      "away": "Goytacaz RJ",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ea6a0344a6f94c0b",
       "league": "SPAIN TERCERA FEDERACION",
@@ -50732,40 +50766,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e3d43ce9657c9c61",
-      "league": "ARGENTINA PRIMERA C",
-      "kickoff": "Sep 20 2026 2:00AM",
-      "home": "Juventud Unida San Miguel",
-      "away": "Centro Espanol",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0d9b6f6348e3d2fc",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 1:45AM",
-      "home": "Belgium (V)",
-      "away": "France (V)",
-      "ht": [
-        4,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
@@ -51107,20 +51107,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e9b2f2eb7a697421",
-      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B1",
-      "kickoff": "Sep 27 2026 1:45AM",
-      "home": "EC Nova Cidade RJ",
-      "away": "Goytacaz RJ",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "324a11389968693d",
       "league": "NETHERLANDS EERSTE DIVISIE",
       "kickoff": "Sep 27 2026 2:00AM",
@@ -51198,20 +51184,6 @@
       "away": "Oman",
       "ht": [
         3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "55c083549260872f",
-      "league": "BELGIUM CUP",
-      "kickoff": "Sep 27 2026 2:00AM",
-      "home": "KSC Lokeren",
-      "away": "KFC Houtvenne",
-      "ht": [
-        2,
         0
       ],
       "ft": null,
@@ -51747,7 +51719,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "Albania",
       "away": "Belarus",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51772,7 +51747,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "Bourg en Bresse Peronnas 01",
       "away": "US Concarneau",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51783,7 +51761,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "FC Fleury 91",
       "away": "SC Aubagne Air Bel",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51808,7 +51789,10 @@
       "kickoff": "Sep 27 2026 2:45AM",
       "home": "US Orleans",
       "away": "AS Cannes",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51875,7 +51859,10 @@
       "kickoff": "Sep 27 2026 3:00AM",
       "home": "Queen of South",
       "away": "Rangers FC B",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51930,7 +51917,10 @@
       "kickoff": "Sep 27 2026 3:00AM",
       "home": "Montserrat (N)",
       "away": "British Virgin Islands",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51941,7 +51931,10 @@
       "kickoff": "Sep 27 2026 3:00AM",
       "home": "CA All Boys",
       "away": "Colon de Santa Fe",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51952,7 +51945,10 @@
       "kickoff": "Sep 27 2026 3:00AM",
       "home": "Club Ciudad de Bolivar",
       "away": "Chaco For Ever",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51974,7 +51970,10 @@
       "kickoff": "Sep 27 2026 3:00AM",
       "home": "Santiago City (N)",
       "away": "Brujas de Salamanca",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51985,7 +51984,10 @@
       "kickoff": "Sep 27 2026 3:00AM",
       "home": "Tigres FC",
       "away": "CD Real Santander",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52678,6 +52680,17 @@
       "kickoff": "Sep 27 2026 9:00AM",
       "home": "New Mexico United",
       "away": "Sacramento Republic FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ced21812f2688aa5",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 27 2026 9:06AM",
+      "home": "FC Juarez (w)",
+      "away": "Tijuana (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
