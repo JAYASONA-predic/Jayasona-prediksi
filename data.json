@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T00:55:39+00:00",
+  "updated_at": "2026-09-27T01:09:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3051,
+  "count": 3041,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "St Louis City SC",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "96f090a1af616ea7",
+      "league": "MEXICO PRIMERA DIVISION",
+      "kickoff": "Sep 27 2026 7:07AM",
+      "home": "Guadalajara Chivas",
+      "away": "Queretaro",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -29,6 +46,159 @@
       "ft": [
         4,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6fdbfa902f40a262",
+      "league": "CHILE CUP",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "CD Universidad Catolica",
+      "away": "Union La Calera",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "70e6721207d40f2a",
+      "league": "CONCACAF NATIONS LEAGUE C",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Antigua And Barbuda",
+      "away": "Anguilla",
+      "ht": [
+        5,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "31c3abe98526508c",
+      "league": "ARGENTINA PRIMERA B NACIONAL",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "CA Colegiales",
+      "away": "Chacarita Juniors",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3b4f62497f38d786",
+      "league": "MEXICO LIGA DE EXPANSION",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Venados FC",
+      "away": "Atletico Morelia",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ef8b6d70d40a1604",
+      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Charleston Battery",
+      "away": "Rhode Island FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "59713ff5a5d45d3b",
+      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Detroit City",
+      "away": "Colorado Springs Switchbacks FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3861caa695ea0b60",
+      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Indy Eleven",
+      "away": "Miami FC",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e24cba2062e5c284",
+      "league": "UNITED SOCCER LEAGUE ONE",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "FC Naples",
+      "away": "Chattanooga Red Wolves",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "52df198d8bf1e0d6",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Pachuca (w)",
+      "away": "Santos Laguna (w)",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        4,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50629,293 +50799,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a6a0039685562ea1",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "FSV Mainz 05 (V)",
-      "away": "Arminia Bielefeld (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0ce55e0885e1503c",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Olympique de Marseille (V)",
-      "away": "Udinese (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "722db8a732b52551",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Algeria (V)",
-      "away": "Wales (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fc660ed1f718521e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Slovenia (V)",
-      "away": "USA (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0b5caca32a11e3d5",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Chelsea (V)",
-      "away": "Getafe CF (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9e9a918cd0438cda",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Leicester City (V)",
-      "away": "AS Roma (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "38392b9710e5cb29",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Napoli (V)",
-      "away": "AS Monaco (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cb168fd847a5c6e3",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Borussia Dortmund (V)",
-      "away": "Inter Milan (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "638e36cb35a44d69",
-      "league": "BRAZIL SERIE A",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Mirassol SP",
-      "away": "Botafogo RJ",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "56b8ef244825e61f",
-      "league": "BRAZIL SANTA CATARINA CUP",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Blumenau SC",
-      "away": "Metropolitano SC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "686ad6fe0a0a7bd4",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 27 2026 7:00AM",
       "home": "Canada",
       "away": "Chile",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6fdbfa902f40a262",
-      "league": "CHILE CUP",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "CD Universidad Catolica",
-      "away": "Union La Calera",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "70e6721207d40f2a",
-      "league": "CONCACAF NATIONS LEAGUE C",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "Antigua And Barbuda",
-      "away": "Anguilla",
-      "ht": [
-        5,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "31c3abe98526508c",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "CA Colegiales",
-      "away": "Chacarita Juniors",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3b4f62497f38d786",
-      "league": "MEXICO LIGA DE EXPANSION",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "Venados FC",
-      "away": "Atletico Morelia",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ef8b6d70d40a1604",
-      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "Charleston Battery",
-      "away": "Rhode Island FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "59713ff5a5d45d3b",
-      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "Detroit City",
-      "away": "Colorado Springs Switchbacks FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3861caa695ea0b60",
-      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "Indy Eleven",
-      "away": "Miami FC",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e24cba2062e5c284",
-      "league": "UNITED SOCCER LEAGUE ONE",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "FC Naples",
-      "away": "Chattanooga Red Wolves",
       "ht": [
         1,
         0
@@ -50953,20 +50841,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "52df198d8bf1e0d6",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "Pachuca (w)",
-      "away": "Santos Laguna (w)",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3677cb74bd09e745",
       "league": "USA WOMEN SUPER LEAGUE",
       "kickoff": "Sep 27 2026 7:00AM",
@@ -50974,20 +50848,6 @@
       "away": "Sporting JAX (w)",
       "ht": [
         1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "96f090a1af616ea7",
-      "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 27 2026 7:07AM",
-      "home": "Guadalajara Chivas",
-      "away": "Queretaro",
-      "ht": [
-        0,
         1
       ],
       "ft": null,
@@ -51070,7 +50930,10 @@
       "kickoff": "Sep 27 2026 7:30AM",
       "home": "Napier City Rovers",
       "away": "Miramar Rangers",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51151,7 +51014,10 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "Halcones Negros FC",
       "away": "Club Calor",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
