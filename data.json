@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T02:41:22+00:00",
+  "updated_at": "2026-09-27T02:53:24+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3018,
+  "count": 3017,
   "archive_count": 3000,
   "matches": [
     {
@@ -120,6 +120,23 @@
       "ft": [
         2,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "abea9a1570e3f898",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 27 2026 8:30AM",
+      "home": "Austin FC",
+      "away": "San Diego FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        3,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50782,37 +50799,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "be2a0f679fad09e6",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:00AM",
-      "home": "Chelsea (V)",
-      "away": "Everton (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "abea9a1570e3f898",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 27 2026 8:30AM",
-      "home": "Austin FC",
-      "away": "San Diego FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "46955e56f000eb0e",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 27 2026 9:00AM",
@@ -50930,7 +50916,10 @@
       "kickoff": "Sep 27 2026 10:00AM",
       "home": "Sint Maarten (N)",
       "away": "Belize",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
