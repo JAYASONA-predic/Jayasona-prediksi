@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T16:26:27+00:00",
+  "updated_at": "2026-09-27T16:41:05+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3167,
   "archive_count": 3000,
@@ -35,6 +35,23 @@
       "ft": [
         3,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c12bdacc4c2a51c9",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 27 2026 10:30PM",
+      "home": "Villan Pojat",
+      "away": "HauPa",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50767,23 +50784,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4e600949b08db89f",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 2:00PM",
-      "home": "Armenia (V)",
-      "away": "Burkina Faso (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "68a1170a2c2fccdd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 9:00PM",
@@ -50834,20 +50834,6 @@
       "home": "CD Algar",
       "away": "Deportivo Maritimo",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c12bdacc4c2a51c9",
-      "league": "FINLAND KOLMONEN",
-      "kickoff": "Sep 27 2026 10:30PM",
-      "home": "Villan Pojat",
-      "away": "HauPa",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51919,6 +51905,17 @@
       "kickoff": "Sep 28 2026 1:00AM",
       "home": "Tunisia U20",
       "away": "Morocco U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "68e3cb0be6b8eb96",
+      "league": "MEXICO PRIMERA PREMIER",
+      "kickoff": "Sep 28 2026 1:00AM",
+      "home": "Purepechas FC",
+      "away": "Los Cabos United",
       "ht": null,
       "ft": null,
       "status": "Running",
