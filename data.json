@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T09:39:33+00:00",
+  "updated_at": "2026-09-27T09:52:39+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3265,
+  "count": 3267,
   "archive_count": 3000,
   "matches": [
     {
@@ -50999,7 +50999,10 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "Honda FC",
       "away": "Yokohama Sports And Culture Club",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51054,7 +51057,10 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "Calcutta Customs",
       "away": "Punjab FC",
-      "ht": null,
+      "ht": [
+        0,
+        6
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51065,7 +51071,10 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "FC Metalist Kharkiv",
       "away": "FC Chernihiv",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51076,7 +51085,10 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "CD Getafe (w)",
       "away": "CD Guiniguada Apolinario (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51087,7 +51099,10 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "FC Ona Sant Adria (w)",
       "away": "RCD Espanyol B (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51098,7 +51113,10 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "Zambia U20",
       "away": "Namibia U20",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51109,7 +51127,10 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "Dornbirner SV",
       "away": "Blau-Weiss Feldkirch",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -53062,6 +53083,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "959a7ae4991aafad",
+      "league": "PERU LEAGUE CUP",
+      "kickoff": "Sep 28 2026 2:00AM",
+      "home": "Sport Boys Association",
+      "away": "Alianza Atletico",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "44e621cb9b4a0beb",
       "league": "URUGUAY PRIMERA DIVISION",
       "kickoff": "Sep 28 2026 2:00AM",
@@ -53452,6 +53484,17 @@
       "kickoff": "Sep 28 2026 4:00AM",
       "home": "CA Racing Cordoba",
       "away": "Godoy Cruz Antonio Tomba",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "238113f62ac9e554",
+      "league": "PERU LEAGUE CUP",
+      "kickoff": "Sep 28 2026 4:15AM",
+      "home": "AD Tarma",
+      "away": "Sporting Cristal",
       "ht": null,
       "ft": null,
       "status": "Running",
