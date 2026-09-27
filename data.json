@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T01:38:52+00:00",
+  "updated_at": "2026-09-27T01:52:02+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3033,
+  "count": 3031,
   "archive_count": 3000,
   "matches": [
     {
@@ -63,6 +63,40 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "df4486ae5e764f2a",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 27 2026 7:30AM",
+      "home": "CF Montreal",
+      "away": "FC Cincinnati",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d68afadaef51d46c",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 27 2026 7:30AM",
+      "home": "Philadelphia Union",
+      "away": "Orlando City SC",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50765,68 +50799,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "10afa7d867938b38",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30AM",
-      "home": "Portugal (V)",
-      "away": "Croatia (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3a04d2f805034d12",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30AM",
-      "home": "Girondins de Bordeaux (V)",
-      "away": "Lille OSC (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "df4486ae5e764f2a",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 27 2026 7:30AM",
-      "home": "CF Montreal",
-      "away": "FC Cincinnati",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d68afadaef51d46c",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 27 2026 7:30AM",
-      "home": "Philadelphia Union",
-      "away": "Orlando City SC",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "aa80bcfc01db46cb",
       "league": "BOLIVIA CUP",
       "kickoff": "Sep 27 2026 8:00AM",
@@ -50944,7 +50916,10 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "Houston Dynamo",
       "away": "Sporting Kansas City",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51058,7 +51033,10 @@
       "kickoff": "Sep 27 2026 9:00AM",
       "home": "Dorados de Sinaloa",
       "away": "Alacranes de Durango",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
