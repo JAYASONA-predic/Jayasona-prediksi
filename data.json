@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T00:37:08+00:00",
+  "updated_at": "2026-09-27T00:55:39+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3052,
+  "count": 3051,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,40 @@
       "away": "St Louis City SC",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0440c12141237581",
+      "league": "COLOMBIA WOMEN LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 27 2026 7:00AM",
+      "home": "Deportivo Cali (w)",
+      "away": "Independiente Santa Fe (w)",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a93a57d436066b0f",
+      "league": "MEXICO PRIMERA DIVISION",
+      "kickoff": "Sep 27 2026 6:50AM",
+      "home": "Cruz Azul",
+      "away": "Deportivo Toluca",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        3
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -3569,7 +3603,10 @@
       "kickoff": "Sep 26 2026 11:00PM",
       "home": "Karela United FC",
       "away": "Accra Hearts of Oak",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": [
         1,
         0
@@ -50762,65 +50799,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d2c34ecacf574977",
-      "league": "BRAZIL SANTA CATARINA CUP",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Marcilio Dias SC",
-      "away": "Hercilio Luz SC",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b6fd8e7248e66bc8",
-      "league": "VENEZUELA PRIMERA DIVISION",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Universidad Central de Venezuela FC",
-      "away": "Carabobo",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ea07829c61dc65b6",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 26 2026 9:00PM",
-      "home": "Lokomotiv Moscow (N)",
-      "away": "Arsenal Tula",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a93a57d436066b0f",
-      "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 27 2026 6:50AM",
-      "home": "Cruz Azul",
-      "away": "Deportivo Toluca",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "686ad6fe0a0a7bd4",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 27 2026 7:00AM",
@@ -50885,20 +50863,6 @@
       "ht": [
         1,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0440c12141237581",
-      "league": "COLOMBIA WOMEN LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 27 2026 7:00AM",
-      "home": "Deportivo Cali (w)",
-      "away": "Independiente Santa Fe (w)",
-      "ht": [
-        2,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -51117,7 +51081,10 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "Universitario de Vinto (N)",
       "away": "Oriente Petrolero",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51128,7 +51095,10 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "Tigres de Alica FC",
       "away": "Tritones Vallarta MFC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51139,7 +51109,10 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "Marquense",
       "away": "Malacateco",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51150,7 +51123,10 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "CD Luis Angel Firpo",
       "away": "CD Aguila",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51161,7 +51137,10 @@
       "kickoff": "Sep 27 2026 8:00AM",
       "home": "Inter Santa Tecla",
       "away": "Atletico Balboa",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51271,6 +51250,28 @@
       "kickoff": "Sep 27 2026 9:00AM",
       "home": "Mexico (N)",
       "away": "Colombia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "21be9df4d309b60c",
+      "league": "MEXICO PRIMERA PREMIER",
+      "kickoff": "Sep 27 2026 9:00AM",
+      "home": "Deportivo Irapuato",
+      "away": "Lobos ULMX",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f5d39940ebd6a1b5",
+      "league": "NEW ZEALAND NATIONAL LEAGUE CHAMPIONSHIP",
+      "kickoff": "Sep 27 2026 9:00AM",
+      "home": "Auckland FC (R)",
+      "away": "Wellington Olympic",
       "ht": null,
       "ft": null,
       "status": "Running",
