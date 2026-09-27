@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T08:26:34+00:00",
+  "updated_at": "2026-09-27T08:41:22+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3262,
+  "count": 3267,
   "archive_count": 3000,
   "matches": [
     {
@@ -50879,7 +50879,10 @@
       "kickoff": "Sep 27 2026 3:30PM",
       "home": "Bright Cerulean FC",
       "away": "Resources Capital FC",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50890,7 +50893,10 @@
       "kickoff": "Sep 27 2026 3:30PM",
       "home": "Central & Western",
       "away": "Kuitan SC",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50901,7 +50907,10 @@
       "kickoff": "Sep 27 2026 3:30PM",
       "home": "Citizen",
       "away": "Sham Shui Po",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50912,7 +50921,10 @@
       "kickoff": "Sep 27 2026 3:30PM",
       "home": "Fu Moon",
       "away": "PB Alliance FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51127,11 +51139,55 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "06791fdbb3d7f567",
+      "league": "IFA SHIELD (IN INDIA)",
+      "kickoff": "Sep 27 2026 5:00PM",
+      "home": "Calcutta Customs",
+      "away": "Punjab FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "02adc05d5beee5fb",
       "league": "UKRAINE 1ST LEAGUE",
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "FC Metalist Kharkiv",
       "away": "FC Chernihiv",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "31ecb85d30d5f6e6",
+      "league": "SPAIN WOMEN SEGUNDA FEDERACION",
+      "kickoff": "Sep 27 2026 5:00PM",
+      "home": "CD Getafe (w)",
+      "away": "CD Guiniguada Apolinario (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5b4e55d760e78e2a",
+      "league": "SPAIN WOMEN SEGUNDA FEDERACION",
+      "kickoff": "Sep 27 2026 5:00PM",
+      "home": "FC Ona Sant Adria (w)",
+      "away": "RCD Espanyol B (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a340db69349235dd",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 27 2026 5:00PM",
+      "home": "Dornbirner SV",
+      "away": "Blau-Weiss Feldkirch",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51649,6 +51705,17 @@
       "kickoff": "Sep 27 2026 6:30PM",
       "home": "FK Fyllingsdalen (w)",
       "away": "Grei Kvinner Elite (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a9c510ec6c4b5187",
+      "league": "SPAIN WOMEN SEGUNDA FEDERACION",
+      "kickoff": "Sep 27 2026 6:30PM",
+      "home": "Racing Santander (w)",
+      "away": "Real Oviedo (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
