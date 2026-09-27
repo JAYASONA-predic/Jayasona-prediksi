@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T07:39:47+00:00",
+  "updated_at": "2026-09-27T07:51:53+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3256,
+  "count": 3261,
   "archive_count": 3000,
   "matches": [
     {
@@ -50840,7 +50840,10 @@
       "kickoff": "Sep 27 2026 3:00PM",
       "home": "Hong Kong",
       "away": "Laos",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50851,7 +50854,10 @@
       "kickoff": "Sep 27 2026 3:00PM",
       "home": "Fiji",
       "away": "Papua New Guinea",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51121,6 +51127,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "047e04831db63772",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 5:15PM",
+      "home": "CD Santurtzi",
+      "away": "CD Lagun Onak",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "0cea8b73b1610fc4",
       "league": "HONG KONG 1ST DIVISION",
       "kickoff": "Sep 27 2026 5:30PM",
@@ -51368,6 +51385,39 @@
       "kickoff": "Sep 27 2026 6:00PM",
       "home": "UD Poblense",
       "away": "Valencia CF Mestalla",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aee29c069ce704b5",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 6:00PM",
+      "home": "CD Varea",
+      "away": "CDFC La Calzada",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a1a8b69f9d2632fa",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 6:00PM",
+      "home": "CF Pozuelo de Alarcon",
+      "away": "UD San Sebastian Reyes B",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "46ce40c5ec7f5d75",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 6:00PM",
+      "home": "UD Gijon Industrial",
+      "away": "Condal CF",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52380,6 +52430,17 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "SC Mineiro Aljustrelense",
       "away": "GD Alcochetense",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4bd6cc69178ea29e",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 11:30PM",
+      "home": "Recreativo Granada",
+      "away": "CD Cantoria 2017 FC",
       "ht": null,
       "ft": null,
       "status": "Running",
