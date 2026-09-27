@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T13:08:26+00:00",
+  "updated_at": "2026-09-27T13:25:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3264,
+  "count": 3263,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "6802202e5205d7ab",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 27 2026 7:30PM",
+      "home": "Beijing Guoan U20",
+      "away": "Shanghai Shenhua U20",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "30a78b5323fb5ea1",
       "league": "CHINA LEAGUE 1",
@@ -409,6 +426,23 @@
       "ft": [
         2,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e50f46fcf67d4353",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Sep 27 2026 7:00PM",
+      "home": "IK Tord",
+      "away": "Stenungsunds IF",
+      "ht": [
+        0,
+        4
+      ],
+      "ft": [
+        1,
+        5
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50753,40 +50787,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fb130a1df570c51d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:45AM",
-      "home": "Barcelona (V)",
-      "away": "Sevilla (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "467d9fe46ccd9324",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:45AM",
-      "home": "Ukraine (V)",
-      "away": "Norway (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "01087c5c9c0aa7bd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 6:00PM",
@@ -50815,34 +50815,6 @@
       "home": "Gangwon FC",
       "away": "Real Valladolid",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e50f46fcf67d4353",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Sep 27 2026 7:00PM",
-      "home": "IK Tord",
-      "away": "Stenungsunds IF",
-      "ht": [
-        0,
-        4
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6802202e5205d7ab",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Sep 27 2026 7:30PM",
-      "home": "Beijing Guoan U20",
-      "away": "Shanghai Shenhua U20",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51166,7 +51138,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "De Graafschap",
       "away": "Den Bosch",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51177,7 +51152,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "FC Munsingen",
       "away": "SV Muttenz",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51188,7 +51166,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "HNK Segesta",
       "away": "NK Karlovac",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51199,7 +51180,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "Stallion Laguna FC",
       "away": "Maharlika FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51210,7 +51194,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "Eik Tonsberg",
       "away": "Bjarg IL",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51243,7 +51230,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "Union Brescia",
       "away": "AC Dolomiti Bellunesi",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51254,7 +51244,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "RKSV Groene Ster",
       "away": "Gemert",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51265,7 +51258,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "UNA Zeelst",
       "away": "VV Dongen",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51914,6 +51910,17 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "PFC Beroe",
       "away": "FC Yantra Gabrovo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "16043780dffbb205",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 27 2026 9:30PM",
+      "home": "ASD Monastir 1983",
+      "away": "Albalonga",
       "ht": null,
       "ft": null,
       "status": "Running",
