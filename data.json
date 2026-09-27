@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T06:55:10+00:00",
+  "updated_at": "2026-09-27T07:09:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3251,
+  "count": 3253,
   "archive_count": 3000,
   "matches": [
     {
@@ -17,6 +17,23 @@
       ],
       "ft": [
         1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7fa76cf84a59663c",
+      "league": "HONG KONG 2ND DIVISION",
+      "kickoff": "Sep 27 2026 1:00PM",
+      "home": "Sun Hei SC",
+      "away": "Wing Yee FT",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        4,
         1
       ],
       "status": "Completed",
@@ -119,6 +136,34 @@
       ],
       "ft": [
         1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "485daf2d7c9d79a9",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Sep 27 2026 12:00PM",
+      "home": "Cook Islands",
+      "away": "Tahiti",
+      "ht": null,
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "75b6820df0facdbc",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 27 2026 12:00PM",
+      "home": "Perth Glory (N)",
+      "away": "Adelaide United",
+      "ht": null,
+      "ft": [
+        2,
         0
       ],
       "status": "Completed",
@@ -50748,93 +50793,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1de92faf4d5a48c9",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:30AM",
-      "home": "Getafe CF (V)",
-      "away": "Sevilla (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1039754f11bf6b79",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:30AM",
-      "home": "Juventus (V)",
-      "away": "Arminia Bielefeld (V)",
-      "ht": [
-        3,
-        2
-      ],
-      "ft": [
-        4,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4bd15d427a912915",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:30AM",
-      "home": "Paris Saint Germain (V)",
-      "away": "Lille OSC (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "485daf2d7c9d79a9",
-      "league": "INTERNATIONAL FRIENDLY",
-      "kickoff": "Sep 27 2026 12:00PM",
-      "home": "Cook Islands",
-      "away": "Tahiti",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "75b6820df0facdbc",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 27 2026 12:00PM",
-      "home": "Perth Glory (N)",
-      "away": "Adelaide United",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7fa76cf84a59663c",
-      "league": "HONG KONG 2ND DIVISION",
-      "kickoff": "Sep 27 2026 1:00PM",
-      "home": "Sun Hei SC",
-      "away": "Wing Yee FT",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f08f1228905002a7",
       "league": "HONG KONG 1ST DIVISION",
       "kickoff": "Sep 27 2026 1:30PM",
@@ -50868,7 +50826,10 @@
       "kickoff": "Sep 27 2026 1:30PM",
       "home": "Sui Tung",
       "away": "Yau Tsim Mong FT",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50996,6 +50957,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "481323967f825e26",
+      "league": "HONG KONG 1ST DIVISION",
+      "kickoff": "Sep 27 2026 3:30PM",
+      "home": "Bright Cerulean FC",
+      "away": "Resources Capital FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "07ba52322938dcb6",
       "league": "HONG KONG 1ST DIVISION",
       "kickoff": "Sep 27 2026 3:30PM",
@@ -51012,6 +50984,17 @@
       "kickoff": "Sep 27 2026 3:30PM",
       "home": "Citizen",
       "away": "Sham Shui Po",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8bf4baf8ba38642f",
+      "league": "HONG KONG 2ND DIVISION",
+      "kickoff": "Sep 27 2026 3:30PM",
+      "home": "Fu Moon",
+      "away": "PB Alliance FC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51056,6 +51039,28 @@
       "kickoff": "Sep 27 2026 4:30PM",
       "home": "Slovan Bratislava B",
       "away": "Tatran Presov",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c3873f42aa7e8d78",
+      "league": "SLOVAKIA LIGA 3",
+      "kickoff": "Sep 27 2026 4:30PM",
+      "home": "FK Raca",
+      "away": "DAC Dunajska Streda B",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4dc90c6196b535d5",
+      "league": "SLOVAKIA LIGA 3",
+      "kickoff": "Sep 27 2026 4:30PM",
+      "home": "Dukla Banska Bystrica B",
+      "away": "MSK Fomat Martin",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51694,6 +51699,17 @@
       "kickoff": "Sep 27 2026 7:00PM",
       "home": "Vihren Sandanski",
       "away": "OFC Nesebar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0df5fce3f709dc4",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Sep 27 2026 7:00PM",
+      "home": "Naestved",
+      "away": "Middelfart Boldklub",
       "ht": null,
       "ft": null,
       "status": "Running",
