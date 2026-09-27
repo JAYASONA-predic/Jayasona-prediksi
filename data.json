@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T02:08:58+00:00",
+  "updated_at": "2026-09-27T02:26:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3025,
+  "count": 3024,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "d30f04a0e8946b23",
+      "league": "URUGUAY PRIMERA DIVISION",
+      "kickoff": "Sep 27 2026 8:30AM",
+      "home": "Montevideo City Torque",
+      "away": "Deportivo Maldonado",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "aa80bcfc01db46cb",
       "league": "BOLIVIA CUP",
@@ -50782,23 +50799,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "3efe11cb8e67dcb3",
-      "league": "COSTA RICA LIGA DE ASCENSO",
-      "kickoff": "Sep 20 2026 5:00AM",
-      "home": "AD Cofutpa",
-      "away": "AD Sarchi",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "abea9a1570e3f898",
       "league": "USA MAJOR LEAGUE SOCCER",
       "kickoff": "Sep 27 2026 8:30AM",
@@ -50862,20 +50862,6 @@
       "away": "Minnesota United FC",
       "ht": [
         2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d30f04a0e8946b23",
-      "league": "URUGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 27 2026 8:30AM",
-      "home": "Montevideo City Torque",
-      "away": "Deportivo Maldonado",
-      "ht": [
-        0,
         0
       ],
       "ft": null,
@@ -51000,7 +50986,10 @@
       "kickoff": "Sep 27 2026 9:20AM",
       "home": "Junior Barranquilla",
       "away": "Independiente Medellin",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
