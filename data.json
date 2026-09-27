@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T17:38:09+00:00",
+  "updated_at": "2026-09-27T17:51:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3150,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "a133fae15b25c52f",
+      "league": "MEMORIAL MLADEN ZIZOVIC TOURNAMENT (IN BOSNIA-HERZEGOVINA)",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "FK Borac Banja Luka",
+      "away": "FK Vojvodina",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "36b1f7b52227ba0a",
       "league": "SPAIN TERCERA FEDERACION",
@@ -50767,23 +50784,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "054690f0dd7dee45",
-      "league": "JAPAN J-LEAGUE U21",
-      "kickoff": "Sep 20 2026 3:00PM",
-      "home": "Vissel Kobe U21",
-      "away": "Fagiano Okayama U21",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "68a1170a2c2fccdd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 9:00PM",
@@ -51002,20 +51002,6 @@
       "home": "Spain U20 (w)",
       "away": "North Korea U20 (w)",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a133fae15b25c52f",
-      "league": "MEMORIAL MLADEN ZIZOVIC TOURNAMENT (IN BOSNIA-HERZEGOVINA)",
-      "kickoff": "Sep 28 2026 12:00AM",
-      "home": "FK Borac Banja Luka",
-      "away": "FK Vojvodina",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51501,7 +51487,10 @@
       "kickoff": "Sep 28 2026 1:00AM",
       "home": "CA Antoniano",
       "away": "Ciudad de Lucena",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51512,7 +51501,10 @@
       "kickoff": "Sep 28 2026 1:00AM",
       "home": "CF Lorca Deportiva",
       "away": "UD Castellonense",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51534,7 +51526,10 @@
       "kickoff": "Sep 28 2026 1:00AM",
       "home": "Recreativo Huelva",
       "away": "Xerez CD",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51644,6 +51639,17 @@
       "kickoff": "Sep 28 2026 2:00AM",
       "home": "Montaneses FC",
       "away": "Inter Playa del Carmen",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "62552894ca5a6e74",
+      "league": "BRAZIL SANTA CATARINA CUP",
+      "kickoff": "Sep 28 2026 2:00AM",
+      "home": "Metropolitano SC (n)",
+      "away": "Figueirense SC",
       "ht": null,
       "ft": null,
       "status": "Running",
