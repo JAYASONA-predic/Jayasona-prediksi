@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T06:32:57+00:00",
+  "updated_at": "2026-09-27T06:55:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3244,
+  "count": 3251,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "845ac4ab7bbb1c55",
+      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
+      "kickoff": "Sep 27 2026 1:00PM",
+      "home": "Mynavi Sendai (w)",
+      "away": "Chifure AS Elfen Saitama (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6d1230c8302478d7",
       "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
@@ -50782,23 +50799,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f7d6a856503dc945",
-      "league": "BRAZIL SERIE A",
-      "kickoff": "Sep 20 2026 5:30AM",
-      "home": "Remo PA",
-      "away": "Santos SP",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "485daf2d7c9d79a9",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 27 2026 12:00PM",
@@ -50816,20 +50816,6 @@
       "home": "Perth Glory (N)",
       "away": "Adelaide United",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "845ac4ab7bbb1c55",
-      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
-      "kickoff": "Sep 27 2026 1:00PM",
-      "home": "Mynavi Sendai (w)",
-      "away": "Chifure AS Elfen Saitama (w)",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50907,7 +50893,10 @@
       "kickoff": "Sep 27 2026 2:00PM",
       "home": "Verspah Oita",
       "away": "Azul Claro Numazu FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50918,7 +50907,10 @@
       "kickoff": "Sep 27 2026 2:00PM",
       "home": "Okayama Yunogo Belle (w)",
       "away": "Iga FC Kunoichi Mie (w)",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50929,7 +50921,10 @@
       "kickoff": "Sep 27 2026 2:00PM",
       "home": "China U16",
       "away": "Vietnam U16",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50968,11 +50963,55 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7efb7977d9f710cb",
+      "league": "HONG KONG 1ST DIVISION",
+      "kickoff": "Sep 27 2026 3:00PM",
+      "home": "Lucky Mile",
+      "away": "Hoi King",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "eed11aee73f34963",
+      "league": "HONG KONG 2ND DIVISION",
+      "kickoff": "Sep 27 2026 3:00PM",
+      "home": "Wong Tai Sin DRSC",
+      "away": "Tuen Mun SA",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a1074a18f9038427",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 3:00PM",
       "home": "Gangwon FC",
       "away": "Hong Kong",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "07ba52322938dcb6",
+      "league": "HONG KONG 1ST DIVISION",
+      "kickoff": "Sep 27 2026 3:30PM",
+      "home": "Central & Western",
+      "away": "Kuitan SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "799709f0bae08ff4",
+      "league": "HONG KONG 1ST DIVISION",
+      "kickoff": "Sep 27 2026 3:30PM",
+      "home": "Citizen",
+      "away": "Sham Shui Po",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51001,22 +51040,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "aba83b1effa4f398",
+      "id": "fbdf85d728682580",
       "league": "SLOVAKIA 2ND DIVISION",
       "kickoff": "Sep 27 2026 4:30PM",
-      "home": "Slovan Bratislava B",
-      "away": "Tatran Presov",
+      "home": "OFK Dynamo Malzenice",
+      "away": "Tatran Liptovsky Mikulas",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fbdf85d728682580",
+      "id": "aba83b1effa4f398",
       "league": "SLOVAKIA 2ND DIVISION",
       "kickoff": "Sep 27 2026 4:30PM",
-      "home": "OFK Dynamo Malzenice",
-      "away": "Tatran Liptovsky Mikulas",
+      "home": "Slovan Bratislava B",
+      "away": "Tatran Presov",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51105,6 +51144,17 @@
       "kickoff": "Sep 27 2026 5:00PM",
       "home": "FC Metalist Kharkiv",
       "away": "FC Chernihiv",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0cea8b73b1610fc4",
+      "league": "HONG KONG 1ST DIVISION",
+      "kickoff": "Sep 27 2026 5:30PM",
+      "home": "South China",
+      "away": "Leaper FC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51870,6 +51920,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "5a8d121a630790be",
+      "league": "PORTUGAL CAMPEONATO DE PORTUGAL",
+      "kickoff": "Sep 27 2026 9:00PM",
+      "home": "Estrela da Calheta FC",
+      "away": "CD Cinfaes",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "594269b3cfdac43f",
       "league": "FINLAND KAKKONEN (PLAY OFF)",
       "kickoff": "Sep 27 2026 9:00PM",
@@ -52062,6 +52123,17 @@
       "kickoff": "Sep 27 2026 10:00PM",
       "home": "NK Opatija",
       "away": "HNK Vukovar 1991",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5af1fb5d0579a985",
+      "league": "PORTUGAL CAMPEONATO DE PORTUGAL",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Amora FC",
+      "away": "Juventude Desportiva Lajense",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52304,6 +52376,17 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "UCAM Murcia B",
       "away": "San Javier CF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2f80330f852367b5",
+      "league": "PORTUGAL CAMPEONATO DE PORTUGAL",
+      "kickoff": "Sep 27 2026 11:00PM",
+      "home": "SC Mineiro Aljustrelense",
+      "away": "GD Alcochetense",
       "ht": null,
       "ft": null,
       "status": "Running",
