@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T17:08:21+00:00",
+  "updated_at": "2026-09-27T17:24:12+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3145,
   "archive_count": 3000,
@@ -51519,7 +51519,10 @@
       "kickoff": "Sep 28 2026 12:30AM",
       "home": "Malta",
       "away": "Liechtenstein",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51530,7 +51533,10 @@
       "kickoff": "Sep 28 2026 12:30AM",
       "home": "Burgos CF",
       "away": "CD Eldense",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51541,7 +51547,10 @@
       "kickoff": "Sep 28 2026 12:30AM",
       "home": "SD Eibar",
       "away": "Las Palmas",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51552,7 +51561,10 @@
       "kickoff": "Sep 28 2026 12:30AM",
       "home": "HNK Cibalia",
       "away": "NK Dugopolje",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
