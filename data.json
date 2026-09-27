@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T15:39:19+00:00",
+  "updated_at": "2026-09-27T15:51:31+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3210,
+  "count": 3208,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "5d1b93d61d5a4b63",
+      "league": "SLOVENIA 2ND DIVISION",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "NK Jesenice",
+      "away": "NK Vrhnika",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2df0b99e8447f71b",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "SC Freistadt Rust",
+      "away": "SV Lackenbach",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "e845b720506c18fd",
       "league": "SPAIN SEGUNDA FEDERACION",
@@ -50753,40 +50787,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7134f2d7260ade5a",
-      "league": "JAPAN REGIONAL FOOTBALL LEAGUE",
-      "kickoff": "Sep 20 2026 1:00PM",
-      "home": "Blancdieu Hirosaki",
-      "away": "Shichinohe Sc",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        5,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7870ae186c928c4f",
-      "league": "HONG KONG 2ND DIVISION",
-      "kickoff": "Sep 20 2026 1:00PM",
-      "home": "Kowloon Cricket Club",
-      "away": "Tsun Tat",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "1820b16889402b3d",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 8:00PM",
@@ -51175,20 +51175,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5d1b93d61d5a4b63",
-      "league": "SLOVENIA 2ND DIVISION",
-      "kickoff": "Sep 27 2026 10:00PM",
-      "home": "NK Jesenice",
-      "away": "NK Vrhnika",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a9ef522f3f445fe6",
       "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
       "kickoff": "Sep 27 2026 10:00PM",
@@ -51357,20 +51343,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2df0b99e8447f71b",
-      "league": "AUSTRIA LANDESLIGA",
-      "kickoff": "Sep 27 2026 10:00PM",
-      "home": "SC Freistadt Rust",
-      "away": "SV Lackenbach",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a928e186f1870133",
       "league": "ARGENTINA TORNEO FEDERAL A (PLAY OFF)",
       "kickoff": "Sep 27 2026 10:00PM",
@@ -51479,7 +51451,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "Germany U19 (N)",
       "away": "Ukraine U19",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51523,7 +51498,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "Coruxo FC",
       "away": "SD Gernika Club",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51534,7 +51512,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "Girona B",
       "away": "CA Osasuna B",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51545,7 +51526,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "RCD Espanyol B",
       "away": "CD Arnedo",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51556,7 +51540,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "Salamanca CF UDS",
       "away": "RSD Alcala",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51567,7 +51554,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "SD Logrones",
       "away": "UE Olot",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51589,7 +51579,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "CD Tropezon",
       "away": "CD Revilla",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51600,7 +51593,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "UCAM Murcia B",
       "away": "San Javier CF",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51611,7 +51607,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "SC Mineiro Aljustrelense",
       "away": "GD Alcochetense",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51666,7 +51665,10 @@
       "kickoff": "Sep 27 2026 11:00PM",
       "home": "Ikorodu City FC",
       "away": "Enugu Rangers International",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
