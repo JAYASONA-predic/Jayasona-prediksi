@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T23:37:51+00:00",
+  "updated_at": "2026-09-27T23:50:44+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3030,
   "archive_count": 3000,
@@ -50880,7 +50880,10 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Haiti (N)",
       "away": "Costa Rica",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
