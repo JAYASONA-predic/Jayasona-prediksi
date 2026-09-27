@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T22:40:16+00:00",
+  "updated_at": "2026-09-27T22:51:56+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3045,
+  "count": 3046,
   "archive_count": 3000,
   "matches": [
     {
@@ -51050,7 +51050,10 @@
       "kickoff": "Sep 28 2026 6:00AM",
       "home": "Barranquilla FC",
       "away": "Real Cundinamarca",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51204,6 +51207,17 @@
       "kickoff": "Sep 28 2026 7:05AM",
       "home": "Club Leon",
       "away": "Deportes Tolima",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8b61b2385322924b",
+      "league": "PANAMA LIGA FUTBOL",
+      "kickoff": "Sep 28 2026 7:15AM",
+      "home": "Veraguas United FC",
+      "away": "Sporting San Miguelito",
       "ht": null,
       "ft": null,
       "status": "Running",
