@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T22:25:40+00:00",
+  "updated_at": "2026-09-27T22:40:16+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3049,
+  "count": 3045,
   "archive_count": 3000,
   "matches": [
     {
@@ -85,6 +85,57 @@
       ],
       "ft": [
         1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "46d989c3737c58a6",
+      "league": "CHILE CUP",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Universidad de Chile",
+      "away": "Everton Vina del Mar",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ed76b13c18317850",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Cavalier SC",
+      "away": "Arnett Gardens",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0d30b4f457b2cdaa",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Molynes United",
+      "away": "Tru-Juice FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
         1
       ],
       "status": "Completed",
@@ -236,6 +287,23 @@
       "ft": [
         0,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e94335e3f88de11c",
+      "league": "ARGENTINA PRIMERA B NACIONAL",
+      "kickoff": "Sep 28 2026 4:00AM",
+      "home": "CA Racing Cordoba",
+      "away": "Godoy Cruz Antonio Tomba",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50710,74 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "9b8d9bc2f01a2cce",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Sep 20 2026 5:30PM",
-      "home": "Alcoyano",
-      "away": "UD Poblense",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cb13e2f9afc6dae8",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 20 2026 5:30PM",
-      "home": "Trival Valderas",
-      "away": "CF Pozuelo de Alarcon",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7d7a00a844bcfb4b",
-      "league": "HONG KONG 1ST DIVISION",
-      "kickoff": "Sep 20 2026 5:30PM",
-      "home": "Kuitan SC",
-      "away": "Hoi King",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "59df09b050101283",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Sep 20 2026 5:30PM",
-      "home": "CD Atletico Baleares",
-      "away": "UCAM Murcia",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "5cdb3f66409ae37d",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 2:00AM",
@@ -50822,68 +50822,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e94335e3f88de11c",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 28 2026 4:00AM",
-      "home": "CA Racing Cordoba",
-      "away": "Godoy Cruz Antonio Tomba",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "434690ac0767e827",
       "league": "UNITED SOCCER LEAGUE ONE",
       "kickoff": "Sep 28 2026 4:00AM",
       "home": "New York Cosmos",
       "away": "Richmond Kickers",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "46d989c3737c58a6",
-      "league": "CHILE CUP",
-      "kickoff": "Sep 28 2026 4:30AM",
-      "home": "Universidad de Chile",
-      "away": "Everton Vina del Mar",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ed76b13c18317850",
-      "league": "JAMAICA PREMIER LEAGUE",
-      "kickoff": "Sep 28 2026 4:30AM",
-      "home": "Cavalier SC",
-      "away": "Arnett Gardens",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0d30b4f457b2cdaa",
-      "league": "JAMAICA PREMIER LEAGUE",
-      "kickoff": "Sep 28 2026 4:30AM",
-      "home": "Molynes United",
-      "away": "Tru-Juice FC",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51056,7 +51000,10 @@
       "kickoff": "Sep 28 2026 5:30AM",
       "home": "Fortaleza CE",
       "away": "Athletic Club MG",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
