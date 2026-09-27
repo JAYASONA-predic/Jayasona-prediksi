@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T16:41:05+00:00",
+  "updated_at": "2026-09-27T16:52:55+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3167,
+  "count": 3165,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "14988843a0f3da1d",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 11:00PM",
+      "home": "UCAM Murcia B",
+      "away": "San Javier CF",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "48e3a661d86ffa35",
       "league": "AUSTRIA REGIONAL LEAGUE SOUTH",
@@ -52,6 +69,23 @@
       "ft": [
         3,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "972d895985eb48eb",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Sep 27 2026 10:30PM",
+      "home": "CD Algar",
+      "away": "Deportivo Maritimo",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50750,40 +50784,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "8ce62edd0dfe8745",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 2:00PM",
-      "home": "Napoli (V)",
-      "away": "Arsenal (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ca92c59744064254",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 2:00PM",
-      "home": "Real Madrid (V)",
-      "away": "Torino (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "68a1170a2c2fccdd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 9:00PM",
@@ -50822,17 +50822,6 @@
       "kickoff": "Sep 27 2026 10:15PM",
       "home": "RCD Mallorca",
       "away": "Burgos CF",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "972d895985eb48eb",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 27 2026 10:30PM",
-      "home": "CD Algar",
-      "away": "Deportivo Maritimo",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50987,20 +50976,6 @@
       "ht": [
         0,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "14988843a0f3da1d",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 27 2026 11:00PM",
-      "home": "UCAM Murcia B",
-      "away": "San Javier CF",
-      "ht": [
-        1,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -51278,7 +51253,10 @@
       "kickoff": "Sep 27 2026 11:55PM",
       "home": "Yemen",
       "away": "Qatar",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51289,7 +51267,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Denmark",
       "away": "Wales",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51300,7 +51281,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Serbia",
       "away": "Netherlands",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51311,7 +51295,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Austria",
       "away": "Kosovo",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51322,7 +51309,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Gibraltar",
       "away": "Andorra",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51333,7 +51323,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Alcoyano",
       "away": "CD Minera",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51344,7 +51337,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Calvo Sotelo Puertollano CF",
       "away": "CD Atletico Tordesillas",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51355,7 +51351,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "CD Artistico Navalcarnero",
       "away": "Conquense",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51366,7 +51365,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "SC Puente Genil FC",
       "away": "Marbella",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51388,7 +51390,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Utebo FC",
       "away": "Reus FC Reddis",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51399,7 +51404,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Spain U20 (w)",
       "away": "North Korea U20 (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51421,7 +51429,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "FK Borac Banja Luka",
       "away": "FK Vojvodina",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51443,7 +51454,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "AD Limianos",
       "away": "Rebordosa AC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51454,7 +51468,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Moghreb Athletic Tetouan",
       "away": "Renaissance de Berkane",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51465,7 +51482,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Club Jeunesse Ben Guerir",
       "away": "JS Soualem",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51476,7 +51496,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Aliaga Futbol AS",
       "away": "Sanliurfaspor",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51498,7 +51521,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Sakaryaspor",
       "away": "Kutahyaspor",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51509,7 +51535,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "FC Fratria",
       "away": "Spartak Pleven",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51520,7 +51549,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "FC Hebar 1918",
       "away": "Dobrudzha Dobrich",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51542,7 +51574,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "AC Nardo",
       "away": "ASD Martina Calcio 1947",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51553,7 +51588,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Deportivo La Coruna (w)",
       "away": "RCD Espanyol (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51564,7 +51602,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Alianza FC (R)",
       "away": "CD Inca (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51575,7 +51616,10 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Atenas de San Carlos",
       "away": "Plaza Colonia",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
