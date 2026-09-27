@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T19:23:19+00:00",
+  "updated_at": "2026-09-27T19:37:15+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3121,
+  "count": 3125,
   "archive_count": 3000,
   "matches": [
     {
@@ -51123,7 +51123,10 @@
       "kickoff": "Sep 28 2026 2:00AM",
       "home": "Inter Toronto FC",
       "away": "Pacific FC (CAN)",
-      "ht": null,
+      "ht": [
+        3,
+        4
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51374,7 +51377,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Club Almagro",
       "away": "Nueva Chicago",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51441,7 +51447,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Taguatinga EC DF",
       "away": "Planaltina DF",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51452,7 +51461,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Club Olimpo",
       "away": "Gimnasia Chivilcoy",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51477,7 +51489,10 @@
       "kickoff": "Sep 28 2026 2:45AM",
       "home": "Germany",
       "away": "Greece",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51488,7 +51503,10 @@
       "kickoff": "Sep 28 2026 2:45AM",
       "home": "Norway",
       "away": "Portugal",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51499,7 +51517,10 @@
       "kickoff": "Sep 28 2026 2:45AM",
       "home": "Israel (N)",
       "away": "Ireland",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51780,11 +51801,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "03b681b2eee42184",
+      "league": "BRAZIL CAMPEONATO GOIANO DIVISION 2",
+      "kickoff": "Sep 28 2026 4:00AM",
+      "home": "Trindade GO",
+      "away": "Gremio Anapolis GO",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "746d46428e4f17ed",
       "league": "VENEZUELA SEGUNDA DIVISION",
       "kickoff": "Sep 28 2026 4:00AM",
       "home": "Dynamo Puerto FC",
       "away": "Bolivar Sports Club",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0c4a9cda2be47629",
+      "league": "BRAZIL COPA FMF MATOGROSSENSE",
+      "kickoff": "Sep 28 2026 4:00AM",
+      "home": "Varzea Grande EC MT",
+      "away": "Chapada FC MT",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51829,6 +51872,17 @@
       "kickoff": "Sep 28 2026 4:30AM",
       "home": "Universidad de Chile",
       "away": "Everton Vina del Mar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "99c4e1904113ca03",
+      "league": "ECUADOR SERIE B (PLAY OFF)",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Deportivo Santo Domingo",
+      "away": "Gualaceo SC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52060,6 +52114,17 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Haiti (N)",
       "away": "Costa Rica",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "382bf1db4c2b889e",
+      "league": "UNITED SOCCER LEAGUE ONE",
+      "kickoff": "Sep 28 2026 7:00AM",
+      "home": "One Knoxville SC",
+      "away": "Westchester SC",
       "ht": null,
       "ft": null,
       "status": "Running",
