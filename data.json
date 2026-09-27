@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T21:38:45+00:00",
+  "updated_at": "2026-09-27T21:50:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3062,
+  "count": 3063,
   "archive_count": 3000,
   "matches": [
     {
@@ -51090,7 +51090,10 @@
       "kickoff": "Sep 28 2026 5:00AM",
       "home": "Jaguares de Cordoba",
       "away": "Alianza FC Valledupar",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51266,6 +51269,17 @@
       "kickoff": "Sep 28 2026 6:00AM",
       "home": "Barranquilla FC",
       "away": "Real Cundinamarca",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6302ed1e39d6e4e5",
+      "league": "MEXICO LIGA PREMIER SERIE A",
+      "kickoff": "Sep 28 2026 6:00AM",
+      "home": "Acambaro FC",
+      "away": "Artesanos Metepec FC",
       "ht": null,
       "ft": null,
       "status": "Running",
