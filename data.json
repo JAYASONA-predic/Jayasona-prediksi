@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T14:08:38+00:00",
+  "updated_at": "2026-09-27T14:24:49+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3266,
+  "count": 3267,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "fb8cf95ce00a57df",
+      "league": "CROATIA FIRST LEAGUE",
+      "kickoff": "Sep 27 2026 8:30PM",
+      "home": "HNK Segesta",
+      "away": "NK Karlovac",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "24a7ac4971ba3b6a",
+      "league": "NORWAY 2ND DIVISION",
+      "kickoff": "Sep 27 2026 8:30PM",
+      "home": "Eik Tonsberg",
+      "away": "Bjarg IL",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f972baaadcb22fbb",
       "league": "NORWAY 2ND DIVISION",
@@ -50753,40 +50787,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2ac54f04504a2c1f",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 20 2026 9:30AM",
-      "home": "Real Salt Lake",
-      "away": "Vancouver Whitecaps FC",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b2e777ddf398c31c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 9:30AM",
-      "home": "Nashville SC",
-      "away": "Vancouver Whitecaps FC",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "01087c5c9c0aa7bd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 6:00PM",
@@ -50884,39 +50884,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fb8cf95ce00a57df",
-      "league": "CROATIA FIRST LEAGUE",
-      "kickoff": "Sep 27 2026 8:30PM",
-      "home": "HNK Segesta",
-      "away": "NK Karlovac",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "082269c964ac8906",
       "league": "PHILIPPINES FOOTBALL LEAGUE",
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "Stallion Laguna FC",
       "away": "Maharlika FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "24a7ac4971ba3b6a",
-      "league": "NORWAY 2ND DIVISION",
-      "kickoff": "Sep 27 2026 8:30PM",
-      "home": "Eik Tonsberg",
-      "away": "Bjarg IL",
       "ht": [
         0,
         1
@@ -51790,7 +51762,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "SD Eibar B",
       "away": "SD Compostela",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51801,7 +51776,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "PFC Beroe",
       "away": "FC Yantra Gabrovo",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51812,7 +51790,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "ASD Monastir 1983",
       "away": "Albalonga",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51823,7 +51804,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "Libya U20",
       "away": "Algeria U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51834,7 +51818,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "MSK Tesla Stropkov",
       "away": "SK Odeva Lipany",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51845,7 +51832,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "TJ Druzstevnik Velke Ludince",
       "away": "FK Belusa",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51856,7 +51846,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "Tj Sokol Medzibrod",
       "away": "Rimavska Sobota",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51867,7 +51860,10 @@
       "kickoff": "Sep 27 2026 9:30PM",
       "home": "Sturm Graz (w)",
       "away": "Austria Wien (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52065,6 +52061,17 @@
       "kickoff": "Sep 27 2026 10:00PM",
       "home": "SC Moknine",
       "away": "CS Redeyef",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8a57cbcc1a40a1bd",
+      "league": "TUNISIAN LEAGUE 2",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "EGS Gafsa",
+      "away": "AS Kasserine",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52340,6 +52347,28 @@
       "kickoff": "Sep 27 2026 10:30PM",
       "home": "SK Treibach",
       "away": "SK Austria Klagenfurt",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7b2441ddba1f0566",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 27 2026 10:30PM",
+      "home": "SK Zapy",
+      "away": "FK Banik Most-Sous",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c12bdacc4c2a51c9",
+      "league": "FINLAND KOLMONEN",
+      "kickoff": "Sep 27 2026 10:30PM",
+      "home": "Villan Pojat",
+      "away": "HauPa",
       "ht": null,
       "ft": null,
       "status": "Running",
