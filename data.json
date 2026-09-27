@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T07:51:53+00:00",
+  "updated_at": "2026-09-27T08:09:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3261,
+  "count": 3260,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1ce08889fc983ff9",
+      "league": "JAPAN FOOTBALL LEAGUE",
+      "kickoff": "Sep 27 2026 2:00PM",
+      "home": "Verspah Oita",
+      "away": "Azul Claro Numazu FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2fe16b6425d74c20",
+      "league": "JAPAN WOMEN FOOTBALL DIVISION 1",
+      "kickoff": "Sep 27 2026 2:00PM",
+      "home": "Okayama Yunogo Belle (w)",
+      "away": "Iga FC Kunoichi Mie (w)",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "efb1d206e3b50157",
+      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 27 2026 2:00PM",
+      "home": "China U16",
+      "away": "Vietnam U16",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ad3bc0fac2bd4afc",
       "league": "HONG KONG 2ND DIVISION",
@@ -50742,99 +50793,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "aa9a81e2ef3d0dba",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:45AM",
-      "home": "Atletico de Madrid (V)",
-      "away": "Lazio (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "655d69b696441775",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:45AM",
-      "home": "Napoli (V)",
-      "away": "Tottenham Hotspur (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0c9deabc13fba997",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:30AM",
-      "home": "Burkina Faso (V)",
-      "away": "China (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1ce08889fc983ff9",
-      "league": "JAPAN FOOTBALL LEAGUE",
-      "kickoff": "Sep 27 2026 2:00PM",
-      "home": "Verspah Oita",
-      "away": "Azul Claro Numazu FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2fe16b6425d74c20",
-      "league": "JAPAN WOMEN FOOTBALL DIVISION 1",
-      "kickoff": "Sep 27 2026 2:00PM",
-      "home": "Okayama Yunogo Belle (w)",
-      "away": "Iga FC Kunoichi Mie (w)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "efb1d206e3b50157",
-      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
-      "kickoff": "Sep 27 2026 2:00PM",
-      "home": "China U16",
-      "away": "Vietnam U16",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7e8c6c58af8ff926",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
       "kickoff": "Sep 27 2026 3:00PM",
@@ -50868,7 +50826,10 @@
       "kickoff": "Sep 27 2026 3:00PM",
       "home": "Omiya Ardija Ventus (w)",
       "away": "JEF United Ichihara Chiba (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50879,7 +50840,10 @@
       "kickoff": "Sep 27 2026 3:00PM",
       "home": "Lucky Mile",
       "away": "Hoi King",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50890,7 +50854,10 @@
       "kickoff": "Sep 27 2026 3:00PM",
       "home": "Wong Tai Sin DRSC",
       "away": "Tuen Mun SA",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50989,6 +50956,28 @@
       "kickoff": "Sep 27 2026 4:00PM",
       "home": "TS Galaxy (R)",
       "away": "Polokwane City (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c257126a4bd5c28d",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 27 2026 4:15PM",
+      "home": "FK Dukla Praha B",
+      "away": "Bohemians 1905 B",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0a3f56489f0feff9",
+      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
+      "kickoff": "Sep 27 2026 4:15PM",
+      "home": "FK Jablonec B",
+      "away": "Hradec Kralove B",
       "ht": null,
       "ft": null,
       "status": "Running",
