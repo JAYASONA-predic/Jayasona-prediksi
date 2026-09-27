@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T04:41:54+00:00",
+  "updated_at": "2026-09-27T04:54:00+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3119,
+  "count": 3124,
   "archive_count": 3000,
   "matches": [
     {
@@ -50804,7 +50804,10 @@
       "kickoff": "Sep 27 2026 12:00PM",
       "home": "Vanuatu",
       "away": "New Caledonia",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50815,7 +50818,10 @@
       "kickoff": "Sep 27 2026 12:00PM",
       "home": "Albirex Niigata (w)",
       "away": "Urawa Red Diamonds (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50826,7 +50832,10 @@
       "kickoff": "Sep 27 2026 12:00PM",
       "home": "AS Harima Albion (w)",
       "away": "Ehime FC (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50837,7 +50846,10 @@
       "kickoff": "Sep 27 2026 12:00PM",
       "home": "Viamaterras Miyazaki (w)",
       "away": "Shizuoka SSU Bonita (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50848,7 +50860,10 @@
       "kickoff": "Sep 27 2026 12:00PM",
       "home": "Renofa Yamaguchi (w)",
       "away": "Speranza Osaka (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50859,7 +50874,10 @@
       "kickoff": "Sep 27 2026 12:00PM",
       "home": "Yamato Sylphid (w)",
       "away": "Diavorosso Hiroshima (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50969,6 +50987,28 @@
       "kickoff": "Sep 27 2026 4:00PM",
       "home": "INAC Kobe Leonessa (w)",
       "away": "Sanfrecce Hiroshima Regina (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fbdf85d728682580",
+      "league": "SLOVAKIA 2ND DIVISION",
+      "kickoff": "Sep 27 2026 4:30PM",
+      "home": "OFK Dynamo Malzenice",
+      "away": "Tatran Liptovsky Mikulas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3ee6144d4b5983f0",
+      "league": "AUSTRIA WOMEN BUNDESLIGA",
+      "kickoff": "Sep 27 2026 4:30PM",
+      "home": "FC Sudburgenland/TSV Hartberg (w)",
+      "away": "SCR Altach (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51299,6 +51339,17 @@
       "kickoff": "Sep 27 2026 9:00PM",
       "home": "Sassuolo (w)",
       "away": "AS Roma (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "54466a82b790b280",
+      "league": "AUSTRIA WOMEN BUNDESLIGA",
+      "kickoff": "Sep 27 2026 9:30PM",
+      "home": "Sturm Graz (w)",
+      "away": "Austria Wien (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51976,6 +52027,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "46d989c3737c58a6",
+      "league": "CHILE CUP",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Universidad de Chile",
+      "away": "Everton Vina del Mar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "bd7d576ace6887e0",
       "league": "COLOMBIA PRIMERA A",
       "kickoff": "Sep 28 2026 5:00AM",
@@ -52047,6 +52109,17 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Columbus Crew",
       "away": "Inter Miami CF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7ad6226336b0cff3",
+      "league": "CHILE CUP",
+      "kickoff": "Sep 28 2026 7:00AM",
+      "home": "Deportes Santa Cruz",
+      "away": "O Higgins",
       "ht": null,
       "ft": null,
       "status": "Running",
