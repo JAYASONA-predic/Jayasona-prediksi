@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T00:13:12+00:00",
+  "updated_at": "2026-09-27T00:37:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3056,
+  "count": 3052,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,57 @@
       "away": "St Louis City SC",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "41c75bf53613712a",
+      "league": "BRAZIL SERIE C (PLAY OFF)",
+      "kickoff": "Sep 27 2026 6:30AM",
+      "home": "Inter Limeira SP",
+      "away": "Paysandu PA",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4c17693d88a6a495",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 27 2026 6:30AM",
+      "home": "Barquisimeto SC",
+      "away": "Urena SC",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6336296bfefadacd",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 27 2026 6:30AM",
+      "home": "Washington Spirit (w)",
+      "away": "Angel City FC (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -114,6 +165,40 @@
       "ft": [
         3,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "544ac0f96ce4a3c2",
+      "league": "BRAZIL RIO CUP",
+      "kickoff": "Sep 27 2026 6:00AM",
+      "home": "Boavista RJ",
+      "away": "Nova Iguacu RJ",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cf74ce5440a44d97",
+      "league": "ARGENTINA PRIMERA B NACIONAL",
+      "kickoff": "Sep 27 2026 6:00AM",
+      "home": "Deportivo Madryn",
+      "away": "Central Norte de Salta",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50711,167 +50796,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e60612363bd3f03f",
-      "league": "BRAZIL SERIE C (PLAY OFF)",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Maringa FC",
-      "away": "Botafogo PB",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c30ce105436d7d1c",
-      "league": "COSTA RICA LIGA DE ASCENSO",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Guadalupe FC",
-      "away": "FC Moravia FCM",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c8ec241e7344f629",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 4:00AM",
-      "home": "Mirassol SP",
-      "away": "Atletico San Luis",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ec925e9b85fcda96",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 3:45AM",
-      "home": "England (V)",
-      "away": "Serbia (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "89d94d4fdecf5fad",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 3:45AM",
-      "home": "Jordan (V)",
-      "away": "Thailand (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ea07829c61dc65b6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 26 2026 9:00PM",
       "home": "Lokomotiv Moscow (N)",
       "away": "Arsenal Tula",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "544ac0f96ce4a3c2",
-      "league": "BRAZIL RIO CUP",
-      "kickoff": "Sep 27 2026 6:00AM",
-      "home": "Boavista RJ",
-      "away": "Nova Iguacu RJ",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cf74ce5440a44d97",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 27 2026 6:00AM",
-      "home": "Deportivo Madryn",
-      "away": "Central Norte de Salta",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "41c75bf53613712a",
-      "league": "BRAZIL SERIE C (PLAY OFF)",
-      "kickoff": "Sep 27 2026 6:30AM",
-      "home": "Inter Limeira SP",
-      "away": "Paysandu PA",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4c17693d88a6a495",
-      "league": "VENEZUELA SEGUNDA DIVISION",
-      "kickoff": "Sep 27 2026 6:30AM",
-      "home": "Barquisimeto SC",
-      "away": "Urena SC",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6336296bfefadacd",
-      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
-      "kickoff": "Sep 27 2026 6:30AM",
-      "home": "Washington Spirit (w)",
-      "away": "Angel City FC (w)",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51120,7 +51050,10 @@
       "kickoff": "Sep 27 2026 7:30AM",
       "home": "Atlanta United FC",
       "away": "New York City FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51131,7 +51064,10 @@
       "kickoff": "Sep 27 2026 7:30AM",
       "home": "CF Montreal",
       "away": "FC Cincinnati",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51142,7 +51078,10 @@
       "kickoff": "Sep 27 2026 7:30AM",
       "home": "Charlotte FC",
       "away": "Chicago Fire",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51153,7 +51092,10 @@
       "kickoff": "Sep 27 2026 7:30AM",
       "home": "Philadelphia Union",
       "away": "Orlando City SC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51307,6 +51249,17 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "San Antonio FC",
       "away": "FC Tampa Bay Rowdies",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4e7761c310df7da0",
+      "league": "UNITED SOCCER LEAGUE ONE",
+      "kickoff": "Sep 27 2026 8:30AM",
+      "home": "Corpus Christi FC",
+      "away": "Athletic Club Boise",
       "ht": null,
       "ft": null,
       "status": "Running",
