@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T03:26:51+00:00",
+  "updated_at": "2026-09-27T03:42:36+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3010,
+  "count": 3009,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "19a8af6c8ba9da44",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 27 2026 9:30AM",
+      "home": "Real Salt Lake",
+      "away": "New England Revolution",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d79ee79e0b09755b",
       "league": "COLOMBIA PRIMERA A",
@@ -50782,37 +50799,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a2e860804af11244",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:15AM",
-      "home": "Torino (V)",
-      "away": "Bayer 04 Leverkusen (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "19a8af6c8ba9da44",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 27 2026 9:30AM",
-      "home": "Real Salt Lake",
-      "away": "New England Revolution",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4726a5c39b5320ba",
       "league": "CONCACAF NATIONS LEAGUE B",
       "kickoff": "Sep 27 2026 10:00AM",
@@ -50874,7 +50860,10 @@
       "kickoff": "Sep 27 2026 10:30AM",
       "home": "L.A Galaxy",
       "away": "Colorado Rapids",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50885,7 +50874,10 @@
       "kickoff": "Sep 27 2026 10:30AM",
       "home": "San Jose Earthquakes",
       "away": "Portland Timbers",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50896,7 +50888,10 @@
       "kickoff": "Sep 27 2026 10:30AM",
       "home": "Vancouver Whitecaps FC",
       "away": "D.C. United",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
