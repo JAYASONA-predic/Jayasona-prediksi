@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T23:24:18+00:00",
+  "updated_at": "2026-09-27T23:37:51+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3034,
+  "count": 3030,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cb04cd3f1f38134f",
+      "league": "BRAZIL SERIE B",
+      "kickoff": "Sep 28 2026 5:30AM",
+      "home": "Fortaleza CE",
+      "away": "Athletic Club MG",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d371ec437a0cb1d3",
+      "league": "BRAZIL SERIE C (PLAY OFF)",
+      "kickoff": "Sep 28 2026 5:30AM",
+      "home": "Brusque SC",
+      "away": "Ferroviaria SP",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f602b5de3059f30b",
       "league": "BOLIVIA CUP",
@@ -170,6 +204,23 @@
       ],
       "ft": [
         3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4537d447f963262f",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 5:00AM",
+      "home": "Fortaleza CE",
+      "away": "Jaguares de Cordoba",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
         1
       ],
       "status": "Completed",
@@ -794,6 +845,23 @@
       "ft": [
         3,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8e6833fbe25e655b",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 3:00AM",
+      "home": "CRB Maceio",
+      "away": "Fortaleza CE",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50707,90 +50775,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a0cb68d3e9bfa447",
-      "league": "SPAIN DIVISION DE HONOR U19",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Barcelona U19",
-      "away": "Gimnastic Manresa U19",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        6,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fa1fe1769028b401",
-      "league": "SPAIN WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Granada CF (w)",
-      "away": "Deportivo La Coruna (w)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "53b4916d4fdb5cb1",
-      "league": "SPAIN WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Tenerife (w)",
-      "away": "Sevilla (w)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6419364d119f7b25",
-      "league": "UKRAINE PREMIER LEAGUE",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "FC Kudrivka",
-      "away": "Kolos Kovalivka",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "94ef724fc4fc3d20",
       "league": "ARGENTINA PRIMERA B NACIONAL",
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Almirante Brown",
       "away": "CA Acassuso",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8e6833fbe25e655b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 28 2026 3:00AM",
-      "home": "CRB Maceio",
-      "away": "Fortaleza CE",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50803,45 +50792,6 @@
       "home": "Inter Miami CF",
       "away": "Jaguares de Cordoba",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4537d447f963262f",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 28 2026 5:00AM",
-      "home": "Fortaleza CE",
-      "away": "Jaguares de Cordoba",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cb04cd3f1f38134f",
-      "league": "BRAZIL SERIE B",
-      "kickoff": "Sep 28 2026 5:30AM",
-      "home": "Fortaleza CE",
-      "away": "Athletic Club MG",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d371ec437a0cb1d3",
-      "league": "BRAZIL SERIE C (PLAY OFF)",
-      "kickoff": "Sep 28 2026 5:30AM",
-      "home": "Brusque SC",
-      "away": "Ferroviaria SP",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
