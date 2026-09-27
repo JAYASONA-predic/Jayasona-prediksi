@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T19:07:35+00:00",
+  "updated_at": "2026-09-27T19:23:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3111,
+  "count": 3121,
   "archive_count": 3000,
   "matches": [
     {
@@ -283,7 +283,10 @@
       "kickoff": "Sep 28 2026 12:15AM",
       "home": "Antequera CF",
       "away": "Real Jaen",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": [
         2,
         0
@@ -2151,6 +2154,23 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8a57cbcc1a40a1bd",
+      "league": "TUNISIAN LEAGUE 2",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "EGS Gafsa",
+      "away": "AS Kasserine",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50761,34 +50781,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e6aab859415dbb1e",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 3:45PM",
-      "home": "FSV Mainz 05 (V)",
-      "away": "Paris Saint Germain (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8a57cbcc1a40a1bd",
-      "league": "TUNISIAN LEAGUE 2",
-      "kickoff": "Sep 27 2026 10:00PM",
-      "home": "EGS Gafsa",
-      "away": "AS Kasserine",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ff1fe9aa7a43c89a",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 12:00AM",
@@ -51273,7 +51265,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Real Madrid Castilla",
       "away": "Alcorcon",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51284,7 +51279,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Albinoleffe",
       "away": "Alcione Milano",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51295,7 +51293,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Foggia",
       "away": "ASD Sorrento 1945",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51306,7 +51307,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Pescara",
       "away": "Spezia",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51317,7 +51321,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "SSD Casarano",
       "away": "Monopoli",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51339,7 +51346,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "CA Atlanta",
       "away": "Club Agropecuario Argentino",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51350,7 +51360,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "CA Los Andes",
       "away": "Deportivo Moron",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51372,7 +51385,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Defensores de Belgrano",
       "away": "Ferro Carril Oeste",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51383,7 +51399,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Azuriz FC PR",
       "away": "Londrina PR",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51394,7 +51413,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Parana PR",
       "away": "Paranavai PR",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51405,7 +51427,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "CA Mar de Fondo",
       "away": "Sud America",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51438,7 +51463,10 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Defensores Belgrano VR",
       "away": "CA Alvarado",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51653,6 +51681,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "281ef67cf6b7d410",
+      "league": "COSTA RICA LIGA DE ASCENSO",
+      "kickoff": "Sep 28 2026 3:15AM",
+      "home": "AD Sarchi",
+      "away": "Jicaral Sercoba",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b72e4747a8559369",
       "league": "ARGENTINA PRIMERA B NACIONAL",
       "kickoff": "Sep 28 2026 3:30AM",
@@ -51669,6 +51708,17 @@
       "kickoff": "Sep 28 2026 3:30AM",
       "home": "Deportivo Maipu",
       "away": "CA Temperley",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ea43960a0d63ac71",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Sep 28 2026 3:30AM",
+      "home": "Monagas SC B",
+      "away": "Mineros De Guayana",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51785,6 +51835,61 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "ed76b13c18317850",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Cavalier SC",
+      "away": "Arnett Gardens",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "de9550662e5dc3d9",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Dunbeholden FC",
+      "away": "Mount Pleasant FA",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0d30b4f457b2cdaa",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Molynes United",
+      "away": "Tru-Juice FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4204fdce2da42e75",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Portmore United",
+      "away": "Humble Lions",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d085f4ce1d09519e",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 4:30AM",
+      "home": "Tivoli Gardens",
+      "away": "Chapelton Maroons FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "bd7d576ace6887e0",
       "league": "COLOMBIA PRIMERA A",
       "kickoff": "Sep 28 2026 5:00AM",
@@ -51823,6 +51928,17 @@
       "kickoff": "Sep 28 2026 5:00AM",
       "home": "Deportivo Mixco",
       "away": "Antigua GFC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8075935e95fa72aa",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 28 2026 5:00AM",
+      "home": "Bay FC (w)",
+      "away": "Orlando Pride (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51906,6 +52022,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "4ccaf09ac0b4d8ba",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 6:05AM",
+      "home": "Racing United FC",
+      "away": "Montego Bay United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "d9986aed98798899",
       "league": "USA MAJOR LEAGUE SOCCER",
       "kickoff": "Sep 28 2026 7:00AM",
@@ -51944,6 +52071,17 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Huracan Paso de La Arena",
       "away": "Miramar Misiones",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4e4ffbb43ca53453",
+      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
+      "kickoff": "Sep 28 2026 7:00AM",
+      "home": "Utah Royals FC (w)",
+      "away": "North Carolina Courage (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52043,6 +52181,17 @@
       "kickoff": "Sep 28 2026 9:00AM",
       "home": "Trinidad & Tobago",
       "away": "Dominican Republic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7a367a78b02a79ab",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 9:00AM",
+      "home": "Waterhouse FC",
+      "away": "Treasure Beach FC",
       "ht": null,
       "ft": null,
       "status": "Running",
