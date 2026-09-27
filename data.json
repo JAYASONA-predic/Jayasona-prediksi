@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T15:25:21+00:00",
+  "updated_at": "2026-09-27T15:39:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3209,
+  "count": 3210,
   "archive_count": 3000,
   "matches": [
     {
@@ -103,6 +103,40 @@
       "ft": [
         2,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4d3d1130b0170417",
+      "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
+      "kickoff": "Sep 27 2026 9:30PM",
+      "home": "Libya U20",
+      "away": "Algeria U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "54466a82b790b280",
+      "league": "AUSTRIA WOMEN BUNDESLIGA",
+      "kickoff": "Sep 27 2026 9:30PM",
+      "home": "Sturm Graz (w)",
+      "away": "Austria Wien (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -1004,6 +1038,23 @@
       "ft": [
         1,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dfe7d8767fd4676f",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 27 2026 9:00PM",
+      "home": "Valenzana",
+      "away": "Borgosesia",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50736,57 +50787,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "27b3edbb46bd506a",
-      "league": "JAPAN J-LEAGUE U21",
-      "kickoff": "Sep 20 2026 1:00PM",
-      "home": "Tokyo Verdy U21",
-      "away": "Shimizu S-Pulse U21",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4a07e848318aa8fc",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 12:45PM",
-      "home": "Colombia (V)",
-      "away": "Argentina (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3da132d9394c9a88",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 12:45PM",
-      "home": "Hungary (V)",
-      "away": "Venezuela (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "1820b16889402b3d",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 8:00PM",
@@ -50809,20 +50809,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "dfe7d8767fd4676f",
-      "league": "ITALY SERIE D",
-      "kickoff": "Sep 27 2026 9:00PM",
-      "home": "Valenzana",
-      "away": "Borgosesia",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "68a1170a2c2fccdd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 9:00PM",
@@ -50840,48 +50826,6 @@
       "home": "Lithuania",
       "away": "RCD Mallorca",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4d3d1130b0170417",
-      "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
-      "kickoff": "Sep 27 2026 9:30PM",
-      "home": "Libya U20",
-      "away": "Algeria U20",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "54466a82b790b280",
-      "league": "AUSTRIA WOMEN BUNDESLIGA",
-      "kickoff": "Sep 27 2026 9:30PM",
-      "home": "Sturm Graz (w)",
-      "away": "Austria Wien (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "466966b86b6c2739",
-      "league": "ENGLISH FA TROPHY QUALIFIERS",
-      "kickoff": "Sep 27 2026 10:00PM",
-      "home": "Southall FC",
-      "away": "Carshalton Athletic",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51005,6 +50949,20 @@
       "home": "Pontevedra B",
       "away": "CD Arenteiro",
       "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "466966b86b6c2739",
+      "league": "ENGLISH FA TROPHY QUALIFIERS",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Southall FC",
+      "away": "Carshalton Athletic",
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51507,7 +51465,10 @@
       "kickoff": "Sep 27 2026 10:30PM",
       "home": "Villan Pojat",
       "away": "HauPa",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51997,6 +51958,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "a133fae15b25c52f",
+      "league": "MEMORIAL MLADEN ZIZOVIC TOURNAMENT (IN BOSNIA-HERZEGOVINA)",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "FK Borac Banja Luka",
+      "away": "FK Vojvodina",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "31a0729a14577e08",
       "league": "SPAIN TERCERA FEDERACION",
       "kickoff": "Sep 28 2026 12:00AM",
@@ -52085,11 +52057,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "dc0bb9a63fb5d020",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "KSZO Ostrowiec Swietokrzyski",
+      "away": "Hetman Zamosc",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e81c368b0017a3d8",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "AC Nardo",
+      "away": "ASD Martina Calcio 1947",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b6ef28b1e2f426cb",
       "league": "SPAIN WOMEN PRIMERA DIVISION",
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Deportivo La Coruna (w)",
       "away": "RCD Espanyol (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ca6a208b3c767ec7",
+      "league": "EL SALVADOR PRIMERA RESERVE LEAGUE",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "Alianza FC (R)",
+      "away": "CD Inca (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
