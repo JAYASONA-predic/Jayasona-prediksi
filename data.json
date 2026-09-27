@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T01:24:46+00:00",
+  "updated_at": "2026-09-27T01:38:52+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3036,
+  "count": 3033,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,57 @@
       "away": "St Louis City SC",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "402c7f37b83b727d",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 27 2026 7:30AM",
+      "home": "Atlanta United FC",
+      "away": "New York City FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "22421f336a144c06",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Sep 27 2026 7:30AM",
+      "home": "Charlotte FC",
+      "away": "Chicago Fire",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "08250e52e86f3918",
+      "league": "NEW ZEALAND NATIONAL LEAGUE CHAMPIONSHIP",
+      "kickoff": "Sep 27 2026 7:30AM",
+      "home": "Napier City Rovers",
+      "away": "Miramar Rangers",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50748,71 +50799,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "cb996ce885928084",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30AM",
-      "home": "Sevilla (V)",
-      "away": "CA Osasuna (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "25de70f16427e695",
-      "league": "PERU LIGA 1",
-      "kickoff": "Sep 20 2026 4:30AM",
-      "home": "Sporting Cristal",
-      "away": "Atletico Grau",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "be15b7ca0e32fcd3",
-      "league": "ECUADOR SERIE B (PLAY OFF)",
-      "kickoff": "Sep 20 2026 4:30AM",
-      "home": "Gualaceo SC",
-      "away": "LDU Portoviejo",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "402c7f37b83b727d",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 27 2026 7:30AM",
-      "home": "Atlanta United FC",
-      "away": "New York City FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "df4486ae5e764f2a",
       "league": "USA MAJOR LEAGUE SOCCER",
       "kickoff": "Sep 27 2026 7:30AM",
@@ -50820,20 +50806,6 @@
       "away": "FC Cincinnati",
       "ht": [
         1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "22421f336a144c06",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 27 2026 7:30AM",
-      "home": "Charlotte FC",
-      "away": "Chicago Fire",
-      "ht": [
-        0,
         0
       ],
       "ft": null,
@@ -50849,20 +50821,6 @@
       "ht": [
         2,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "08250e52e86f3918",
-      "league": "NEW ZEALAND NATIONAL LEAGUE CHAMPIONSHIP",
-      "kickoff": "Sep 27 2026 7:30AM",
-      "home": "Napier City Rovers",
-      "away": "Miramar Rangers",
-      "ht": [
-        1,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -50958,7 +50916,10 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "Austin FC",
       "away": "San Diego FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50969,7 +50930,10 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "FC Dallas",
       "away": "Los Angeles FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50991,7 +50955,10 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "Nashville SC",
       "away": "Toronto FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51002,7 +50969,10 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "Seattle Sounders",
       "away": "Minnesota United FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51027,7 +50997,10 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "San Antonio FC",
       "away": "FC Tampa Bay Rowdies",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51038,7 +51011,10 @@
       "kickoff": "Sep 27 2026 8:30AM",
       "home": "Corpus Christi FC",
       "away": "Athletic Club Boise",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
