@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T13:25:08+00:00",
+  "updated_at": "2026-09-27T13:38:41+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3263,
+  "count": 3279,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1e78f2c273fde8a2",
+      "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 27 2026 7:35PM",
+      "home": "China",
+      "away": "New Zealand",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3c8b1c2e7694f03e",
+      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 27 2026 7:35PM",
+      "home": "Kyrgyzstan U16",
+      "away": "Australia U16",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6802202e5205d7ab",
       "league": "CHINA LEAGUE U20",
@@ -18,6 +52,23 @@
       "ft": [
         3,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ba13a623a8d4f9a6",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 27 2026 7:30PM",
+      "home": "Fauske Sprint",
+      "away": "Tromso 2",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50736,57 +50787,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1207b431a2d94c25",
-      "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 20 2026 9:00AM",
-      "home": "Monterrey",
-      "away": "Cruz Azul",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b43f1d7f29ef604e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:45AM",
-      "home": "Netherlands (V)",
-      "away": "Austria (V)",
-      "ht": [
-        2,
-        3
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7b3ed335eedc2f25",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:45AM",
-      "home": "Arsenal (V)",
-      "away": "AS Monaco (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "01087c5c9c0aa7bd",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 27 2026 6:00PM",
@@ -50815,48 +50815,6 @@
       "home": "Gangwon FC",
       "away": "Real Valladolid",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ba13a623a8d4f9a6",
-      "league": "NORWAY 3RD DIVISION",
-      "kickoff": "Sep 27 2026 7:30PM",
-      "home": "Fauske Sprint",
-      "away": "Tromso 2",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1e78f2c273fde8a2",
-      "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
-      "kickoff": "Sep 27 2026 7:35PM",
-      "home": "China",
-      "away": "New Zealand",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3c8b1c2e7694f03e",
-      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
-      "kickoff": "Sep 27 2026 7:35PM",
-      "home": "Kyrgyzstan U16",
-      "away": "Australia U16",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51208,7 +51166,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "Ostia Mare",
       "away": "Forli",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51219,7 +51180,10 @@
       "kickoff": "Sep 27 2026 8:30PM",
       "home": "Ravenna",
       "away": "Gubbio",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51982,6 +51946,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "466966b86b6c2739",
+      "league": "ENGLISH FA TROPHY QUALIFIERS",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Southall FC",
+      "away": "Carshalton Athletic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "e3aa35e6e6f9ce06",
       "league": "PORTUGAL CUP",
       "kickoff": "Sep 27 2026 10:00PM",
@@ -51998,6 +51973,17 @@
       "kickoff": "Sep 27 2026 10:00PM",
       "home": "Shinnik Yaroslavl",
       "away": "SKA-Khabarovsk",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7e59289c8fa1c7d4",
+      "league": "BELGIUM CUP",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "KFC Merelbeke",
+      "away": "KAS Eupen",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52092,6 +52078,83 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c58fdab8aa652c6d",
+      "league": "PORTUGAL CAMPEONATO DE PORTUGAL",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "FC Alverca B",
+      "away": "AD Fazendense",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "21880fcd224481ec",
+      "league": "PORTUGAL CAMPEONATO DE PORTUGAL",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "O Elvas CAD",
+      "away": "Sertanense",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ed3611d019e50c04",
+      "league": "TUNISIAN LEAGUE 2",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "AS Ariana",
+      "away": "Stade Gabesien",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b5e7c1a1c0abde45",
+      "league": "TUNISIAN LEAGUE 2",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "CO Medenine",
+      "away": "Kalaa Sport",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "825df9f1938cfb41",
+      "league": "TUNISIAN LEAGUE 2",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "ES Bouchamma",
+      "away": "Club Sportif de Korba",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cc9fe382de473d09",
+      "league": "TUNISIAN LEAGUE 2",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "SC Moknine",
+      "away": "CS Redeyef",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2f68b77ca35e3847",
+      "league": "NORWAY 2ND DIVISION",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Levanger FK",
+      "away": "Grorud IL",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "7d4ae00806113a3e",
       "league": "SWEDEN 2ND DIVISION",
       "kickoff": "Sep 27 2026 10:00PM",
@@ -52108,6 +52171,39 @@
       "kickoff": "Sep 27 2026 10:00PM",
       "home": "IK Sleipner",
       "away": "FOC Farsta",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "276e234b3e5233c8",
+      "league": "SLOVENIA 2ND DIVISION",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "ND Beltinci",
+      "away": "NK Krka",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c5a53b8d9fa48278",
+      "league": "SLOVENIA 2ND DIVISION",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "ND Slovan Ljubljana",
+      "away": "NK Brezice 1919",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5d1b93d61d5a4b63",
+      "league": "SLOVENIA 2ND DIVISION",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "NK Jesenice",
+      "away": "NK Vrhnika",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52136,11 +52232,66 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "44b5884188993da8",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "ASD Castrumfavara",
+      "away": "Calcio Avola 1949",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e2fc60f1c978f6b6",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Turris",
+      "away": "Fidelis Andria",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dd42c1c6234b6635",
+      "league": "ITALY SERIE D",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Virtus Francavilla Calcio",
+      "away": "ASD Gladiator 1924",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "26e465c37e188db9",
       "league": "SPAIN WOMEN PRIMERA DIVISION",
       "kickoff": "Sep 27 2026 10:00PM",
       "home": "Sevilla (w)",
       "away": "SD Eibar (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2510881a72d4f8f1",
+      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Throttur Reykjavik (w)",
+      "away": "Stjarnan (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b84bfe14bc33aa2d",
+      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Grindavik/Njardvik (w)",
+      "away": "FH Hafnarfjordur (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52163,6 +52314,28 @@
       "kickoff": "Sep 27 2026 10:00PM",
       "home": "Central Espanol",
       "away": "Liverpool Montevideo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "98d8cd45ec16dc7a",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Belgrano (w)",
+      "away": "San Lorenzo (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "53684f3e1fc47e49",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "CA River Plate (w)",
+      "away": "Racing Club (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
