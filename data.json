@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T05:38:54+00:00",
+  "updated_at": "2026-09-27T05:51:52+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3186,
+  "count": 3209,
   "archive_count": 3000,
   "matches": [
     {
@@ -50910,7 +50910,10 @@
       "kickoff": "Sep 27 2026 1:00PM",
       "home": "Mynavi Sendai (w)",
       "away": "Chifure AS Elfen Saitama (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51455,11 +51458,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c61f1808a48ae9d1",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 27 2026 7:00PM",
+      "home": "Vihren Sandanski",
+      "away": "OFC Nesebar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "5d3a402335a05e05",
       "league": "ITALY WOMEN SERIE A",
       "kickoff": "Sep 27 2026 7:00PM",
       "home": "Inter Milan (w)",
       "away": "Fiorentina (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "50318dc1860e7138",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 27 2026 7:00PM",
+      "home": "Brommapojkarna (w)",
+      "away": "Malmo FF (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "de258a77fafb9cbe",
+      "league": "SWEDEN WOMEN DAMALLSVENSKAN",
+      "kickoff": "Sep 27 2026 7:00PM",
+      "home": "FC Rosengard (w)",
+      "away": "Pitea IF (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51493,6 +51529,17 @@
       "kickoff": "Sep 27 2026 8:00PM",
       "home": "SC Rothis",
       "away": "WSG Tirol Juniors",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dd64549f6b889bd5",
+      "league": "DENMARK SERIES",
+      "kickoff": "Sep 27 2026 8:00PM",
+      "home": "BK Skjold",
+      "away": "Ledoje Smorum Fodbold",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51675,6 +51722,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "fb1e7ed366352c0e",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 27 2026 9:30PM",
+      "home": "PFC Beroe",
+      "away": "FC Yantra Gabrovo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "54466a82b790b280",
       "league": "AUSTRIA WOMEN BUNDESLIGA",
       "kickoff": "Sep 27 2026 9:30PM",
@@ -51774,6 +51832,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "a9ef522f3f445fe6",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "Chernomorets 1919 Burgas",
+      "away": "Montana",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cb9da82a3819dbbe",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 27 2026 10:00PM",
+      "home": "CSKA Sofia II",
+      "away": "Sportist Svoge",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "26e465c37e188db9",
       "league": "SPAIN WOMEN PRIMERA DIVISION",
       "kickoff": "Sep 27 2026 10:00PM",
@@ -51834,6 +51914,17 @@
       "kickoff": "Sep 27 2026 10:15PM",
       "home": "RCD Mallorca",
       "away": "Burgos CF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "48e3a661d86ffa35",
+      "league": "AUSTRIA REGIONAL LEAGUE SOUTH",
+      "kickoff": "Sep 27 2026 10:30PM",
+      "home": "SK Treibach",
+      "away": "SK Austria Klagenfurt",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52076,6 +52167,17 @@
       "kickoff": "Sep 28 2026 12:00AM",
       "home": "Moghreb Athletic Tetouan",
       "away": "Renaissance de Berkane",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e14a2ddfa341e542",
+      "league": "BULGARIA SECOND PROFESSIONAL LEAGUE",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "FC Fratria",
+      "away": "Spartak Pleven",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52478,6 +52580,39 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "32196ac2b669b455",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 2:00AM",
+      "home": "Real Oviedo",
+      "away": "Pumas UNAM",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5cdb3f66409ae37d",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 2:00AM",
+      "home": "Pumas UNAM",
+      "away": "Jaguares de Cordoba",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b90dd4a742ae95b5",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 2:00AM",
+      "home": "Pumas UNAM",
+      "away": "CRB Maceio",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "28881be8858948d3",
       "league": "SPAIN PRIMERA FEDERACION",
       "kickoff": "Sep 28 2026 2:30AM",
@@ -52577,6 +52712,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "70eb6f4e2c16dcfa",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 2:45AM",
+      "home": "Germany",
+      "away": "Ireland",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "0252666495726979",
       "league": "SPAIN SEGUNDA DIVISION",
       "kickoff": "Sep 28 2026 3:00AM",
@@ -52637,6 +52783,39 @@
       "kickoff": "Sep 28 2026 3:00AM",
       "home": "Cerrito",
       "away": "La Luz Fc",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "54ce45ade4001ab7",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 3:00AM",
+      "home": "Real Oviedo",
+      "away": "CRB Maceio",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8e6833fbe25e655b",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 3:00AM",
+      "home": "CRB Maceio",
+      "away": "Fortaleza CE",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "138193edb90ab003",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 3:00AM",
+      "home": "CRB Maceio",
+      "away": "Jaguares de Cordoba",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52753,6 +52932,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "4c612843a9a98368",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 5:00AM",
+      "home": "Inter Miami CF",
+      "away": "Jaguares de Cordoba",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4537d447f963262f",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 5:00AM",
+      "home": "Fortaleza CE",
+      "away": "Jaguares de Cordoba",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "cb04cd3f1f38134f",
       "league": "BRAZIL SERIE B",
       "kickoff": "Sep 28 2026 5:30AM",
@@ -52769,6 +52970,28 @@
       "kickoff": "Sep 28 2026 5:30AM",
       "home": "Brusque SC",
       "away": "Ferroviaria SP",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bd61ac847f5951d0",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 5:30AM",
+      "home": "Inter Miami CF",
+      "away": "Fortaleza CE",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d0689f5a3bab02b1",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 5:30AM",
+      "home": "Fortaleza CE",
+      "away": "Deportes Tolima",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52819,10 +53042,43 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "6104f32a75cd54b4",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 7:00AM",
+      "home": "Inter Miami CF",
+      "away": "Club Leon",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2365a955ecb2130f",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 7:00AM",
+      "home": "Inter Miami CF",
+      "away": "Deportes Tolima",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "69a1725b19099d5e",
       "league": "COLOMBIA PRIMERA A",
       "kickoff": "Sep 28 2026 7:05AM",
       "home": "Fortaleza CEIF",
+      "away": "Deportes Tolima",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "25fa8987a897dfad",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 7:05AM",
+      "home": "Club Leon",
       "away": "Deportes Tolima",
       "ht": null,
       "ft": null,
