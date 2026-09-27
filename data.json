@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T20:38:53+00:00",
+  "updated_at": "2026-09-27T20:51:21+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3086,
+  "count": 3080,
   "archive_count": 3000,
   "matches": [
     {
@@ -10,6 +10,57 @@
       "league": "UEFA NATIONS LEAGUE B",
       "kickoff": "Sep 28 2026 2:45AM",
       "home": "Israel (N)",
+      "away": "Ireland",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7094c912f6db3910",
+      "league": "UEFA NATIONS LEAGUE A",
+      "kickoff": "Sep 28 2026 2:45AM",
+      "home": "Germany",
+      "away": "Greece",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c3e54480ba821a94",
+      "league": "UEFA NATIONS LEAGUE A",
+      "kickoff": "Sep 28 2026 2:45AM",
+      "home": "Norway",
+      "away": "Portugal",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "70eb6f4e2c16dcfa",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 2:45AM",
+      "home": "Germany",
       "away": "Ireland",
       "ht": [
         0,
@@ -1596,6 +1647,57 @@
       "ft": [
         3,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ff1fe9aa7a43c89a",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "Denmark",
+      "away": "Germany",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "40520e20eec94149",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "Germany",
+      "away": "Austria",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "40c912e799b9c52b",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 12:00AM",
+      "home": "Netherlands",
+      "away": "Germany",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50679,141 +50781,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "bd01e808b7250e38",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30PM",
-      "home": "Brazil (V)",
-      "away": "Belgium (V)",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5f209122978feec0",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30PM",
-      "home": "Jordan (V)",
-      "away": "Thailand (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "01cdb42d8d38c375",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30PM",
-      "home": "Finland (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e096b23320e81814",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30PM",
-      "home": "Wales (V)",
-      "away": "Croatia (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f8067edd7b8e755d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30PM",
-      "home": "Atalanta (V)",
-      "away": "Bayern Munchen (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3c25125a36ef30c0",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 4:30PM",
-      "home": "FC Koln (V)",
-      "away": "Manchester City (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ff1fe9aa7a43c89a",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 28 2026 12:00AM",
-      "home": "Denmark",
-      "away": "Germany",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "40520e20eec94149",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 28 2026 12:00AM",
-      "home": "Germany",
-      "away": "Austria",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "40c912e799b9c52b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 28 2026 12:00AM",
-      "home": "Netherlands",
-      "away": "Germany",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ebe9e913644bb34c",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 12:30AM",
@@ -50874,45 +50841,6 @@
       "kickoff": "Sep 28 2026 2:30AM",
       "home": "Almirante Brown",
       "away": "CA Acassuso",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7094c912f6db3910",
-      "league": "UEFA NATIONS LEAGUE A",
-      "kickoff": "Sep 28 2026 2:45AM",
-      "home": "Germany",
-      "away": "Greece",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c3e54480ba821a94",
-      "league": "UEFA NATIONS LEAGUE A",
-      "kickoff": "Sep 28 2026 2:45AM",
-      "home": "Norway",
-      "away": "Portugal",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "70eb6f4e2c16dcfa",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 28 2026 2:45AM",
-      "home": "Germany",
-      "away": "Ireland",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51181,7 +51109,10 @@
       "kickoff": "Sep 28 2026 4:00AM",
       "home": "Kawkab Marrakech",
       "away": "Hassania Agadir",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51192,7 +51123,10 @@
       "kickoff": "Sep 28 2026 4:00AM",
       "home": "Racing Club (N)",
       "away": "Boca Juniors",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51225,7 +51159,10 @@
       "kickoff": "Sep 28 2026 4:00AM",
       "home": "Atletico Colina (N)",
       "away": "CD Real Juventud San Joaquin",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51258,7 +51195,10 @@
       "kickoff": "Sep 28 2026 4:00AM",
       "home": "Varzea Grande EC MT",
       "away": "Chapada FC MT",
-      "ht": null,
+      "ht": [
+        2,
+        4
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
