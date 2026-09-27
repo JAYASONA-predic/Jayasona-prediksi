@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T07:09:27+00:00",
+  "updated_at": "2026-09-27T07:26:06+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3253,
+  "count": 3257,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ad3bc0fac2bd4afc",
+      "league": "HONG KONG 2ND DIVISION",
+      "kickoff": "Sep 27 2026 1:30PM",
+      "home": "Sui Tung",
+      "away": "Yau Tsim Mong FT",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "845ac4ab7bbb1c55",
       "league": "JAPAN WOMEN EMPOWERMENT LEAGUE CUP",
@@ -50776,23 +50793,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6f8c976332846efb",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 5:30AM",
-      "home": "FSV Mainz 05 (V)",
-      "away": "Atalanta (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f08f1228905002a7",
       "league": "HONG KONG 1ST DIVISION",
       "kickoff": "Sep 27 2026 1:30PM",
@@ -50815,20 +50815,6 @@
       "ht": [
         0,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ad3bc0fac2bd4afc",
-      "league": "HONG KONG 2ND DIVISION",
-      "kickoff": "Sep 27 2026 1:30PM",
-      "home": "Sui Tung",
-      "away": "Yau Tsim Mong FT",
-      "ht": [
-        1,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -51688,6 +51674,17 @@
       "kickoff": "Sep 27 2026 7:00PM",
       "home": "Las Palmas Atletico",
       "away": "Badajoz",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "117d0a1f15ee0a95",
+      "league": "SWEDEN 2ND DIVISION (PLAY OFF)",
+      "kickoff": "Sep 27 2026 7:00PM",
+      "home": "Lucksta IF",
+      "away": "Taftea IK",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -53509,6 +53506,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "cb4e8362e987729b",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Sep 28 2026 7:00AM",
+      "home": "Haiti (N)",
+      "away": "Costa Rica",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "53b12abdd86c4cf0",
       "league": "URUGUAY SEGUNDA DIVISION",
       "kickoff": "Sep 28 2026 7:00AM",
@@ -53564,6 +53572,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "fdd855bdba04bcbc",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Sep 28 2026 8:00AM",
+      "home": "Curacao",
+      "away": "Nicaragua",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "afad683b35c03c4a",
       "league": "ARGENTINA PRIMERA B NACIONAL",
       "kickoff": "Sep 28 2026 8:00AM",
@@ -53580,6 +53599,28 @@
       "kickoff": "Sep 28 2026 9:00AM",
       "home": "Club Leon",
       "away": "FC Juarez",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "88e8763579ad5847",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Sep 28 2026 9:00AM",
+      "home": "Trinidad & Tobago",
+      "away": "Dominican Republic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f617e3be1de50491",
+      "league": "COLOMBIA PRIMERA A",
+      "kickoff": "Sep 28 2026 9:10AM",
+      "home": "Deportivo Cali",
+      "away": "Aguilas Doradas",
       "ht": null,
       "ft": null,
       "status": "Running",
