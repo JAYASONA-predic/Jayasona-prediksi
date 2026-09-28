@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T01:43:51+00:00",
+  "updated_at": "2026-09-28T01:55:21+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3012,
+  "count": 3010,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "fdd855bdba04bcbc",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Sep 28 2026 8:00AM",
+      "home": "Curacao",
+      "away": "Nicaragua",
+      "ht": [
+        5,
+        0
+      ],
+      "ft": [
+        6,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2961e48800356ab4",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Sep 28 2026 8:00AM",
+      "home": "Dominica",
+      "away": "Puerto Rico",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f53713894ce690b8",
       "league": "BOLIVIA CUP",
@@ -50738,40 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "9daf500d857e0b8e",
-      "league": "SPAIN PRIMERA FEDERACION",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Athletic Bilbao B",
-      "away": "Deportivo Fabril",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3d026c4ff25a6f03",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "CF Calamocha",
-      "away": "UD Logrones B",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "6104f32a75cd54b4",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 7:00AM",
@@ -50789,34 +50789,6 @@
       "home": "Club Leon",
       "away": "Deportes Tolima",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fdd855bdba04bcbc",
-      "league": "CONCACAF NATIONS LEAGUE A",
-      "kickoff": "Sep 28 2026 8:00AM",
-      "home": "Curacao",
-      "away": "Nicaragua",
-      "ht": [
-        5,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2961e48800356ab4",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Sep 28 2026 8:00AM",
-      "home": "Dominica",
-      "away": "Puerto Rico",
-      "ht": [
-        0,
-        2
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50855,7 +50827,10 @@
       "kickoff": "Sep 28 2026 9:00AM",
       "home": "Trinidad & Tobago",
       "away": "Dominican Republic",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50877,7 +50852,10 @@
       "kickoff": "Sep 28 2026 9:00AM",
       "home": "Waterhouse FC",
       "away": "Treasure Beach FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50888,7 +50866,10 @@
       "kickoff": "Sep 28 2026 9:05AM",
       "home": "Waterhouse FC",
       "away": "Treasure Beach FC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
