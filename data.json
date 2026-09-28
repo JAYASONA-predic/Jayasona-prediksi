@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T15:42:38+00:00",
+  "updated_at": "2026-09-28T15:57:41+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3071,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "0652bd891f4c2115",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 28 2026 10:00PM",
+      "home": "NK Maribor",
+      "away": "HNK Gorica",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "dce2924f7d58b305",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
@@ -50761,23 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "bc06094bde88a773",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "France (V)",
-      "away": "Portugal (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3d583b4a9774b832",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 28 2026 10:00PM",
@@ -50799,20 +50799,6 @@
       "away": "Russia U21",
       "ht": [
         0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0652bd891f4c2115",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 28 2026 10:00PM",
-      "home": "NK Maribor",
-      "away": "HNK Gorica",
-      "ht": [
-        1,
         1
       ],
       "ft": null,
@@ -50881,7 +50867,10 @@
       "kickoff": "Sep 28 2026 11:00PM",
       "home": "Al Kharaitiyat (N)",
       "away": "Al Wakrah",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50892,7 +50881,10 @@
       "kickoff": "Sep 28 2026 11:00PM",
       "home": "Slovakia U19",
       "away": "Poland U19",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50903,7 +50895,10 @@
       "kickoff": "Sep 28 2026 11:00PM",
       "home": "MSK Zilina B",
       "away": "FK Humenne",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50914,7 +50909,10 @@
       "kickoff": "Sep 28 2026 11:00PM",
       "home": "Leixoes U23",
       "away": "Vizela U23",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50991,6 +50989,17 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Club Comunicaciones U20",
       "away": "CA Colegiales U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "534a45cbf6f2ccfe",
+      "league": "NORWAY 3RD DIVISION",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "Raelingen FK",
+      "away": "Lyn 1896 FK 2",
       "ht": null,
       "ft": null,
       "status": "Running",
