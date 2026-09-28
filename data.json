@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T10:30:58+00:00",
+  "updated_at": "2026-09-28T10:54:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3080,
+  "count": 3078,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "f8b93fb53f416bbf",
+      "league": "NATIONS CUP U19 (IN SLOVENIA)",
+      "kickoff": "Sep 28 2026 5:00PM",
+      "home": "Faroe Islands U19",
+      "away": "Ireland U19",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f2745b34f6247e98",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 5:00PM",
+      "home": "Tensung FC",
+      "away": "RTC FC",
+      "ht": [
+        1,
+        4
+      ],
+      "ft": [
+        1,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "45845724b530b89a",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -50738,40 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "67abc136afe82532",
-      "league": "POLAND EKSTRAKLASA",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "Piast Gliwice",
-      "away": "Pogon Szczecin",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ec0ae67df3dba476",
-      "league": "NETHERLANDS WOMEN EREDIVISIE",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "PEC Zwolle (w)",
-      "away": "De Graafschap (w)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3cf4e63fcfc9c495",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Sep 28 2026 5:00PM",
@@ -50780,34 +50780,6 @@
       "ht": [
         1,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f8b93fb53f416bbf",
-      "league": "NATIONS CUP U19 (IN SLOVENIA)",
-      "kickoff": "Sep 28 2026 5:00PM",
-      "home": "Faroe Islands U19",
-      "away": "Ireland U19",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f2745b34f6247e98",
-      "league": "BHUTAN PREMIER LEAGUE",
-      "kickoff": "Sep 28 2026 5:00PM",
-      "home": "Tensung FC",
-      "away": "RTC FC",
-      "ht": [
-        1,
-        4
       ],
       "ft": null,
       "status": "Running",
@@ -50880,7 +50852,10 @@
       "kickoff": "Sep 28 2026 6:00PM",
       "home": "Polissya Zhytomyr 2",
       "away": "Kolos Kovalivka 2",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
