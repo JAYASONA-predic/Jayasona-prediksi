@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T22:39:28+00:00",
+  "updated_at": "2026-09-28T22:52:41+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3019,
   "archive_count": 3000,
@@ -50813,7 +50813,10 @@
       "kickoff": "Sep 29 2026 6:00AM",
       "home": "Suriname",
       "away": "Martinique",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50835,7 +50838,10 @@
       "kickoff": "Sep 29 2026 6:00AM",
       "home": "Paysandu FC",
       "away": "Tacuarembo",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
