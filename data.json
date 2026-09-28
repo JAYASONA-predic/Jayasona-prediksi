@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T01:55:21+00:00",
+  "updated_at": "2026-09-28T02:09:15+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3010,
+  "count": 3008,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "118c17d32f8828ef",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 28 2026 8:06AM",
+      "home": "Tigres UANL (w)",
+      "away": "Atletico San Luis (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "fdd855bdba04bcbc",
       "league": "CONCACAF NATIONS LEAGUE A",
@@ -34,6 +51,23 @@
       ],
       "ft": [
         0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "afad683b35c03c4a",
+      "league": "ARGENTINA PRIMERA B NACIONAL",
+      "kickoff": "Sep 28 2026 8:00AM",
+      "home": "Gimnasia Jujuy",
+      "away": "San Martin Tucuman",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        2,
         2
       ],
       "status": "Completed",
@@ -50738,40 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0e7572d97146e37d",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "North Korea U23",
-      "away": "United Arab Emirates U23",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ec2aee39afa44d96",
-      "league": "SPAIN PRIMERA FEDERACION",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Alcorcon",
-      "away": "Gimnastic Tarragona",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "6104f32a75cd54b4",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 7:00AM",
@@ -50789,34 +50789,6 @@
       "home": "Club Leon",
       "away": "Deportes Tolima",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "afad683b35c03c4a",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 28 2026 8:00AM",
-      "home": "Gimnasia Jujuy",
-      "away": "San Martin Tucuman",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "118c17d32f8828ef",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 28 2026 8:06AM",
-      "home": "Tigres UANL (w)",
-      "away": "Atletico San Luis (w)",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50841,7 +50813,10 @@
       "kickoff": "Sep 28 2026 9:00AM",
       "home": "Club Leon",
       "away": "FC Juarez",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50880,15 +50855,18 @@
       "kickoff": "Sep 28 2026 9:10AM",
       "home": "Deportivo Cali",
       "away": "Aguilas Doradas",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5a645a2fed9baef4",
+      "id": "cf1522145f23e5a7",
       "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 28 2026 11:10AM",
+      "kickoff": "Sep 28 2026 11:00AM",
       "home": "Necaxa",
       "away": "Club America",
       "ht": null,
