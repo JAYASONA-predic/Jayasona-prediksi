@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T21:30:21+00:00",
+  "updated_at": "2026-09-28T21:52:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3029,
   "archive_count": 3000,
@@ -50915,7 +50915,10 @@
       "kickoff": "Sep 29 2026 5:00AM",
       "home": "Cuba (N)",
       "away": "Bonaire",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50926,7 +50929,10 @@
       "kickoff": "Sep 29 2026 5:00AM",
       "home": "Internacional de Palmira",
       "away": "Leones FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
