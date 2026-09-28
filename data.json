@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T14:43:04+00:00",
+  "updated_at": "2026-09-28T15:00:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3074,
+  "count": 3071,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "33502834c1dfbb6b",
+      "league": "GREECE SUPER LEAGUE 2",
+      "kickoff": "Sep 28 2026 9:00PM",
+      "home": "Athens Kallithea FC",
+      "away": "Asteras Tripolis B",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a1da359911ca70af",
+      "league": "GREECE SUPER LEAGUE 2",
+      "kickoff": "Sep 28 2026 9:00PM",
+      "home": "FC Marko Markopoulo",
+      "away": "Panthrakikos",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bf289f25d0e5d759",
+      "league": "PARAGUAY PRIMERA DIVISION C",
+      "kickoff": "Sep 28 2026 9:00PM",
+      "home": "Deportivo Pinoza",
+      "away": "Club Oriental Asuncion",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d06e7c682f37f0fd",
       "league": "HONG KONG PREMIER LEAGUE U22",
@@ -50724,99 +50775,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5aff613860acaf3b",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "Algeria (V)",
-      "away": "Turkey (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dce6fb4c5b6ab208",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "Japan U23",
-      "away": "Kyrgyzstan U23",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        7,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fb823bd16ff3b321",
-      "league": "ITALY SERIE C",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "Juventus Next Gen",
-      "away": "Albinoleffe",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        3,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "33502834c1dfbb6b",
-      "league": "GREECE SUPER LEAGUE 2",
-      "kickoff": "Sep 28 2026 9:00PM",
-      "home": "Athens Kallithea FC",
-      "away": "Asteras Tripolis B",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a1da359911ca70af",
-      "league": "GREECE SUPER LEAGUE 2",
-      "kickoff": "Sep 28 2026 9:00PM",
-      "home": "FC Marko Markopoulo",
-      "away": "Panthrakikos",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bf289f25d0e5d759",
-      "league": "PARAGUAY PRIMERA DIVISION C",
-      "kickoff": "Sep 28 2026 9:00PM",
-      "home": "Deportivo Pinoza",
-      "away": "Club Oriental Asuncion",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "dce2924f7d58b305",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
       "kickoff": "Sep 28 2026 9:30PM",
@@ -50850,7 +50808,10 @@
       "kickoff": "Sep 28 2026 10:00PM",
       "home": "Kyrgyzstan",
       "away": "Maldives",
-      "ht": null,
+      "ht": [
+        5,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50861,7 +50822,10 @@
       "kickoff": "Sep 28 2026 10:00PM",
       "home": "North Macedonia U21",
       "away": "Russia U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50872,7 +50836,10 @@
       "kickoff": "Sep 28 2026 10:00PM",
       "home": "NK Maribor",
       "away": "HNK Gorica",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
