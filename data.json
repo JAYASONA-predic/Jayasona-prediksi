@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T16:16:52+00:00",
+  "updated_at": "2026-09-28T16:41:16+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3073,
+  "count": 3072,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "2ed6e381cf5e9117",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 28 2026 10:40PM",
+      "home": "Al Ittifaq (UAE)",
+      "away": "Al Oruba Fujairah",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9458641b7c5c70d8",
+      "league": "NATIONS CUP U19 (IN SLOVENIA)",
+      "kickoff": "Sep 28 2026 10:30PM",
+      "home": "Slovenia U19",
+      "away": "United Arab Emirates U19",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "0652bd891f4c2115",
       "league": "CLUB FRIENDLY",
@@ -50744,54 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fe02246e12678692",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:45PM",
-      "home": "Poland (V)",
-      "away": "USA (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8502426b17591ef3",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:45PM",
-      "home": "AS Monaco (V)",
-      "away": "Lazio (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9458641b7c5c70d8",
-      "league": "NATIONS CUP U19 (IN SLOVENIA)",
-      "kickoff": "Sep 28 2026 10:30PM",
-      "home": "Slovenia U19",
-      "away": "United Arab Emirates U19",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8f9c868c6a4fdff5",
       "league": "UAE PRESIDENTS CUP QUALIFIERS",
       "kickoff": "Sep 28 2026 10:40PM",
@@ -50800,20 +50786,6 @@
       "ht": [
         1,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2ed6e381cf5e9117",
-      "league": "UAE PRESIDENTS CUP QUALIFIERS",
-      "kickoff": "Sep 28 2026 10:40PM",
-      "home": "Al Ittifaq (UAE)",
-      "away": "Al Oruba Fujairah",
-      "ht": [
-        0,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -51090,6 +51062,17 @@
       "kickoff": "Sep 29 2026 1:00AM",
       "home": "Rudar Velenje",
       "away": "ND Dravinja",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f84c5050775d2427",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 1:00AM",
+      "home": "Club Oriental de Football (R)",
+      "away": "Cerro Largo (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
