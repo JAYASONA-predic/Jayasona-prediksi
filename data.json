@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T16:56:26+00:00",
+  "updated_at": "2026-09-28T17:12:06+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3071,
+  "count": 3069,
   "archive_count": 3000,
   "matches": [
     {
@@ -35,6 +35,40 @@
       "ft": [
         0,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e7f54bad4d752407",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 28 2026 11:00PM",
+      "home": "Al Kharaitiyat (N)",
+      "away": "Al Wakrah",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c7bedb4ae145e3db",
+      "league": "PORTUGAL LIGA NEXT GEN U23",
+      "kickoff": "Sep 28 2026 11:00PM",
+      "home": "Leixoes U23",
+      "away": "Vizela U23",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50744,68 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d5e53fc2e705d0a0",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 7:00PM",
-      "home": "Hellas Verona",
-      "away": "Ljungskile",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cd2c0ccd8c58920c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 7:00PM",
-      "home": "Ljungskile",
-      "away": "Helsingborgs",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e7f54bad4d752407",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 28 2026 11:00PM",
-      "home": "Al Kharaitiyat (N)",
-      "away": "Al Wakrah",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c7bedb4ae145e3db",
-      "league": "PORTUGAL LIGA NEXT GEN U23",
-      "kickoff": "Sep 28 2026 11:00PM",
-      "home": "Leixoes U23",
-      "away": "Vizela U23",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "1e26344a1cd0b196",
       "league": "UEFA NATIONS LEAGUE B",
       "kickoff": "Sep 29 2026 12:00AM",
@@ -50895,7 +50867,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Zimbabwe",
       "away": "DR Congo",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
