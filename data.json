@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T10:12:01+00:00",
+  "updated_at": "2026-09-28T10:30:58+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3079,
+  "count": 3080,
   "archive_count": 3000,
   "matches": [
     {
@@ -50852,7 +50852,10 @@
       "kickoff": "Sep 28 2026 5:30PM",
       "home": "Sawmer SC",
       "away": "Nongkseh SSCC",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50863,7 +50866,10 @@
       "kickoff": "Sep 28 2026 5:30PM",
       "home": "Kazakhstan U19",
       "away": "Switzerland U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50918,6 +50924,17 @@
       "kickoff": "Sep 28 2026 6:30PM",
       "home": "Stride Sports FC",
       "away": "HAL SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "02faa143497d2f63",
+      "league": "HONG KONG PREMIER LEAGUE U22",
+      "kickoff": "Sep 28 2026 6:45PM",
+      "home": "Eastern District SA U22",
+      "away": "Kowloon City U22",
       "ht": null,
       "ft": null,
       "status": "Running",
