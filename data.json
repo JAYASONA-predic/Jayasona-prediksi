@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T22:52:41+00:00",
+  "updated_at": "2026-09-28T23:08:50+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3019,
+  "count": 3017,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "693d314178c7c757",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Sep 29 2026 5:00AM",
+      "home": "Cuba (N)",
+      "away": "Bonaire",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e3d85b08cd7acfcb",
+      "league": "COLOMBIA PRIMERA B",
+      "kickoff": "Sep 29 2026 5:00AM",
+      "home": "Internacional de Palmira",
+      "away": "Leones FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "cab1f89cf3e46971",
       "league": "COLOMBIA PRIMERA B",
@@ -50732,68 +50766,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "86be4ae8e01ba64a",
-      "league": "GERMANY BUNDESLIGA 2 - CORNERS",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Arminia Bielefeld",
-      "away": "FC Heidenheim 1846",
-      "ht": [
-        3,
-        6
-      ],
-      "ft": [
-        7,
-        8
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f6e679fc652a905f",
-      "league": "GERMANY BUNDESLIGA 2 - CORNERS",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Energie Cottbus",
-      "away": "St. Pauli",
-      "ht": [
-        5,
-        2
-      ],
-      "ft": [
-        10,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "693d314178c7c757",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Sep 29 2026 5:00AM",
-      "home": "Cuba (N)",
-      "away": "Bonaire",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e3d85b08cd7acfcb",
-      "league": "COLOMBIA PRIMERA B",
-      "kickoff": "Sep 29 2026 5:00AM",
-      "home": "Internacional de Palmira",
-      "away": "Leones FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "1e297aaf9bd2508e",
       "league": "MEXICO WOMEN PRIMERA DIVISION",
       "kickoff": "Sep 29 2026 5:45AM",
@@ -50827,7 +50799,10 @@
       "kickoff": "Sep 29 2026 6:00AM",
       "home": "Libertad",
       "away": "Olimpia Asuncion",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50863,7 +50838,10 @@
       "kickoff": "Sep 29 2026 6:15AM",
       "home": "Guairena Villarrica FC",
       "away": "Fernando de la Mora",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
