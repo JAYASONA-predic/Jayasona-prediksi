@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T20:58:00+00:00",
+  "updated_at": "2026-09-28T21:14:59+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3032,
+  "count": 3030,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "db0c1a45b718b3e1",
+      "league": "PARAGUAY PRIMERA DIVISION C",
+      "kickoff": "Sep 29 2026 3:15AM",
+      "home": "Atletico Juventud Loma Pyta",
+      "away": "Club Pilcomayo FBC",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f457a1b003e87d63",
       "league": "CONCACAF NATIONS LEAGUE B",
@@ -14,6 +31,23 @@
       "ht": [
         0,
         0
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "78dfd4d2c1033c74",
+      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 29 2026 3:00AM",
+      "home": "Tunisia",
+      "away": "Botswana",
+      "ht": [
+        1,
+        1
       ],
       "ft": [
         2,
@@ -50732,40 +50766,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "59850ed1c0749e5d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Norwich City",
-      "away": "Arminia Bielefeld",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "19810a2697a7fb69",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Hannover 96",
-      "away": "Valerenga",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d240fcebfe37e5c5",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 29 2026 2:30AM",
@@ -50854,20 +50854,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "78dfd4d2c1033c74",
-      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
-      "kickoff": "Sep 29 2026 3:00AM",
-      "home": "Tunisia",
-      "away": "Botswana",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "494b08ebf2f43d07",
       "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
       "kickoff": "Sep 29 2026 3:00AM",
@@ -50896,20 +50882,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "db0c1a45b718b3e1",
-      "league": "PARAGUAY PRIMERA DIVISION C",
-      "kickoff": "Sep 29 2026 3:15AM",
-      "home": "Atletico Juventud Loma Pyta",
-      "away": "Club Pilcomayo FBC",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "924d977fc609b140",
       "league": "PARAGUAY PRIMERA DIVISION",
       "kickoff": "Sep 29 2026 4:00AM",
@@ -50929,7 +50901,10 @@
       "kickoff": "Sep 29 2026 4:00AM",
       "home": "Club Atletico Tembetary",
       "away": "Paraguari AC",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
