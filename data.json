@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T13:16:11+00:00",
+  "updated_at": "2026-09-28T13:43:14+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3078,
+  "count": 3079,
   "archive_count": 3000,
   "matches": [
     {
@@ -50863,7 +50863,10 @@
       "kickoff": "Sep 28 2026 8:30PM",
       "home": "Indonesia",
       "away": "Malaysia",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50874,7 +50877,10 @@
       "kickoff": "Sep 28 2026 8:45PM",
       "home": "Shatin U22",
       "away": "Kitchee U22",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50962,6 +50968,17 @@
       "kickoff": "Sep 28 2026 10:00PM",
       "home": "NK Maribor",
       "away": "HNK Gorica",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f85b8cafab320504",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 28 2026 10:00PM",
+      "home": "Racing Club Montevideo (R)",
+      "away": "Colon FC (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
