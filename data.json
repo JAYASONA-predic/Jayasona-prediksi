@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T11:09:46+00:00",
+  "updated_at": "2026-09-28T11:28:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3077,
+  "count": 3082,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "f12ec465bf9d12ed",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 5:30PM",
+      "home": "Sawmer SC",
+      "away": "Nongkseh SSCC",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9498cdf6530c6383",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
+      "kickoff": "Sep 28 2026 5:30PM",
+      "home": "Kazakhstan U19",
+      "away": "Switzerland U19",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f8b93fb53f416bbf",
       "league": "NATIONS CUP U19 (IN SLOVENIA)",
@@ -50738,40 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4d16059e724d1a6a",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "Juventus (V)",
-      "away": "Barcelona (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d84b05719f3f8023",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "Tottenham Hotspur (V)",
-      "away": "Napoli (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "daf9848781ba9217",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 5:00PM",
@@ -50805,34 +50805,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f12ec465bf9d12ed",
-      "league": "INDIA SHILLONG PREMIER LEAGUE",
-      "kickoff": "Sep 28 2026 5:30PM",
-      "home": "Sawmer SC",
-      "away": "Nongkseh SSCC",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9498cdf6530c6383",
-      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
-      "kickoff": "Sep 28 2026 5:30PM",
-      "home": "Kazakhstan U19",
-      "away": "Switzerland U19",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d9d8087e990a6441",
       "league": "UKRAINE 1ST LEAGUE",
       "kickoff": "Sep 28 2026 6:00PM",
@@ -50852,7 +50824,10 @@
       "kickoff": "Sep 28 2026 6:25PM",
       "home": "Japan",
       "away": "Venezuela",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50885,7 +50860,10 @@
       "kickoff": "Sep 28 2026 6:30PM",
       "home": "Stride Sports FC",
       "away": "HAL SC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50946,11 +50924,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "cf0a906df1520c89",
+      "league": "AFRICA U23 CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 28 2026 8:00PM",
+      "home": "Kenya U23",
+      "away": "Tanzania U23",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "274eb8924d4bc084",
       "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
       "kickoff": "Sep 28 2026 8:00PM",
       "home": "Social Atletico Television (w)",
       "away": "Gimnasia La Plata (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7530fd51a991c2f9",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 28 2026 8:00PM",
+      "home": "River Plate Montevideo (R)",
+      "away": "Montevideo City Torque (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50984,6 +50984,28 @@
       "kickoff": "Sep 28 2026 9:00PM",
       "home": "FC Marko Markopoulo",
       "away": "Panthrakikos",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dce2924f7d58b305",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
+      "kickoff": "Sep 28 2026 9:30PM",
+      "home": "Croatia U19",
+      "away": "France U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "67da1aa4ac343087",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
+      "kickoff": "Sep 28 2026 9:30PM",
+      "home": "Turkey U19",
+      "away": "Italy U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51138,6 +51160,17 @@
       "kickoff": "Sep 29 2026 12:45AM",
       "home": "Maccabi Bnei Reineh",
       "away": "Hapoel Raanana",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "664341691c4398fb",
+      "league": "AFRICA U23 CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 29 2026 1:00AM",
+      "home": "Mauritania U23",
+      "away": "DR Congo U23",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51518,6 +51551,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "1e297aaf9bd2508e",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 5:45AM",
+      "home": "Atlante (w)",
+      "away": "Pumas UNAM (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "cee9364d889d2f0e",
       "league": "CONCACAF NATIONS LEAGUE A",
       "kickoff": "Sep 29 2026 6:00AM",
@@ -51578,6 +51622,17 @@
       "kickoff": "Sep 29 2026 7:00AM",
       "home": "Deportes Quindio",
       "away": "Bogota FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "983754a829df25af",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 7:00AM",
+      "home": "Club Leon (w)",
+      "away": "Club America (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
