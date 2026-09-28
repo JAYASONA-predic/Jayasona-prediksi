@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T19:11:54+00:00",
+  "updated_at": "2026-09-28T19:28:13+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3065,
   "archive_count": 3000,
@@ -18,6 +18,23 @@
       "ft": [
         1,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "67223e8ee22c301f",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 29 2026 1:15AM",
+      "home": "Al Sailiya (N)",
+      "away": "Al Rayyan",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50761,23 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "24400d2466c7bf72",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Sep 20 2026 7:00PM",
-      "home": "UD Tamaraceite",
-      "away": "Recreativo Huelva",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "08a11a147ca23459",
       "league": "ARGENTINA PRIMERA NACIONAL U20",
       "kickoff": "Sep 29 2026 12:00AM",
@@ -50795,20 +50795,6 @@
       "home": "Club Oriental de Football (R)",
       "away": "Cerro Largo (R)",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "67223e8ee22c301f",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 29 2026 1:15AM",
-      "home": "Al Sailiya (N)",
-      "away": "Al Rayyan",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50837,17 +50823,6 @@
         3,
         0
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3247cbede7f11ae0",
-      "league": "PARAGUAY PRIMERA DIVISION C",
-      "kickoff": "Sep 29 2026 2:00AM",
-      "home": "Atletico Juventud Loma Pyta",
-      "away": "Club Pilcomayo FBC",
-      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50984,7 +50959,10 @@
       "kickoff": "Sep 29 2026 2:30AM",
       "home": "Leganes",
       "away": "CD Castellon",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51314,6 +51292,28 @@
       "kickoff": "Sep 29 2026 3:00AM",
       "home": "Sportivo Luqueno (R)",
       "away": "Guarani Asuncion (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "284cd4feb889f7de",
+      "league": "ICELAND U19 LEAGUE B",
+      "kickoff": "Sep 29 2026 3:15AM",
+      "home": "IR/Lettir U19",
+      "away": "Grotta/Kria U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "db0c1a45b718b3e1",
+      "league": "PARAGUAY PRIMERA DIVISION C",
+      "kickoff": "Sep 29 2026 3:15AM",
+      "home": "Atletico Juventud Loma Pyta",
+      "away": "Club Pilcomayo FBC",
       "ht": null,
       "ft": null,
       "status": "Running",
