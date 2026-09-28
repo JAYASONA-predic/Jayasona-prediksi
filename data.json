@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T17:12:06+00:00",
+  "updated_at": "2026-09-28T17:29:13+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3069,
+  "count": 3070,
   "archive_count": 3000,
   "matches": [
     {
@@ -51004,7 +51004,10 @@
       "kickoff": "Sep 29 2026 12:30AM",
       "home": "Denmark U21",
       "away": "Belarus U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51081,6 +51084,17 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "FK Loznica",
       "away": "FK Spartak Subotica",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a736cb967b1ffe7d",
+      "league": "ARGENTINA PRIMERA B METROPOLITANA",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Flandria",
+      "away": "CS Dock Sud",
       "ht": null,
       "ft": null,
       "status": "Running",
