@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T12:36:45+00:00",
+  "updated_at": "2026-09-28T12:57:48+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3083,
+  "count": 3081,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "02faa143497d2f63",
+      "league": "HONG KONG PREMIER LEAGUE U22",
+      "kickoff": "Sep 28 2026 6:45PM",
+      "home": "Eastern District SA U22",
+      "away": "Kowloon City U22",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f1bbe5ac8c9a96f5",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -137,6 +154,23 @@
       "ft": [
         1,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a4ede9dd4e0b2be6",
+      "league": "FANTASY MATCH",
+      "kickoff": "Sep 28 2026 5:00PM",
+      "home": "Singapore",
+      "away": "Japan",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50738,56 +50772,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "934bccdd3071ae73",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "Armenia (V)",
-      "away": "Georgia (V)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a802497f6927630d",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "Wales (V)",
-      "away": "Ukraine (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "daf9848781ba9217",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 5:00PM",
       "home": "Bangladesh",
       "away": "Uruguay",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a4ede9dd4e0b2be6",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 28 2026 5:00PM",
-      "home": "Singapore",
-      "away": "Japan",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50822,20 +50811,6 @@
       "home": "Japan",
       "away": "Korea Republic",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "02faa143497d2f63",
-      "league": "HONG KONG PREMIER LEAGUE U22",
-      "kickoff": "Sep 28 2026 6:45PM",
-      "home": "Eastern District SA U22",
-      "away": "Kowloon City U22",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50893,7 +50868,10 @@
       "kickoff": "Sep 28 2026 8:00PM",
       "home": "Kenya U23",
       "away": "Tanzania U23",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50904,7 +50882,10 @@
       "kickoff": "Sep 28 2026 8:00PM",
       "home": "Social Atletico Television (w)",
       "away": "Gimnasia La Plata (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50915,7 +50896,10 @@
       "kickoff": "Sep 28 2026 8:00PM",
       "home": "River Plate Montevideo (R)",
       "away": "Montevideo City Torque (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
