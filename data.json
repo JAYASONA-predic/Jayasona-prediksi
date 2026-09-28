@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T07:30:33+00:00",
+  "updated_at": "2026-09-28T07:55:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3071,
+  "count": 3075,
   "archive_count": 3000,
   "matches": [
     {
@@ -50777,7 +50777,10 @@
       "kickoff": "Sep 28 2026 3:00PM",
       "home": "Jiangxi Lushan FC U20",
       "away": "Qingdao Hainiu U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50788,7 +50791,10 @@
       "kickoff": "Sep 28 2026 3:00PM",
       "home": "Liaoning Tieren U20",
       "away": "Ningbo Professional U20",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50799,7 +50805,10 @@
       "kickoff": "Sep 28 2026 3:00PM",
       "home": "Yunnan Yukun U20",
       "away": "Qingdao West Coast FC U20",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51091,11 +51100,55 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "9729e193183cd113",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "Hapoel Kfar Saba",
+      "away": "Bnei Yehuda Tel Aviv",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9eeb73466aba620f",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "Hapoel Kfar Shalem",
+      "away": "Maccabi Kabilio Jaffa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c9abea0c4980b053",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "Maccabi Kiryat Gat FC",
+      "away": "FC Kafr Qasim",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "6a8d7d740bba84c5",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
       "kickoff": "Sep 29 2026 12:30AM",
       "home": "Denmark U21",
       "away": "Belarus U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1e8dd74feb890ec0",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 29 2026 12:45AM",
+      "home": "Maccabi Bnei Reineh",
+      "away": "Hapoel Raanana",
       "ht": null,
       "ft": null,
       "status": "Running",
