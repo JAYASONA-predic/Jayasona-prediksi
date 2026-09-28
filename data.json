@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T17:29:13+00:00",
+  "updated_at": "2026-09-28T17:45:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3070,
+  "count": 3081,
   "archive_count": 3000,
   "matches": [
     {
@@ -51018,7 +51018,10 @@
       "kickoff": "Sep 29 2026 12:45AM",
       "home": "Maccabi Bnei Reineh",
       "away": "Hapoel Raanana",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51090,11 +51093,110 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "75581ba48f5dba23",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Swansea City U21",
+      "away": "Queens Park Rangers U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3247cbede7f11ae0",
+      "league": "PARAGUAY PRIMERA DIVISION C",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Atletico Juventud Loma Pyta",
+      "away": "Club Pilcomayo FBC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a736cb967b1ffe7d",
       "league": "ARGENTINA PRIMERA B METROPOLITANA",
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Flandria",
       "away": "CS Dock Sud",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f09cf41cbf2e64e8",
+      "league": "ARGENTINA PRIMERA C",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Centro Espanol",
+      "away": "Defensores de Cambaceres",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5da56daa3fe33bc6",
+      "league": "ARGENTINA PRIMERA C",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "JJ Urquiza",
+      "away": "Leandro Niceforo Alem",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "40662c821008bd86",
+      "league": "ARGENTINA PRIMERA C",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Leones de Rosario",
+      "away": "Club Lujan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "63880b79dfcebae3",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "CA Juventud (R)",
+      "away": "La Luz FC (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3fb2f2d10ae2738e",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Defensor Sporting (R)",
+      "away": "CA Progreso (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "620f3ec8d754adab",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Deportivo Maldonado (R)",
+      "away": "Penarol (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6ac36f69af821c36",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "Nacional Montevideo (R)",
+      "away": "Central Espanol (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51431,6 +51533,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7a6fd7ab9f914b36",
+      "league": "PARAGUAY DIVISION INTERMEDIA",
+      "kickoff": "Sep 29 2026 4:00AM",
+      "home": "Club Atletico Tembetary",
+      "away": "Paraguari AC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "cab1f89cf3e46971",
       "league": "COLOMBIA PRIMERA B",
       "kickoff": "Sep 29 2026 4:30AM",
@@ -51502,6 +51615,17 @@
       "kickoff": "Sep 29 2026 6:00AM",
       "home": "Paysandu FC",
       "away": "Tacuarembo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4ee18ae3050da39c",
+      "league": "PARAGUAY DIVISION INTERMEDIA",
+      "kickoff": "Sep 29 2026 6:15AM",
+      "home": "Guairena Villarrica FC",
+      "away": "Fernando de la Mora",
       "ht": null,
       "ft": null,
       "status": "Running",
