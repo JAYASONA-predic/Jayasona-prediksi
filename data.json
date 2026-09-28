@@ -1,10 +1,78 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-27T23:50:44+00:00",
+  "updated_at": "2026-09-28T00:13:56+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3030,
+  "count": 3026,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "4ccaf09ac0b4d8ba",
+      "league": "JAMAICA PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 6:05AM",
+      "home": "Racing United FC",
+      "away": "Montego Bay United",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "20fbac01926a9aa0",
+      "league": "COLOMBIA PRIMERA B",
+      "kickoff": "Sep 28 2026 6:00AM",
+      "home": "Barranquilla FC",
+      "away": "Real Cundinamarca",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6302ed1e39d6e4e5",
+      "league": "MEXICO LIGA PREMIER SERIE A",
+      "kickoff": "Sep 28 2026 6:00AM",
+      "home": "Acambaro FC",
+      "away": "Artesanos Metepec FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3174abae931602b8",
+      "league": "ARGENTINA TORNEO FEDERAL A (PLAY OFF)",
+      "kickoff": "Sep 28 2026 6:00AM",
+      "home": "Sol de America Formosa",
+      "away": "Club Cipolletti",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "cb04cd3f1f38134f",
       "league": "BRAZIL SERIE B",
@@ -50707,74 +50775,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d77e222706e74fe1",
-      "league": "COSAFA U20 CHAMPIONSHIP (IN MOZAMBIQUE)",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Seychelles U20",
-      "away": "Mauritius U20",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        4,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ccd89c3b8211c1ec",
-      "league": "PORTUGAL LIGA NEXT GEN U23",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Maritimo U23",
-      "away": "FC Felgueiras 1932 U23",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "71f5a80e56ed1fbc",
-      "league": "POLAND 2ND DIVISION",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Stal Stalowa Wola",
-      "away": "Resovia Rzeszow",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c35f734fb3b9fec1",
-      "league": "SPAIN DIVISION DE HONOR U19",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "CF Badalona U19",
-      "away": "Girona U19",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "94ef724fc4fc3d20",
       "league": "ARGENTINA PRIMERA B NACIONAL",
       "kickoff": "Sep 28 2026 2:30AM",
@@ -50819,62 +50819,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "20fbac01926a9aa0",
-      "league": "COLOMBIA PRIMERA B",
-      "kickoff": "Sep 28 2026 6:00AM",
-      "home": "Barranquilla FC",
-      "away": "Real Cundinamarca",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6302ed1e39d6e4e5",
-      "league": "MEXICO LIGA PREMIER SERIE A",
-      "kickoff": "Sep 28 2026 6:00AM",
-      "home": "Acambaro FC",
-      "away": "Artesanos Metepec FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3174abae931602b8",
-      "league": "ARGENTINA TORNEO FEDERAL A (PLAY OFF)",
-      "kickoff": "Sep 28 2026 6:00AM",
-      "home": "Sol de America Formosa",
-      "away": "Club Cipolletti",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4ccaf09ac0b4d8ba",
-      "league": "JAMAICA PREMIER LEAGUE",
-      "kickoff": "Sep 28 2026 6:05AM",
-      "home": "Racing United FC",
-      "away": "Montego Bay United",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cb4e8362e987729b",
       "league": "CONCACAF NATIONS LEAGUE A",
       "kickoff": "Sep 28 2026 7:00AM",
@@ -50894,7 +50838,10 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Columbus Crew",
       "away": "Inter Miami CF",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50905,7 +50852,10 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Deportes Santa Cruz",
       "away": "O Higgins",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50916,7 +50866,10 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "One Knoxville SC",
       "away": "Westchester SC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50927,7 +50880,10 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "CD Municipal Limeno",
       "away": "CD FAS",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50938,7 +50894,10 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Huracan Paso de La Arena",
       "away": "Miramar Misiones",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50949,7 +50908,10 @@
       "kickoff": "Sep 28 2026 7:00AM",
       "home": "Utah Royals FC (w)",
       "away": "North Carolina Courage (w)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50982,7 +50944,10 @@
       "kickoff": "Sep 28 2026 7:05AM",
       "home": "Fortaleza CEIF",
       "away": "Deportes Tolima",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51004,7 +50969,10 @@
       "kickoff": "Sep 28 2026 7:15AM",
       "home": "Veraguas United FC",
       "away": "Sporting San Miguelito",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
