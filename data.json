@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T11:28:19+00:00",
+  "updated_at": "2026-09-28T11:46:31+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3082,
   "archive_count": 3000,
@@ -50874,7 +50874,10 @@
       "kickoff": "Sep 28 2026 6:45PM",
       "home": "Eastern District SA U22",
       "away": "Kowloon City U22",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
