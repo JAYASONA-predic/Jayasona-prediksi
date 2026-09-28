@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T08:11:49+00:00",
+  "updated_at": "2026-09-28T08:32:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3076,
+  "count": 3078,
   "archive_count": 3000,
   "matches": [
     {
@@ -50819,7 +50819,10 @@
       "kickoff": "Sep 28 2026 3:30PM",
       "home": "Lanzhou Longyuan Athletic U20",
       "away": "Nantong Zhiyun U20",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50830,7 +50833,10 @@
       "kickoff": "Sep 28 2026 3:30PM",
       "home": "Wenzhou Yincai U20",
       "away": "Qingdao Red Lions U20",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51017,6 +51023,17 @@
       "kickoff": "Sep 28 2026 10:00PM",
       "home": "Kyrgyzstan",
       "away": "Maldives",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0652bd891f4c2115",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 28 2026 10:00PM",
+      "home": "NK Maribor",
+      "away": "HNK Gorica",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51446,6 +51463,17 @@
       "kickoff": "Sep 29 2026 2:45AM",
       "home": "Sweden",
       "away": "Deportivo Recoleta",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "78dfd4d2c1033c74",
+      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 29 2026 3:00AM",
+      "home": "Tunisia",
+      "away": "Botswana",
       "ht": null,
       "ft": null,
       "status": "Running",
