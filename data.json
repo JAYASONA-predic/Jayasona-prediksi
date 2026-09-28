@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T13:58:59+00:00",
+  "updated_at": "2026-09-28T14:20:04+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3077,
+  "count": 3076,
   "archive_count": 3000,
   "matches": [
     {
@@ -35,6 +35,37 @@
       "ft": [
         1,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d8ae2fae4fbe117c",
+      "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 28 2026 8:00PM",
+      "home": "Tajikistan",
+      "away": "Palestine",
+      "ht": null,
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "274eb8924d4bc084",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Sep 28 2026 8:00PM",
+      "home": "Social Atletico Television (w)",
+      "away": "Gimnasia La Plata (w)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50741,40 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "bbbbbb313637c594",
-      "league": "ITALY SERIE C",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "Atalanta U23",
-      "away": "Ravenna",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ecbb277781e6fdab",
-      "league": "AUSTRIA WOMEN BUNDESLIGA",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "SCR Altach (w)",
-      "away": "First Vienna 1894 (w)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "98d235aaa3ecfff8",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 6:25PM",
@@ -50803,31 +50800,6 @@
       "home": "Malaysia",
       "away": "Uruguay",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d8ae2fae4fbe117c",
-      "league": "INTERNATIONAL FOOTBALL TOURNAMENT (IN CHINA)",
-      "kickoff": "Sep 28 2026 8:00PM",
-      "home": "Tajikistan",
-      "away": "Palestine",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "274eb8924d4bc084",
-      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
-      "kickoff": "Sep 28 2026 8:00PM",
-      "home": "Social Atletico Television (w)",
-      "away": "Gimnasia La Plata (w)",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50908,7 +50880,10 @@
       "kickoff": "Sep 28 2026 9:30PM",
       "home": "Croatia U19",
       "away": "France U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50985,6 +50960,17 @@
       "kickoff": "Sep 28 2026 10:40PM",
       "home": "Al Ittifaq (UAE)",
       "away": "Al Oruba Fujairah",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "674ba6b60fd7df0b",
+      "league": "SLOVAKIA 2ND DIVISION",
+      "kickoff": "Sep 28 2026 11:00PM",
+      "home": "MSK Zilina B",
+      "away": "FK Humenne",
       "ht": null,
       "ft": null,
       "status": "Running",
