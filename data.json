@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T08:32:10+00:00",
+  "updated_at": "2026-09-28T08:55:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3078,
+  "count": 3079,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ac170d35aec3b399",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 28 2026 3:00PM",
+      "home": "Liaoning Tieren U20",
+      "away": "Ningbo Professional U20",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a74281bffe667b8e",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 28 2026 3:00PM",
+      "home": "Yunnan Yukun U20",
+      "away": "Qingdao West Coast FC U20",
+      "ht": [
+        4,
+        0
+      ],
+      "ft": [
+        7,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "cf1522145f23e5a7",
       "league": "MEXICO PRIMERA DIVISION",
@@ -50738,40 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2d81cd394a22f4f5",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "France (V)",
-      "away": "Argentina (V)",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": [
-        5,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "08749ce0a9bb9256",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Uruguay (V)",
-      "away": "Netherlands (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "c29415cd1c349ec4",
       "league": "CHINA LEAGUE U20",
       "kickoff": "Sep 28 2026 3:00PM",
@@ -50779,34 +50779,6 @@
       "away": "Qingdao Hainiu U20",
       "ht": [
         0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ac170d35aec3b399",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Sep 28 2026 3:00PM",
-      "home": "Liaoning Tieren U20",
-      "away": "Ningbo Professional U20",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a74281bffe667b8e",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Sep 28 2026 3:00PM",
-      "home": "Yunnan Yukun U20",
-      "away": "Qingdao West Coast FC U20",
-      "ht": [
-        4,
         0
       ],
       "ft": null,
@@ -50864,6 +50836,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f8b93fb53f416bbf",
+      "league": "NATIONS CUP U19 (IN SLOVENIA)",
+      "kickoff": "Sep 28 2026 5:00PM",
+      "home": "Faroe Islands U19",
+      "away": "Ireland U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f2745b34f6247e98",
+      "league": "BHUTAN PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 5:00PM",
+      "home": "Tensung FC",
+      "away": "RTC FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "daf9848781ba9217",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 5:00PM",
@@ -50891,6 +50885,17 @@
       "kickoff": "Sep 28 2026 5:00PM",
       "home": "Singapore",
       "away": "Korea Republic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9498cdf6530c6383",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
+      "kickoff": "Sep 28 2026 5:30PM",
+      "home": "Kazakhstan U19",
+      "away": "Switzerland U19",
       "ht": null,
       "ft": null,
       "status": "Running",
