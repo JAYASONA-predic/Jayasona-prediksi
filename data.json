@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T22:25:56+00:00",
+  "updated_at": "2026-09-28T22:39:28+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3019,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cab1f89cf3e46971",
+      "league": "COLOMBIA PRIMERA B",
+      "kickoff": "Sep 29 2026 4:30AM",
+      "home": "Independiente Valle del Cauca",
+      "away": "Orsomarso SC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        4,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "924d977fc609b140",
       "league": "PARAGUAY PRIMERA DIVISION",
@@ -50749,37 +50766,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "69312854ace54026",
-      "league": "GERMANY BUNDESLIGA 2 - CORNERS",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Hannover 96",
-      "away": "VfL Bochum",
-      "ht": [
-        3,
-        5
-      ],
-      "ft": [
-        4,
-        13
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cab1f89cf3e46971",
-      "league": "COLOMBIA PRIMERA B",
-      "kickoff": "Sep 29 2026 4:30AM",
-      "home": "Independiente Valle del Cauca",
-      "away": "Orsomarso SC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "693d314178c7c757",
       "league": "CONCACAF NATIONS LEAGUE B",
       "kickoff": "Sep 29 2026 5:00AM",
@@ -50813,7 +50799,10 @@
       "kickoff": "Sep 29 2026 5:45AM",
       "home": "Atlante (w)",
       "away": "Pumas UNAM (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50912,6 +50901,17 @@
       "kickoff": "Sep 29 2026 7:00AM",
       "home": "Club Leon (w)",
       "away": "Club America (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "31f823e3faf639b2",
+      "league": "ARGENTINA TORNEO REGIONAL FEDERAL AMATEUR",
+      "kickoff": "Sep 29 2026 7:00AM",
+      "home": "Parana FC San Pedro",
+      "away": "Atletico Baradero",
       "ht": null,
       "ft": null,
       "status": "Running",
