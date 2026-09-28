@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T00:39:20+00:00",
+  "updated_at": "2026-09-28T00:57:20+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3026,
+  "count": 3025,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cb4e8362e987729b",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Sep 28 2026 7:00AM",
+      "home": "Haiti (N)",
+      "away": "Costa Rica",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "4ccaf09ac0b4d8ba",
       "league": "JAMAICA PREMIER LEAGUE",
@@ -50758,23 +50775,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1286c11f381dc374",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 20 2026 6:00PM",
-      "home": "Sporting Atletico",
-      "away": "CD Lealtad",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "94ef724fc4fc3d20",
       "league": "ARGENTINA PRIMERA B NACIONAL",
       "kickoff": "Sep 28 2026 2:30AM",
@@ -50814,20 +50814,6 @@
       "home": "Fortaleza CE",
       "away": "Deportes Tolima",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cb4e8362e987729b",
-      "league": "CONCACAF NATIONS LEAGUE A",
-      "kickoff": "Sep 28 2026 7:00AM",
-      "home": "Haiti (N)",
-      "away": "Costa Rica",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50997,7 +50983,10 @@
       "kickoff": "Sep 28 2026 8:00AM",
       "home": "Curacao",
       "away": "Nicaragua",
-      "ht": null,
+      "ht": [
+        5,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51008,7 +50997,10 @@
       "kickoff": "Sep 28 2026 8:00AM",
       "home": "Dominica",
       "away": "Puerto Rico",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51019,7 +51011,10 @@
       "kickoff": "Sep 28 2026 8:00AM",
       "home": "Gimnasia Jujuy",
       "away": "San Martin Tucuman",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
