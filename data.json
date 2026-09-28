@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T11:46:31+00:00",
+  "updated_at": "2026-09-28T12:12:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3082,
+  "count": 3084,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "d9d8087e990a6441",
+      "league": "UKRAINE 1ST LEAGUE",
+      "kickoff": "Sep 28 2026 6:00PM",
+      "home": "Polissya Zhytomyr 2",
+      "away": "Kolos Kovalivka 2",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f12ec465bf9d12ed",
       "league": "INDIA SHILLONG PREMIER LEAGUE",
@@ -50755,23 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d8749fcf8db0b0b7",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "Wales (V)",
-      "away": "Ghana (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "daf9848781ba9217",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 28 2026 5:00PM",
@@ -50800,20 +50800,6 @@
       "home": "Singapore",
       "away": "Korea Republic",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d9d8087e990a6441",
-      "league": "UKRAINE 1ST LEAGUE",
-      "kickoff": "Sep 28 2026 6:00PM",
-      "home": "Polissya Zhytomyr 2",
-      "away": "Kolos Kovalivka 2",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50888,7 +50874,10 @@
       "kickoff": "Sep 28 2026 7:00PM",
       "home": "Korea Republic",
       "away": "Uruguay",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51026,11 +51015,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "3c56754c4b9095a2",
+      "league": "INTERNATIONAL FRIENDLY U21",
+      "kickoff": "Sep 28 2026 10:00PM",
+      "home": "North Macedonia U21",
+      "away": "Russia U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "0652bd891f4c2115",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 28 2026 10:00PM",
       "home": "NK Maribor",
       "away": "HNK Gorica",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8f9c868c6a4fdff5",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 28 2026 10:40PM",
+      "home": "Al Arabi (UAE)",
+      "away": "Al Dhaid",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2ed6e381cf5e9117",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 28 2026 10:40PM",
+      "home": "Al Ittifaq (UAE)",
+      "away": "Al Oruba Fujairah",
       "ht": null,
       "ft": null,
       "status": "Running",
