@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T15:00:03+00:00",
+  "updated_at": "2026-09-28T15:21:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3071,
   "archive_count": 3000,
@@ -130,7 +130,10 @@
       "kickoff": "Sep 28 2026 8:00PM",
       "home": "Tajikistan",
       "away": "Palestine",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": [
         2,
         4
@@ -50850,7 +50853,10 @@
       "kickoff": "Sep 28 2026 10:00PM",
       "home": "Racing Club Montevideo (R)",
       "away": "Colon FC (R)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50861,7 +50867,10 @@
       "kickoff": "Sep 28 2026 10:30PM",
       "home": "Slovenia U19",
       "away": "United Arab Emirates U19",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
