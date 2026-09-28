@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T08:55:07+00:00",
+  "updated_at": "2026-09-28T09:11:57+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3079,
+  "count": 3080,
   "archive_count": 3000,
   "matches": [
     {
@@ -35,6 +35,23 @@
       "ft": [
         7,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c29415cd1c349ec4",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 28 2026 3:00PM",
+      "home": "Jiangxi Lushan FC U20",
+      "away": "Qingdao Hainiu U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50755,37 +50772,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "06f430fd73b2671e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 6:15PM",
-      "home": "Feyenoord",
-      "away": "PSV Eindhoven",
-      "ht": [
-        3,
-        2
-      ],
-      "ft": [
-        5,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c29415cd1c349ec4",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Sep 28 2026 3:00PM",
-      "home": "Jiangxi Lushan FC U20",
-      "away": "Qingdao Hainiu U20",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "155f824e5757010c",
       "league": "CHINA LEAGUE U20",
       "kickoff": "Sep 28 2026 3:30PM",
@@ -50819,7 +50805,10 @@
       "kickoff": "Sep 28 2026 4:00PM",
       "home": "FC Agniputhra",
       "away": "Parikrma FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50885,6 +50874,17 @@
       "kickoff": "Sep 28 2026 5:00PM",
       "home": "Singapore",
       "away": "Korea Republic",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f12ec465bf9d12ed",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 28 2026 5:30PM",
+      "home": "Sawmer SC",
+      "away": "Nongkseh SSCC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51171,6 +51171,17 @@
       "kickoff": "Sep 29 2026 12:45AM",
       "home": "Maccabi Bnei Reineh",
       "away": "Hapoel Raanana",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1997af62b8198a93",
+      "league": "SLOVENIA 2ND DIVISION",
+      "kickoff": "Sep 29 2026 1:00AM",
+      "home": "Rudar Velenje",
+      "away": "ND Dravinja",
       "ht": null,
       "ft": null,
       "status": "Running",
