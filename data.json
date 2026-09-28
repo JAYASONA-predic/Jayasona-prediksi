@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T16:41:16+00:00",
+  "updated_at": "2026-09-28T16:56:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3072,
+  "count": 3071,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "b6ab712efc3b25b0",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
+      "kickoff": "Sep 28 2026 11:00PM",
+      "home": "Slovakia U19",
+      "away": "Poland U19",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "674ba6b60fd7df0b",
+      "league": "SLOVAKIA 2ND DIVISION",
+      "kickoff": "Sep 28 2026 11:00PM",
+      "home": "MSK Zilina B",
+      "away": "FK Humenne",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "2ed6e381cf5e9117",
       "league": "UAE PRESIDENTS CUP QUALIFIERS",
@@ -18,6 +52,23 @@
       "ft": [
         1,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8f9c868c6a4fdff5",
+      "league": "UAE PRESIDENTS CUP QUALIFIERS",
+      "kickoff": "Sep 28 2026 10:40PM",
+      "home": "Al Arabi (UAE)",
+      "away": "Al Dhaid",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50727,71 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2e9f2e94ee8e6ad9",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:45PM",
-      "home": "Russia (V)",
-      "away": "Switzerland (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d1c87d11a6259b5b",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:45PM",
-      "home": "USA (V)",
-      "away": "Germany (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "21493ef675a0df0c",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:45PM",
-      "home": "Italy (V)",
-      "away": "Sweden (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8f9c868c6a4fdff5",
-      "league": "UAE PRESIDENTS CUP QUALIFIERS",
-      "kickoff": "Sep 28 2026 10:40PM",
-      "home": "Al Arabi (UAE)",
-      "away": "Al Dhaid",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e7f54bad4d752407",
       "league": "QATAR STARS LEAGUE CUP",
       "kickoff": "Sep 28 2026 11:00PM",
@@ -50800,34 +50786,6 @@
       "ht": [
         0,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b6ab712efc3b25b0",
-      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
-      "kickoff": "Sep 28 2026 11:00PM",
-      "home": "Slovakia U19",
-      "away": "Poland U19",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "674ba6b60fd7df0b",
-      "league": "SLOVAKIA 2ND DIVISION",
-      "kickoff": "Sep 28 2026 11:00PM",
-      "home": "MSK Zilina B",
-      "away": "FK Humenne",
-      "ht": [
-        0,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -50853,7 +50811,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Georgia",
       "away": "Ukraine",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50864,7 +50825,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Armenia",
       "away": "Montenegro",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50875,7 +50839,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Latvia",
       "away": "Cyprus",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50886,7 +50853,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Brazil U20 (N)",
       "away": "Denmark U20",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50897,7 +50867,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Central African Republic (N)",
       "away": "Burkina Faso",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50908,7 +50881,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Equatorial Guinea (N)",
       "away": "Sierra Leone",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50941,7 +50917,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "FK Bor 1919",
       "away": "FK Metalac",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50952,7 +50931,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "FK Proleter Zrenjanin",
       "away": "FK Jedinstvo Ub",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50963,7 +50945,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "GFK Dubocica",
       "away": "FK Javor Ivanjica",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50974,7 +50959,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Raelingen FK",
       "away": "Lyn 1896 FK 2",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50985,7 +50973,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "PK Keski Uusimaa (w)",
       "away": "HJK Akatemia (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50996,7 +50987,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Hapoel Kfar Saba",
       "away": "Bnei Yehuda Tel Aviv",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51007,7 +51001,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Hapoel Kfar Shalem",
       "away": "Maccabi Kabilio Jaffa",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51018,7 +51015,10 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Maccabi Kiryat Gat FC",
       "away": "FC Kafr Qasim",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51073,6 +51073,28 @@
       "kickoff": "Sep 29 2026 1:00AM",
       "home": "Club Oriental de Football (R)",
       "away": "Cerro Largo (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "67223e8ee22c301f",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 29 2026 1:15AM",
+      "home": "Al Sailiya (N)",
+      "away": "Al Rayyan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "27d7a1a51e30e1a3",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 29 2026 1:15AM",
+      "home": "Al Shahaniya (N)",
+      "away": "Al Duhail SC",
       "ht": null,
       "ft": null,
       "status": "Running",
