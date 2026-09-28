@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T15:57:41+00:00",
+  "updated_at": "2026-09-28T16:16:52+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3071,
+  "count": 3073,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,57 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3d583b4a9774b832",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Sep 28 2026 10:00PM",
+      "home": "Kyrgyzstan",
+      "away": "Maldives",
+      "ht": [
+        5,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3c56754c4b9095a2",
+      "league": "INTERNATIONAL FRIENDLY U21",
+      "kickoff": "Sep 28 2026 10:00PM",
+      "home": "North Macedonia U21",
+      "away": "Russia U21",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f85b8cafab320504",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 28 2026 10:00PM",
+      "home": "Racing Club Montevideo (R)",
+      "away": "Colon FC (R)",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50727,99 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c988ac4cc51e0e77",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:45PM",
-      "home": "Lille OSC (V)",
-      "away": "Atletico de Madrid (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8db1de1db029e9a4",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "Bosnia-Herzegovina (V)",
-      "away": "Greece (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "800e81968af23fac",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 6:30PM",
-      "home": "Denmark (V)",
-      "away": "Belgium (V)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3d583b4a9774b832",
-      "league": "INTERNATIONAL FRIENDLY",
-      "kickoff": "Sep 28 2026 10:00PM",
-      "home": "Kyrgyzstan",
-      "away": "Maldives",
-      "ht": [
-        5,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3c56754c4b9095a2",
-      "league": "INTERNATIONAL FRIENDLY U21",
-      "kickoff": "Sep 28 2026 10:00PM",
-      "home": "North Macedonia U21",
-      "away": "Russia U21",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f85b8cafab320504",
-      "league": "URUGUAY RESERVE LEAGUE",
-      "kickoff": "Sep 28 2026 10:00PM",
-      "home": "Racing Club Montevideo (R)",
-      "away": "Colon FC (R)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "9458641b7c5c70d8",
       "league": "NATIONS CUP U19 (IN SLOVENIA)",
       "kickoff": "Sep 28 2026 10:30PM",
@@ -50951,6 +50909,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "796a0999389e3875",
+      "league": "INTERNATIONAL FRIENDLY U20",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "Brazil U20 (N)",
+      "away": "Denmark U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "30b9af05bf26e0ed",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
       "kickoff": "Sep 29 2026 12:00AM",
@@ -50989,6 +50958,39 @@
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Club Comunicaciones U20",
       "away": "CA Colegiales U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2a4be8ff38351d85",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "FK Bor 1919",
+      "away": "FK Metalac",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "76fb91eb64bb9f12",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "FK Proleter Zrenjanin",
+      "away": "FK Jedinstvo Ub",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "af9b2fff260318c4",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 29 2026 12:00AM",
+      "home": "GFK Dubocica",
+      "away": "FK Javor Ivanjica",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51088,6 +51090,17 @@
       "kickoff": "Sep 29 2026 1:00AM",
       "home": "Rudar Velenje",
       "away": "ND Dravinja",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "93e5b7a753fe92ee",
+      "league": "SERBIA FIRST LEAGUE",
+      "kickoff": "Sep 29 2026 2:00AM",
+      "home": "FK Loznica",
+      "away": "FK Spartak Subotica",
       "ht": null,
       "ft": null,
       "status": "Running",
