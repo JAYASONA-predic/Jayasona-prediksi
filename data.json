@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T23:08:50+00:00",
+  "updated_at": "2026-09-28T23:25:50+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3017,
+  "count": 3018,
   "archive_count": 3000,
   "matches": [
     {
@@ -50852,7 +50852,10 @@
       "kickoff": "Sep 29 2026 6:30AM",
       "home": "America Mineiro",
       "away": "Juventude RS",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50940,6 +50943,17 @@
       "kickoff": "Sep 29 2026 9:00AM",
       "home": "AD Cariari Pococi",
       "away": "CS Uruguay",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "866baad5882e0126",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 9:06AM",
+      "home": "Necaxa (w)",
+      "away": "Deportivo Toluca (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
