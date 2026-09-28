@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T18:32:53+00:00",
+  "updated_at": "2026-09-28T18:56:34+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3067,
+  "count": 3066,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "664341691c4398fb",
+      "league": "AFRICA U23 CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 29 2026 1:00AM",
+      "home": "Mauritania U23",
+      "away": "DR Congo U23",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1e8dd74feb890ec0",
+      "league": "ISRAEL LEUMIT LEAGUE",
+      "kickoff": "Sep 29 2026 12:45AM",
+      "home": "Maccabi Bnei Reineh",
+      "away": "Hapoel Raanana",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6a8d7d740bba84c5",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
@@ -50744,74 +50778,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "eff3413e6f9e1c68",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 20 2026 7:00PM",
-      "home": "UD San Fernando",
-      "away": "UD Playas de Sotavento",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        5,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "233ca81f987f7c8b",
-      "league": "CAMBODIAN PREMIER LEAGUE",
-      "kickoff": "Sep 20 2026 7:00PM",
-      "home": "ISI Dangkor Senchey FC",
-      "away": "Preah Khan Reach Svay Rieng FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "08a11a147ca23459",
       "league": "ARGENTINA PRIMERA NACIONAL U20",
       "kickoff": "Sep 29 2026 12:00AM",
       "home": "Club Comunicaciones U20",
       "away": "CA Colegiales U20",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1e8dd74feb890ec0",
-      "league": "ISRAEL LEUMIT LEAGUE",
-      "kickoff": "Sep 29 2026 12:45AM",
-      "home": "Maccabi Bnei Reineh",
-      "away": "Hapoel Raanana",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "664341691c4398fb",
-      "league": "AFRICA U23 CUP OF NATIONS 2027 QUALIFIERS",
-      "kickoff": "Sep 29 2026 1:00AM",
-      "home": "Mauritania U23",
-      "away": "DR Congo U23",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50875,7 +50847,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Exeter City U21",
       "away": "Norwich City U21",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50886,7 +50861,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Swansea City U21",
       "away": "Queens Park Rangers U21",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50908,7 +50886,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Flandria",
       "away": "CS Dock Sud",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50919,7 +50900,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Centro Espanol",
       "away": "Defensores de Cambaceres",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50930,7 +50914,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "JJ Urquiza",
       "away": "Leandro Niceforo Alem",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50941,7 +50928,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Leones de Rosario",
       "away": "Club Lujan",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50952,7 +50942,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "CA Juventud (R)",
       "away": "La Luz FC (R)",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50963,7 +50956,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Defensor Sporting (R)",
       "away": "CA Progreso (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50974,7 +50970,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Deportivo Maldonado (R)",
       "away": "Penarol (R)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50985,7 +50984,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "Nacional Montevideo (R)",
       "away": "Central Espanol (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50996,7 +50998,10 @@
       "kickoff": "Sep 29 2026 2:00AM",
       "home": "FK Loznica",
       "away": "FK Spartak Subotica",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51326,6 +51331,17 @@
       "kickoff": "Sep 29 2026 3:00AM",
       "home": "Guadeloupe (N)",
       "away": "Barbados",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "494b08ebf2f43d07",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 3:00AM",
+      "home": "Sportivo Luqueno (R)",
+      "away": "Guarani Asuncion (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
