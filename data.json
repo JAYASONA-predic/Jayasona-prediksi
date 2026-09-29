@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T10:31:10+00:00",
+  "updated_at": "2026-09-29T10:55:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3119,
+  "count": 3124,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ebc0b989e7b3e43c",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 29 2026 5:00PM",
+      "home": "Sagaing United FC U20",
+      "away": "Shan United FC U20",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f92db4756b8fd680",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -50746,23 +50763,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "65631b30da729f6a",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:00PM",
-      "home": "Vaduz",
-      "away": "Lugano",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b6370cbaf309a432",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Sep 29 2026 5:00PM",
@@ -50771,20 +50771,6 @@
       "ht": [
         2,
         0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ebc0b989e7b3e43c",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Sep 29 2026 5:00PM",
-      "home": "Sagaing United FC U20",
-      "away": "Shan United FC U20",
-      "ht": [
-        0,
-        1
       ],
       "ft": null,
       "status": "Running",
@@ -50847,12 +50833,26 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f3daceff9035b4aa",
+      "league": "INTERNATIONAL YOUTH TOURNAMENT (IN SPAIN)",
+      "kickoff": "Sep 29 2026 6:00PM",
+      "home": "USA U19",
+      "away": "Wales U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "1b14190e47910ea1",
       "league": "JAPAN LEAGUE CUP",
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Ehime FC",
       "away": "FC Tokyo",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50863,7 +50863,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "FC Gifu",
       "away": "Yokohama FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50874,7 +50877,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "FC Osaka (N)",
       "away": "Avispa Fukuoka",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50885,7 +50891,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Fujieda MYFC",
       "away": "Cerezo Osaka",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50896,7 +50905,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Fukushima United FC",
       "away": "Mito Hollyhock",
-      "ht": null,
+      "ht": [
+        0,
+        5
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50907,7 +50919,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Gainare Tottori",
       "away": "V-Varen Nagasaki",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50918,7 +50933,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Giravanz Kitakyushu",
       "away": "Nagoya Grampus",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50929,7 +50947,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Hokkaido Consadole Sapporo",
       "away": "Fagiano Okayama",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50940,7 +50961,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Jubilo Iwata",
       "away": "JEF United Ichihara Chiba",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50951,7 +50975,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Kataller Toyama",
       "away": "Urawa Red Diamonds",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50962,7 +50989,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Matsumoto Yamaga FC",
       "away": "Albirex Niigata",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50984,7 +51014,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Roasso Kumamoto",
       "away": "Kawasaki Frontale",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50995,7 +51028,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Sagan Tosu",
       "away": "Tokyo Verdy",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51006,7 +51042,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Tochigi City FC",
       "away": "Sanfrecce Hiroshima",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51017,7 +51056,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Zweigen Kanazawa",
       "away": "Shimizu S-Pulse",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51215,7 +51257,10 @@
       "kickoff": "Sep 29 2026 6:00PM",
       "home": "Portugal U20",
       "away": "Switzerland U20",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51237,6 +51282,17 @@
       "kickoff": "Sep 29 2026 6:30PM",
       "home": "Bangalore City FC",
       "away": "South United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0677f8135ef32366",
+      "league": "INTERNATIONAL YOUTH TOURNAMENT (IN CROATIA)",
+      "kickoff": "Sep 29 2026 6:30PM",
+      "home": "Denmark U18",
+      "away": "Italy U18",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51265,6 +51321,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "a01f5b26928e70b8",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 7:00PM",
+      "home": "Libertad (R)",
+      "away": "Olimpia Asuncion (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "3e1be1f6d889ead8",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
       "kickoff": "Sep 29 2026 8:00PM",
@@ -51281,6 +51348,17 @@
       "kickoff": "Sep 29 2026 8:30PM",
       "home": "Thailand",
       "away": "Vietnam",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b5e5c406f52bd8bc",
+      "league": "MEMORIAL STEVAN VILOTIC CELE U19 TOURNAMENT (IN SERBIA)",
+      "kickoff": "Sep 29 2026 8:30PM",
+      "home": "Bulgaria U19",
+      "away": "Romania U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51391,6 +51469,17 @@
       "kickoff": "Sep 29 2026 10:00PM",
       "home": "Slovenia U21",
       "away": "Israel U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9d5bbfccea039e12",
+      "league": "MEMORIAL STEVAN VILOTIC CELE U19 TOURNAMENT (IN SERBIA)",
+      "kickoff": "Sep 29 2026 10:30PM",
+      "home": "Serbia U19",
+      "away": "Hungary U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52029,6 +52118,17 @@
       "kickoff": "Sep 30 2026 5:00AM",
       "home": "French Guiana (N)",
       "away": "Sint Maarten",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "82fa7804b028ef52",
+      "league": "CHILE CUP",
+      "kickoff": "Sep 30 2026 5:00AM",
+      "home": "Deportes Puerto Montt",
+      "away": "Colo Colo",
       "ht": null,
       "ft": null,
       "status": "Running",
