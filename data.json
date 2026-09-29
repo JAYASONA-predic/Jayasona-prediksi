@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T18:13:08+00:00",
+  "updated_at": "2026-09-29T18:35:12+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3070,
+  "count": 3081,
   "archive_count": 3000,
   "matches": [
     {
@@ -204,6 +204,23 @@
       ],
       "ft": [
         1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2cfe65ed3741dd90",
+      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 30 2026 12:00AM",
+      "home": "Zambia",
+      "away": "Togo",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
         0
       ],
       "status": "Completed",
@@ -50704,37 +50721,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b4033c6cf791321d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "AC Milan (V)",
-      "away": "FC Koln (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2cfe65ed3741dd90",
-      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
-      "kickoff": "Sep 30 2026 12:00AM",
-      "home": "Zambia",
-      "away": "Togo",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "572b15e4f920ad32",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 30 2026 12:00AM",
@@ -50876,7 +50862,10 @@
       "kickoff": "Sep 30 2026 1:30AM",
       "home": "Oman",
       "away": "Kuwait",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50887,7 +50876,10 @@
       "kickoff": "Sep 30 2026 1:30AM",
       "home": "Saudi Arabia",
       "away": "Iraq",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51080,6 +51072,50 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "1c557ff74a307c5e",
+      "league": "UEFA NATIONS LEAGUE C TEAM TOTAL GOAL",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Luxembourg TG - Over",
+      "away": "Luxembourg TG - Under",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dc8825a6c41991c6",
+      "league": "UEFA NATIONS LEAGUE C TEAM TOTAL GOAL",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Iceland TG - Over",
+      "away": "Iceland TG - Under",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "efcd51e2a429f9fb",
+      "league": "UEFA NATIONS LEAGUE C TEAM TOTAL GOAL",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Slovakia TG - Over",
+      "away": "Slovakia TG - Under",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "edec28b1c3a03fd1",
+      "league": "UEFA NATIONS LEAGUE C TEAM TOTAL GOAL",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Kazakhstan TG - Over",
+      "away": "Kazakhstan TG - Under",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "bb6f12e9f6cfc440",
       "league": "ENGLISH NATIONAL LEAGUE",
       "kickoff": "Sep 30 2026 2:45AM",
@@ -51195,6 +51231,94 @@
       "kickoff": "Sep 30 2026 2:45AM",
       "home": "Slough Town",
       "away": "Ebbsfleet United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6d9e160494019704",
+      "league": "ENGLISH ISTHMIAN LEAGUE PREMIER DIVISION",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Dartford FC",
+      "away": "Whitehawk FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "96f0dc916b7133bd",
+      "league": "ENGLISH ISTHMIAN LEAGUE PREMIER DIVISION",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Dulwich Hamlet FC",
+      "away": "Aveley",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aa724aa5c13d14b8",
+      "league": "ENGLISH ISTHMIAN LEAGUE PREMIER DIVISION",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Maldon & Tiptree FC",
+      "away": "Cray Wanderers",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "25b396432a5472c7",
+      "league": "ENGLISH NORTHERN PREMIER DIVISION",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Alfreton Town",
+      "away": "Guiseley AFC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dcdbc1d6ce1dda9b",
+      "league": "ENGLISH NORTHERN PREMIER DIVISION",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Emley AFC",
+      "away": "Workington AFC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1c4a2c5c8543dd79",
+      "league": "ENGLISH NORTHERN PREMIER DIVISION",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Whitby Town",
+      "away": "Lancaster City",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3f3e672c8bf404a0",
+      "league": "ENGLISH SOUTHERN PREMIER DIVISION SOUTH",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Gloucester City",
+      "away": "Plymouth Parkway",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6ef73a46aa17ebf0",
+      "league": "ENGLISH SOUTHERN PREMIER DIVISION SOUTH",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Sholing",
+      "away": "Berkhamsted FC",
       "ht": null,
       "ft": null,
       "status": "Running",
