@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T00:37:26+00:00",
+  "updated_at": "2026-09-29T00:58:02+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3012,
+  "count": 3009,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "f2d0c78b73ca2866",
+      "league": "URUGUAY PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 7:00AM",
+      "home": "Montevideo Wanderers",
+      "away": "Albion FC",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c70b64f19771182b",
+      "league": "COLOMBIA PRIMERA B",
+      "kickoff": "Sep 29 2026 7:00AM",
+      "home": "Deportes Quindio",
+      "away": "Bogota FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "983754a829df25af",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 7:00AM",
+      "home": "Club Leon (w)",
+      "away": "Club America (w)",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "2c2ac330f84b05bb",
       "league": "BRAZIL SERIE B",
@@ -50712,99 +50763,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "ee1a3bcc8c13923e",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:45PM",
-      "home": "Inter Milan (V)",
-      "away": "Arsenal (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c8696ed6fd0bd0c2",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Belgium (V)",
-      "away": "France (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "de3458b0ad6c8151",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Mali (V)",
-      "away": "Qatar (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f2d0c78b73ca2866",
-      "league": "URUGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 29 2026 7:00AM",
-      "home": "Montevideo Wanderers",
-      "away": "Albion FC",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c70b64f19771182b",
-      "league": "COLOMBIA PRIMERA B",
-      "kickoff": "Sep 29 2026 7:00AM",
-      "home": "Deportes Quindio",
-      "away": "Bogota FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "983754a829df25af",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 29 2026 7:00AM",
-      "home": "Club Leon (w)",
-      "away": "Club America (w)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "31f823e3faf639b2",
       "league": "ARGENTINA TORNEO REGIONAL FEDERAL AMATEUR",
       "kickoff": "Sep 29 2026 7:00AM",
@@ -50824,7 +50782,10 @@
       "kickoff": "Sep 29 2026 8:00AM",
       "home": "Jamaica",
       "away": "Honduras",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50835,7 +50796,10 @@
       "kickoff": "Sep 29 2026 8:00AM",
       "home": "Saint Lucia",
       "away": "Bermuda",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50846,7 +50810,10 @@
       "kickoff": "Sep 29 2026 8:00AM",
       "home": "St. Kitts & Nevis",
       "away": "Grenada",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
