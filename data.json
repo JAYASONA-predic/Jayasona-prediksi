@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T02:40:35+00:00",
+  "updated_at": "2026-09-29T02:53:44+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3005,
   "archive_count": 3000,
@@ -50810,7 +50810,10 @@
       "kickoff": "Sep 29 2026 10:00AM",
       "home": "Guatemala",
       "away": "El Salvador",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
