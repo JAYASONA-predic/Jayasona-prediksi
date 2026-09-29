@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T21:42:36+00:00",
+  "updated_at": "2026-09-29T21:54:34+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3014,
   "archive_count": 3000,
@@ -50775,7 +50775,10 @@
       "kickoff": "Sep 30 2026 5:00AM",
       "home": "French Guiana (N)",
       "away": "Sint Maarten",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50786,7 +50789,10 @@
       "kickoff": "Sep 30 2026 5:00AM",
       "home": "Deportes Puerto Montt",
       "away": "Colo Colo",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
