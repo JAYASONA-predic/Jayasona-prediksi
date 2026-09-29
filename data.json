@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T02:53:44+00:00",
+  "updated_at": "2026-09-29T03:09:58+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3005,
+  "count": 3002,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "866baad5882e0126",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 9:06AM",
+      "home": "Necaxa (w)",
+      "away": "Deportivo Toluca (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "919db9d5a503516c",
+      "league": "PANAMA LIGA FUTBOL",
+      "kickoff": "Sep 29 2026 9:00AM",
+      "home": "Alianza FC Panama",
+      "away": "Independiente de La Chorrera",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b59ad04cdba1ca5c",
+      "league": "COSTA RICA LIGA DE ASCENSO",
+      "kickoff": "Sep 29 2026 9:00AM",
+      "home": "AD Cariari Pococi",
+      "away": "CS Uruguay",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "79a3111d2bb793c1",
       "league": "CONCACAF NATIONS LEAGUE A",
@@ -50712,99 +50763,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "582d54892c31ac56",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:00PM",
-      "home": "AaB Aalborg",
-      "away": "NAC Breda",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7c4934f0a46f5a4f",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:00PM",
-      "home": "Viking",
-      "away": "Djurgardens",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3e03471ff524013d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:45PM",
-      "home": "Barcelona (V)",
-      "away": "FC Koln (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "919db9d5a503516c",
-      "league": "PANAMA LIGA FUTBOL",
-      "kickoff": "Sep 29 2026 9:00AM",
-      "home": "Alianza FC Panama",
-      "away": "Independiente de La Chorrera",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b59ad04cdba1ca5c",
-      "league": "COSTA RICA LIGA DE ASCENSO",
-      "kickoff": "Sep 29 2026 9:00AM",
-      "home": "AD Cariari Pococi",
-      "away": "CS Uruguay",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "866baad5882e0126",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 29 2026 9:06AM",
-      "home": "Necaxa (w)",
-      "away": "Deportivo Toluca (w)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b8e958d8b26a458b",
       "league": "CONCACAF NATIONS LEAGUE A",
       "kickoff": "Sep 29 2026 10:00AM",
@@ -50824,7 +50782,10 @@
       "kickoff": "Sep 29 2026 10:05AM",
       "home": "Jaguares de Chiapas",
       "away": "Racing de Veracruz",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
