@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T22:53:47+00:00",
+  "updated_at": "2026-09-29T23:08:44+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3013,
+  "count": 3010,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "460e22a23c5bf221",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Sep 30 2026 5:00AM",
+      "home": "French Guiana (N)",
+      "away": "Sint Maarten",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "82fa7804b028ef52",
+      "league": "CHILE CUP",
+      "kickoff": "Sep 30 2026 5:00AM",
+      "home": "Deportes Puerto Montt",
+      "away": "Colo Colo",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6d4def0a029350ba",
+      "league": "EL SALVADOR PRIMERA DIVISION",
+      "kickoff": "Sep 30 2026 5:00AM",
+      "home": "Atletico Balboa",
+      "away": "CD Cacahuatique",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ab1c29ed0b7f8f25",
       "league": "COLOMBIA PRIMERA A",
@@ -50694,96 +50745,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "40d310c34d11f62a",
-      "league": "*ITALY SERIE A",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Parma",
-      "away": "Genoa",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "59a110efec19ba82",
-      "league": "*ITALY SERIE A - OFFSIDE",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Parma",
-      "away": "Genoa",
-      "ht": [
-        2,
-        4
-      ],
-      "ft": [
-        4,
-        6
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a2a5787165cb3cd0",
-      "league": "*ITALY SERIE A - TOTAL GOALS MINUTES",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Parma",
-      "away": "Genoa",
-      "ht": null,
-      "ft": [
-        118,
-        70
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "460e22a23c5bf221",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Sep 30 2026 5:00AM",
-      "home": "French Guiana (N)",
-      "away": "Sint Maarten",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "82fa7804b028ef52",
-      "league": "CHILE CUP",
-      "kickoff": "Sep 30 2026 5:00AM",
-      "home": "Deportes Puerto Montt",
-      "away": "Colo Colo",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6d4def0a029350ba",
-      "league": "EL SALVADOR PRIMERA DIVISION",
-      "kickoff": "Sep 30 2026 5:00AM",
-      "home": "Atletico Balboa",
-      "away": "CD Cacahuatique",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "aa4668a1195d177f",
       "league": "BOLIVIA CUP",
       "kickoff": "Sep 30 2026 6:00AM",
@@ -50803,7 +50764,10 @@
       "kickoff": "Sep 30 2026 6:00AM",
       "home": "Sportivo Baradero",
       "away": "CA Mitre de San Pedro",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
