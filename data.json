@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T15:15:31+00:00",
+  "updated_at": "2026-09-29T15:43:01+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3088,
+  "count": 3085,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "784f4231ba7168d3",
+      "league": "INDIA MIZORAM PREMIER LEAGUE",
+      "kickoff": "Sep 29 2026 9:30PM",
+      "home": "Aizawl FC",
+      "away": "Chanmari FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5467008469900cf",
+      "league": "SLOVAKIA CUP",
+      "kickoff": "Sep 29 2026 9:30PM",
+      "home": "Inter Bratislava",
+      "away": "FK Zeleziarne Podbrezova",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "db9807b24b76067f",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
@@ -103,6 +137,23 @@
       "ft": [
         1,
         5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4fe1b7a0ed648b96",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 9:00PM",
+      "home": "Liverpool Montevideo (R)",
+      "away": "Montevideo Wanderers (R)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50673,105 +50724,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c7035ab25774ac28",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "Helsingborgs",
-      "away": "SV Ried",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0b25abd58c52d275",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "LASK Linz",
-      "away": "Fenerbahce",
-      "ht": [
-        2,
-        5
-      ],
-      "ft": [
-        3,
-        8
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c68ac7a609063ee7",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "SV Ried",
-      "away": "Fenerbahce",
-      "ht": [
-        3,
-        5
-      ],
-      "ft": [
-        4,
-        8
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f4d4c2e5c1a9c92d",
       "league": "CLUB FRIENDLY",
       "kickoff": "Sep 29 2026 9:00PM",
       "home": "Jagiellonia Bialystok (N)",
       "away": "Suduva",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4fe1b7a0ed648b96",
-      "league": "URUGUAY RESERVE LEAGUE",
-      "kickoff": "Sep 29 2026 9:00PM",
-      "home": "Liverpool Montevideo (R)",
-      "away": "Montevideo Wanderers (R)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "784f4231ba7168d3",
-      "league": "INDIA MIZORAM PREMIER LEAGUE",
-      "kickoff": "Sep 29 2026 9:30PM",
-      "home": "Aizawl FC",
-      "away": "Chanmari FC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e5467008469900cf",
-      "league": "SLOVAKIA CUP",
-      "kickoff": "Sep 29 2026 9:30PM",
-      "home": "Inter Bratislava",
-      "away": "FK Zeleziarne Podbrezova",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50838,7 +50796,10 @@
       "kickoff": "Sep 29 2026 10:30PM",
       "home": "Serbia U19",
       "away": "Hungary U19",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50849,7 +50810,10 @@
       "kickoff": "Sep 29 2026 10:35PM",
       "home": "Al Fujairah",
       "away": "Al Jazira Al Hamra",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50860,7 +50824,10 @@
       "kickoff": "Sep 29 2026 10:40PM",
       "home": "FC Palm City (N)",
       "away": "Dibba Al-Hisn",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
