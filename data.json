@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T08:34:39+00:00",
+  "updated_at": "2026-09-29T08:55:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3113,
+  "count": 3115,
   "archive_count": 3000,
   "matches": [
     {
@@ -50782,7 +50782,10 @@
       "kickoff": "Sep 29 2026 4:00PM",
       "home": "Kickstart FC",
       "away": "Rebels FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50793,6 +50796,28 @@
       "kickoff": "Sep 29 2026 5:00PM",
       "home": "Philippines",
       "away": "Pakistan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ebc0b989e7b3e43c",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 29 2026 5:00PM",
+      "home": "Sagaing United FC U20",
+      "away": "Shan United FC U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "94fb517d5563e8f0",
+      "league": "IFA SHIELD (IN INDIA)",
+      "kickoff": "Sep 29 2026 5:00PM",
+      "home": "Mohun Bagan Super Giant",
+      "away": "NorthEast United FC",
       "ht": null,
       "ft": null,
       "status": "Running",
