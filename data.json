@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T21:54:34+00:00",
+  "updated_at": "2026-09-29T22:09:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3014,
+  "count": 3013,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1b0ca5e0689e3462",
+      "league": "CONCACAF NATIONS LEAGUE C",
+      "kickoff": "Sep 30 2026 4:00AM",
+      "home": "US Virgin Islands",
+      "away": "Bahamas",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "854edf5650915218",
       "league": "PORTUGAL LIGA NEXT GEN U23",
@@ -50725,37 +50742,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "66bf31e71ad66fa9",
-      "league": "FRANCE LIGUE 1 - OFFSIDE",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "AJ Auxerre",
-      "away": "Stade Brestois",
-      "ht": [
-        2,
-        3
-      ],
-      "ft": [
-        10,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1b0ca5e0689e3462",
-      "league": "CONCACAF NATIONS LEAGUE C",
-      "kickoff": "Sep 30 2026 4:00AM",
-      "home": "US Virgin Islands",
-      "away": "Bahamas",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ab1c29ed0b7f8f25",
       "league": "COLOMBIA PRIMERA A",
       "kickoff": "Sep 30 2026 4:30AM",
@@ -50803,7 +50789,10 @@
       "kickoff": "Sep 30 2026 5:00AM",
       "home": "Atletico Balboa",
       "away": "CD Cacahuatique",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
