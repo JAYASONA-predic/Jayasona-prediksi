@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T14:13:25+00:00",
+  "updated_at": "2026-09-29T14:33:00+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3097,
+  "count": 3096,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "6885d90b51efaee3",
+      "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
+      "kickoff": "Sep 29 2026 8:30PM",
+      "home": "Thailand",
+      "away": "Vietnam",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b5e5c406f52bd8bc",
+      "league": "MEMORIAL STEVAN VILOTIC CELE U19 TOURNAMENT (IN SERBIA)",
+      "kickoff": "Sep 29 2026 8:30PM",
+      "home": "Bulgaria U19",
+      "away": "Romania U19",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "8e01ac7b52651a44",
       "league": "ENGLISH CENTRAL RESERVE LEAGUE",
@@ -50690,68 +50724,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "82cbee3b3a8e30e2",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "SV Ried",
-      "away": "Red Bull Salzburg",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        4,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d67ca6ecd9da5219",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "Lille OSC",
-      "away": "Norwich City",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6885d90b51efaee3",
-      "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
-      "kickoff": "Sep 29 2026 8:30PM",
-      "home": "Thailand",
-      "away": "Vietnam",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b5e5c406f52bd8bc",
-      "league": "MEMORIAL STEVAN VILOTIC CELE U19 TOURNAMENT (IN SERBIA)",
-      "kickoff": "Sep 29 2026 8:30PM",
-      "home": "Bulgaria U19",
-      "away": "Romania U19",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "96bf9d9c5aa674f8",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 29 2026 8:30PM",
@@ -50860,7 +50832,10 @@
       "kickoff": "Sep 29 2026 9:00PM",
       "home": "Liverpool Montevideo (R)",
       "away": "Montevideo Wanderers (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50882,7 +50857,10 @@
       "kickoff": "Sep 29 2026 9:30PM",
       "home": "Aizawl FC",
       "away": "Chanmari FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50893,7 +50871,10 @@
       "kickoff": "Sep 29 2026 9:30PM",
       "home": "Inter Bratislava",
       "away": "FK Zeleziarne Podbrezova",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50981,6 +50962,17 @@
       "kickoff": "Sep 29 2026 11:00PM",
       "home": "Iceland U21",
       "away": "Switzerland U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "17ed6cb2696663bf",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 29 2026 11:00PM",
+      "home": "Al Khor",
+      "away": "Umm Salal",
       "ht": null,
       "ft": null,
       "status": "Running",
