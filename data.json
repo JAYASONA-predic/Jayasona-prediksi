@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T18:35:12+00:00",
+  "updated_at": "2026-09-29T18:56:37+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3081,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9d77ad77dab5aeca",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 30 2026 1:00AM",
+      "home": "Norrby IF U21",
+      "away": "Ljungskile U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2e298560bc561f37",
+      "league": "SPAIN WOMEN QUEEN CUP",
+      "kickoff": "Sep 30 2026 1:00AM",
+      "home": "S.D. Huesca (w)",
+      "away": "CA Osasuna (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "bc921023fb3f1f23",
       "league": "UEFA NATIONS LEAGUE C",
@@ -50687,40 +50721,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "712d7b71f907159b",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "Mexico (V)",
-      "away": "Finland (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "43b4c155bc965bbd",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "Spain (V)",
-      "away": "Norway (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "572b15e4f920ad32",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 30 2026 12:00AM",
@@ -50770,34 +50770,6 @@
       "kickoff": "Sep 30 2026 1:00AM",
       "home": "SV Kuchl",
       "away": "SV Wals Grunau",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9d77ad77dab5aeca",
-      "league": "SWEDEN LEAGUE CUP ELITE U21",
-      "kickoff": "Sep 30 2026 1:00AM",
-      "home": "Norrby IF U21",
-      "away": "Ljungskile U21",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2e298560bc561f37",
-      "league": "SPAIN WOMEN QUEEN CUP",
-      "kickoff": "Sep 30 2026 1:00AM",
-      "home": "S.D. Huesca (w)",
-      "away": "CA Osasuna (w)",
       "ht": [
         0,
         0
@@ -50890,7 +50862,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Belgium U21",
       "away": "Wales U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50901,7 +50876,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Ireland U21",
       "away": "Kazakhstan U21",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50912,7 +50890,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Tunisia U23",
       "away": "Benin U23",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50923,7 +50904,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Boreham Wood FC",
       "away": "Kidderminster Harriers",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50945,7 +50929,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Banfield (R)",
       "away": "Atletico Tucuman (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50956,7 +50943,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Club Atletico Tigre (R)",
       "away": "Gimnasia La Plata (R)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50967,7 +50957,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Estudiantes La Plata (R)",
       "away": "Defensa y Justicia (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50978,7 +50971,10 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "San Lorenzo (R)",
       "away": "Aldosivi (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51490,6 +51486,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "813fd00df8116f45",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 30 2026 3:00AM",
+      "home": "Sportivo San Lorenzo (R)",
+      "away": "Deportivo Recoleta (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "344363ade42f21bc",
       "league": "CONCACAF NATIONS LEAGUE C",
       "kickoff": "Sep 30 2026 3:00AM",
@@ -51539,6 +51546,17 @@
       "kickoff": "Sep 30 2026 5:00AM",
       "home": "Deportes Puerto Montt",
       "away": "Colo Colo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6d4def0a029350ba",
+      "league": "EL SALVADOR PRIMERA DIVISION",
+      "kickoff": "Sep 30 2026 5:00AM",
+      "home": "Atletico Balboa",
+      "away": "CD Cacahuatique",
       "ht": null,
       "ft": null,
       "status": "Running",
