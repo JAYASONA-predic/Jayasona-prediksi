@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T13:12:23+00:00",
+  "updated_at": "2026-09-29T13:33:39+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3102,
+  "count": 3104,
   "archive_count": 3000,
   "matches": [
     {
@@ -50869,7 +50869,10 @@
       "kickoff": "Sep 29 2026 8:30PM",
       "home": "Thailand",
       "away": "Vietnam",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50880,7 +50883,10 @@
       "kickoff": "Sep 29 2026 8:30PM",
       "home": "Bulgaria U19",
       "away": "Romania U19",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51029,11 +51035,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "2a1898016e4826e7",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Sep 29 2026 10:00PM",
+      "home": "England U19 (N)",
+      "away": "Norway U18",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "01f55265a3fba371",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
       "kickoff": "Sep 29 2026 10:00PM",
       "home": "Slovenia U21",
       "away": "Israel U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1cf3c45eeeec06d8",
+      "league": "URUGUAY RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 10:00PM",
+      "home": "CA Boston River (R)",
+      "away": "Albion FC (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
