@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T04:45:19+00:00",
+  "updated_at": "2026-09-29T05:09:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3096,
   "archive_count": 3000,
@@ -50768,7 +50768,10 @@
       "kickoff": "Sep 29 2026 12:00PM",
       "home": "Papua New Guinea (w)",
       "away": "Solomon Islands (w)",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
