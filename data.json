@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T10:11:45+00:00",
+  "updated_at": "2026-09-29T10:31:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3119,
   "archive_count": 3000,
@@ -50810,7 +50810,10 @@
       "kickoff": "Sep 29 2026 5:30PM",
       "home": "France U20",
       "away": "England U20",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50821,7 +50824,10 @@
       "kickoff": "Sep 29 2026 5:30PM",
       "home": "Mawlai SC",
       "away": "Meghalaya Police FT",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50832,7 +50838,10 @@
       "kickoff": "Sep 29 2026 5:30PM",
       "home": "Dinthar FC",
       "away": "Ramthar Veng FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
