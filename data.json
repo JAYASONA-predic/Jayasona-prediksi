@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T11:27:42+00:00",
+  "updated_at": "2026-09-29T11:44:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3124,
+  "count": 3129,
   "archive_count": 3000,
   "matches": [
     {
@@ -17,6 +17,40 @@
       ],
       "ft": [
         1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "67e4ab352dd3dc77",
+      "league": "INTERNATIONAL FOOTBALL TOURNAMENT U20 (IN SPAIN)",
+      "kickoff": "Sep 29 2026 5:30PM",
+      "home": "France U20",
+      "away": "England U20",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4c49e2ec38815086",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 29 2026 5:30PM",
+      "home": "Mawlai SC",
+      "away": "Meghalaya Police FT",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
         0
       ],
       "status": "Completed",
@@ -50729,68 +50763,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1928ead876d78d8b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:00PM",
-      "home": "AaB Aalborg",
-      "away": "FC Fredericia",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8adf8cc1385fd4d0",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:00PM",
-      "home": "Getafe CF",
-      "away": "Bayer 04 Leverkusen",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "67e4ab352dd3dc77",
-      "league": "INTERNATIONAL FOOTBALL TOURNAMENT U20 (IN SPAIN)",
-      "kickoff": "Sep 29 2026 5:30PM",
-      "home": "France U20",
-      "away": "England U20",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4c49e2ec38815086",
-      "league": "INDIA SHILLONG PREMIER LEAGUE",
-      "kickoff": "Sep 29 2026 5:30PM",
-      "home": "Mawlai SC",
-      "away": "Meghalaya Police FT",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "1b14190e47910ea1",
       "league": "JAPAN LEAGUE CUP",
       "kickoff": "Sep 29 2026 6:00PM",
@@ -51238,7 +51210,10 @@
       "kickoff": "Sep 29 2026 6:30PM",
       "home": "Japan (w)",
       "away": "Korea Republic (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51613,6 +51588,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "51ae92098b3e866e",
+      "league": "DENMARK WOMEN A-LIGA",
+      "kickoff": "Sep 30 2026 12:00AM",
+      "home": "Odense Q (w)",
+      "away": "AGF Aarhus (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "572b15e4f920ad32",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 30 2026 12:00AM",
@@ -51706,6 +51692,61 @@
       "kickoff": "Sep 30 2026 2:00AM",
       "home": "Boreham Wood FC",
       "away": "Kidderminster Harriers",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0a286bbb7eac77d1",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 30 2026 2:00AM",
+      "home": "Atletico de Rafaela (R)",
+      "away": "Ferro Carril Oeste (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0b0ef9d88bda6904",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 30 2026 2:00AM",
+      "home": "Banfield (R)",
+      "away": "Atletico Tucuman (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "14c395fb9358d00e",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 30 2026 2:00AM",
+      "home": "Club Atletico Tigre (R)",
+      "away": "Gimnasia La Plata (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3dfd335b9368805e",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 30 2026 2:00AM",
+      "home": "Estudiantes La Plata (R)",
+      "away": "Defensa y Justicia (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "138e48dbd72ba2d3",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Sep 30 2026 2:00AM",
+      "home": "San Lorenzo (R)",
+      "away": "Aldosivi (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52080,6 +52121,17 @@
       "kickoff": "Sep 30 2026 3:00AM",
       "home": "Universitario de Vinto (N)",
       "away": "Club Deportivo Guabira",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "344363ade42f21bc",
+      "league": "CONCACAF NATIONS LEAGUE C",
+      "kickoff": "Sep 30 2026 3:00AM",
+      "home": "British Virgin Islands (N)",
+      "away": "Turks and Caicos Islands",
       "ht": null,
       "ft": null,
       "status": "Running",
