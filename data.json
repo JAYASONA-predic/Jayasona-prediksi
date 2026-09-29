@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-28T23:52:43+00:00",
+  "updated_at": "2026-09-29T00:13:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3017,
+  "count": 3014,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "4ee18ae3050da39c",
+      "league": "PARAGUAY DIVISION INTERMEDIA",
+      "kickoff": "Sep 29 2026 6:15AM",
+      "home": "Guairena Villarrica FC",
+      "away": "Fernando de la Mora",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cee9364d889d2f0e",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Sep 29 2026 6:00AM",
+      "home": "Suriname",
+      "away": "Martinique",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "01a316d69dcc726a",
+      "league": "URUGUAY SEGUNDA DIVISION",
+      "kickoff": "Sep 29 2026 6:00AM",
+      "home": "Paysandu FC",
+      "away": "Tacuarembo",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "1e297aaf9bd2508e",
       "league": "MEXICO WOMEN PRIMERA DIVISION",
@@ -50715,71 +50766,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0664c7a51781383f",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Leicester City (V)",
-      "away": "AS Monaco (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "719d49197b5c16a5",
-      "league": "GERMANY BUNDESLIGA 2",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Energie Cottbus",
-      "away": "St. Pauli",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e006ce4696d24f35",
-      "league": "GERMANY BUNDESLIGA 2",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Hannover 96",
-      "away": "VfL Bochum",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cee9364d889d2f0e",
-      "league": "CONCACAF NATIONS LEAGUE A",
-      "kickoff": "Sep 29 2026 6:00AM",
-      "home": "Suriname",
-      "away": "Martinique",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "833c69928ac71e09",
       "league": "PARAGUAY PRIMERA DIVISION",
       "kickoff": "Sep 29 2026 6:00AM",
@@ -50794,40 +50780,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "01a316d69dcc726a",
-      "league": "URUGUAY SEGUNDA DIVISION",
-      "kickoff": "Sep 29 2026 6:00AM",
-      "home": "Paysandu FC",
-      "away": "Tacuarembo",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e142c7a9b29360da",
       "league": "PARAGUAY PRIMERA DIVISION",
       "kickoff": "Sep 29 2026 6:15AM",
       "home": "Libertad",
       "away": "Olimpia Asuncion",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4ee18ae3050da39c",
-      "league": "PARAGUAY DIVISION INTERMEDIA",
-      "kickoff": "Sep 29 2026 6:15AM",
-      "home": "Guairena Villarrica FC",
-      "away": "Fernando de la Mora",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50894,7 +50852,10 @@
       "kickoff": "Sep 29 2026 7:00AM",
       "home": "Parana FC San Pedro",
       "away": "Atletico Baradero",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
