@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T06:14:57+00:00",
+  "updated_at": "2026-09-29T06:38:35+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3112,
+  "count": 3113,
   "archive_count": 3000,
   "matches": [
     {
@@ -50768,7 +50768,10 @@
       "kickoff": "Sep 29 2026 1:30PM",
       "home": "ASC Football Club",
       "away": "Bengaluru FC B",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51747,6 +51750,17 @@
       "kickoff": "Sep 30 2026 2:45AM",
       "home": "Yeovil Town",
       "away": "Worthing",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cc7241153bb64d40",
+      "league": "WALES PREMIER LEAGUE",
+      "kickoff": "Sep 30 2026 2:45AM",
+      "home": "Cardiff Met",
+      "away": "Haverfordwest County",
       "ht": null,
       "ft": null,
       "status": "Running",
