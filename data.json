@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T11:09:51+00:00",
+  "updated_at": "2026-09-29T11:27:42+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3124,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "bb4c8b56e104ee2e",
+      "league": "INDIA MIZORAM PREMIER LEAGUE",
+      "kickoff": "Sep 29 2026 5:30PM",
+      "home": "Dinthar FC",
+      "away": "Ramthar Veng FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "ebc0b989e7b3e43c",
       "league": "MYANMAR NATIONAL LEAGUE U20",
@@ -35,6 +52,23 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b6370cbaf309a432",
+      "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
+      "kickoff": "Sep 29 2026 5:00PM",
+      "home": "Philippines",
+      "away": "Pakistan",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50729,54 +50763,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f30b1d39d8ba9866",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:00PM",
-      "home": "FC Copenhagen",
-      "away": "AGF Aarhus",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "647c2996e4b5d264",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 8:00PM",
-      "home": "Vaduz",
-      "away": "Sint Truidense",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b6370cbaf309a432",
-      "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
-      "kickoff": "Sep 29 2026 5:00PM",
-      "home": "Philippines",
-      "away": "Pakistan",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "67e4ab352dd3dc77",
       "league": "INTERNATIONAL FOOTBALL TOURNAMENT U20 (IN SPAIN)",
       "kickoff": "Sep 29 2026 5:30PM",
@@ -50796,20 +50782,6 @@
       "kickoff": "Sep 29 2026 5:30PM",
       "home": "Mawlai SC",
       "away": "Meghalaya Police FT",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bb4c8b56e104ee2e",
-      "league": "INDIA MIZORAM PREMIER LEAGUE",
-      "kickoff": "Sep 29 2026 5:30PM",
-      "home": "Dinthar FC",
-      "away": "Ramthar Veng FC",
       "ht": [
         1,
         0
@@ -51277,7 +51249,10 @@
       "kickoff": "Sep 29 2026 6:30PM",
       "home": "Bangalore City FC",
       "away": "South United",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51288,7 +51263,10 @@
       "kickoff": "Sep 29 2026 6:30PM",
       "home": "Denmark U18",
       "away": "Italy U18",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52097,6 +52075,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "5f31867ec9ef42a1",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Sep 30 2026 3:00AM",
+      "home": "Universitario de Vinto (N)",
+      "away": "Club Deportivo Guabira",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "854edf5650915218",
       "league": "PORTUGAL LIGA NEXT GEN U23",
       "kickoff": "Sep 30 2026 3:15AM",
@@ -52135,6 +52124,17 @@
       "kickoff": "Sep 30 2026 5:00AM",
       "home": "Deportes Puerto Montt",
       "away": "Colo Colo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aa4668a1195d177f",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Sep 30 2026 6:00AM",
+      "home": "Real Potosi",
+      "away": "Academia del Balompie Boliviano",
       "ht": null,
       "ft": null,
       "status": "Running",
