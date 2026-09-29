@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T21:09:09+00:00",
+  "updated_at": "2026-09-29T21:27:31+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3015,
+  "count": 3013,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "854edf5650915218",
+      "league": "PORTUGAL LIGA NEXT GEN U23",
+      "kickoff": "Sep 30 2026 3:15AM",
+      "home": "Rio Ave U23",
+      "away": "Penafiel U23",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "1fdfd15084872b94",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
@@ -137,6 +154,23 @@
       "ft": [
         0,
         3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4f5fbeb35013edf9",
+      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Sep 30 2026 3:00AM",
+      "home": "Gabon",
+      "away": "Niger",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50708,68 +50742,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0065e5aecf891845",
-      "league": "ITALY SERIE B",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Arezzo",
-      "away": "FC Sudtirol",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bd13293bc2a00252",
-      "league": "ITALY SERIE B",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Hellas Verona",
-      "away": "LR Vicenza 1902",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4f5fbeb35013edf9",
-      "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
-      "kickoff": "Sep 30 2026 3:00AM",
-      "home": "Gabon",
-      "away": "Niger",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "854edf5650915218",
-      "league": "PORTUGAL LIGA NEXT GEN U23",
-      "kickoff": "Sep 30 2026 3:15AM",
-      "home": "Rio Ave U23",
-      "away": "Penafiel U23",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "1b0ca5e0689e3462",
       "league": "CONCACAF NATIONS LEAGUE C",
       "kickoff": "Sep 30 2026 4:00AM",
@@ -50789,7 +50761,10 @@
       "kickoff": "Sep 30 2026 4:30AM",
       "home": "Deportivo Pereira",
       "away": "Independiente Santa Fe",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
