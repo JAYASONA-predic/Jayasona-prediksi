@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T09:31:27+00:00",
+  "updated_at": "2026-09-29T09:56:00+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3118,
+  "count": 3119,
   "archive_count": 3000,
   "matches": [
     {
@@ -50782,7 +50782,10 @@
       "kickoff": "Sep 29 2026 5:00PM",
       "home": "Philippines",
       "away": "Pakistan",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50793,7 +50796,10 @@
       "kickoff": "Sep 29 2026 5:00PM",
       "home": "Sagaing United FC U20",
       "away": "Shan United FC U20",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50804,7 +50810,10 @@
       "kickoff": "Sep 29 2026 5:00PM",
       "home": "Mohun Bagan Super Giant",
       "away": "NorthEast United FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52003,6 +52012,17 @@
       "kickoff": "Sep 30 2026 4:30AM",
       "home": "Deportivo Pereira",
       "away": "Independiente Santa Fe",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "460e22a23c5bf221",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Sep 30 2026 5:00AM",
+      "home": "French Guiana (N)",
+      "away": "Sint Maarten",
       "ht": null,
       "ft": null,
       "status": "Running",
