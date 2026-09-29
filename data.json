@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T00:13:26+00:00",
+  "updated_at": "2026-09-29T00:37:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3014,
+  "count": 3012,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "2c2ac330f84b05bb",
+      "league": "BRAZIL SERIE B",
+      "kickoff": "Sep 29 2026 6:30AM",
+      "home": "America Mineiro",
+      "away": "Juventude RS",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "4ee18ae3050da39c",
       "league": "PARAGUAY DIVISION INTERMEDIA",
@@ -18,6 +35,20 @@
       "ft": [
         0,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e142c7a9b29360da",
+      "league": "PARAGUAY PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 6:15AM",
+      "home": "Libertad",
+      "away": "Olimpia Asuncion",
+      "ht": null,
+      "ft": [
+        0,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52,6 +83,23 @@
       "ft": [
         2,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "833c69928ac71e09",
+      "league": "PARAGUAY PRIMERA DIVISION",
+      "kickoff": "Sep 29 2026 6:00AM",
+      "home": "Libertad",
+      "away": "Olimpia Asuncion",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50715,96 +50763,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "cf1c156eeb3e778e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Morocco (V)",
-      "away": "Hungary (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e7738251e7558f12",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Romania (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f92b30cb9f6fd120",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 7:30PM",
-      "home": "Getafe CF (V)",
-      "away": "Atletico de Madrid (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "833c69928ac71e09",
-      "league": "PARAGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 29 2026 6:00AM",
-      "home": "Libertad",
-      "away": "Olimpia Asuncion",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e142c7a9b29360da",
-      "league": "PARAGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 29 2026 6:15AM",
-      "home": "Libertad",
-      "away": "Olimpia Asuncion",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2c2ac330f84b05bb",
-      "league": "BRAZIL SERIE B",
-      "kickoff": "Sep 29 2026 6:30AM",
-      "home": "America Mineiro",
-      "away": "Juventude RS",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f2d0c78b73ca2866",
       "league": "URUGUAY PRIMERA DIVISION",
       "kickoff": "Sep 29 2026 7:00AM",
@@ -50888,6 +50846,17 @@
       "kickoff": "Sep 29 2026 8:00AM",
       "home": "St. Kitts & Nevis",
       "away": "Grenada",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "919db9d5a503516c",
+      "league": "PANAMA LIGA FUTBOL",
+      "kickoff": "Sep 29 2026 9:00AM",
+      "home": "Alianza FC Panama",
+      "away": "Independiente de La Chorrera",
       "ht": null,
       "ft": null,
       "status": "Running",
