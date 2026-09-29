@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T18:56:37+00:00",
+  "updated_at": "2026-09-29T19:12:53+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3081,
+  "count": 3079,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "ead34caa172b0383",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 30 2026 1:15AM",
+      "home": "Al Markhiya (N)",
+      "away": "Al Ahli Doha",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b72c82069eb67a0d",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Sep 30 2026 1:15AM",
+      "home": "Al Waab SC (N)",
+      "away": "Lusail SC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "9d77ad77dab5aeca",
       "league": "SWEDEN LEAGUE CUP ELITE U21",
@@ -34,6 +68,23 @@
       ],
       "ft": [
         0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1f899f9a5e5e91a3",
+      "league": "AUSTRIA SFV CUP",
+      "kickoff": "Sep 30 2026 1:00AM",
+      "home": "SV Kuchl",
+      "away": "SV Wals Grunau",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
         1
       ],
       "status": "Completed",
@@ -50670,57 +50721,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "9436422126ef2d76",
-      "league": "POLAND EKSTRAKLASA",
-      "kickoff": "Sep 20 2026 8:45PM",
-      "home": "Zaglebie Lubin",
-      "away": "Wisla Plock",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7777f8eb7586c9c8",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "Algeria (V)",
-      "away": "Slovenia (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f2a116360bc10d1f",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 8:30PM",
-      "home": "Paraguay (V)",
-      "away": "Colombia (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "572b15e4f920ad32",
       "league": "FANTASY MATCH",
       "kickoff": "Sep 30 2026 12:00AM",
@@ -50765,20 +50765,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1f899f9a5e5e91a3",
-      "league": "AUSTRIA SFV CUP",
-      "kickoff": "Sep 30 2026 1:00AM",
-      "home": "SV Kuchl",
-      "away": "SV Wals Grunau",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7eb6fd07665156c0",
       "league": "SWEDEN WOMEN CUP",
       "kickoff": "Sep 30 2026 1:00AM",
@@ -50796,34 +50782,6 @@
       "home": "Linkopings FC (w)",
       "away": "IFK Norrkoping (w)",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ead34caa172b0383",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 30 2026 1:15AM",
-      "home": "Al Markhiya (N)",
-      "away": "Al Ahli Doha",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b72c82069eb67a0d",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Sep 30 2026 1:15AM",
-      "home": "Al Waab SC (N)",
-      "away": "Lusail SC",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51469,6 +51427,17 @@
       "kickoff": "Sep 30 2026 3:00AM",
       "home": "Somalia (N)",
       "away": "Ivory Coast",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7bf248da7af765cf",
+      "league": "NORTHERN IRELAND PREMIERSHIP DEVELOPMENT LEAGUE",
+      "kickoff": "Sep 30 2026 3:00AM",
+      "home": "Larne Olympic",
+      "away": "Limavady United U21",
       "ht": null,
       "ft": null,
       "status": "Running",
