@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-29T12:46:55+00:00",
+  "updated_at": "2026-09-29T13:12:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3104,
+  "count": 3102,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "42c03da6b9e63d4b",
+      "league": "CHINA LEAGUE 1",
+      "kickoff": "Sep 29 2026 7:00PM",
+      "home": "Wuxi Wugo FC",
+      "away": "Ningbo Professional",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "69653e6aafc19195",
+      "league": "PORTUGAL LIGA NEXT GEN U23",
+      "kickoff": "Sep 29 2026 7:00PM",
+      "home": "CD Santa Clara U23",
+      "away": "FC Felgueiras 1932 U23",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a01f5b26928e70b8",
+      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
+      "kickoff": "Sep 29 2026 7:00PM",
+      "home": "Libertad (R)",
+      "away": "Olimpia Asuncion (R)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "cc92dcd46a8166ee",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
@@ -50673,105 +50724,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6d19328f47fbb479",
-      "league": "VIETNAM NATIONAL CUP QUALIFIERS",
-      "kickoff": "Sep 20 2026 8:15PM",
-      "home": "Ha Noi FC",
-      "away": "SHB Da Nang FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "be1ec9d06575da41",
-      "league": "BULGARIA FIRST PROFESSIONAL LEAGUE",
-      "kickoff": "Sep 20 2026 8:15PM",
-      "home": "Spartak Varna",
-      "away": "Lokomotiv Sofia 1929",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e3854853868b8e38",
-      "league": "MALAYSIA FA CUP",
-      "kickoff": "Sep 20 2026 8:15PM",
-      "home": "DPMM FC",
-      "away": "Kuala Lumpur City FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "42c03da6b9e63d4b",
-      "league": "CHINA LEAGUE 1",
-      "kickoff": "Sep 29 2026 7:00PM",
-      "home": "Wuxi Wugo FC",
-      "away": "Ningbo Professional",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "69653e6aafc19195",
-      "league": "PORTUGAL LIGA NEXT GEN U23",
-      "kickoff": "Sep 29 2026 7:00PM",
-      "home": "CD Santa Clara U23",
-      "away": "FC Felgueiras 1932 U23",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a01f5b26928e70b8",
-      "league": "PARAGUAY PRIMERA DIVISION RESERVE LEAGUE",
-      "kickoff": "Sep 29 2026 7:00PM",
-      "home": "Libertad (R)",
-      "away": "Olimpia Asuncion (R)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3e1be1f6d889ead8",
       "league": "AFRICA CUP OF NATIONS 2027 QUALIFIERS",
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Comoros",
       "away": "Namibia",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50782,7 +50743,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Derby County (R)",
       "away": "Rotherham United (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50793,7 +50757,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Preston North End (R)",
       "away": "Wrexham (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50804,7 +50771,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Charlton Athletic U21",
       "away": "Millwall U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50815,7 +50785,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Coventry City U21",
       "away": "Colchester United U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50826,7 +50799,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Hull City U21",
       "away": "Bolton Wanderers U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50837,7 +50813,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Wigan Athletic U21",
       "away": "Huddersfield Town U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50848,7 +50827,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Peterborough United U21",
       "away": "Fleetwood Town U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50859,7 +50841,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Greece U17 (N)",
       "away": "Iceland U17",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50870,7 +50855,10 @@
       "kickoff": "Sep 29 2026 8:00PM",
       "home": "Drukpa FC",
       "away": "Transport United",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51013,6 +51001,17 @@
       "kickoff": "Sep 29 2026 9:00PM",
       "home": "Senegal",
       "away": "Egypt",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "784f4231ba7168d3",
+      "league": "INDIA MIZORAM PREMIER LEAGUE",
+      "kickoff": "Sep 29 2026 9:30PM",
+      "home": "Aizawl FC",
+      "away": "Chanmari FC",
       "ht": null,
       "ft": null,
       "status": "Running",
