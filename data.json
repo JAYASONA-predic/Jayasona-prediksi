@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T09:58:31+00:00",
+  "updated_at": "2026-09-30T10:18:02+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3087,
+  "count": 3101,
   "archive_count": 3000,
   "matches": [
     {
@@ -50816,7 +50816,10 @@
       "kickoff": "Sep 30 2026 5:00PM",
       "home": "Finland U19 (N)",
       "away": "Germany U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50827,7 +50830,10 @@
       "kickoff": "Sep 30 2026 5:00PM",
       "home": "Scotland U19 (N)",
       "away": "Ukraine U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50842,17 +50848,6 @@
         0,
         1
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bc5b00f888238c82",
-      "league": "INTERNATIONAL FRIENDLY U19",
-      "kickoff": "Sep 30 2026 5:15PM",
-      "home": "Finland U19 (N)",
-      "away": "Germany U19",
-      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50896,6 +50891,17 @@
       "kickoff": "Sep 30 2026 6:30PM",
       "home": "Japan U23",
       "away": "Uzbekistan U23",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b46f73f05e6d29aa",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Sep 30 2026 6:30PM",
+      "home": "Technico Football Foundation",
+      "away": "United Stars FC Bangalore",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50995,6 +51001,17 @@
       "kickoff": "Sep 30 2026 9:30PM",
       "home": "Morocco U20",
       "away": "Algeria U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b1aa35fc2aa6cf4c",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 30 2026 10:00PM",
+      "home": "Farul Constanta (w)",
+      "away": "Sparta Praha (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51111,11 +51128,88 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "1402a8426943b022",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Brann (w)",
+      "away": "HJK Helsinki (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "88f8e34c5a5e5ea0",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Fortuna Hjorring (w)",
+      "away": "PSV Eindhoven (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1d62c9625af0647e",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Rosenborg (w)",
+      "away": "Slovan Liberec (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "adff0d556b9b807d",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Spartak Myjava (w)",
+      "away": "PAOK Thessaloniki (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "242ce66716eedc56",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Valerenga (w)",
+      "away": "Feyenoord (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "75fc817a2fa221a2",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN PORTUGAL)",
       "kickoff": "Oct 1 2026 12:30AM",
       "home": "Portugal U19",
       "away": "Netherlands U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "51cf19497e3c4a3f",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:30AM",
+      "home": "Eintracht Frankfurt (w)",
+      "away": "FH Hafnarfjordur (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fa3f079b304f240c",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:30AM",
+      "home": "Sturm Graz (w)",
+      "away": "VfL Wolfsburg (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51188,6 +51282,50 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "9ef8083d7a37dc2b",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 1:00AM",
+      "home": "Fenerbahce (w) (n)",
+      "away": "FC Minsk (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6968175ca207c581",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 1:00AM",
+      "home": "KKS Czarni Sosnowiec (w)",
+      "away": "Breidablik (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b69c80fcc68b65c5",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 1:00AM",
+      "home": "Malmo FF (w)",
+      "away": "SKN St. Polten (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d336f3ca887acb84",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 1:00AM",
+      "home": "Real Sociedad (w)",
+      "away": "Heart of Midlothian (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "24d3923d385c6631",
       "league": "GULF CUP (IN SAUDI ARABIA)",
       "kickoff": "Oct 1 2026 1:30AM",
@@ -51237,6 +51375,17 @@
       "kickoff": "Oct 1 2026 2:00AM",
       "home": "Nottingham Forest U21",
       "away": "Sporting Lisbon U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "eae7ffa1b73c984a",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Rangers FC (w)",
+      "away": "Hammarby (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51402,6 +51551,17 @@
       "kickoff": "Oct 1 2026 2:45AM",
       "home": "Gosport Borough FC",
       "away": "Bracknell Town",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8d7a28c235461da4",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Sporting Lisbon (w)",
+      "away": "Brondby IF (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
