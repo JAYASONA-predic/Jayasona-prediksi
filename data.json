@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T08:57:55+00:00",
+  "updated_at": "2026-09-30T09:15:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3079,
+  "count": 3080,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "8efc48e46e46af57",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Sep 30 2026 3:30PM",
+      "home": "FC Arges Pitesti (N)",
+      "away": "CSM Deva",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "09f49baffc3bc11a",
       "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
@@ -50752,37 +50769,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "26c01d6d3daf3131",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Japan (V)",
-      "away": "Tunisia (V)",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8efc48e46e46af57",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Sep 30 2026 3:30PM",
-      "home": "FC Arges Pitesti (N)",
-      "away": "CSM Deva",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b510eabfa15b2479",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Sep 30 2026 4:00PM",
@@ -50822,6 +50808,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "d2d197ed4aca47aa",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Sep 30 2026 5:00PM",
+      "home": "Yangon City U20",
+      "away": "Ayeyawady United U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "eaa4274f9e177994",
       "league": "INTERNATIONAL FRIENDLY U19",
       "kickoff": "Sep 30 2026 5:00PM",
@@ -50849,6 +50846,17 @@
       "kickoff": "Sep 30 2026 5:00PM",
       "home": "East Bengal FC",
       "away": "Punjab FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bb713c7283e92778",
+      "league": "INDIA MIZORAM PREMIER LEAGUE",
+      "kickoff": "Sep 30 2026 5:30PM",
+      "home": "MLS FC",
+      "away": "Saikhamakawn FC",
       "ht": null,
       "ft": null,
       "status": "Running",
