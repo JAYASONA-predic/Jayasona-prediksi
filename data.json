@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T21:09:24+00:00",
+  "updated_at": "2026-09-30T21:28:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3039,
+  "count": 3040,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "cf5eac43e69ced6b",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Oct 1 2026 3:30AM",
+      "home": "Atletico El Vigia",
+      "away": "Zamora FC B",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        4,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "c565831c667e5b0f",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
@@ -436,7 +453,10 @@
       "kickoff": "Oct 1 2026 2:30AM",
       "home": "KRC Harelbeke",
       "away": "Hoogstraten VV",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": [
         3,
         3
@@ -50755,23 +50775,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fb37c8bd50fb4614",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:00PM",
-      "home": "Paris Saint Germain (V)",
-      "away": "CA Osasuna (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b894bae69309ee75",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 2:45AM",
@@ -50822,20 +50825,6 @@
       "home": "Atletico Barinas",
       "away": "Barquisimeto SC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cf5eac43e69ced6b",
-      "league": "VENEZUELA SEGUNDA DIVISION",
-      "kickoff": "Oct 1 2026 3:30AM",
-      "home": "Atletico El Vigia",
-      "away": "Zamora FC B",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50938,6 +50927,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "665784c87b2341ca",
+      "league": "BRAZIL CAMPEONATO PIAUIENSE SERIE B",
+      "kickoff": "Oct 1 2026 5:30AM",
+      "home": "River PI",
+      "away": "SE Picos PI",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ca190f22ae6f3fcf",
       "league": "GUATEMALA LIGA PRIMERA DIVISION",
       "kickoff": "Oct 1 2026 5:30AM",
@@ -51031,6 +51031,17 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Atletico Ottawa",
       "away": "Cavalry FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "50613925c6e846f2",
+      "league": "VENEZUELA SEGUNDA DIVISION",
+      "kickoff": "Oct 1 2026 7:00AM",
+      "home": "Deportivo Lara",
+      "away": "Real Frontera FC",
       "ht": null,
       "ft": null,
       "status": "Running",
