@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T02:42:53+00:00",
+  "updated_at": "2026-09-30T02:56:36+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3003,
   "archive_count": 3000,
@@ -50790,7 +50790,10 @@
       "kickoff": "Sep 30 2026 10:00AM",
       "home": "Belize",
       "away": "Saint Vincent & The Grenadines",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
