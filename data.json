@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T23:13:11+00:00",
+  "updated_at": "2026-09-30T23:28:16+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3029,
   "archive_count": 3000,
@@ -50847,7 +50847,10 @@
       "kickoff": "Oct 1 2026 6:30AM",
       "home": "CD Real Tomayapo",
       "away": "Nacional Potosi",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50858,7 +50861,10 @@
       "kickoff": "Oct 1 2026 6:30AM",
       "home": "Cerro Porteno (N)",
       "away": "Rubio Nu",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
