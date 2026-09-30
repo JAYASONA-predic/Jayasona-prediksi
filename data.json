@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T22:45:04+00:00",
+  "updated_at": "2026-09-30T22:57:41+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3032,
+  "count": 3031,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "b25cd357f5cbe899",
+      "league": "CHILE PRIMERA B",
+      "kickoff": "Oct 1 2026 5:00AM",
+      "home": "Union San Felipe",
+      "away": "San Luis de Quillota",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "a383e2f338d98ef1",
       "league": "PERU LIGA 1",
@@ -50758,20 +50775,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "11ff34c790a2ba79",
-      "league": "FRANCE LIGUE 1 - OFFSIDE",
-      "kickoff": "Sep 20 2026 11:15PM",
-      "home": "OGC Nice No.of Offsides",
-      "away": "Lille OSC No.of Offsides",
-      "ht": null,
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cf2081d759dc4934",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 4:00AM",
@@ -50789,20 +50792,6 @@
       "home": "Cienciano",
       "away": "Penarol",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b25cd357f5cbe899",
-      "league": "CHILE PRIMERA B",
-      "kickoff": "Oct 1 2026 5:00AM",
-      "home": "Union San Felipe",
-      "away": "San Luis de Quillota",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50869,7 +50858,10 @@
       "kickoff": "Oct 1 2026 6:00AM",
       "home": "Central Cordoba Santiago del Estero (R)",
       "away": "Newells Old Boys (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
