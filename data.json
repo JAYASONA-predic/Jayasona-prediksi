@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T10:18:02+00:00",
+  "updated_at": "2026-09-30T10:42:18+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3101,
+  "count": 3105,
   "archive_count": 3000,
   "matches": [
     {
@@ -50858,7 +50858,10 @@
       "kickoff": "Sep 30 2026 5:30PM",
       "home": "Rangdajied United FC",
       "away": "Mylliem SC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50869,7 +50872,10 @@
       "kickoff": "Sep 30 2026 5:30PM",
       "home": "MLS FC",
       "away": "Saikhamakawn FC",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50897,11 +50903,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7bbf1a7dff589056",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - SINGLE TEAM OVER/UNDER",
+      "kickoff": "Sep 30 2026 6:30PM",
+      "home": "Japan U23 TG - Over",
+      "away": "Japan U23 TG - Under",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9574b273d745f460",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - SINGLE TEAM OVER/UNDER",
+      "kickoff": "Sep 30 2026 6:30PM",
+      "home": "Uzbekistan U23 - Over",
+      "away": "Uzbekistan U23 - Under",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b46f73f05e6d29aa",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Sep 30 2026 6:30PM",
       "home": "Technico Football Foundation",
       "away": "United Stars FC Bangalore",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bcec4b3f23310b52",
+      "league": "HONG KONG PREMIER LEAGUE U22",
+      "kickoff": "Sep 30 2026 7:00PM",
+      "home": "Hong Kong FC U22",
+      "away": "Hong Kong Rangers FC U22",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51285,7 +51324,7 @@
       "id": "9ef8083d7a37dc2b",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
       "kickoff": "Oct 1 2026 1:00AM",
-      "home": "Fenerbahce (w) (n)",
+      "home": "Fenerbahce (w) (N)",
       "away": "FC Minsk (w)",
       "ht": null,
       "ft": null,
@@ -51661,6 +51700,17 @@
       "kickoff": "Oct 1 2026 3:00AM",
       "home": "Olympique Lyonnais (w)",
       "away": "Chelsea (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4e4c298aba15aacc",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Oct 1 2026 3:00AM",
+      "home": "SCU Torreense (w)",
+      "away": "FC Kharkiv (W)",
       "ht": null,
       "ft": null,
       "status": "Running",
