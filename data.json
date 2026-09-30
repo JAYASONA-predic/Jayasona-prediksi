@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T23:43:02+00:00",
+  "updated_at": "2026-09-30T23:54:34+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3027,
   "archive_count": 3000,
@@ -50847,7 +50847,10 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Deportes Concepcion",
       "away": "O Higgins",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50858,7 +50861,10 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Montevideo City Torque",
       "away": "Penarol",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50902,7 +50908,10 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Deportivo Lara",
       "away": "Real Frontera FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
