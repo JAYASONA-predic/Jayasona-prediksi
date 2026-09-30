@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T00:59:22+00:00",
+  "updated_at": "2026-09-30T01:18:47+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3007,
+  "count": 3006,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,23 @@
       "ft": [
         0,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cafbd30270e0ae7b",
+      "league": "URUGUAY PRIMERA DIVISIONAL C",
+      "kickoff": "Sep 30 2026 7:00AM",
+      "home": "Sportivo Bella Italia (n)",
+      "away": "CA Bella Vista Montevideo",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50737,23 +50754,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "bc4dddcb5d885923",
-      "league": "*ENGLISH PREMIER LEAGUE - CORNERS",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Manchester City",
-      "away": "Sunderland",
-      "ht": [
-        5,
-        5
-      ],
-      "ft": [
-        11,
-        8
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a2e252675acbb66f",
       "league": "COLOMBIA PRIMERA B",
       "kickoff": "Sep 30 2026 7:00AM",
@@ -50761,20 +50761,6 @@
       "away": "Real Cartagena",
       "ht": [
         1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cafbd30270e0ae7b",
-      "league": "URUGUAY PRIMERA DIVISIONAL C",
-      "kickoff": "Sep 30 2026 7:00AM",
-      "home": "Sportivo Bella Italia (n)",
-      "away": "CA Bella Vista Montevideo",
-      "ht": [
-        0,
         1
       ],
       "ft": null,
