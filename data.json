@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T17:10:08+00:00",
+  "updated_at": "2026-09-30T17:28:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3120,
+  "count": 3123,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "294b2607c067d749",
+      "league": "SPAIN WOMEN QUEEN CUP",
+      "kickoff": "Sep 30 2026 11:30PM",
+      "home": "Celta Vigo (w)",
+      "away": "Real Oviedo (w)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "2ae8fa479f51b47b",
       "league": "MONTENEGRO SECOND LEAGUE",
@@ -69,6 +86,20 @@
       "ft": [
         0,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0b85612951947d85",
+      "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
+      "kickoff": "Sep 30 2026 11:00PM",
+      "home": "Katsina United",
+      "away": "Rivers United",
+      "ht": null,
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50735,71 +50766,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1cd8adf1d74673c5",
-      "league": "GREECE SUPER LEAGUE 1",
-      "kickoff": "Sep 20 2026 10:00PM",
-      "home": "Levadiakos",
-      "away": "Olympiacos",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "50254d21ee92b7a1",
-      "league": "BELGIUM CHALLENGER PRO LEAGUE",
-      "kickoff": "Sep 20 2026 10:00PM",
-      "home": "KSC Lokeren",
-      "away": "Royal Excelsior Virton",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4ed1d1c9e935f97a",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 30 2026 9:30PM",
       "home": "Al Nasr Lel Taaden",
       "away": "Aswan SC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0b85612951947d85",
-      "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
-      "kickoff": "Sep 30 2026 11:00PM",
-      "home": "Katsina United",
-      "away": "Rivers United",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "294b2607c067d749",
-      "league": "SPAIN WOMEN QUEEN CUP",
-      "kickoff": "Sep 30 2026 11:30PM",
-      "home": "Celta Vigo (w)",
-      "away": "Real Oviedo (w)",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50978,7 +50950,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Levante UD (w)",
       "away": "Alhama CF (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51073,7 +51048,10 @@
       "kickoff": "Oct 1 2026 12:30AM",
       "home": "Portugal U19",
       "away": "Netherlands U19",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51095,7 +51073,10 @@
       "kickoff": "Oct 1 2026 12:30AM",
       "home": "Eintracht Frankfurt (w)",
       "away": "FH Hafnarfjordur (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51106,7 +51087,10 @@
       "kickoff": "Oct 1 2026 12:30AM",
       "home": "Sturm Graz (w)",
       "away": "VfL Wolfsburg (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51376,17 +51360,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c253b6f3a07e4786",
-      "league": "ENGLISH FA WOMEN LEAGUE CUP",
-      "kickoff": "Oct 1 2026 2:00AM",
-      "home": "Durham (w)",
-      "away": "Manchester United (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a93ebaafe6ff7337",
       "league": "ENGLISH FA WOMEN LEAGUE CUP",
       "kickoff": "Oct 1 2026 2:00AM",
@@ -51403,6 +51376,17 @@
       "kickoff": "Oct 1 2026 2:00AM",
       "home": "Crystal Palace (w)",
       "away": "Charlton Athletic (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c253b6f3a07e4786",
+      "league": "ENGLISH FA WOMEN LEAGUE CUP",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Durham (w)",
+      "away": "Manchester United (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51557,6 +51541,39 @@
       "kickoff": "Oct 1 2026 2:00AM",
       "home": "Rosario Central (R)",
       "away": "Union De Santa Fe (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9a4e73ad7179b44a",
+      "league": "PARAGUAY PRIMERA DIVISION B",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Atletico Colegiales Lambare",
+      "away": "Martin Ledesma",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1ed4aab5ca1c3639",
+      "league": "PARAGUAY PRIMERA DIVISION B",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Cristobal Colon FBC JAS",
+      "away": "Club River Plate Asuncion",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c2deea2406f83558",
+      "league": "PARAGUAY PRIMERA DIVISION B",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Club 3 de Febrero FBC",
+      "away": "Sportivo Limpeno",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51937,6 +51954,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "4811f13d4b7dc47f",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Oct 1 2026 6:30AM",
+      "home": "CD Real Tomayapo",
+      "away": "Nacional Potosi",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "e36daf1b6f85cce8",
       "league": "PARAGUAY CUP",
       "kickoff": "Oct 1 2026 6:30AM",
@@ -52118,6 +52146,17 @@
       "kickoff": "Oct 1 2026 8:00AM",
       "home": "FC Tulsa",
       "away": "New Mexico United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "05a5df20abef727b",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Oct 1 2026 8:30AM",
+      "home": "Oriente Petrolero",
+      "away": "The Strongest",
       "ht": null,
       "ft": null,
       "status": "Running",
