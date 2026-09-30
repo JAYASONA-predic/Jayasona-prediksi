@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T08:17:22+00:00",
+  "updated_at": "2026-09-30T08:43:16+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3072,
+  "count": 3079,
   "archive_count": 3000,
   "matches": [
     {
@@ -83,6 +83,20 @@
         1,
         0
       ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ead944d2dfb4263e",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
+      "kickoff": "Sep 30 2026 2:00PM",
+      "home": "Korea Republic U23",
+      "away": "China U23",
+      "ht": null,
       "ft": [
         1,
         0
@@ -50755,34 +50769,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6b863ac69237bad0",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Czech Republic (V)",
-      "away": "New Zealand (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ead944d2dfb4263e",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
-      "kickoff": "Sep 30 2026 2:00PM",
-      "home": "Korea Republic U23",
-      "away": "China U23",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "09f49baffc3bc11a",
       "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
       "kickoff": "Sep 30 2026 3:00PM",
@@ -50802,7 +50788,10 @@
       "kickoff": "Sep 30 2026 3:30PM",
       "home": "FC Arges Pitesti (N)",
       "away": "CSM Deva",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50819,11 +50808,55 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "e7a439cba0a84e35",
+      "league": "TURKEY DEVELOPMENT LEAGUE U19",
+      "kickoff": "Sep 30 2026 4:00PM",
+      "home": "Manisa FK U19",
+      "away": "Bucaspor 1928 U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "5a77e36dbd4409ff",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
       "kickoff": "Sep 30 2026 5:00PM",
       "home": "Timor Leste",
       "away": "Cambodia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "eaa4274f9e177994",
+      "league": "INTERNATIONAL FRIENDLY U19",
+      "kickoff": "Sep 30 2026 5:00PM",
+      "home": "Finland U19 (N)",
+      "away": "Germany U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1b5a072e98aa9a80",
+      "league": "INTERNATIONAL FRIENDLY U19",
+      "kickoff": "Sep 30 2026 5:00PM",
+      "home": "Scotland U19 (N)",
+      "away": "Ukraine U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3c970901f07271ba",
+      "league": "IFA SHIELD (IN INDIA)",
+      "kickoff": "Sep 30 2026 5:00PM",
+      "home": "East Bengal FC",
+      "away": "Punjab FC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50879,6 +50912,17 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Seychelles",
       "away": "Sri Lanka",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "459512d7d6b6ab32",
+      "league": "CZECH REPUBLIC CUP",
+      "kickoff": "Sep 30 2026 9:30PM",
+      "home": "FC Vsetin",
+      "away": "Bohemians 1905",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51077,6 +51121,39 @@
       "kickoff": "Oct 1 2026 1:30AM",
       "home": "United Arab Emirates",
       "away": "Qatar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "226b733f49dc9772",
+      "league": "PREMIER LEAGUE INTERNATIONAL CUP (IN ENGLAND)",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Leicester City U21",
+      "away": "Real Sociedad U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "530f80e25c876dd0",
+      "league": "PREMIER LEAGUE INTERNATIONAL CUP (IN ENGLAND)",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Middlesbrough U21",
+      "away": "Juventus U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1959be64fb67a5de",
+      "league": "PREMIER LEAGUE INTERNATIONAL CUP (IN ENGLAND)",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Nottingham Forest U21",
+      "away": "Sporting Lisbon U21",
       "ht": null,
       "ft": null,
       "status": "Running",
