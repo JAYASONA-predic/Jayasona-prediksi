@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T22:09:25+00:00",
+  "updated_at": "2026-09-30T22:28:22+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3032,
   "archive_count": 3000,
@@ -50841,7 +50841,10 @@
       "kickoff": "Oct 1 2026 5:30AM",
       "home": "River PI",
       "away": "SE Picos PI",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50852,7 +50855,10 @@
       "kickoff": "Oct 1 2026 5:30AM",
       "home": "Deportivo Amatitlan",
       "away": "Santa Lucia Cotzumalguapa",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
