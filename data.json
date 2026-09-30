@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T11:29:14+00:00",
+  "updated_at": "2026-09-30T11:46:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3101,
+  "count": 3107,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "c9d9caaec29abd6d",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Sep 30 2026 5:30PM",
+      "home": "Rangdajied United FC",
+      "away": "Mylliem SC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bb713c7283e92778",
+      "league": "INDIA MIZORAM PREMIER LEAGUE",
+      "kickoff": "Sep 30 2026 5:30PM",
+      "home": "MLS FC",
+      "away": "Saikhamakawn FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "5a77e36dbd4409ff",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
@@ -50735,68 +50769,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fdf74d7e17990613",
-      "league": "OMAN FEDERATION CUP",
-      "kickoff": "Sep 20 2026 9:20PM",
-      "home": "SUR Club (OMA)",
-      "away": "Samail",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "121284c846ed0293",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 9:15PM",
-      "home": "Mali (V)",
-      "away": "Finland (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c9d9caaec29abd6d",
-      "league": "INDIA SHILLONG PREMIER LEAGUE",
-      "kickoff": "Sep 30 2026 5:30PM",
-      "home": "Rangdajied United FC",
-      "away": "Mylliem SC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bb713c7283e92778",
-      "league": "INDIA MIZORAM PREMIER LEAGUE",
-      "kickoff": "Sep 30 2026 5:30PM",
-      "home": "MLS FC",
-      "away": "Saikhamakawn FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "fd156f4c7f53e2f1",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23",
       "kickoff": "Sep 30 2026 6:30PM",
@@ -50827,7 +50799,10 @@
       "kickoff": "Sep 30 2026 6:30PM",
       "home": "Japan U23 TG - Over",
       "away": "Japan U23 TG - Under",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50838,7 +50813,10 @@
       "kickoff": "Sep 30 2026 6:30PM",
       "home": "Uzbekistan U23 - Over",
       "away": "Uzbekistan U23 - Under",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50880,6 +50858,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "8a904f781627813d",
+      "league": "TURKEY DEVELOPMENT LEAGUE U19",
+      "kickoff": "Sep 30 2026 7:00PM",
+      "home": "Umraniyespor U19",
+      "away": "Fatih Karagumruk U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1ee9646c88a967b7",
+      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 30 2026 7:35PM",
+      "home": "China U16",
+      "away": "Australia U16",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a1820de048dc15c6",
       "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
       "kickoff": "Sep 30 2026 8:00PM",
@@ -50896,6 +50896,28 @@
       "kickoff": "Sep 30 2026 8:00PM",
       "home": "Denmark U19",
       "away": "Austria U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "910f243f3cf91059",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 30 2026 8:00PM",
+      "home": "Varbergs BoIS FC U21",
+      "away": "IFK Goteborg U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "45d990da28f6f88d",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 30 2026 8:00PM",
+      "home": "Maccabi Neve Shaanan Eldad FC",
+      "away": "MS TIRA",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50979,11 +51001,44 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "904cb4e7b046cc03",
+      "league": "NORWAY WOMEN DIVISION 1",
+      "kickoff": "Sep 30 2026 10:00PM",
+      "home": "Arna Bjornar (w)",
+      "away": "Frigg Oslo (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "27c8969efedf3e6c",
+      "league": "NORWAY WOMEN DIVISION 1",
+      "kickoff": "Sep 30 2026 10:00PM",
+      "home": "Bryne (w)",
+      "away": "Kolbotn IL (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "b1aa35fc2aa6cf4c",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
       "kickoff": "Sep 30 2026 10:00PM",
       "home": "Farul Constanta (w)",
       "away": "Sparta Praha (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2ae8fa479f51b47b",
+      "league": "MONTENEGRO SECOND LEAGUE",
+      "kickoff": "Sep 30 2026 11:00PM",
+      "home": "FK Zeta",
+      "away": "Kom Podgorica",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51798,6 +51853,17 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Junior Barranquilla",
       "away": "Montevideo City Torque",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9fb0fe300e107a5c",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 1 2026 7:30AM",
+      "home": "D.C. United",
+      "away": "SC Paderborn 07",
       "ht": null,
       "ft": null,
       "status": "Running",
