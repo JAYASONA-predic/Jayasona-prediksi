@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T01:55:04+00:00",
+  "updated_at": "2026-09-30T02:09:31+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3006,
+  "count": 3004,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9c2d934f0f2950ed",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Sep 30 2026 8:00AM",
+      "home": "USA",
+      "away": "Chile",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7b3cbd8ef78d7014",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Sep 30 2026 8:00AM",
+      "home": "Club Aurora",
+      "away": "CD San Antonio Bulo Bulo",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "daabf63d36f5745e",
       "league": "CONCACAF NATIONS LEAGUE C",
@@ -50720,73 +50754,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2ef04c6f589ca77c",
-      "league": "*ENGLISH PREMIER LEAGUE - CORNERS",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "AFC Bournemouth",
-      "away": "Liverpool",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d76782a4fceeb042",
-      "league": "*ENGLISH PREMIER LEAGUE - CORNERS",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Leeds United",
-      "away": "Crystal Palace",
-      "ht": [
-        4,
-        1
-      ],
-      "ft": [
-        4,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a2e252675acbb66f",
       "league": "COLOMBIA PRIMERA B",
       "kickoff": "Sep 30 2026 7:00AM",
       "home": "Union Magdalena",
       "away": "Real Cartagena",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9c2d934f0f2950ed",
-      "league": "INTERNATIONAL FRIENDLY",
-      "kickoff": "Sep 30 2026 8:00AM",
-      "home": "USA",
-      "away": "Chile",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7b3cbd8ef78d7014",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Sep 30 2026 8:00AM",
-      "home": "Club Aurora",
-      "away": "CD San Antonio Bulo Bulo",
       "ht": [
         1,
         1
@@ -50815,7 +50787,10 @@
       "kickoff": "Sep 30 2026 9:05AM",
       "home": "Independiente Medellin",
       "away": "Millonarios",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
