@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T11:46:33+00:00",
+  "updated_at": "2026-09-30T12:12:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3107,
+  "count": 3119,
   "archive_count": 3000,
   "matches": [
     {
@@ -50841,7 +50841,10 @@
       "kickoff": "Sep 30 2026 7:00PM",
       "home": "Hong Kong FC U22",
       "away": "Hong Kong Rangers FC U22",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50852,7 +50855,10 @@
       "kickoff": "Sep 30 2026 7:00PM",
       "home": "Istanbulspor A.S U19",
       "away": "Pendikspor U19",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50924,6 +50930,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c117b1b8f0fd02ff",
+      "league": "HONG KONG PREMIER LEAGUE U22",
+      "kickoff": "Sep 30 2026 8:30PM",
+      "home": "Eastern U22",
+      "away": "Lee Man FC U22",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "92a424d48e02d2dd",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 30 2026 8:30PM",
+      "home": "Shimshon Tel Aviv",
+      "away": "Hapoel Nir Ramat Hasharon",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "1e1b123fa3e84318",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 30 2026 9:00PM",
@@ -50968,6 +50996,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "73f8677ab034b7b7",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Sep 30 2026 9:00PM",
+      "home": "Maccabi Ironi Kiryat Malakhi",
+      "away": "Hapoel Herzliya",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "459512d7d6b6ab32",
       "league": "CZECH REPUBLIC CUP",
       "kickoff": "Sep 30 2026 9:30PM",
@@ -50995,6 +51034,17 @@
       "kickoff": "Sep 30 2026 9:30PM",
       "home": "Morocco U20",
       "away": "Algeria U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c141890a56ea0c9b",
+      "league": "NORWAY CUP",
+      "kickoff": "Sep 30 2026 10:00PM",
+      "home": "Follo (n)",
+      "away": "Sarpsborg 08",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51116,6 +51166,17 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "SC Kalsdorf",
       "away": "Grazer Ak",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1360155ec509cfb3",
+      "league": "NORWAY CUP",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Honefoss",
+      "away": "KFUM Oslo",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51369,6 +51430,28 @@
       "kickoff": "Oct 1 2026 1:30AM",
       "home": "United Arab Emirates",
       "away": "Qatar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1b17afa7b01efe0e",
+      "league": "SPAIN COPA FEDERACION",
+      "kickoff": "Oct 1 2026 1:30AM",
+      "home": "Sestao River Club",
+      "away": "Terrassa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0e491f2b91385427",
+      "league": "SPAIN COPA FEDERACION",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "CD Artistico Navalcarnero",
+      "away": "Real Murcia",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51705,6 +51788,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f77feadec06133a0",
+      "league": "GUATEMALA LIGA PRIMERA DIVISION",
+      "kickoff": "Oct 1 2026 3:00AM",
+      "home": "Coatepeque FC",
+      "away": "Quiche FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a383e2f338d98ef1",
       "league": "PERU LIGA 1",
       "kickoff": "Oct 1 2026 4:00AM",
@@ -51754,6 +51848,50 @@
       "kickoff": "Oct 1 2026 5:00AM",
       "home": "Union San Felipe",
       "away": "San Luis de Quillota",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e67690566a929e42",
+      "league": "GUATEMALA LIGA PRIMERA DIVISION",
+      "kickoff": "Oct 1 2026 5:00AM",
+      "home": "AFF Guatemala",
+      "away": "Deportivo Fraijanes",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a9c1ab77bc6c40a1",
+      "league": "GUATEMALA LIGA PRIMERA DIVISION",
+      "kickoff": "Oct 1 2026 5:00AM",
+      "home": "Deportivo Iztapa",
+      "away": "Juventud Copalera",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ca190f22ae6f3fcf",
+      "league": "GUATEMALA LIGA PRIMERA DIVISION",
+      "kickoff": "Oct 1 2026 5:30AM",
+      "home": "Deportivo Amatitlan",
+      "away": "Santa Lucia Cotzumalguapa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e36daf1b6f85cce8",
+      "league": "PARAGUAY CUP",
+      "kickoff": "Oct 1 2026 6:30AM",
+      "home": "Cerro Porteno (N)",
+      "away": "Rubio Nu",
       "ht": null,
       "ft": null,
       "status": "Running",
