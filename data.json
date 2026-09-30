@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T13:01:05+00:00",
+  "updated_at": "2026-09-30T13:30:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3128,
+  "count": 3135,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "1ee9646c88a967b7",
+      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 30 2026 7:35PM",
+      "home": "China U16",
+      "away": "Australia U16",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "bcec4b3f23310b52",
       "league": "HONG KONG PREMIER LEAGUE U22",
@@ -18,6 +35,23 @@
       "ft": [
         4,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "abb8bef843c3139a",
+      "league": "TURKEY DEVELOPMENT LEAGUE U19",
+      "kickoff": "Sep 30 2026 7:00PM",
+      "home": "Istanbulspor A.S U19",
+      "away": "Pendikspor U19",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50741,37 +50775,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "483bdd236a2c2e36",
-      "league": "*GERMANY-BUNDESLIGA I - TOTAL GOALS MINUTES",
-      "kickoff": "Sep 20 2026 9:30PM",
-      "home": "Bayer 04 Leverkusen",
-      "away": "RB Leipzig",
-      "ht": null,
-      "ft": [
-        101,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fbdd5165d51cc105",
-      "league": "UAE LEAGUE CUP",
-      "kickoff": "Sep 20 2026 9:30PM",
-      "home": "Al Nasr SC Dubai",
-      "away": "United FC Dubai",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e0a8611c008af4c6",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
       "kickoff": "Sep 30 2026 6:30PM",
@@ -50783,40 +50786,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "abb8bef843c3139a",
-      "league": "TURKEY DEVELOPMENT LEAGUE U19",
-      "kickoff": "Sep 30 2026 7:00PM",
-      "home": "Istanbulspor A.S U19",
-      "away": "Pendikspor U19",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8a904f781627813d",
       "league": "TURKEY DEVELOPMENT LEAGUE U19",
       "kickoff": "Sep 30 2026 7:00PM",
       "home": "Umraniyespor U19",
       "away": "Fatih Karagumruk U19",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1ee9646c88a967b7",
-      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
-      "kickoff": "Sep 30 2026 7:35PM",
-      "home": "China U16",
-      "away": "Australia U16",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50883,7 +50858,10 @@
       "kickoff": "Sep 30 2026 8:30PM",
       "home": "Eastern U22",
       "away": "Lee Man FC U22",
-      "ht": null,
+      "ht": [
+        3,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50894,7 +50872,10 @@
       "kickoff": "Sep 30 2026 8:30PM",
       "home": "Shimshon Tel Aviv",
       "away": "Hapoel Nir Ramat Hasharon",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50905,6 +50886,17 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Seychelles",
       "away": "Sri Lanka",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "29340d2ea8ccfc15",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 30 2026 9:00PM",
+      "home": "Landskrona BoIS U21",
+      "away": "Falkenbergs U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51010,6 +51002,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "d2acb7c25d6bcbd9",
+      "league": "INDIA MIZORAM PREMIER LEAGUE",
+      "kickoff": "Sep 30 2026 9:30PM",
+      "home": "Mizoram Police FC",
+      "away": "Kanan FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "3413132b8863ca11",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 30 2026 9:30PM",
@@ -51043,6 +51046,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f13e15d80a365053",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Sep 30 2026 9:30PM",
+      "home": "El Alameen",
+      "away": "Al Mostaqbal SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "76c45e3415fdca3d",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 30 2026 9:30PM",
@@ -51054,11 +51068,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f13e15d80a365053",
+      "id": "6d88696e8c87677e",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 30 2026 9:30PM",
-      "home": "El Alameen",
-      "away": "Al Mostaqbal SC",
+      "home": "Misr Insurance FC",
+      "away": "Al-Shanwani SC",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51087,17 +51101,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6d88696e8c87677e",
-      "league": "EGYPT SECOND DIVISION B",
-      "kickoff": "Sep 30 2026 9:30PM",
-      "home": "Misr Insurance FC",
-      "away": "Al-Shanwani SC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "47b4fbe7f5107937",
       "league": "UNAF U20 TOURNAMENT (IN EGYPT)",
       "kickoff": "Sep 30 2026 9:30PM",
@@ -51112,7 +51115,7 @@
       "id": "c141890a56ea0c9b",
       "league": "NORWAY CUP",
       "kickoff": "Sep 30 2026 10:00PM",
-      "home": "Follo (n)",
+      "home": "Follo (N)",
       "away": "Sarpsborg 08",
       "ht": null,
       "ft": null,
@@ -51147,6 +51150,17 @@
       "kickoff": "Sep 30 2026 10:00PM",
       "home": "Farul Constanta (w)",
       "away": "Sparta Praha (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9d4e1edc984679b8",
+      "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
+      "kickoff": "Sep 30 2026 10:00PM",
+      "home": "FK Aktobe (w)",
+      "away": "Ajax (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51648,6 +51662,61 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "14a78e3134d52ec8",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "CA Platense (R)",
+      "away": "CA Huracan (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "86e73c6bd04d80cb",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Independiente Rivadavia (R)",
+      "away": "Belgrano (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "38badc52c09573ef",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Instituto (R)",
+      "away": "Racing Club (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b36f41fbe4c0ec7a",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Quilmes (R)",
+      "away": "Estudiantes de Rio Cuarto (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d171f984fe9f1bc5",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Rosario Central (R)",
+      "away": "Union De Santa Fe (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "de85e8aff3ea85f9",
       "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
       "kickoff": "Oct 1 2026 2:00AM",
@@ -51983,6 +52052,17 @@
       "kickoff": "Oct 1 2026 5:30AM",
       "home": "Deportivo Amatitlan",
       "away": "Santa Lucia Cotzumalguapa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c259487f65b804ac",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 1 2026 6:00AM",
+      "home": "Central Cordoba Santiago del Estero (R)",
+      "away": "Newells Old Boys (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
