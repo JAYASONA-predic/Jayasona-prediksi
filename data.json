@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T06:36:17+00:00",
+  "updated_at": "2026-09-30T06:58:22+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3062,
+  "count": 3076,
   "archive_count": 3000,
   "matches": [
     {
@@ -50782,7 +50782,10 @@
       "kickoff": "Sep 30 2026 2:00PM",
       "home": "Korea Republic U23",
       "away": "China U23",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50804,7 +50807,10 @@
       "kickoff": "Sep 30 2026 2:00PM",
       "home": "Korea Republic U23 - Over",
       "away": "Korea Republic U23 - Under",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50815,7 +50821,10 @@
       "kickoff": "Sep 30 2026 2:00PM",
       "home": "China U23 - Over",
       "away": "China U23 - Under",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50826,7 +50835,10 @@
       "kickoff": "Sep 30 2026 2:00PM",
       "home": "Liaoning Tieren U20",
       "away": "Qingdao Hainiu U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50837,7 +50849,10 @@
       "kickoff": "Sep 30 2026 2:00PM",
       "home": "Vietnam U16",
       "away": "Kyrgyzstan U16",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51283,6 +51298,72 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "b894bae69309ee75",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Eastleigh",
+      "away": "CD Los Chankas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b3fcc6bb80ccd0a7",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Eastleigh",
+      "away": "Sutton United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "30ec9369c9c2c439",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Southend United",
+      "away": "Tamworth",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ec97a23289100082",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Southend United",
+      "away": "Cienciano",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1740bb4ee1c0518e",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Sutton United",
+      "away": "CD Los Chankas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "887ed6f81ac547eb",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Tamworth",
+      "away": "Cienciano",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "920a45dfbea812b9",
       "league": "UEFA WOMEN CHAMPIONS LEAGUE",
       "kickoff": "Oct 1 2026 3:00AM",
@@ -51310,6 +51391,28 @@
       "kickoff": "Oct 1 2026 4:00AM",
       "home": "Cienciano",
       "away": "CD Los Chankas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cf2081d759dc4934",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 4:00AM",
+      "home": "CD Los Chankas",
+      "away": "Montevideo City Torque",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8250d34009276d5c",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 4:00AM",
+      "home": "Cienciano",
+      "away": "Penarol",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51382,6 +51485,50 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "8fa4d18461486384",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:00AM",
+      "home": "Atletico Nacional",
+      "away": "Penarol",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "05686701c0df4b26",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:00AM",
+      "home": "Junior Barranquilla",
+      "away": "Montevideo City Torque",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4f3c44328a5df86b",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:00AM",
+      "home": "New York Red Bulls",
+      "away": "Montevideo City Torque",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3dc367f8af82fe13",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:00AM",
+      "home": "St Louis City SC",
+      "away": "Penarol",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "849023afc579c315",
       "league": "USA MAJOR LEAGUE SOCCER",
       "kickoff": "Oct 1 2026 7:30AM",
@@ -51398,6 +51545,28 @@
       "kickoff": "Oct 1 2026 7:30AM",
       "home": "Rhode Island FC",
       "away": "Indy Eleven",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4bc5a3ad3106d0bc",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:30AM",
+      "home": "New York Red Bulls",
+      "away": "Junior Barranquilla",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "18701008b813dd73",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:30AM",
+      "home": "St Louis City SC",
+      "away": "Atletico Nacional",
       "ht": null,
       "ft": null,
       "status": "Running",
