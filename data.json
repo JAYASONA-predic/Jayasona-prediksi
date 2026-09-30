@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T13:30:27+00:00",
+  "updated_at": "2026-09-30T13:56:45+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3135,
+  "count": 3133,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "a1820de048dc15c6",
+      "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
+      "kickoff": "Sep 30 2026 8:00PM",
+      "home": "Hong Kong",
+      "away": "Brunei Darussalam",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "910f243f3cf91059",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 30 2026 8:00PM",
+      "home": "Varbergs BoIS FC U21",
+      "away": "IFK Goteborg U21",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "1ee9646c88a967b7",
       "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
@@ -120,6 +154,20 @@
       "ft": [
         1,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0a8611c008af4c6",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
+      "kickoff": "Sep 30 2026 6:30PM",
+      "home": "Japan U23",
+      "away": "Uzbekistan U23",
+      "ht": null,
+      "ft": [
+        1,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50724,88 +50772,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "8e9d66d8673fd71e",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 9:30PM",
-      "home": "Manchester City (V)",
-      "away": "Everton (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "851dba14bd201752",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 9:30PM",
-      "home": "Real Sociedad (V)",
-      "away": "FC Koln (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0df7d1461ae1970e",
-      "league": "*GERMANY-BUNDESLIGA I",
-      "kickoff": "Sep 20 2026 9:30PM",
-      "home": "Bayer 04 Leverkusen",
-      "away": "RB Leipzig",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e0a8611c008af4c6",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - MEN FOOTBALL U23 - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
-      "kickoff": "Sep 30 2026 6:30PM",
-      "home": "Japan U23",
-      "away": "Uzbekistan U23",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8a904f781627813d",
       "league": "TURKEY DEVELOPMENT LEAGUE U19",
       "kickoff": "Sep 30 2026 7:00PM",
       "home": "Umraniyespor U19",
       "away": "Fatih Karagumruk U19",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a1820de048dc15c6",
-      "league": "FIFA ASEAN CUP DIVISION 2 2026 (IN HONG KONG)",
-      "kickoff": "Sep 30 2026 8:00PM",
-      "home": "Hong Kong",
-      "away": "Brunei Darussalam",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50819,20 +50791,6 @@
       "ht": [
         0,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "910f243f3cf91059",
-      "league": "SWEDEN LEAGUE CUP ELITE U21",
-      "kickoff": "Sep 30 2026 8:00PM",
-      "home": "Varbergs BoIS FC U21",
-      "away": "IFK Goteborg U21",
-      "ht": [
-        1,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -50886,7 +50844,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Seychelles",
       "away": "Sri Lanka",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50897,7 +50858,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Landskrona BoIS U21",
       "away": "Falkenbergs U21",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50908,7 +50872,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "FK Budva",
       "away": "FK Lovcen",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50919,7 +50886,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "FK Iskra Danilovgrad",
       "away": "OFK Grbalj",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50930,7 +50900,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "FK Rudar Pljevlja",
       "away": "FK Berane",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50941,7 +50914,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Alessandria",
       "away": "ASD Imperia",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50952,7 +50928,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Maccabi Ironi Kiryat Malakhi",
       "away": "Hapoel Herzliya",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50963,7 +50942,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Presidente Hayes",
       "away": "Club Silvio Pettirossi",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50974,7 +50956,10 @@
       "kickoff": "Sep 30 2026 9:00PM",
       "home": "Sport Colombia Fernando de la Mora",
       "away": "Atlantida SC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51007,6 +50992,17 @@
       "kickoff": "Sep 30 2026 9:30PM",
       "home": "Mizoram Police FC",
       "away": "Kanan FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9c41c6a9fc99397a",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Sep 30 2026 9:30PM",
+      "home": "Djurgardens U21",
+      "away": "IK Sirius U21",
       "ht": null,
       "ft": null,
       "status": "Running",
