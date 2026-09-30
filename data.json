@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T16:35:09+00:00",
+  "updated_at": "2026-09-30T16:55:04+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3123,
+  "count": 3122,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "2ae8fa479f51b47b",
+      "league": "MONTENEGRO SECOND LEAGUE",
+      "kickoff": "Sep 30 2026 11:00PM",
+      "home": "FK Zeta",
+      "away": "Kom Podgorica",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "1ecabebf3782c2f3",
       "league": "SWEDEN LEAGUE CUP ELITE U21",
@@ -321,6 +338,23 @@
       "ft": [
         4,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "76c45e3415fdca3d",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Sep 30 2026 9:30PM",
+      "home": "Markaz Shabab Koom Hamada",
+      "away": "Delphi SC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50735,74 +50769,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "feb8cae092fd6212",
-      "league": "TURKEY FIRST LEAGUE",
-      "kickoff": "Sep 20 2026 10:00PM",
-      "home": "Manisa FK",
-      "away": "Istanbulspor A.S",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "09abc45f5201dca5",
-      "league": "TURKEY FIRST LEAGUE",
-      "kickoff": "Sep 20 2026 10:00PM",
-      "home": "Pendikspor",
-      "away": "Bodrum FK",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "4ed1d1c9e935f97a",
       "league": "EGYPT SECOND DIVISION B",
       "kickoff": "Sep 30 2026 9:30PM",
       "home": "Al Nasr Lel Taaden",
       "away": "Aswan SC",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "76c45e3415fdca3d",
-      "league": "EGYPT SECOND DIVISION B",
-      "kickoff": "Sep 30 2026 9:30PM",
-      "home": "Markaz Shabab Koom Hamada",
-      "away": "Delphi SC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2ae8fa479f51b47b",
-      "league": "MONTENEGRO SECOND LEAGUE",
-      "kickoff": "Sep 30 2026 11:00PM",
-      "home": "FK Zeta",
-      "away": "Kom Podgorica",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50880,7 +50852,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Lithuania",
       "away": "Andorra",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50891,7 +50866,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Czech Republic U21",
       "away": "Bulgaria U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50902,7 +50880,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Faroe Islands U21",
       "away": "Luxembourg U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50913,7 +50894,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Poland U21",
       "away": "Sweden U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50924,7 +50908,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Romania U21",
       "away": "Finland U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50935,7 +50922,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Malta U21",
       "away": "Germany U21",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50946,7 +50936,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Eritrea (N)",
       "away": "South Africa",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50968,7 +50961,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Honefoss",
       "away": "KFUM Oslo",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50979,7 +50975,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Flint Fotball",
       "away": "Sandefjord",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50990,7 +50989,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Rwanda U23",
       "away": "Sudan U23",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51001,7 +51003,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Togo U23",
       "away": "Libya U23",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51023,7 +51028,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "LAUTP",
       "away": "Edustus IPS",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51067,7 +51075,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Spartak Myjava (w)",
       "away": "PAOK Thessaloniki (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51078,7 +51089,10 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Valerenga (w)",
       "away": "Feyenoord (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51199,6 +51213,17 @@
       "kickoff": "Oct 1 2026 1:00AM",
       "home": "ETO FC Gyor (w)",
       "away": "Ferencvarosi (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c71fb8c0eb63a957",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Oct 1 2026 1:00AM",
+      "home": "Hapoel Mahane Yehuda",
+      "away": "Sport Club Dimona",
       "ht": null,
       "ft": null,
       "status": "Running",
