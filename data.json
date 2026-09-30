@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T01:41:33+00:00",
+  "updated_at": "2026-09-30T01:55:04+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3006,
   "archive_count": 3000,
@@ -50801,7 +50801,10 @@
       "kickoff": "Sep 30 2026 9:00AM",
       "home": "Mexico (N)",
       "away": "Peru",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
