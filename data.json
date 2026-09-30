@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T05:46:06+00:00",
+  "updated_at": "2026-09-30T06:12:17+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3056,
+  "count": 3057,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9355ebb35e598429",
+      "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
+      "kickoff": "Sep 30 2026 12:00PM",
+      "home": "Papua New Guinea",
+      "away": "Solomon Islands",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "d870b607e3afd58f",
       "league": "CONCACAF NATIONS LEAGUE B",
@@ -50746,37 +50763,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e6e8b984f9883e18",
-      "league": "*ENGLISH PREMIER LEAGUE",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Leeds United",
-      "away": "Crystal Palace",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9355ebb35e598429",
-      "league": "MSG PRIME MINISTERS CUP (IN FIJI)",
-      "kickoff": "Sep 30 2026 12:00PM",
-      "home": "Papua New Guinea",
-      "away": "Solomon Islands",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ca51318ac1149a33",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Sep 30 2026 1:30PM",
@@ -50826,6 +50812,28 @@
       "kickoff": "Sep 30 2026 2:00PM",
       "home": "China U23 - Over",
       "away": "China U23 - Under",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4b8129c63a44861c",
+      "league": "CHINA LEAGUE U20",
+      "kickoff": "Sep 30 2026 2:00PM",
+      "home": "Liaoning Tieren U20",
+      "away": "Qingdao Hainiu U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f6dd87af8be6b098",
+      "league": "INTERNATIONAL YOUTH FOOTBALL TOURNAMENT (IN CHINA)",
+      "kickoff": "Sep 30 2026 2:00PM",
+      "home": "Vietnam U16",
+      "away": "Kyrgyzstan U16",
       "ht": null,
       "ft": null,
       "status": "Running",
