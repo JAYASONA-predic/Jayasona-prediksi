@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T10:56:58+00:00",
+  "updated_at": "2026-09-30T11:12:46+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3103,
+  "count": 3102,
   "archive_count": 3000,
   "matches": [
     {
@@ -52,6 +52,40 @@
       "ft": [
         1,
         5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1b5a072e98aa9a80",
+      "league": "INTERNATIONAL FRIENDLY U19",
+      "kickoff": "Sep 30 2026 5:00PM",
+      "home": "Scotland U19 (N)",
+      "away": "Ukraine U19",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3c970901f07271ba",
+      "league": "IFA SHIELD (IN INDIA)",
+      "kickoff": "Sep 30 2026 5:00PM",
+      "home": "East Bengal FC",
+      "away": "Punjab FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50735,40 +50769,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "eade440439744963",
-      "league": "SABA VIETNAM V LEAGUE 1 VIRTUAL PES 24 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 9:15PM",
-      "home": "Becamex Binh Duong (V)",
-      "away": "The Cong - Viettel (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7cb9920e4ede0b9d",
-      "league": "SABA VIETNAM V LEAGUE 1 VIRTUAL PES 24 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 9:15PM",
-      "home": "Hong Linh Ha Tinh (V)",
-      "away": "Binh Dinh (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "eaa4274f9e177994",
       "league": "INTERNATIONAL FRIENDLY U19",
       "kickoff": "Sep 30 2026 5:00PM",
@@ -50776,34 +50776,6 @@
       "away": "Germany U19",
       "ht": [
         1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1b5a072e98aa9a80",
-      "league": "INTERNATIONAL FRIENDLY U19",
-      "kickoff": "Sep 30 2026 5:00PM",
-      "home": "Scotland U19 (N)",
-      "away": "Ukraine U19",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3c970901f07271ba",
-      "league": "IFA SHIELD (IN INDIA)",
-      "kickoff": "Sep 30 2026 5:00PM",
-      "home": "East Bengal FC",
-      "away": "Punjab FC",
-      "ht": [
-        0,
         1
       ],
       "ft": null,
@@ -51691,6 +51663,17 @@
       "kickoff": "Oct 1 2026 4:00AM",
       "home": "Cienciano",
       "away": "CD Los Chankas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "17553ad20ca750cf",
+      "league": "PARAGUAY CUP",
+      "kickoff": "Oct 1 2026 4:00AM",
+      "home": "Independiente FBC (N)",
+      "away": "Nacional Asuncion",
       "ht": null,
       "ft": null,
       "status": "Running",
