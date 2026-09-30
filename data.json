@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T15:56:46+00:00",
+  "updated_at": "2026-09-30T16:15:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3112,
+  "count": 3122,
   "archive_count": 3000,
   "matches": [
     {
@@ -50839,6 +50839,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "ef20e743855a40b0",
+      "league": "NORWAY WOMEN DIVISION 1",
+      "kickoff": "Sep 30 2026 10:30PM",
+      "home": "Arna Bjornar (w)",
+      "away": "Frigg Oslo (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "2ae8fa479f51b47b",
       "league": "MONTENEGRO SECOND LEAGUE",
       "kickoff": "Sep 30 2026 11:00PM",
@@ -50858,7 +50869,10 @@
       "kickoff": "Sep 30 2026 11:00PM",
       "home": "CA Claypole (R)",
       "away": "Club Estrella del Sur AK (R)",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50947,17 +50961,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "79f5861c94d04abe",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Oct 1 2026 12:00AM",
-      "home": "Malta U21",
-      "away": "Germany U21",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "d3e999f7ae15d662",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
       "kickoff": "Oct 1 2026 12:00AM",
@@ -50974,6 +50977,17 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Romania U21",
       "away": "Finland U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "79f5861c94d04abe",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Malta U21",
+      "away": "Germany U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51117,6 +51131,17 @@
       "kickoff": "Oct 1 2026 12:30AM",
       "home": "Portugal U19",
       "away": "Netherlands U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aab3d0845fc01e32",
+      "league": "SLOVENIA 3RD DIVISION",
+      "kickoff": "Oct 1 2026 12:30AM",
+      "home": "NK Dobrovce",
+      "away": "NK Hajdina",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51398,11 +51423,88 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "16ac7bb7c9fcf04a",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Belisia Bilzen SV",
+      "away": "KSK Heist",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "97d70532c69497ca",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "FC Flenu",
+      "away": "Olympic Charleroi",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "ec9ba877f26b98e2",
       "league": "BELGIUM NATIONAL DIVISION 1",
       "kickoff": "Oct 1 2026 2:00AM",
       "home": "KFC Houtvenne",
       "away": "Royal FC Mandel United",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3c7f7bef5bacf486",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "KFC Merelbeke",
+      "away": "Dessel Sport",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bf1ed031fb447a55",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "KVV Zelzate",
+      "away": "Royal Knokke FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "76020eb572d4a82e",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Royal Charleroi SC B",
+      "away": "RSC Habay-La-Neuve",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f1f40d76d4747548",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "RWDM Brussels",
+      "away": "Union Rochefortoise",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2018f53554ce9ee6",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "SK Roeselare",
+      "away": "KVV Thes Sport",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51502,6 +51604,17 @@
       "kickoff": "Oct 1 2026 2:30AM",
       "home": "Ipswich Town (w)",
       "away": "London City Lionesses (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "41168a64b4bd189f",
+      "league": "BELGIUM NATIONAL DIVISION 1",
+      "kickoff": "Oct 1 2026 2:30AM",
+      "home": "KRC Harelbeke",
+      "away": "Hoogstraten VV",
       "ht": null,
       "ft": null,
       "status": "Running",
