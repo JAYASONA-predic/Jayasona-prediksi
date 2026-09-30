@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T17:28:43+00:00",
+  "updated_at": "2026-09-30T17:45:06+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3123,
+  "count": 3126,
   "archive_count": 3000,
   "matches": [
     {
@@ -51062,7 +51062,10 @@
       "kickoff": "Oct 1 2026 12:30AM",
       "home": "NK Dobrovce",
       "away": "NK Hajdina",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51101,7 +51104,10 @@
       "kickoff": "Oct 1 2026 12:45AM",
       "home": "AS Roma (w)",
       "away": "Barcelona (w)",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51112,7 +51118,10 @@
       "kickoff": "Oct 1 2026 12:45AM",
       "home": "BK Hacken FF (w)",
       "away": "Juventus (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51123,7 +51132,10 @@
       "kickoff": "Oct 1 2026 12:45AM",
       "home": "Paris FC (w)",
       "away": "Arsenal (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51134,7 +51146,10 @@
       "kickoff": "Oct 1 2026 12:50AM",
       "home": "Agudat Sport Nordia Jerusalem FC",
       "away": "Hapoel Hadera",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51349,6 +51364,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "8f22a63cc207741d",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Tzeirey Tira FC",
+      "away": "Jerusalem FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "eae7ffa1b73c984a",
       "league": "UEFA WOMEN EUROPA CUP QUALIFIERS",
       "kickoff": "Oct 1 2026 2:00AM",
@@ -51547,6 +51573,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "d8139c6733b72346",
+      "league": "PARAGUAY PRIMERA DIVISION B",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "12 De Octubre De Santo Domingo",
+      "away": "Club Olimpia de Ita",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "9a4e73ad7179b44a",
       "league": "PARAGUAY PRIMERA DIVISION B",
       "kickoff": "Oct 1 2026 2:00AM",
@@ -51596,6 +51633,17 @@
       "kickoff": "Oct 1 2026 2:00AM",
       "home": "Montevideo City Torque (R)",
       "away": "Racing Club Montevideo (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cb7335173c74ca4a",
+      "league": "BRAZIL CAMPEONATO MINEIRO WOMEN",
+      "kickoff": "Oct 1 2026 2:00AM",
+      "home": "Itabirito Futebol Clube MG (w)",
+      "away": "America Mineiro (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
