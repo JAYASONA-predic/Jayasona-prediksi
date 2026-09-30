@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T06:12:17+00:00",
+  "updated_at": "2026-09-30T06:36:17+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3057,
+  "count": 3062,
   "archive_count": 3000,
   "matches": [
     {
@@ -50768,7 +50768,10 @@
       "kickoff": "Sep 30 2026 1:30PM",
       "home": "Roots FC",
       "away": "SC Bengaluru",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50895,6 +50898,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "73fcd9cef151d59f",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN PORTUGAL)",
+      "kickoff": "Sep 30 2026 8:00PM",
+      "home": "Denmark U19",
+      "away": "Austria U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "1e1b123fa3e84318",
       "league": "INTERNATIONAL FRIENDLY",
       "kickoff": "Sep 30 2026 9:00PM",
@@ -50988,6 +51002,39 @@
       "kickoff": "Oct 1 2026 12:00AM",
       "home": "Eritrea (N)",
       "away": "South Africa",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8a19808ac2d935e1",
+      "league": "AFRICA U23 CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Rwanda U23",
+      "away": "Sudan U23",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ddbd2d0ba21f121c",
+      "league": "AFRICA U23 CUP OF NATIONS 2027 QUALIFIERS",
+      "kickoff": "Oct 1 2026 12:00AM",
+      "home": "Togo U23",
+      "away": "Libya U23",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "75fc817a2fa221a2",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN PORTUGAL)",
+      "kickoff": "Oct 1 2026 12:30AM",
+      "home": "Portugal U19",
+      "away": "Netherlands U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51186,6 +51233,17 @@
       "kickoff": "Oct 1 2026 2:45AM",
       "home": "AFC Whyteleafe",
       "away": "Brentwood Town",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e35f4bbdb98a6a9e",
+      "league": "ENGLISH ISTHMIAN LEAGUE DIVISION ONE NORTH",
+      "kickoff": "Oct 1 2026 2:45AM",
+      "home": "Grays Athletic",
+      "away": "Takeley",
       "ht": null,
       "ft": null,
       "status": "Running",
