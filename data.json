@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T03:31:31+00:00",
+  "updated_at": "2026-09-30T03:55:04+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3001,
+  "count": 3000,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "d870b607e3afd58f",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Sep 30 2026 10:00AM",
+      "home": "Belize",
+      "away": "Saint Vincent & The Grenadines",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "99585c54132ff7e8",
       "league": "COLOMBIA PRIMERA A",
@@ -50743,37 +50760,6 @@
         0
       ],
       "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "06cfb3d83e49285b",
-      "league": "*ENGLISH PREMIER LEAGUE",
-      "kickoff": "Sep 20 2026 9:00PM",
-      "home": "Manchester City",
-      "away": "Sunderland",
-      "ht": [
-        3,
-        2
-      ],
-      "ft": [
-        5,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d870b607e3afd58f",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Sep 30 2026 10:00AM",
-      "home": "Belize",
-      "away": "Saint Vincent & The Grenadines",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     }
   ],
