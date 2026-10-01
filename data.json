@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T16:41:01+00:00",
+  "updated_at": "2026-10-01T16:55:04+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3099,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "5dcbc233c52838c9",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Oct 1 2026 11:00PM",
+      "home": "Greece U21",
+      "away": "Latvia U21",
+      "ht": [
+        3,
+        1
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b20a4533841240a1",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Oct 1 2026 11:00PM",
+      "home": "Al Gharafa SC (N)",
+      "away": "Mesaimeer SC",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "c37c616e76cfb4d8",
       "league": "OMAN FEDERATION CUP",
@@ -50756,68 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d2af90a04e37abec",
-      "league": "ICELAND PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "IBV Vestmannaeyjar",
-      "away": "Valur",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "707c850eb814313a",
-      "league": "ICELAND PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "Keflavik",
-      "away": "Fram Reykjavik",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5dcbc233c52838c9",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Oct 1 2026 11:00PM",
-      "home": "Greece U21",
-      "away": "Latvia U21",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b20a4533841240a1",
-      "league": "QATAR STARS LEAGUE CUP",
-      "kickoff": "Oct 1 2026 11:00PM",
-      "home": "Al Gharafa SC (N)",
-      "away": "Mesaimeer SC",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e46e546f73ffe182",
       "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
       "kickoff": "Oct 1 2026 11:00PM",
@@ -50865,7 +50837,10 @@
       "kickoff": "Oct 1 2026 11:45PM",
       "home": "Baniyas SC",
       "away": "Al Wahda Abu Dhabi",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50876,7 +50851,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Azerbaijan",
       "away": "Liechtenstein",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50887,7 +50865,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "North Macedonia U21",
       "away": "Montenegro U21",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50898,7 +50879,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Morocco U23",
       "away": "Mali U23",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50909,7 +50893,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "USA U20 (N)",
       "away": "Brazil U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50920,7 +50907,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Guinea",
       "away": "Kenya",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50931,7 +50921,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Trabzonspor",
       "away": "Drogheda United",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50942,7 +50935,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Baerum",
       "away": "Lillestrom",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50953,7 +50949,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Madla IL",
       "away": "Viking",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50964,7 +50963,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "FC Sderot",
       "away": "Hapoel Azor",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50975,7 +50977,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Al Yarmouk",
       "away": "Amman FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50986,7 +50991,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Ittihad Al Ramtha",
       "away": "Sama Al Sarhan FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50997,7 +51005,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Jerash SC",
       "away": "Al Ahli (Jor)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51008,7 +51019,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Ashdod",
       "away": "Maccabi Herzliya",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51019,7 +51033,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Bnei Yehuda Tel Aviv",
       "away": "Maccabi Kiryat Gat FC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51030,7 +51047,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Hapoel Afula",
       "away": "Hapoel Rishon Lezion",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51041,7 +51061,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Hapoel Raanana",
       "away": "FC Kafr Qasim",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51052,7 +51075,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Kiryat Yam SC",
       "away": "Hapoel Kfar Saba",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51063,7 +51089,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Maccabi Bnei Reineh",
       "away": "Hapoel Kfar Shalem",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51074,7 +51103,10 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "Maccabi Kabilio Jaffa",
       "away": "Hapoel Acre FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51206,6 +51238,28 @@
       "kickoff": "Oct 2 2026 1:00AM",
       "home": "Hungary U21",
       "away": "Northern Ireland U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4399ce875be4e2a9",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Oct 2 2026 1:15AM",
+      "home": "Al Shamal (N)",
+      "away": "Muaither SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "46d55d3a7192a052",
+      "league": "QATAR STARS LEAGUE CUP",
+      "kickoff": "Oct 2 2026 1:15AM",
+      "home": "Qatar SC (N)",
+      "away": "Al Bidda SC",
       "ht": null,
       "ft": null,
       "status": "Running",
