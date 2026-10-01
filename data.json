@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T22:25:50+00:00",
+  "updated_at": "2026-10-01T22:41:26+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3025,
   "archive_count": 3000,
@@ -13,6 +13,23 @@
       "away": "Once Caldas",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8be50de035ec1bee",
+      "league": "COLOMBIA PRIMERA B",
+      "kickoff": "Oct 2 2026 4:30AM",
+      "home": "Envigado FC",
+      "away": "Orsomarso SC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50779,43 +50796,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "3fb4d364df2761ff",
-      "league": "BELGIUM FIRST DIVISION A",
-      "kickoff": "Sep 21 2026 1:15AM",
-      "home": "KV Kortrijk",
-      "away": "SK Beveren",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b1e282402ec7cfe3",
       "league": "ECUADOR SERIE B (PLAY OFF)",
       "kickoff": "Oct 2 2026 4:30AM",
       "home": "Cumbaya FC (N)",
       "away": "Deportivo Santo Domingo",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8be50de035ec1bee",
-      "league": "COLOMBIA PRIMERA B",
-      "kickoff": "Oct 2 2026 4:30AM",
-      "home": "Envigado FC",
-      "away": "Orsomarso SC",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50909,6 +50895,17 @@
       "kickoff": "Oct 2 2026 6:30AM",
       "home": "Bolivar",
       "away": "GV Deportivo San Jose de Oruro",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "659e36305cef3049",
+      "league": "CONCACAF NATIONS LEAGUE C",
+      "kickoff": "Oct 2 2026 7:00AM",
+      "home": "Anguilla (N)",
+      "away": "Antigua And Barbuda",
       "ht": null,
       "ft": null,
       "status": "Running",
