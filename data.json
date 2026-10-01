@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T00:14:10+00:00",
+  "updated_at": "2026-10-01T00:42:02+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3026,
+  "count": 3025,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "4811f13d4b7dc47f",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Oct 1 2026 6:30AM",
+      "home": "CD Real Tomayapo",
+      "away": "Nacional Potosi",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e36daf1b6f85cce8",
+      "league": "PARAGUAY CUP",
+      "kickoff": "Oct 1 2026 6:30AM",
+      "home": "Cerro Porteno (N)",
+      "away": "Rubio Nu",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "c259487f65b804ac",
       "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
@@ -50744,40 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7ce88a036d4c43a8",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:15PM",
-      "home": "USA (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5978e265bc3e0648",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:15PM",
-      "home": "AS Roma (V)",
-      "away": "Juventus (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cf2081d759dc4934",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 4:00AM",
@@ -50795,34 +50795,6 @@
       "home": "Cienciano",
       "away": "Penarol",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4811f13d4b7dc47f",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Oct 1 2026 6:30AM",
-      "home": "CD Real Tomayapo",
-      "away": "Nacional Potosi",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e36daf1b6f85cce8",
-      "league": "PARAGUAY CUP",
-      "kickoff": "Oct 1 2026 6:30AM",
-      "home": "Cerro Porteno (N)",
-      "away": "Rubio Nu",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50961,7 +50933,10 @@
       "kickoff": "Oct 1 2026 7:30AM",
       "home": "D.C. United",
       "away": "SC Paderborn 07",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50972,7 +50947,10 @@
       "kickoff": "Oct 1 2026 7:30AM",
       "home": "New York Red Bulls",
       "away": "St Louis City SC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50983,7 +50961,10 @@
       "kickoff": "Oct 1 2026 7:30AM",
       "home": "Rhode Island FC",
       "away": "Indy Eleven",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51071,6 +51052,17 @@
       "kickoff": "Oct 1 2026 9:00AM",
       "home": "Nueva Santa Rosa CDF",
       "away": "Deportivo Mictlan",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e5cf5eec1bcb0549",
+      "league": "GUATEMALA LIGA PRIMERA DIVISION",
+      "kickoff": "Oct 1 2026 9:00AM",
+      "home": "Deportivo Gomerano",
+      "away": "Chichicasteco",
       "ht": null,
       "ft": null,
       "status": "Running",
