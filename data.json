@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T16:55:04+00:00",
+  "updated_at": "2026-10-01T17:10:57+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3099,
+  "count": 3101,
   "archive_count": 3000,
   "matches": [
     {
@@ -35,6 +35,23 @@
       "ft": [
         4,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e46e546f73ffe182",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Oct 1 2026 11:00PM",
+      "home": "CA Estudiantes de Caseros (R)",
+      "away": "Nueva Chicago (R)",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50773,37 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d68a81839fecf5db",
-      "league": "ICELAND PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "IA Akranes",
-      "away": "Breidablik",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e46e546f73ffe182",
-      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
-      "kickoff": "Oct 1 2026 11:00PM",
-      "home": "CA Estudiantes de Caseros (R)",
-      "away": "Nueva Chicago (R)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "10f5e1eb8e311cdb",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 1 2026 11:30PM",
@@ -51200,6 +51186,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "d681922383586722",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Oct 2 2026 1:00AM",
+      "home": "CA All Boys (R)",
+      "away": "Club Almagro (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "20c897e22e436bd8",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Oct 2 2026 1:00AM",
+      "home": "CA Ferrocarril Midland (R)",
+      "away": "Club Agropecuario Argentino (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "6e00166f4ea0321c",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 2 2026 1:00AM",
@@ -51271,6 +51279,17 @@
       "kickoff": "Oct 2 2026 1:30AM",
       "home": "UD Santa Marta",
       "away": "Salamanca CF UDS",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0050ca38068c2d40",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Oct 2 2026 1:30AM",
+      "home": "SKN St. Polten AM",
+      "away": "SC Zwettl",
       "ht": null,
       "ft": null,
       "status": "Running",
