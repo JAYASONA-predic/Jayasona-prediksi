@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T09:58:49+00:00",
+  "updated_at": "2026-10-01T10:19:35+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3087,
+  "count": 3088,
   "archive_count": 3000,
   "matches": [
     {
@@ -18,6 +18,23 @@
       "ft": [
         1,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "19ab23f05dbc92fe",
+      "league": "HONG KONG LEAGUE CUP",
+      "kickoff": "Oct 1 2026 4:00PM",
+      "home": "North District FC (N)",
+      "away": "Southern District RSA",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50773,37 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f3ae35b9f423e2c5",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Tottenham Hotspur (V)",
-      "away": "Bayer 04 Leverkusen (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "19ab23f05dbc92fe",
-      "league": "HONG KONG LEAGUE CUP",
-      "kickoff": "Oct 1 2026 4:00PM",
-      "home": "North District FC (N)",
-      "away": "Southern District RSA",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "47a259d03f51a9fd",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
       "kickoff": "Oct 1 2026 5:30PM",
@@ -50859,11 +50845,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "0febd70a343e2b15",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Oct 1 2026 6:30PM",
+      "home": "Parikrma FC",
+      "away": "ASC Football Club",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "27fcc8a6ecb82ac6",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
       "kickoff": "Oct 1 2026 6:45PM",
       "home": "France U19",
       "away": "Turkey U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "20e041612fc42377",
+      "league": "HONG KONG LEAGUE CUP",
+      "kickoff": "Oct 1 2026 7:00PM",
+      "home": "Shatin (n)",
+      "away": "Hong Kong FC",
       "ht": null,
       "ft": null,
       "status": "Running",
