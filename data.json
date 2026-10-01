@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T10:19:35+00:00",
+  "updated_at": "2026-10-01T10:42:06+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3088,
+  "count": 3091,
   "archive_count": 3000,
   "matches": [
     {
@@ -50795,7 +50795,10 @@
       "kickoff": "Oct 1 2026 5:30PM",
       "home": "Poland U19",
       "away": "Kazakhstan U19",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50806,7 +50809,10 @@
       "kickoff": "Oct 1 2026 5:30PM",
       "home": "Slovakia U19",
       "away": "Switzerland U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50870,8 +50876,19 @@
       "id": "20e041612fc42377",
       "league": "HONG KONG LEAGUE CUP",
       "kickoff": "Oct 1 2026 7:00PM",
-      "home": "Shatin (n)",
+      "home": "Shatin (N)",
       "away": "Hong Kong FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "de94cd5c548e5b0f",
+      "league": "KENYA NATIONAL SUPER LEAGUE (PLAY OFF)",
+      "kickoff": "Oct 1 2026 7:00PM",
+      "home": "Mombasa United",
+      "away": "Kariobangi Sharks",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51565,6 +51582,28 @@
       "kickoff": "Oct 2 2026 3:00AM",
       "home": "Paris Saint Germain (w)",
       "away": "Oud-Heverlee Leuven (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0d7be42e92134742",
+      "league": "CONCACAF NATIONS LEAGUE C",
+      "kickoff": "Oct 2 2026 3:00AM",
+      "home": "British Virgin Islands (N)",
+      "away": "Montserrat",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c4572a8091880eb8",
+      "league": "CONCACAF NATIONS LEAGUE C",
+      "kickoff": "Oct 2 2026 4:00AM",
+      "home": "US Virgin Islands",
+      "away": "Saint Martin",
       "ht": null,
       "ft": null,
       "status": "Running",
