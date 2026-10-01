@@ -1,10 +1,61 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T01:28:03+00:00",
+  "updated_at": "2026-10-01T01:44:35+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3017,
+  "count": 3012,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9fb0fe300e107a5c",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 1 2026 7:30AM",
+      "home": "D.C. United",
+      "away": "SC Paderborn 07",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "849023afc579c315",
+      "league": "USA MAJOR LEAGUE SOCCER",
+      "kickoff": "Oct 1 2026 7:30AM",
+      "home": "New York Red Bulls",
+      "away": "St Louis City SC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dd7b9b72ae4a89e5",
+      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
+      "kickoff": "Oct 1 2026 7:30AM",
+      "home": "Rhode Island FC",
+      "away": "Indy Eleven",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "f51abfa8b878d3b1",
       "league": "CHILE CUP",
@@ -103,6 +154,40 @@
       "ft": [
         3,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4f3c44328a5df86b",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:00AM",
+      "home": "New York Red Bulls",
+      "away": "Montevideo City Torque",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3dc367f8af82fe13",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 1 2026 7:00AM",
+      "home": "St Louis City SC",
+      "away": "Penarol",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50699,107 +50784,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4547daf4261d81cc",
-      "league": "*ENGLISH PREMIER LEAGUE - OFFSIDE",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Fulham No.of Offsides",
-      "away": "Manchester United No.of Offsides",
-      "ht": null,
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6743767ed052b439",
-      "league": "*GERMANY-BUNDESLIGA I - OFFSIDE",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Schalke 04 No.of Offsides",
-      "away": "SV Elversberg No.of Offsides",
-      "ht": null,
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6169f737583d1a44",
-      "league": "ITALY SERIE C",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Arzignano Valchiampo",
-      "away": "AC Renate",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "74e1c3f0e570a7a3",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Legia Warszawa",
-      "away": "IA Akranes",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        3,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8ed9f02d95bcecaf",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Goztepe AS",
-      "away": "Legia Warszawa",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4f3c44328a5df86b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 1 2026 7:00AM",
-      "home": "New York Red Bulls",
-      "away": "Montevideo City Torque",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3dc367f8af82fe13",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 1 2026 7:00AM",
-      "home": "St Louis City SC",
-      "away": "Penarol",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8fa4d18461486384",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 7:00AM",
@@ -50817,48 +50801,6 @@
       "home": "Junior Barranquilla",
       "away": "Montevideo City Torque",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9fb0fe300e107a5c",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 1 2026 7:30AM",
-      "home": "D.C. United",
-      "away": "SC Paderborn 07",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "849023afc579c315",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Oct 1 2026 7:30AM",
-      "home": "New York Red Bulls",
-      "away": "St Louis City SC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dd7b9b72ae4a89e5",
-      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
-      "kickoff": "Oct 1 2026 7:30AM",
-      "home": "Rhode Island FC",
-      "away": "Indy Eleven",
-      "ht": [
-        1,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50916,7 +50858,10 @@
       "kickoff": "Oct 1 2026 8:30AM",
       "home": "Oriente Petrolero",
       "away": "The Strongest",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
