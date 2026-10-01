@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T20:10:12+00:00",
+  "updated_at": "2026-10-01T20:30:27+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3070,
+  "count": 3068,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Once Caldas",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d02e825520861fce",
+      "league": "NORWAY U19 INTERKRETS A",
+      "kickoff": "Oct 2 2026 2:30AM",
+      "home": "Skedsmo U19",
+      "away": "Skeid Fotball U19",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -46,6 +63,40 @@
       "ft": [
         3,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "95ecd13641e2c23c",
+      "league": "NORWAY U19 INTERKRETS B",
+      "kickoff": "Oct 2 2026 2:15AM",
+      "home": "Gjellerasen IF U19",
+      "away": "Grorud IL U19",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "26c097f294d0d351",
+      "league": "NORWAY U19 INTERKRETS B",
+      "kickoff": "Oct 2 2026 2:15AM",
+      "home": "Valerenga U19",
+      "away": "Christiania BK U19",
+      "ht": [
+        3,
+        2
+      ],
+      "ft": [
+        3,
+        5
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50751,57 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b1accf9d59e0737c",
-      "league": "ALBANIA SUPER LEAGUE",
-      "kickoff": "Sep 21 2026 12:30AM",
-      "home": "Egnatia Rrogozhine",
-      "away": "Partizani Tirana",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "62617f296621fed5",
-      "league": "*SPAIN PRIMERA LALIGA",
-      "kickoff": "Sep 21 2026 12:30AM",
-      "home": "Deportivo La Coruna",
-      "away": "Real Betis",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5621ab3924cbdc6f",
-      "league": "*SPAIN PRIMERA LALIGA",
-      "kickoff": "Sep 21 2026 12:30AM",
-      "home": "Villarreal CF",
-      "away": "Levante UD",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "6e00166f4ea0321c",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 2 2026 1:00AM",
@@ -50866,48 +50866,6 @@
       "home": "CA Colegiales (R)",
       "away": "Deportivo Tristan Suarez (R)",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "95ecd13641e2c23c",
-      "league": "NORWAY U19 INTERKRETS B",
-      "kickoff": "Oct 2 2026 2:15AM",
-      "home": "Gjellerasen IF U19",
-      "away": "Grorud IL U19",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "26c097f294d0d351",
-      "league": "NORWAY U19 INTERKRETS B",
-      "kickoff": "Oct 2 2026 2:15AM",
-      "home": "Valerenga U19",
-      "away": "Christiania BK U19",
-      "ht": [
-        3,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d02e825520861fce",
-      "league": "NORWAY U19 INTERKRETS A",
-      "kickoff": "Oct 2 2026 2:30AM",
-      "home": "Skedsmo U19",
-      "away": "Skeid Fotball U19",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51438,6 +51396,17 @@
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "Curacao",
       "away": "Trinidad & Tobago",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "66cc9a7026a39ce5",
+      "league": "PARAGUAY CUP",
+      "kickoff": "Oct 2 2026 6:00AM",
+      "home": "Olimpia Asuncion (N)",
+      "away": "Sportivo Luqueno",
       "ht": null,
       "ft": null,
       "status": "Running",
