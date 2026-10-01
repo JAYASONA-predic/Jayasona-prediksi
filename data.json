@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T23:07:41+00:00",
+  "updated_at": "2026-10-01T23:24:57+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3023,
   "archive_count": 3000,
@@ -50879,7 +50879,10 @@
       "kickoff": "Oct 2 2026 6:30AM",
       "home": "Bolivar",
       "away": "GV Deportivo San Jose de Oruro",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
