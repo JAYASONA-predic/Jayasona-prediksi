@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T23:40:09+00:00",
+  "updated_at": "2026-10-01T23:53:29+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3022,
   "archive_count": 3000,
@@ -50879,7 +50879,10 @@
       "kickoff": "Oct 2 2026 7:00AM",
       "home": "Anguilla (N)",
       "away": "Antigua And Barbuda",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
