@@ -1,10 +1,38 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T02:31:56+00:00",
+  "updated_at": "2026-10-01T02:55:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3011,
+  "count": 3008,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "e5cf5eec1bcb0549",
+      "league": "GUATEMALA LIGA PRIMERA DIVISION",
+      "kickoff": "Oct 1 2026 9:00AM",
+      "home": "Deportivo Gomerano",
+      "away": "Chichicasteco",
+      "ht": null,
+      "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "05a5df20abef727b",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Oct 1 2026 8:30AM",
+      "home": "Oriente Petrolero",
+      "away": "The Strongest",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "c36238dff888559c",
       "league": "INTERNATIONAL FRIENDLY",
@@ -17,6 +45,23 @@
       ],
       "ft": [
         4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aa54dc2399d9f411",
+      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
+      "kickoff": "Oct 1 2026 8:00AM",
+      "home": "FC Tulsa",
+      "away": "New Mexico United",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
         0
       ],
       "status": "Completed",
@@ -50733,57 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7328e52042ea5dd5",
-      "league": "POLAND 1ST DIVISION",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Podbeskidzie Bielsko Biala",
-      "away": "Unia Skierniewice",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d729eef61492837e",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Mirandes B",
-      "away": "Jupiter Leones",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f73b46ebf023a3a7",
-      "league": "ITALY SERIE C",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Campobasso",
-      "away": "ASD Pineto",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8fa4d18461486384",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 7:00AM",
@@ -50828,31 +50822,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "aa54dc2399d9f411",
-      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
-      "kickoff": "Oct 1 2026 8:00AM",
-      "home": "FC Tulsa",
-      "away": "New Mexico United",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "05a5df20abef727b",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Oct 1 2026 8:30AM",
-      "home": "Oriente Petrolero",
-      "away": "The Strongest",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "65ae8f622af7f347",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 1 2026 9:00AM",
@@ -50890,17 +50859,6 @@
         3,
         1
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e5cf5eec1bcb0549",
-      "league": "GUATEMALA LIGA PRIMERA DIVISION",
-      "kickoff": "Oct 1 2026 9:00AM",
-      "home": "Deportivo Gomerano",
-      "away": "Chichicasteco",
-      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
