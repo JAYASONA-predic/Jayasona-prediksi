@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T23:24:57+00:00",
+  "updated_at": "2026-10-01T23:40:09+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3023,
+  "count": 3022,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Once Caldas",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b68bec876f7aa3c3",
+      "league": "EL SALVADOR PRIMERA DIVISION",
+      "kickoff": "Oct 2 2026 5:30AM",
+      "home": "CD Fuerte San Francisco",
+      "away": "CD Luis Angel Firpo",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50770,37 +50787,6 @@
         0
       ],
       "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b457bf751a5611dd",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:15AM",
-      "home": "Liverpool (V)",
-      "away": "Torino (V)",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b68bec876f7aa3c3",
-      "league": "EL SALVADOR PRIMERA DIVISION",
-      "kickoff": "Oct 2 2026 5:30AM",
-      "home": "CD Fuerte San Francisco",
-      "away": "CD Luis Angel Firpo",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
