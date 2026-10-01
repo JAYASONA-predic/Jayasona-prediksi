@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T16:15:43+00:00",
+  "updated_at": "2026-10-01T16:41:01+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3100,
+  "count": 3099,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "c37c616e76cfb4d8",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Oct 1 2026 10:25PM",
+      "home": "Al Musannah FC",
+      "away": "Ibri Club",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "061289413c416cc2",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Oct 1 2026 10:25PM",
+      "home": "Bahla Club",
+      "away": "Fanja SC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "c7780f287a3b6f1f",
       "league": "INTERNATIONAL FRIENDLY",
@@ -50756,68 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1de805bd54c2c6e3",
-      "league": "GREECE SUPER LEAGUE 1",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "OFI Crete",
-      "away": "Asteras Tripolis",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c341adffdd3a0da2",
-      "league": "CZECH REPUBLIC 1ST DIVISION",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "Slavia Praha",
-      "away": "Viktoria Plzen",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c37c616e76cfb4d8",
-      "league": "OMAN FEDERATION CUP",
-      "kickoff": "Oct 1 2026 10:25PM",
-      "home": "Al Musannah FC",
-      "away": "Ibri Club",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "061289413c416cc2",
-      "league": "OMAN FEDERATION CUP",
-      "kickoff": "Oct 1 2026 10:25PM",
-      "home": "Bahla Club",
-      "away": "Fanja SC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "5dcbc233c52838c9",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
       "kickoff": "Oct 1 2026 11:00PM",
@@ -50865,7 +50837,10 @@
       "kickoff": "Oct 1 2026 11:30PM",
       "home": "VfB Stuttgart (N)",
       "away": "Greuther Furth",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50876,7 +50851,10 @@
       "kickoff": "Oct 1 2026 11:30PM",
       "home": "Maccabi Yavne",
       "away": "Ironi Beit Shemesh",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51173,6 +51151,17 @@
       "kickoff": "Oct 2 2026 1:00AM",
       "home": "Hungary U21",
       "away": "Lithuania U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a88e5c793fdb8b4f",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 1:00AM",
+      "home": "FC Atert Bissen",
+      "away": "RFC Liege",
       "ht": null,
       "ft": null,
       "status": "Running",
