@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T17:29:32+00:00",
+  "updated_at": "2026-10-01T17:47:47+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3099,
   "archive_count": 3000,
@@ -51117,7 +51117,10 @@
       "kickoff": "Oct 2 2026 12:45AM",
       "home": "Austria Wien (w)",
       "away": "Inter Milan (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51128,7 +51131,10 @@
       "kickoff": "Oct 2 2026 12:45AM",
       "home": "HB Koge (w)",
       "away": "Servette Chenois (w)",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51139,7 +51145,10 @@
       "kickoff": "Oct 2 2026 12:45AM",
       "home": "SPG Weisskirchen/Allhaming",
       "away": "Union Vocklamarkt",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
