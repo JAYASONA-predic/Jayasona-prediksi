@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T11:13:53+00:00",
+  "updated_at": "2026-10-01T11:31:52+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3098,
+  "count": 3097,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "47a259d03f51a9fd",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
+      "kickoff": "Oct 1 2026 5:30PM",
+      "home": "Poland U19",
+      "away": "Kazakhstan U19",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "44f4a0d4111a99e8",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
+      "kickoff": "Oct 1 2026 5:30PM",
+      "home": "Slovakia U19",
+      "away": "Switzerland U19",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "6ceb40b360134d00",
       "league": "INDIA KARNATAKA SUPER DIVISION",
@@ -50756,74 +50790,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c0152b36f57e01e7",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "New Zealand (V)",
-      "away": "Wales (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4ec1217128445b51",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Real Madrid (V)",
-      "away": "Arsenal (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "47a259d03f51a9fd",
-      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
-      "kickoff": "Oct 1 2026 5:30PM",
-      "home": "Poland U19",
-      "away": "Kazakhstan U19",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "44f4a0d4111a99e8",
-      "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
-      "kickoff": "Oct 1 2026 5:30PM",
-      "home": "Slovakia U19",
-      "away": "Switzerland U19",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "633dab28bbecaffd",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 1 2026 6:00PM",
       "home": "Olimpija Ljubljana (N)",
       "away": "Slaven Koprivnica",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50859,7 +50834,10 @@
       "kickoff": "Oct 1 2026 6:30PM",
       "home": "Parikrma FC",
       "away": "ASC Football Club",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50892,6 +50870,17 @@
       "kickoff": "Oct 1 2026 7:00PM",
       "home": "Mombasa United",
       "away": "Kariobangi Sharks",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "53463170cda24e91",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Oct 1 2026 7:30PM",
+      "home": "Langsning SC",
+      "away": "Shillong Lajong FC (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
