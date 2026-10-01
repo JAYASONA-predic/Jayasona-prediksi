@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T13:34:59+00:00",
+  "updated_at": "2026-10-01T13:57:08+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3105,
+  "count": 3107,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "277415cbfece77c9",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Oct 1 2026 8:00PM",
+      "home": "GAIS Goteborg U21",
+      "away": "Orgryte IS U21",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "53463170cda24e91",
       "league": "INDIA SHILLONG PREMIER LEAGUE",
@@ -50773,23 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "1e501b1544066810",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:45PM",
-      "home": "Senegal (V)",
-      "away": "USA (V)",
-      "ht": [
-        1,
-        3
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f616d87f958c6cf2",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 6:10PM",
@@ -50809,20 +50809,6 @@
       "ht": [
         0,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "277415cbfece77c9",
-      "league": "SWEDEN LEAGUE CUP ELITE U21",
-      "kickoff": "Oct 1 2026 8:00PM",
-      "home": "GAIS Goteborg U21",
-      "away": "Orgryte IS U21",
-      "ht": [
-        2,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -50918,7 +50904,10 @@
       "kickoff": "Oct 1 2026 9:00PM",
       "home": "Juve Stabia",
       "away": "USD Palmese 1914",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50940,6 +50929,17 @@
       "kickoff": "Oct 1 2026 9:00PM",
       "home": "Club Atletico Mitre (R)",
       "away": "Talleres Remedios (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "70d8a8bf7feb7b1b",
+      "league": "OMAN 1ST DIVISION",
+      "kickoff": "Oct 1 2026 9:14PM",
+      "home": "Majees SC",
+      "away": "Al Oruba (OMA)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51023,11 +51023,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "2cb68a78e67092c3",
+      "league": "NATIONS CUP U19 (IN SLOVENIA)",
+      "kickoff": "Oct 1 2026 10:00PM",
+      "home": "Slovenia U19",
+      "away": "Faroe Islands U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "5736f6491e08f187",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 1 2026 10:00PM",
       "home": "VfL Wolfsburg (N)",
       "away": "TSV Havelse",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c8c8048160c134e6",
+      "league": "ARGENTINA PRIMERA B METROPOLITANA RESERVE",
+      "kickoff": "Oct 1 2026 10:00PM",
+      "home": "Deportivo Camioneros (R)",
+      "away": "Arsenal de Sarandi (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
