@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T19:32:15+00:00",
+  "updated_at": "2026-10-01T19:53:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3081,
+  "count": 3080,
   "archive_count": 3000,
   "matches": [
     {
@@ -50884,7 +50884,10 @@
       "kickoff": "Oct 2 2026 2:00AM",
       "home": "San Martin San Juan (R)",
       "away": "Lanus (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51046,7 +51049,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Denmark",
       "away": "Portugal",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51057,7 +51063,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Germany",
       "away": "Serbia",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51068,7 +51077,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Greece",
       "away": "Netherlands",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51079,7 +51091,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Wales",
       "away": "Norway",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51090,7 +51105,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Ireland",
       "away": "Austria",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51101,7 +51119,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Israel (N)",
       "away": "Kosovo",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51112,7 +51133,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Malta",
       "away": "Gibraltar",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51148,7 +51172,10 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Velez Sarsfield (R)",
       "away": "Argentinos Juniors (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51412,7 +51439,10 @@
       "kickoff": "Oct 2 2026 3:00AM",
       "home": "Manchester City (w)",
       "away": "Real Madrid (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51423,7 +51453,10 @@
       "kickoff": "Oct 2 2026 3:00AM",
       "home": "Paris Saint Germain (w)",
       "away": "Oud-Heverlee Leuven (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51434,18 +51467,10 @@
       "kickoff": "Oct 2 2026 3:00AM",
       "home": "FH/IH U19",
       "away": "Keflavik/Reynir/Hafnir U19",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0d7be42e92134742",
-      "league": "CONCACAF NATIONS LEAGUE C",
-      "kickoff": "Oct 2 2026 3:00AM",
-      "home": "British Virgin Islands (N)",
-      "away": "Montserrat",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51462,22 +51487,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c4572a8091880eb8",
+      "id": "6ad2c7b146e66e7b",
       "league": "CONCACAF NATIONS LEAGUE C",
       "kickoff": "Oct 2 2026 4:00AM",
-      "home": "US Virgin Islands",
-      "away": "Saint Martin",
+      "home": "British Virgin Islands (N)",
+      "away": "Montserrat",
       "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6ad2c7b146e66e7b",
+      "id": "c4572a8091880eb8",
       "league": "CONCACAF NATIONS LEAGUE C",
       "kickoff": "Oct 2 2026 4:00AM",
-      "home": "British Virgin Islands (N)",
-      "away": "Montserrat",
+      "home": "US Virgin Islands",
+      "away": "Saint Martin",
       "ht": null,
       "ft": null,
       "status": "Running",
