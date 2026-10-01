@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T11:31:52+00:00",
+  "updated_at": "2026-10-01T11:56:13+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3097,
   "archive_count": 3000,
@@ -50848,7 +50848,10 @@
       "kickoff": "Oct 1 2026 6:45PM",
       "home": "France U19",
       "away": "Turkey U19",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50859,7 +50862,10 @@
       "kickoff": "Oct 1 2026 7:00PM",
       "home": "Shatin (N)",
       "away": "Hong Kong FC",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50870,7 +50876,10 @@
       "kickoff": "Oct 1 2026 7:00PM",
       "home": "Mombasa United",
       "away": "Kariobangi Sharks",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
