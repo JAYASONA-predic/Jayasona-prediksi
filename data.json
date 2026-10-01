@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T12:17:17+00:00",
+  "updated_at": "2026-10-01T12:48:20+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3103,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "27fcc8a6ecb82ac6",
+      "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
+      "kickoff": "Oct 1 2026 6:45PM",
+      "home": "France U19",
+      "away": "Turkey U19",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0febd70a343e2b15",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Oct 1 2026 6:30PM",
+      "home": "Parikrma FC",
+      "away": "ASC Football Club",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "73ef40515f42fe3c",
       "league": "KIRIN CUP (IN JAPAN)",
@@ -50756,74 +50790,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2e76109ef5bf2d42",
-      "league": "SAUDI 1ST DIVISION",
-      "kickoff": "Sep 20 2026 11:45PM",
-      "home": "Damac",
-      "away": "Al Adalah",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "01d1ec82079bbc88",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Australia (V)",
-      "away": "Qatar (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f616d87f958c6cf2",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 6:10PM",
       "home": "Malaysia",
       "away": "Japan",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0febd70a343e2b15",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Oct 1 2026 6:30PM",
-      "home": "Parikrma FC",
-      "away": "ASC Football Club",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "27fcc8a6ecb82ac6",
-      "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
-      "kickoff": "Oct 1 2026 6:45PM",
-      "home": "France U19",
-      "away": "Turkey U19",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50862,7 +50834,10 @@
       "kickoff": "Oct 1 2026 7:30PM",
       "home": "Langsning SC",
       "away": "Shillong Lajong FC (R)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50961,6 +50936,28 @@
       "kickoff": "Oct 1 2026 9:00PM",
       "home": "Juve Stabia",
       "away": "USD Palmese 1914",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8d5011aeb6271b90",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Oct 1 2026 9:00PM",
+      "home": "CA San Miguel (R)",
+      "away": "CA Temperley (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3788e5ca85cff0a6",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Oct 1 2026 9:00PM",
+      "home": "Club Atletico Mitre (R)",
+      "away": "Talleres Remedios (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
