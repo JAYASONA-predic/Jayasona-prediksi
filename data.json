@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T01:57:33+00:00",
+  "updated_at": "2026-10-01T02:14:47+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3012,
+  "count": 3011,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "c36238dff888559c",
+      "league": "INTERNATIONAL FRIENDLY",
+      "kickoff": "Oct 1 2026 8:00AM",
+      "home": "Argentina",
+      "away": "Bolivia",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "9fb0fe300e107a5c",
       "league": "CLUB FRIENDLY",
@@ -50767,23 +50784,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "4283b312b431d659",
-      "league": "ITALY SERIE C",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Potenza",
-      "away": "Cavese",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8fa4d18461486384",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 7:00AM",
@@ -50823,20 +50823,6 @@
       "home": "St Louis City SC",
       "away": "Atletico Nacional",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c36238dff888559c",
-      "league": "INTERNATIONAL FRIENDLY",
-      "kickoff": "Oct 1 2026 8:00AM",
-      "home": "Argentina",
-      "away": "Bolivia",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50900,7 +50886,10 @@
       "kickoff": "Oct 1 2026 9:00AM",
       "home": "Nueva Santa Rosa CDF",
       "away": "Deportivo Mictlan",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
