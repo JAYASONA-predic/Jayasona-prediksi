@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T15:58:12+00:00",
+  "updated_at": "2026-10-01T16:15:43+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3100,
   "archive_count": 3000,
@@ -85,6 +85,23 @@
       ],
       "ft": [
         4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c8c8048160c134e6",
+      "league": "ARGENTINA PRIMERA B METROPOLITANA RESERVE",
+      "kickoff": "Oct 1 2026 10:00PM",
+      "home": "Deportivo Camioneros (R)",
+      "away": "Arsenal de Sarandi (R)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
         1
       ],
       "status": "Completed",
@@ -50773,37 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2cd5cfe864102ace",
-      "league": "JORDAN PRO LEAGUE",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "Al Baqaa (JOR)",
-      "away": "Al Faisaly (JOR)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c8c8048160c134e6",
-      "league": "ARGENTINA PRIMERA B METROPOLITANA RESERVE",
-      "kickoff": "Oct 1 2026 10:00PM",
-      "home": "Deportivo Camioneros (R)",
-      "away": "Arsenal de Sarandi (R)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "c37c616e76cfb4d8",
       "league": "OMAN FEDERATION CUP",
       "kickoff": "Oct 1 2026 10:25PM",
@@ -50865,7 +50851,10 @@
       "kickoff": "Oct 1 2026 11:00PM",
       "home": "CA Estudiantes de Caseros (R)",
       "away": "Nueva Chicago (R)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51118,6 +51107,17 @@
       "kickoff": "Oct 2 2026 12:30AM",
       "home": "Armenia U21",
       "away": "Italy U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fcc3b5cd564a2486",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Oct 2 2026 12:30AM",
+      "home": "Hapoel Umm al-Fahm",
+      "away": "Hapoel Ironi Karmiel",
       "ht": null,
       "ft": null,
       "status": "Running",
