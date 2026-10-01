@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T20:54:05+00:00",
+  "updated_at": "2026-10-01T21:09:15+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3029,
+  "count": 3028,
   "archive_count": 3000,
   "matches": [
     {
@@ -828,6 +828,23 @@
       "ft": [
         2,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e557c21913b4ef7c",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 2 2026 2:00AM",
+      "home": "San Martin San Juan (R)",
+      "away": "Lanus (R)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50785,37 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "cdd2b671d4f0363b",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:00AM",
-      "home": "FC Koln (V)",
-      "away": "Tottenham Hotspur (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e557c21913b4ef7c",
-      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
-      "kickoff": "Oct 2 2026 2:00AM",
-      "home": "San Martin San Juan (R)",
-      "away": "Lanus (R)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ed166ec6f4e3b7bb",
       "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
       "kickoff": "Oct 2 2026 2:00AM",
@@ -50833,20 +50819,6 @@
       "home": "SC Bastia",
       "away": "US Orleans",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "283adc84969e2fbc",
-      "league": "PERU LEAGUE CUP",
-      "kickoff": "Oct 2 2026 4:00AM",
-      "home": "Sporting Cristal",
-      "away": "AD Tarma",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50874,6 +50846,20 @@
       "ht": [
         0,
         1
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "283adc84969e2fbc",
+      "league": "PERU LEAGUE CUP",
+      "kickoff": "Oct 2 2026 4:00AM",
+      "home": "Sporting Cristal",
+      "away": "AD Tarma",
+      "ht": [
+        2,
+        0
       ],
       "ft": null,
       "status": "Running",
