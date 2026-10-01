@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T11:56:13+00:00",
+  "updated_at": "2026-10-01T12:17:17+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3097,
+  "count": 3103,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "73ef40515f42fe3c",
+      "league": "KIRIN CUP (IN JAPAN)",
+      "kickoff": "Oct 1 2026 6:10PM",
+      "home": "Japan",
+      "away": "Ecuador",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "633dab28bbecaffd",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 1 2026 6:00PM",
+      "home": "Olimpija Ljubljana (N)",
+      "away": "Slaven Koprivnica",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "47a259d03f51a9fd",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN SLOVAKIA)",
@@ -50756,68 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "332dc08629ef2d6d",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Italy (V)",
-      "away": "Belgium (V)",
-      "ht": [
-        0,
-        4
-      ],
-      "ft": [
-        0,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "df6aca5fac206f84",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:30PM",
-      "home": "Ghana (V)",
-      "away": "Spain (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "633dab28bbecaffd",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 1 2026 6:00PM",
-      "home": "Olimpija Ljubljana (N)",
-      "away": "Slaven Koprivnica",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "73ef40515f42fe3c",
-      "league": "KIRIN CUP (IN JAPAN)",
-      "kickoff": "Oct 1 2026 6:10PM",
-      "home": "Japan",
-      "away": "Ecuador",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f616d87f958c6cf2",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 6:10PM",
@@ -50907,6 +50879,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "277415cbfece77c9",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Oct 1 2026 8:00PM",
+      "home": "GAIS Goteborg U21",
+      "away": "Orgryte IS U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "131f5325b0f717e8",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
       "kickoff": "Oct 1 2026 8:30PM",
@@ -50929,11 +50912,77 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f72e1fc16ac7ddd8",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 1 2026 8:30PM",
+      "home": "El Mansoura",
+      "away": "FC Masar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cab5cf307794dda0",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 1 2026 8:30PM",
+      "home": "El Sekka El Hadid",
+      "away": "El Entag El Harby",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "089a97b7c61eec7f",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 1 2026 8:30PM",
+      "home": "La Viena FC",
+      "away": "Al Nasr (EGY)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2ba1213d04c515fe",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 1 2026 8:30PM",
+      "home": "Pharco FC",
+      "away": "Tersana SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "231e1615032d1898",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 1 2026 9:00PM",
       "home": "Juve Stabia",
       "away": "USD Palmese 1914",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a3a6d7bb20673f24",
+      "league": "UAE LEAGUE CUP",
+      "kickoff": "Oct 1 2026 9:15PM",
+      "home": "Al Sharjah",
+      "away": "Al Dhafra",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "68e134066a418b4c",
+      "league": "UAE LEAGUE CUP",
+      "kickoff": "Oct 1 2026 9:15PM",
+      "home": "United FC Dubai",
+      "away": "Hatta Dubai",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51000,6 +51049,17 @@
       "kickoff": "Oct 1 2026 11:30PM",
       "home": "VfB Stuttgart (N)",
       "away": "Greuther Furth",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6bd8dc5ec06a9ecf",
+      "league": "UAE LEAGUE CUP",
+      "kickoff": "Oct 1 2026 11:45PM",
+      "home": "Baniyas SC",
+      "away": "Al Wahda Abu Dhabi",
       "ht": null,
       "ft": null,
       "status": "Running",
