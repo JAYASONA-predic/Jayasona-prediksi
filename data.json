@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T10:57:07+00:00",
+  "updated_at": "2026-10-01T11:13:53+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3091,
+  "count": 3098,
   "archive_count": 3000,
   "matches": [
     {
@@ -50834,7 +50834,10 @@
       "kickoff": "Oct 1 2026 6:10PM",
       "home": "Japan",
       "away": "Ecuador",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51214,6 +51217,39 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "99a15f3e2e00b072",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 2 2026 2:00AM",
+      "home": "CA Barracas Central (R)",
+      "away": "Gimnasia Mendoza (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0b255d6b91474c1d",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 2 2026 2:00AM",
+      "home": "CA Independiente (R)",
+      "away": "Boca Juniors (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0b9582c069440364",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 2 2026 2:00AM",
+      "home": "Colon de Santa Fe (R)",
+      "away": "Deportivo Riestra (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "927be12e2d1c7164",
       "league": "UEFA NATIONS LEAGUE A",
       "kickoff": "Oct 2 2026 2:45AM",
@@ -51307,6 +51343,17 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "SC Bastia",
       "away": "US Orleans",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d5d82d0372196f76",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 2 2026 2:45AM",
+      "home": "Velez Sarsfield (R)",
+      "away": "Argentinos Juniors (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51632,11 +51679,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "b68bec876f7aa3c3",
+      "league": "EL SALVADOR PRIMERA DIVISION",
+      "kickoff": "Oct 2 2026 5:30AM",
+      "home": "CD Fuerte San Francisco",
+      "away": "CD Luis Angel Firpo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "9386cb488bfdd3ff",
       "league": "CONCACAF NATIONS LEAGUE A",
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "Curacao",
       "away": "Trinidad & Tobago",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "620a9542ea4185bc",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 2 2026 6:00AM",
+      "home": "CA River Plate (R)",
+      "away": "CA Sarmiento (R)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51681,6 +51750,17 @@
       "kickoff": "Oct 2 2026 8:00AM",
       "home": "Gremio Novorizontino SP",
       "away": "Goias GO",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d33bd3d96ef65eac",
+      "league": "EL SALVADOR PRIMERA DIVISION",
+      "kickoff": "Oct 2 2026 8:00AM",
+      "home": "CD Inca",
+      "away": "CD Municipal Limeno",
       "ht": null,
       "ft": null,
       "status": "Running",
