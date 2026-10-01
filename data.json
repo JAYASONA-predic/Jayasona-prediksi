@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T17:10:57+00:00",
+  "updated_at": "2026-10-01T17:29:32+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3101,
+  "count": 3099,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "10f5e1eb8e311cdb",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 1 2026 11:30PM",
+      "home": "VfB Stuttgart (N)",
+      "away": "Greuther Furth",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "497e4892a73c0d4a",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Oct 1 2026 11:30PM",
+      "home": "Maccabi Yavne",
+      "away": "Ironi Beit Shemesh",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "5dcbc233c52838c9",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
@@ -50756,68 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "66bba2c864f98a3d",
-      "league": "DENMARK SUPER LEAGUE",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "Viborg FF",
-      "away": "Nordsjaelland",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "710835bdd1cc7dfb",
-      "league": "ICELAND PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "FH Hafnarfjordur",
-      "away": "Stjarnan",
-      "ht": [
-        4,
-        0
-      ],
-      "ft": [
-        5,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "10f5e1eb8e311cdb",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 1 2026 11:30PM",
-      "home": "VfB Stuttgart (N)",
-      "away": "Greuther Furth",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "497e4892a73c0d4a",
-      "league": "ISRAEL LIGA ALEF",
-      "kickoff": "Oct 1 2026 11:30PM",
-      "home": "Maccabi Yavne",
-      "away": "Ironi Beit Shemesh",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "6bd8dc5ec06a9ecf",
       "league": "UAE LEAGUE CUP",
       "kickoff": "Oct 1 2026 11:45PM",
@@ -51103,7 +51075,10 @@
       "kickoff": "Oct 2 2026 12:30AM",
       "home": "Armenia U21",
       "away": "Italy U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51114,7 +51089,10 @@
       "kickoff": "Oct 2 2026 12:30AM",
       "home": "Hapoel Umm al-Fahm",
       "away": "Hapoel Ironi Karmiel",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51125,7 +51103,10 @@
       "kickoff": "Oct 2 2026 12:30AM",
       "home": "MK Kfar Saba 1928",
       "away": "Hapoel Marmorek Irony Rehovot",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
