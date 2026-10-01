@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T13:13:11+00:00",
+  "updated_at": "2026-10-01T13:34:59+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3102,
+  "count": 3105,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "53463170cda24e91",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Oct 1 2026 7:30PM",
+      "home": "Langsning SC",
+      "away": "Shillong Lajong FC (R)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "20e041612fc42377",
       "league": "HONG KONG LEAGUE CUP",
@@ -50773,43 +50790,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5a48e8d1e26a556e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:45PM",
-      "home": "Denmark (V)",
-      "away": "Czech Republic (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f616d87f958c6cf2",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 6:10PM",
       "home": "Malaysia",
       "away": "Japan",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "53463170cda24e91",
-      "league": "INDIA SHILLONG PREMIER LEAGUE",
-      "kickoff": "Oct 1 2026 7:30PM",
-      "home": "Langsning SC",
-      "away": "Shillong Lajong FC (R)",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50848,7 +50834,10 @@
       "kickoff": "Oct 1 2026 8:30PM",
       "home": "Indonesia",
       "away": "Bangladesh",
-      "ht": null,
+      "ht": [
+        6,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50859,7 +50848,10 @@
       "kickoff": "Oct 1 2026 8:30PM",
       "home": "Malaysia",
       "away": "Singapore",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50870,7 +50862,10 @@
       "kickoff": "Oct 1 2026 8:30PM",
       "home": "El Mansoura",
       "away": "FC Masar",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50881,7 +50876,10 @@
       "kickoff": "Oct 1 2026 8:30PM",
       "home": "El Sekka El Hadid",
       "away": "El Entag El Harby",
-      "ht": null,
+      "ht": [
+        3,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50892,7 +50890,10 @@
       "kickoff": "Oct 1 2026 8:30PM",
       "home": "La Viena FC",
       "away": "Al Nasr (EGY)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50903,7 +50904,10 @@
       "kickoff": "Oct 1 2026 8:30PM",
       "home": "Pharco FC",
       "away": "Tersana SC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50969,6 +50973,17 @@
       "kickoff": "Oct 1 2026 9:30PM",
       "home": "Croatia U19",
       "away": "Italy U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4c7b1a03bc5d27ad",
+      "league": "OMAN FEDERATION CUP",
+      "kickoff": "Oct 1 2026 9:30PM",
+      "home": "Al Nasr (OMA)",
+      "away": "Samail",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51068,6 +51083,17 @@
       "kickoff": "Oct 2 2026 12:00AM",
       "home": "North Macedonia U21",
       "away": "Montenegro U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "30f389cc45ac6512",
+      "league": "INTERNATIONAL FRIENDLY U23",
+      "kickoff": "Oct 2 2026 12:00AM",
+      "home": "Morocco U23",
+      "away": "Mali U23",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51206,6 +51232,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "dfd72644315d5ff4",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Oct 2 2026 12:45AM",
+      "home": "SPG Weisskirchen/Allhaming",
+      "away": "Union Vocklamarkt",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "c0ba253e0da401f1",
       "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
       "kickoff": "Oct 2 2026 1:00AM",
@@ -51288,6 +51325,17 @@
       "kickoff": "Oct 2 2026 2:00AM",
       "home": "Colon de Santa Fe (R)",
       "away": "Deportivo Riestra (R)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6ecda9e27524fdc2",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Oct 2 2026 2:15AM",
+      "home": "San Marino U21",
+      "away": "Spain U21",
       "ht": null,
       "ft": null,
       "status": "Running",
