@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T22:41:26+00:00",
+  "updated_at": "2026-10-01T22:54:29+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3025,
+  "count": 3023,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Once Caldas",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e9d70d6183f1da0d",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Oct 2 2026 5:00AM",
+      "home": "Dominica (N)",
+      "away": "Guyana",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        5
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -30,6 +47,17 @@
         0,
         0
       ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b1e282402ec7cfe3",
+      "league": "ECUADOR SERIE B (PLAY OFF)",
+      "kickoff": "Oct 2 2026 4:30AM",
+      "home": "Cumbaya FC (N)",
+      "away": "Deportivo Santo Domingo",
+      "ht": null,
+      "ft": null,
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50762,65 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "49d588ff743496a1",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:15AM",
-      "home": "Norway (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f6738134413df3a0",
-      "league": "NORWAY ELITESERIEN",
-      "kickoff": "Sep 21 2026 1:15AM",
-      "home": "Brann",
-      "away": "Bodo Glimt",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b1e282402ec7cfe3",
-      "league": "ECUADOR SERIE B (PLAY OFF)",
-      "kickoff": "Oct 2 2026 4:30AM",
-      "home": "Cumbaya FC (N)",
-      "away": "Deportivo Santo Domingo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e9d70d6183f1da0d",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Oct 2 2026 5:00AM",
-      "home": "Dominica (N)",
-      "away": "Guyana",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b68bec876f7aa3c3",
       "league": "EL SALVADOR PRIMERA DIVISION",
       "kickoff": "Oct 2 2026 5:30AM",
@@ -50840,7 +50809,10 @@
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "Curacao",
       "away": "Trinidad & Tobago",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50851,7 +50823,10 @@
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "Olimpia Asuncion (N)",
       "away": "Sportivo Luqueno",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50862,7 +50837,10 @@
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "Flamengo PI",
       "away": "Comercial PI",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50873,7 +50851,10 @@
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "Fortaleza CE U20",
       "away": "Ceara CE U20",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50884,7 +50865,10 @@
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "CA River Plate (R)",
       "away": "CA Sarmiento (R)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
