@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T21:27:59+00:00",
+  "updated_at": "2026-10-01T21:45:39+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3028,
+  "count": 3029,
   "archive_count": 3000,
   "matches": [
     {
@@ -600,6 +600,23 @@
       "kickoff": "Oct 2 2026 2:45AM",
       "home": "Malta",
       "away": "Northern Ireland U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ec68c580ee50404a",
+      "league": "FRANCE LIGUE 3",
+      "kickoff": "Oct 2 2026 2:45AM",
+      "home": "SC Bastia",
+      "away": "US Orleans",
       "ht": [
         0,
         0
@@ -50785,39 +50802,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5cc3c031b0701730",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:00AM",
-      "home": "Serbia (V)",
-      "away": "Sweden (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ed166ec6f4e3b7bb",
       "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
       "kickoff": "Oct 2 2026 2:00AM",
       "home": "CA Colegiales (R)",
       "away": "Deportivo Tristan Suarez (R)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ec68c580ee50404a",
-      "league": "FRANCE LIGUE 3",
-      "kickoff": "Oct 2 2026 2:45AM",
-      "home": "SC Bastia",
-      "away": "US Orleans",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50943,6 +50932,28 @@
       "kickoff": "Oct 2 2026 6:00AM",
       "home": "Olimpia Asuncion (N)",
       "away": "Sportivo Luqueno",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c3f60508020047db",
+      "league": "BRAZIL CAMPEONATO PIAUIENSE SERIE B",
+      "kickoff": "Oct 2 2026 6:00AM",
+      "home": "Flamengo PI",
+      "away": "Comercial PI",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1e08ed5afb650bac",
+      "league": "BRAZIL CAMPEONATO CEARENSE U20",
+      "kickoff": "Oct 2 2026 6:00AM",
+      "home": "Fortaleza CE U20",
+      "away": "Ceara CE U20",
       "ht": null,
       "ft": null,
       "status": "Running",
