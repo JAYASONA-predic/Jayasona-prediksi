@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T12:48:20+00:00",
+  "updated_at": "2026-10-01T13:13:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3103,
+  "count": 3102,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "20e041612fc42377",
+      "league": "HONG KONG LEAGUE CUP",
+      "kickoff": "Oct 1 2026 7:00PM",
+      "home": "Shatin (N)",
+      "away": "Hong Kong FC",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "de94cd5c548e5b0f",
+      "league": "KENYA NATIONAL SUPER LEAGUE (PLAY OFF)",
+      "kickoff": "Oct 1 2026 7:00PM",
+      "home": "Mombasa United",
+      "away": "Kariobangi Sharks",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "27fcc8a6ecb82ac6",
       "league": "FOUR NATIONS TOURNAMENT U19 (IN CROATIA)",
@@ -50756,74 +50790,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "2eb3e1b570fb9396",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL FC 24 - 16 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:45PM",
-      "home": "Morocco (V)",
-      "away": "Germany (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5e1ee3ab6337340e",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:45PM",
-      "home": "Leicester City (V)",
-      "away": "AS Monaco (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f616d87f958c6cf2",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 6:10PM",
       "home": "Malaysia",
       "away": "Japan",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "20e041612fc42377",
-      "league": "HONG KONG LEAGUE CUP",
-      "kickoff": "Oct 1 2026 7:00PM",
-      "home": "Shatin (N)",
-      "away": "Hong Kong FC",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "de94cd5c548e5b0f",
-      "league": "KENYA NATIONAL SUPER LEAGUE (PLAY OFF)",
-      "kickoff": "Oct 1 2026 7:00PM",
-      "home": "Mombasa United",
-      "away": "Kariobangi Sharks",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50848,7 +50820,10 @@
       "kickoff": "Oct 1 2026 8:00PM",
       "home": "SSV Jahn Regensburg (N)",
       "away": "WSG Tirol",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50859,7 +50834,10 @@
       "kickoff": "Oct 1 2026 8:00PM",
       "home": "GAIS Goteborg U21",
       "away": "Orgryte IS U21",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50991,6 +50969,17 @@
       "kickoff": "Oct 1 2026 9:30PM",
       "home": "Croatia U19",
       "away": "Italy U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a9efd426322b2ce8",
+      "league": "ISRAEL LIGA ALEF",
+      "kickoff": "Oct 1 2026 9:30PM",
+      "home": "Hapoel Ihud Bnei Jatt",
+      "away": "Maccabi Nujeidat Ahmed",
       "ht": null,
       "ft": null,
       "status": "Running",
