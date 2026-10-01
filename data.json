@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-09-30T23:54:34+00:00",
+  "updated_at": "2026-10-01T00:14:10+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3027,
+  "count": 3026,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "c259487f65b804ac",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Oct 1 2026 6:00AM",
+      "home": "Central Cordoba Santiago del Estero (R)",
+      "away": "Newells Old Boys (R)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "665784c87b2341ca",
       "league": "BRAZIL CAMPEONATO PIAUIENSE SERIE B",
@@ -50761,23 +50778,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "249cb4a40085e17a",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 20 2026 11:15PM",
-      "home": "Manchester City (V)",
-      "away": "Torino (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "cf2081d759dc4934",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 1 2026 4:00AM",
@@ -50795,20 +50795,6 @@
       "home": "Cienciano",
       "away": "Penarol",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c259487f65b804ac",
-      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
-      "kickoff": "Oct 1 2026 6:00AM",
-      "home": "Central Cordoba Santiago del Estero (R)",
-      "away": "Newells Old Boys (R)",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50875,7 +50861,10 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Brooklyn FC",
       "away": "Detroit City",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50886,7 +50875,10 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Miami FC",
       "away": "Sporting JAX",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50897,7 +50889,10 @@
       "kickoff": "Oct 1 2026 7:00AM",
       "home": "Atletico Ottawa",
       "away": "Cavalry FC",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
