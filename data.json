@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-01T14:43:52+00:00",
+  "updated_at": "2026-10-01T14:58:52+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3104,
+  "count": 3103,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "231e1615032d1898",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 1 2026 9:00PM",
+      "home": "Juve Stabia",
+      "away": "USD Palmese 1914",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "131f5325b0f717e8",
       "league": "FIFA ASEAN CUP DIVISION 1 2026 (IN INDONESIA)",
@@ -50773,37 +50790,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a93dd0779d4c291e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Sep 21 2026 12:00AM",
-      "home": "Goztepe AS",
-      "away": "IA Akranes",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "231e1615032d1898",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 1 2026 9:00PM",
-      "home": "Juve Stabia",
-      "away": "USD Palmese 1914",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "8d5011aeb6271b90",
       "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
       "kickoff": "Oct 1 2026 9:00PM",
@@ -50929,7 +50915,10 @@
       "kickoff": "Oct 1 2026 10:00PM",
       "home": "Uzbekistan",
       "away": "Syria",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50940,7 +50929,10 @@
       "kickoff": "Oct 1 2026 10:00PM",
       "home": "Slovenia U19",
       "away": "Faroe Islands U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50951,7 +50943,10 @@
       "kickoff": "Oct 1 2026 10:00PM",
       "home": "Qatar U19",
       "away": "Ireland U19",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50962,7 +50957,10 @@
       "kickoff": "Oct 1 2026 10:00PM",
       "home": "VfL Wolfsburg (N)",
       "away": "TSV Havelse",
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
