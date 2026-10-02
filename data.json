@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T13:56:34+00:00",
+  "updated_at": "2026-10-02T14:13:54+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3226,
+  "count": 3224,
   "archive_count": 3000,
   "matches": [
     {
@@ -120,6 +120,57 @@
       "ft": [
         0,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6caae38052bdcdfe",
+      "league": "INDONESIA CHAMPIONSHIP",
+      "kickoff": "Oct 2 2026 8:00PM",
+      "home": "De Red FC",
+      "away": "Persipura Jayapura",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5e13a45e8a979a68",
+      "league": "ROMANIA 3RD DIVISION",
+      "kickoff": "Oct 2 2026 8:00PM",
+      "home": "ACS Academia Fotbal Viitorul Cluj",
+      "away": "Transilvania Sport Academy",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        4,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2ff386ca706dad2e",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Oct 2 2026 8:00PM",
+      "home": "Fleetwood Town U21",
+      "away": "Sheffield Wednesday U21",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50742,57 +50793,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "7686dfdd8ac0d95b",
-      "league": "SPAIN PRIMERA FEDERACION",
-      "kickoff": "Sep 21 2026 2:30AM",
-      "home": "Hercules",
-      "away": "Juventud Torremolinos CF",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9570f1220376c60e",
-      "league": "SPAIN PRIMERA FEDERACION",
-      "kickoff": "Sep 21 2026 2:30AM",
-      "home": "Real Zaragoza",
-      "away": "FC Cartagena",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0edd7203284a7126",
-      "league": "ITALY SERIE C",
-      "kickoff": "Sep 21 2026 2:30AM",
-      "home": "Alcione Milano",
-      "away": "Union Brescia",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f13bad4611b18ccd",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 6:00PM",
@@ -50840,54 +50840,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6caae38052bdcdfe",
-      "league": "INDONESIA CHAMPIONSHIP",
-      "kickoff": "Oct 2 2026 8:00PM",
-      "home": "De Red FC",
-      "away": "Persipura Jayapura",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "78bf50b2edd9d37c",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 8:00PM",
       "home": "Start IK",
       "away": "Brann",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5e13a45e8a979a68",
-      "league": "ROMANIA 3RD DIVISION",
-      "kickoff": "Oct 2 2026 8:00PM",
-      "home": "ACS Academia Fotbal Viitorul Cluj",
-      "away": "Transilvania Sport Academy",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2ff386ca706dad2e",
-      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
-      "kickoff": "Oct 2 2026 8:00PM",
-      "home": "Fleetwood Town U21",
-      "away": "Sheffield Wednesday U21",
-      "ht": [
-        2,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51074,7 +51032,10 @@
       "kickoff": "Oct 2 2026 9:10PM",
       "home": "Al Mudhaibi Club",
       "away": "Al-Suwaiq Club",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51085,7 +51046,10 @@
       "kickoff": "Oct 2 2026 9:15PM",
       "home": "Al Ain Abu Dhabi",
       "away": "Ajman",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51096,7 +51060,10 @@
       "kickoff": "Oct 2 2026 9:15PM",
       "home": "Al Wasl",
       "away": "Al Ittihad Kalba",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51415,6 +51382,17 @@
       "kickoff": "Oct 2 2026 10:30PM",
       "home": "Al Nahda (OMA)",
       "away": "Sohar",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cd4d2b4c2711434b",
+      "league": "BELARUS DIVISION 1",
+      "kickoff": "Oct 2 2026 10:30PM",
+      "home": "FC Volna Pinsk",
+      "away": "FC Lida",
       "ht": null,
       "ft": null,
       "status": "Running",
