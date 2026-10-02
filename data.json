@@ -1,10 +1,1557 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T18:34:27+00:00",
+  "updated_at": "2026-10-02T22:33:42+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3156,
+  "count": 3066,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "70db4bcfa133f828",
+      "league": "ECUADOR SERIE B (PLAY OFF)",
+      "kickoff": "Oct 3 2026 4:30AM",
+      "home": "CD Cuenca Juniors",
+      "away": "CD Independiente Juniors",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f31f5625efacf3ef",
+      "league": "ECUADOR SERIE B (PLAY OFF)",
+      "kickoff": "Oct 3 2026 4:30AM",
+      "home": "San Antonio FC Ibarra",
+      "away": "Vinotinto del Ecuador",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e15d1506300c945b",
+      "league": "MOROCCO BOTOLA PRO",
+      "kickoff": "Oct 3 2026 4:00AM",
+      "home": "Ittihad Riadi Tanger",
+      "away": "Moghreb Athletic Tetouan",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "893640927f422e91",
+      "league": "SPAIN DIVISION DE HONOR U19",
+      "kickoff": "Oct 3 2026 4:00AM",
+      "home": "CEF Puertos Las Palmas U19",
+      "away": "Arucas CF U19",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4995d2c608230753",
+      "league": "COSTA RICA LIGA DE ASCENSO",
+      "kickoff": "Oct 3 2026 4:00AM",
+      "home": "FC Moravia FCM",
+      "away": "Carmelita",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6f080b469ebf364e",
+      "league": "SPAIN PRIMERA FEDERACION",
+      "kickoff": "Oct 3 2026 3:15AM",
+      "home": "Real Madrid Castilla",
+      "away": "Atletico Madrileno",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "641bbd2034f9fb55",
+      "league": "NETHERLANDS EERSTE DIVISIE",
+      "kickoff": "Oct 3 2026 3:00AM",
+      "home": "Helmond Sport",
+      "away": "Heracles Almelo",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "738557c24ec548a6",
+      "league": "CONCACAF NATIONS LEAGUE B",
+      "kickoff": "Oct 3 2026 3:00AM",
+      "home": "Saint Lucia (N)",
+      "away": "Guadeloupe",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ae2f37d01a74103a",
+      "league": "PARAGUAY DIVISION INTERMEDIA",
+      "kickoff": "Oct 3 2026 3:00AM",
+      "home": "Encarnacion FC",
+      "away": "Resistencia SC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dfe22342b77e93a9",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Oct 3 2026 3:00AM",
+      "home": "CD San Antonio Bulo Bulo (N)",
+      "away": "Academia del Balompie Boliviano",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "be90988595464455",
+      "league": "UEFA NATIONS LEAGUE A",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Belgium",
+      "away": "Turkey",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "35fff20ede9b0778",
+      "league": "UEFA NATIONS LEAGUE A",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "France",
+      "away": "Italy",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9e055aea0f6ca72b",
+      "league": "UEFA NATIONS LEAGUE B",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Bosnia-Herzegovina",
+      "away": "Sweden",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6a1d7f1182ac6b48",
+      "league": "UEFA NATIONS LEAGUE B",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Hungary",
+      "away": "Georgia",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "96d9cc1114a55e31",
+      "league": "UEFA NATIONS LEAGUE B",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Poland",
+      "away": "Romania",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        6,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "79d4c778604a4d57",
+      "league": "UEFA NATIONS LEAGUE B",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Ukraine (N)",
+      "away": "Northern Ireland",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "69d6f39a96fd97a2",
+      "league": "UEFA NATIONS LEAGUE C",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Faroe Islands",
+      "away": "Slovakia",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8d510f2b1349f690",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "England U21",
+      "away": "Slovakia U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6094d8ad952ac852",
+      "league": "IRELAND PREMIER DIVISION",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Dundalk",
+      "away": "Bohemians",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5f632392b78ab517",
+      "league": "IRELAND 1ST DIVISION",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Athlone Town",
+      "away": "Cork City",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2fdae70a1f5f3781",
+      "league": "IRELAND 1ST DIVISION",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Bray Wanderers",
+      "away": "Cobh Ramblers",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        1,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9c4ca0b832b14cec",
+      "league": "IRELAND 1ST DIVISION",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Treaty United",
+      "away": "UC Dublin",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        0,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4c7eea9c89752336",
+      "league": "IRELAND 1ST DIVISION",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Finn Harps",
+      "away": "Kerry",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9f3e3488db17c59d",
+      "league": "IRELAND 1ST DIVISION",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Wexford FC",
+      "away": "Longford Town",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2b0ac80bd7122b29",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Belgium",
+      "away": "Hungary",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "45eb2e4680564537",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Belgium",
+      "away": "France",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "798e316faf3c0423",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Belgium",
+      "away": "Poland",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        6
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "095642e890140468",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Belgium",
+      "away": "Sweden",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a0ef31375fe84363",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "France",
+      "away": "Hungary",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "22262f3dcbec3509",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "France",
+      "away": "Poland",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        6
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "51159b839e9ce484",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "France",
+      "away": "Sweden",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8cc6c5ccf00ac621",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Italy",
+      "away": "Romania",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "78c4921ecb44e04f",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Italy",
+      "away": "Bosnia-Herzegovina",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d138231b25d99b3d",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Italy",
+      "away": "Georgia",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "70e07138fb29d5a6",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Turkey",
+      "away": "Georgia",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9410902a57e9fd0d",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Turkey",
+      "away": "Romania",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2db29ebe926813c5",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Turkey",
+      "away": "Italy",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "184105318d6aa63b",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Turkey",
+      "away": "Bosnia-Herzegovina",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d23223f177e2a656",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Bosnia-Herzegovina",
+      "away": "Georgia",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c37d9ad6e54afa0c",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Bosnia-Herzegovina",
+      "away": "Romania",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bc9254914d98a5bd",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Georgia",
+      "away": "Romania",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "502bcbc40d85aa1c",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Hungary",
+      "away": "Poland",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        6
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d6084bdb8193baab",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Sweden",
+      "away": "Poland",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        6
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ec2b4296163c94cf",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Sweden",
+      "away": "Hungary",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1ba8992bc6394252",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Ukraine",
+      "away": "England U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a2e6264d91d5a4b7",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Ukraine",
+      "away": "Slovakia",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "332f3a717a72b3ad",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Slovakia",
+      "away": "England U21",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "561d98c6eee1ab77",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "England U21",
+      "away": "Bohemians",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6fee0d6899eaa203",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "England U21",
+      "away": "Heracles Almelo",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "adc32a71b2a17f67",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Slovakia U21",
+      "away": "Dundalk",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "195e80cad4ff7160",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Bohemians",
+      "away": "Heracles Almelo",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a4a6ecf9c35e4fda",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 2:45AM",
+      "home": "Dundalk",
+      "away": "Helmond Sport",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "df2687a7525ff4c0",
+      "league": "SPAIN SEGUNDA DIVISION",
+      "kickoff": "Oct 3 2026 2:30AM",
+      "home": "CD Eldense",
+      "away": "Real Oviedo",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "02df4c41bde7fcfc",
+      "league": "TROFEO ANTONIO PUERTA",
+      "kickoff": "Oct 3 2026 2:30AM",
+      "home": "Sevilla",
+      "away": "Aston Villa",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3e21562022af9234",
+      "league": "BELGIUM PRO LEAGUE U21",
+      "kickoff": "Oct 3 2026 2:30AM",
+      "home": "Sporting Hasselt U21",
+      "away": "KV Kortrijk U21",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f5dc213b150f3367",
+      "league": "MOROCCO BOTOLA PRO",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "Wydad Temara",
+      "away": "UTS Rabat",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "69ad205fa90a1005",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "FOC Farsta",
+      "away": "Fittja IF",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f5d0dcc385d56862",
+      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "CIG 7 De Abril RJ",
+      "away": "Friburguense RJ",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "65e5df0a4d007f19",
+      "league": "BRAZIL CAMPEONATO MINEIRO U20",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "Coimbra MG U20",
+      "away": "Atletico Mineiro U20",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "160a2730969da94e",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "San Lorenzo (w)",
+      "away": "CA Huracan (w)",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "53395fe502c64083",
+      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "Fram Reykjavik (w)",
+      "away": "Valur (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e986278c24e8428f",
+      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "Stjarnan (w)",
+      "away": "Grindavik/Njardvik (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "387735a200a20dc4",
+      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "Vikingur Reykjavik (w)",
+      "away": "Thor KA Akureyri (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bdf1d54bceb98373",
+      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "Andorra U21",
+      "away": "Moldova U21",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f4b993fd7e192a0a",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "Qviding FIF",
+      "away": "Landvetter IS",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "34e4e6d019fffe04",
+      "league": "AUSTRIA REGIONAL LEAGUE EAST",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "SV Oberwart",
+      "away": "SV Horn",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "af24eab7ae1c98db",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "Ferro Carril Oeste (w)",
+      "away": "Union de Santa Fe (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "098833d9a7e90efb",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "Racing Club (w)",
+      "away": "Belgrano (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        3,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8cf256cbfb942cf6",
+      "league": "NORWAY 1ST DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Ranheim",
+      "away": "Egersunds IK",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "55b0b631eaabc7dc",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Deportivo La Coruna",
+      "away": "Porto",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ccbc601811d0e4c2",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Real Sociedad",
+      "away": "Athletic Bilbao",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a5c0d11de23b5759",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Stade Lavallois",
+      "away": "Stade Rennais",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1cd55c8f8126db76",
+      "league": "SWEDEN ETTAN SOUTH",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Kristianstad FC",
+      "away": "AFC Malmo",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "924622c374c398fe",
+      "league": "SWEDEN ETTAN SOUTH",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Lunds BK",
+      "away": "Laholms FK",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3da619ae3911eaae",
+      "league": "SWEDEN ETTAN NORTH",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Karlbergs BK",
+      "away": "Sollentuna FK",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "785d0409e29b48f2",
+      "league": "SPAIN PRIMERA FEDERACION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Real Aviles Industrial CF",
+      "away": "CD Lugo",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5aa9d804c9d10213",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Hestrafors IF",
+      "away": "Onsala BK",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5940fe715cf62e31",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Lilla Torg FF",
+      "away": "Nosaby IF",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "358a3674cba3f9fd",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Lindome GIF",
+      "away": "Galtabacks BK",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        4,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "39b03b8e6db352c2",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Smedby AIS",
+      "away": "Nykopings BIS",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d874b3458deecc7b",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Staffanstorp United FC",
+      "away": "Solvesborgs GoIF",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c8eb12fe73888473",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Torslanda IK",
+      "away": "IK Kongahalla",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "76f62147786fedb2",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Fremad Amager",
+      "away": "B.93",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "510d6a6c1d2a8c09",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Naestved",
+      "away": "Nykobing FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d2b9daf755f2df10",
+      "league": "DENMARK 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "VSK Aarhus",
+      "away": "Brabrand",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8b88fdabeddd1bf4",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "KS Polonia Nysa",
+      "away": "Miedz Legnica II",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c4c1b717a8f2241d",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "TUS Bad Waltersdorf",
+      "away": "FC Hohenhaus Tenne Schladming",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2ce326e2b3372cf8",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Bohemians",
+      "away": "Ranheim",
+      "ht": [
+        1,
+        3
+      ],
+      "ft": [
+        2,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c086a0b881ddca6d",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Dundalk",
+      "away": "Egersunds IK",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8758af5a4c0b7679",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Helmond Sport",
+      "away": "Egersunds IK",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "172dc1f6cbb8ca9b",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Heracles Almelo",
+      "away": "Ranheim",
+      "ht": [
+        2,
+        3
+      ],
+      "ft": [
+        2,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "9f3b97e87b97786d",
       "league": "CLUB FRIENDLY",
@@ -375,6 +1922,91 @@
       "ft": [
         2,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f33a777ea6958a2c",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Northern Ireland",
+      "away": "Armenia",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6fbd32d0707c51cb",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Ukraine",
+      "away": "Cyprus",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "84e42597ae4aa071",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Ukraine",
+      "away": "Montenegro",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0cfb95157c042338",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Cyprus",
+      "away": "Slovakia",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "11db3d08e3f59142",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Montenegro",
+      "away": "Slovakia",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -776,6 +2408,40 @@
       "kickoff": "Oct 2 2026 10:00PM",
       "home": "Moldova",
       "away": "Armenia",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "90ac89a8b5d4a50a",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 2 2026 10:00PM",
+      "home": "Kazakhstan",
+      "away": "Ranheim",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        1,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "15f59df49d352c71",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 2 2026 10:00PM",
+      "home": "Moldova",
+      "away": "Egersunds IK",
       "ht": [
         1,
         0
@@ -49136,1672 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "cd6c16568af5d76c",
-      "league": "HONDURAS LIGA NACIONAL",
-      "kickoff": "Sep 21 2026 9:30AM",
-      "home": "Juticalpa",
-      "away": "CD Marathon",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f39abf7871e5e1ff",
-      "league": "COLOMBIA PRIMERA A",
-      "kickoff": "Sep 21 2026 9:15AM",
-      "home": "Llaneros SA",
-      "away": "Atletico Nacional",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "936300a7c2148a91",
-      "league": "COSTA RICA PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 9:00AM",
-      "home": "AD San Carlos",
-      "away": "Cartagines",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8f58f45c9a666566",
-      "league": "GUATEMALA LIGA NATIONAL",
-      "kickoff": "Sep 21 2026 9:00AM",
-      "home": "Malacateco",
-      "away": "Deportivo Mixco",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6751723b7c9bcab9",
-      "league": "ARGENTINA LIGA PROFESIONAL",
-      "kickoff": "Sep 21 2026 8:30AM",
-      "home": "Velez Sarsfield",
-      "away": "Club Atletico Tigre",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c4b73301a33d1cde",
-      "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 8:00AM",
-      "home": "Deportivo Toluca",
-      "away": "Santos Laguna",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ce075c8336cfff98",
-      "league": "MEXICO PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 8:00AM",
-      "home": "Pachuca",
-      "away": "Tijuana",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a09e745dae9a2be2",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Sep 21 2026 7:30AM",
-      "home": "Oriente Petrolero",
-      "away": "Blooming Santa Cruz",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b108f8f07ee991c9",
-      "league": "ECUADOR SERIE A (PLAY OFF)",
-      "kickoff": "Sep 21 2026 7:30AM",
-      "home": "LDU Quito",
-      "away": "Universidad Catolica del Ecuador",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "441f12f1719be8ab",
-      "league": "EL SALVADOR PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 7:30AM",
-      "home": "CD Luis Angel Firpo",
-      "away": "Atletico Balboa",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "10a3410558e6286f",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:15AM",
-      "home": "Costa Rica (V)",
-      "away": "Australia (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "94bf6381bd98921e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:15AM",
-      "home": "Georgia (V)",
-      "away": "South Africa (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "afb19dc56a9cb2b0",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:15AM",
-      "home": "FC Koln (V)",
-      "away": "Bayern Munchen (V)",
-      "ht": [
-        0,
-        4
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7ad99889cce0013d",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:15AM",
-      "home": "Napoli (V)",
-      "away": "Arminia Bielefeld (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "054a97a28f740c97",
-      "league": "HONDURAS LIGA NACIONAL",
-      "kickoff": "Sep 21 2026 7:15AM",
-      "home": "CD Olimpia",
-      "away": "CA Independiente Siguatepeque",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bd95f22f46a861f3",
-      "league": "COLOMBIA PRIMERA A",
-      "kickoff": "Sep 21 2026 7:10AM",
-      "home": "Deportes Tolima",
-      "away": "America de Cali",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0a228ad435e74d92",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "India (V)",
-      "away": "Pakistan (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6e6a54e10d017497",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "AS Roma (V)",
-      "away": "Arsenal (V)",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "db39b0ef55680768",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Bayer 04 Leverkusen (V)",
-      "away": "Atalanta (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a854539298ba02df",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Netherlands (V)",
-      "away": "Sweden (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "40172929a046155b",
-      "league": "URUGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Liverpool Montevideo",
-      "away": "Racing Club Montevideo",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "07aee518d2983cf6",
-      "league": "MEXICO LIGA DE EXPANSION",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "CD Tapatio",
-      "away": "Coyotes de Tlaxcala",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d421ec1ffb944d4e",
-      "league": "COSTA RICA PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Alajuelense",
-      "away": "Inter de San Carlos",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        5,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a1002b2dbe7e4a6a",
-      "league": "UNITED SOCCER LEAGUE ONE",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Spokane Velocity",
-      "away": "Athletic Club Boise",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4389c57535f4167b",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Atletico San Luis (w)",
-      "away": "Pachuca (w)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "da39c2cdc4f4f5b2",
-      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Bay FC (w)",
-      "away": "Racing Louisville FC (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "effc1a57b15b9261",
-      "league": "USA MAJOR LEAGUE SOCCER",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Inter Miami CF",
-      "away": "San Diego FC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f7377d1cec65f41d",
-      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Sacramento Republic FC",
-      "away": "San Antonio FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "31ad994dafcec899",
-      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Utah Royals FC (w)",
-      "away": "Angel City FC (w)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f2aec4cb715c21d8",
-      "league": "GUATEMALA LIGA NATIONAL",
-      "kickoff": "Sep 21 2026 7:00AM",
-      "home": "Suchitepequez",
-      "away": "Xelaju MC",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "154856472f551a27",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:45AM",
-      "home": "Denmark (V)",
-      "away": "Austria (V)",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3f4494c61b7f199d",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:45AM",
-      "home": "Iraq (V)",
-      "away": "Thailand (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f94db733a084ab06",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:45AM",
-      "home": "AC Milan (V)",
-      "away": "Manchester United (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6cd0540e603c174c",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:45AM",
-      "home": "Torino (V)",
-      "away": "Real Sociedad (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f09717956eb1100e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:30AM",
-      "home": "Switzerland (V)",
-      "away": "Uruguay (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "27cc104c0d98c7fc",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:30AM",
-      "home": "Turkey (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "72ad2de900ca898b",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:30AM",
-      "home": "FSV Mainz 05 (V)",
-      "away": "Chelsea (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6934eefce4122f3e",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:30AM",
-      "home": "Napoli (V)",
-      "away": "AS Monaco (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "15bd88ac5a35c2c7",
-      "league": "BRAZIL SERIE A",
-      "kickoff": "Sep 21 2026 6:30AM",
-      "home": "Atl Paranaense",
-      "away": "Bahia EC BA",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "14dfbd4a1dbd19fb",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:15AM",
-      "home": "Algeria (V)",
-      "away": "Slovenia (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2f14ea3e687a901d",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:15AM",
-      "home": "Italy (V)",
-      "away": "USA (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ef8b2f35301db845",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:15AM",
-      "home": "Arminia Bielefeld (V)",
-      "away": "Tottenham Hotspur (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d2db8be04b36ef8f",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:15AM",
-      "home": "Bayern Munchen (V)",
-      "away": "Real Madrid (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c05608e5cdebbb65",
-      "league": "ARGENTINA LIGA PROFESIONAL",
-      "kickoff": "Sep 21 2026 6:15AM",
-      "home": "Belgrano",
-      "away": "Estudiantes de Rio Cuarto",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b9055c2dc7e6c590",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:00AM",
-      "home": "England (V)",
-      "away": "Brazil (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1dc8e54f4dfca632",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:00AM",
-      "home": "Tunisia (V)",
-      "away": "Bosnia-Herzegovina (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "22b3a38596a51e34",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:00AM",
-      "home": "FC Koln (V)",
-      "away": "Atalanta (V)",
-      "ht": [
-        1,
-        3
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "962f6359d8abc639",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 6:00AM",
-      "home": "Paris Saint Germain (V)",
-      "away": "Everton (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "44d504db00a97f26",
-      "league": "MEXICO LIGA PREMIER SERIE A",
-      "kickoff": "Sep 21 2026 6:00AM",
-      "home": "Real Apodaca FC",
-      "away": "Guerreros de Autlan",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d58c0a2833510e66",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:45AM",
-      "home": "Barcelona (V)",
-      "away": "Lille OSC (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3bb8965bea8bb5a6",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:45AM",
-      "home": "Croatia (V)",
-      "away": "Ukraine (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d69e581d99b34d2f",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:45AM",
-      "home": "Russia (V)",
-      "away": "Germany (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f1b0ad267a3051d0",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:45AM",
-      "home": "Chelsea (V)",
-      "away": "Torino (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f55802e30d23d9e9",
-      "league": "MEXICO WOMEN PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 5:45AM",
-      "home": "Club America (w)",
-      "away": "Atlas (w)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e8713c5d1c406814",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Egypt (V)",
-      "away": "Japan (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a23fb3b1c8af890b",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Serbia (V)",
-      "away": "Portugal (V)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a869eac0bf88541b",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Bayern Munchen (V)",
-      "away": "AC Milan (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b503d9b6b1235e94",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Girondins de Bordeaux (V)",
-      "away": "Olympique Lyonnais (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ab829094cbc5c5d2",
-      "league": "BRAZIL SERIE A",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Flamengo RJ",
-      "away": "Red Bull Bragantino SP",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "174e783516bd42e6",
-      "league": "BRAZIL SERIE B",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Londrina PR",
-      "away": "Fortaleza CE",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d2d0ad46f713e7df",
-      "league": "PARAGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Sportivo Luqueno",
-      "away": "Deportivo Recoleta",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ae009333cdd4c769",
-      "league": "BRAZIL SERIE C (PLAY OFF)",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Paysandu PA",
-      "away": "Inter Limeira SP",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "79b4d137f4da2258",
-      "league": "BRAZIL SERIE C (PLAY OFF)",
-      "kickoff": "Sep 21 2026 5:30AM",
-      "home": "Ferroviaria SP",
-      "away": "Brusque SC",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4f1a6598f4ba90ed",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:15AM",
-      "home": "Burkina Faso (V)",
-      "away": "China (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "75422fd26569683c",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:15AM",
-      "home": "Borussia Dortmund (V)",
-      "away": "Bayer 04 Leverkusen (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "71af9a0f9cd06148",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:15AM",
-      "home": "Valencia CF (V)",
-      "away": "AS Roma (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "819fa0f992e5cd69",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:15AM",
-      "home": "Switzerland (V)",
-      "away": "Nigeria (V)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9bde56e12b76cf50",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Sep 21 2026 5:15AM",
-      "home": "The Strongest",
-      "away": "Bolivar",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4f07e8844cbe7f10",
-      "league": "COLOMBIA WOMEN LEAGUE (PLAY OFF)",
-      "kickoff": "Sep 21 2026 5:15AM",
-      "home": "Deportivo Cali (w)",
-      "away": "Atletico Nacional (w)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "149cc09aac45f0ef",
-      "league": "COLOMBIA PRIMERA A",
-      "kickoff": "Sep 21 2026 5:05AM",
-      "home": "Atletico Bucaramanga",
-      "away": "Internacional de Bogota",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3bf9d26b897a164b",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Armenia (V)",
-      "away": "Cyprus (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "71f10f976f9b34b4",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Philippines (V)",
-      "away": "India (V)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9a4692e6960185ab",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Getafe CF (V)",
-      "away": "Atletico de Madrid (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dcec7f35c4bb0f66",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Udinese (V)",
-      "away": "Liverpool (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "274679fb136ed988",
-      "league": "ECUADOR SERIE A (PLAY OFF)",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Deportivo Cuenca",
-      "away": "Mushuc Runa SC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fd96e633957d5a92",
-      "league": "UNITED SOCCER LEAGUE CHAMPIONSHIP",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Indy Eleven",
-      "away": "Oakland Roots SC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "48ce2f22961f0529",
-      "league": "USA MLS NEXT PRO",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Minnesota United FC 2",
-      "away": "Los Angeles FC 2",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e603e3b5ba6a581d",
-      "league": "USA MLS NEXT PRO",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Real Monarchs SLC",
-      "away": "Ventura County FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7e5ae5d92ff32513",
-      "league": "USA MLS NEXT PRO",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Tacoma Defiance",
-      "away": "Portland Timbers 2",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0a0105adbbc30e91",
-      "league": "USA MLS NEXT PRO",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Vancouver Whitecaps FC 2",
-      "away": "San Jose Earthquakes II",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "de717c83f9a310f7",
-      "league": "VENEZUELA PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Estudiantes de Merida",
-      "away": "Trujillanos FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7f2e1bf3b0554c18",
-      "league": "EL SALVADOR PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Alianza FC",
-      "away": "CD Municipal Limeno",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fe3f93b756064c19",
-      "league": "EL SALVADOR PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "CD Platense Municipal Zacatecoluca",
-      "away": "CD Aguila",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4e684c4cdebe17a6",
-      "league": "USA WOMEN SUPER LEAGUE",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Sporting JAX (w)",
-      "away": "Lexington SC (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8969f3c55d908f82",
-      "league": "USA MLS NEXT PRO",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Colorado Rapids 2",
-      "away": "North Texas SC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1ef391a8e4d2b045",
-      "league": "USA MLS NEXT PRO",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Houston Dynamo 2",
-      "away": "Sporting Kansas City II",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c00182b272c1a922",
-      "league": "USA MLS NEXT PRO",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "St Louis City 2",
-      "away": "Austin FC II",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4c609c1c38110655",
-      "league": "USA NATIONAL WOMEN SOCCER LEAGUE",
-      "kickoff": "Sep 21 2026 5:00AM",
-      "home": "Chicago Stars FC (w)",
-      "away": "Washington Spirit (w)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "14d604922bedd709",
-      "league": "GUATEMALA LIGA NATIONAL",
-      "kickoff": "Sep 21 2026 4:50AM",
-      "home": "Deportivo San Pedro",
-      "away": "Coban Imperial",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "11722e1852180013",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:45AM",
-      "home": "Mali (V)",
-      "away": "Tunisia (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b8555b76ee73336e",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:45AM",
-      "home": "Spain (V)",
-      "away": "France (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e14525921dae36f3",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:45AM",
-      "home": "Chelsea (V)",
-      "away": "Tottenham Hotspur (V)",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "eb6d9abd797aea9c",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:45AM",
-      "home": "Inter Milan (V)",
-      "away": "AC Milan (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "18551152565ab4cd",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:30AM",
-      "home": "Austria (V)",
-      "away": "Poland (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "301b4784e9108c77",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:30AM",
-      "home": "North Korea (V)",
-      "away": "Thailand (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8bade4465cf13237",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:30AM",
-      "home": "Barcelona (V)",
-      "away": "FC Koln (V)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "25dd9084d8cd8bf0",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 4:30AM",
-      "home": "FSV Mainz 05 (V)",
-      "away": "Bayer 04 Leverkusen (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8e105e086a25ce74",
-      "league": "PERU LIGA 1",
-      "kickoff": "Sep 21 2026 4:30AM",
-      "home": "Juan Pablo II College",
-      "away": "Deportivo Moquegua",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "02dccb625ce51cae",
       "league": "QATAR LEAGUE U20",
       "kickoff": "Oct 2 2026 9:35PM",
@@ -50813,1111 +50813,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "90ac89a8b5d4a50a",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 2 2026 10:00PM",
-      "home": "Kazakhstan",
-      "away": "Ranheim",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "15f59df49d352c71",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 2 2026 10:00PM",
-      "home": "Moldova",
-      "away": "Egersunds IK",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f33a777ea6958a2c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 12:00AM",
-      "home": "Northern Ireland",
-      "away": "Armenia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6fbd32d0707c51cb",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 12:00AM",
-      "home": "Ukraine",
-      "away": "Cyprus",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "84e42597ae4aa071",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 12:00AM",
-      "home": "Ukraine",
-      "away": "Montenegro",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0cfb95157c042338",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 12:00AM",
-      "home": "Cyprus",
-      "away": "Slovakia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "11db3d08e3f59142",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 12:00AM",
-      "home": "Montenegro",
-      "away": "Slovakia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8cf256cbfb942cf6",
-      "league": "NORWAY 1ST DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Ranheim",
-      "away": "Egersunds IK",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "55b0b631eaabc7dc",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Deportivo La Coruna",
-      "away": "Porto",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ccbc601811d0e4c2",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Real Sociedad",
-      "away": "Athletic Bilbao",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a5c0d11de23b5759",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Stade Lavallois",
-      "away": "Stade Rennais",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1cd55c8f8126db76",
-      "league": "SWEDEN ETTAN SOUTH",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Kristianstad FC",
-      "away": "AFC Malmo",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "924622c374c398fe",
-      "league": "SWEDEN ETTAN SOUTH",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Lunds BK",
-      "away": "Laholms FK",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3da619ae3911eaae",
-      "league": "SWEDEN ETTAN NORTH",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Karlbergs BK",
-      "away": "Sollentuna FK",
-      "ht": [
-        2,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "785d0409e29b48f2",
-      "league": "SPAIN PRIMERA FEDERACION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Real Aviles Industrial CF",
-      "away": "CD Lugo",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5aa9d804c9d10213",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Hestrafors IF",
-      "away": "Onsala BK",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5940fe715cf62e31",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Lilla Torg FF",
-      "away": "Nosaby IF",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "358a3674cba3f9fd",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Lindome GIF",
-      "away": "Galtabacks BK",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "39b03b8e6db352c2",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Smedby AIS",
-      "away": "Nykopings BIS",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d874b3458deecc7b",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Staffanstorp United FC",
-      "away": "Solvesborgs GoIF",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c8eb12fe73888473",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Torslanda IK",
-      "away": "IK Kongahalla",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "76f62147786fedb2",
-      "league": "DENMARK 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Fremad Amager",
-      "away": "B.93",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "510d6a6c1d2a8c09",
-      "league": "DENMARK 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Naestved",
-      "away": "Nykobing FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d2b9daf755f2df10",
-      "league": "DENMARK 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "VSK Aarhus",
-      "away": "Brabrand",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8b88fdabeddd1bf4",
-      "league": "POLAND 3RD DIVISION",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "KS Polonia Nysa",
-      "away": "Miedz Legnica II",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c4c1b717a8f2241d",
-      "league": "AUSTRIA LANDESLIGA",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "TUS Bad Waltersdorf",
-      "away": "FC Hohenhaus Tenne Schladming",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2ce326e2b3372cf8",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Bohemians",
-      "away": "Ranheim",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c086a0b881ddca6d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Dundalk",
-      "away": "Egersunds IK",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8758af5a4c0b7679",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Helmond Sport",
-      "away": "Egersunds IK",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "172dc1f6cbb8ca9b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 1:00AM",
-      "home": "Heracles Almelo",
-      "away": "Ranheim",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bdf1d54bceb98373",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Oct 3 2026 1:30AM",
-      "home": "Andorra U21",
-      "away": "Moldova U21",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f4b993fd7e192a0a",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 1:30AM",
-      "home": "Qviding FIF",
-      "away": "Landvetter IS",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "34e4e6d019fffe04",
-      "league": "AUSTRIA REGIONAL LEAGUE EAST",
-      "kickoff": "Oct 3 2026 1:30AM",
-      "home": "SV Oberwart",
-      "away": "SV Horn",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "af24eab7ae1c98db",
-      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
-      "kickoff": "Oct 3 2026 1:30AM",
-      "home": "Ferro Carril Oeste (w)",
-      "away": "Union de Santa Fe (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "098833d9a7e90efb",
-      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
-      "kickoff": "Oct 3 2026 1:30AM",
-      "home": "Racing Club (w)",
-      "away": "Belgrano (w)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f5dc213b150f3367",
-      "league": "MOROCCO BOTOLA PRO",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "Wydad Temara",
-      "away": "UTS Rabat",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "69ad205fa90a1005",
-      "league": "SWEDEN 2ND DIVISION",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "FOC Farsta",
-      "away": "Fittja IF",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f5d0dcc385d56862",
-      "league": "BRAZIL CAMPEONATO CARIOCA SERIE B2",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "CIG 7 De Abril RJ",
-      "away": "Friburguense RJ",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "65e5df0a4d007f19",
-      "league": "BRAZIL CAMPEONATO MINEIRO U20",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "Coimbra MG U20",
-      "away": "Atletico Mineiro U20",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "160a2730969da94e",
-      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "San Lorenzo (w)",
-      "away": "CA Huracan (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "53395fe502c64083",
-      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "Fram Reykjavik (w)",
-      "away": "Valur (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e986278c24e8428f",
-      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "Stjarnan (w)",
-      "away": "Grindavik/Njardvik (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "387735a200a20dc4",
-      "league": "ICELAND WOMEN PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Oct 3 2026 2:00AM",
-      "home": "Vikingur Reykjavik (w)",
-      "away": "Thor KA Akureyri (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "df2687a7525ff4c0",
-      "league": "SPAIN SEGUNDA DIVISION",
-      "kickoff": "Oct 3 2026 2:30AM",
-      "home": "CD Eldense",
-      "away": "Real Oviedo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "02df4c41bde7fcfc",
-      "league": "TROFEO ANTONIO PUERTA",
-      "kickoff": "Oct 3 2026 2:30AM",
-      "home": "Sevilla",
-      "away": "Aston Villa",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3e21562022af9234",
-      "league": "BELGIUM PRO LEAGUE U21",
-      "kickoff": "Oct 3 2026 2:30AM",
-      "home": "Sporting Hasselt U21",
-      "away": "KV Kortrijk U21",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "be90988595464455",
-      "league": "UEFA NATIONS LEAGUE A",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Belgium",
-      "away": "Turkey",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "35fff20ede9b0778",
-      "league": "UEFA NATIONS LEAGUE A",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "France",
-      "away": "Italy",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9e055aea0f6ca72b",
-      "league": "UEFA NATIONS LEAGUE B",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Bosnia-Herzegovina",
-      "away": "Sweden",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6a1d7f1182ac6b48",
-      "league": "UEFA NATIONS LEAGUE B",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Hungary",
-      "away": "Georgia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "96d9cc1114a55e31",
-      "league": "UEFA NATIONS LEAGUE B",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Poland",
-      "away": "Romania",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "79d4c778604a4d57",
-      "league": "UEFA NATIONS LEAGUE B",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Ukraine (N)",
-      "away": "Northern Ireland",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "69d6f39a96fd97a2",
-      "league": "UEFA NATIONS LEAGUE C",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Faroe Islands",
-      "away": "Slovakia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8d510f2b1349f690",
-      "league": "UEFA U21 CHAMPIONSHIP 2027 QUALIFIERS",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "England U21",
-      "away": "Slovakia U21",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6094d8ad952ac852",
-      "league": "IRELAND PREMIER DIVISION",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Dundalk",
-      "away": "Bohemians",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5f632392b78ab517",
-      "league": "IRELAND 1ST DIVISION",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Athlone Town",
-      "away": "Cork City",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2fdae70a1f5f3781",
-      "league": "IRELAND 1ST DIVISION",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Bray Wanderers",
-      "away": "Cobh Ramblers",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9c4ca0b832b14cec",
-      "league": "IRELAND 1ST DIVISION",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Treaty United",
-      "away": "UC Dublin",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4c7eea9c89752336",
-      "league": "IRELAND 1ST DIVISION",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Finn Harps",
-      "away": "Kerry",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9f3e3488db17c59d",
-      "league": "IRELAND 1ST DIVISION",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Wexford FC",
-      "away": "Longford Town",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2b0ac80bd7122b29",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Belgium",
-      "away": "Hungary",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "45eb2e4680564537",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Belgium",
-      "away": "France",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "798e316faf3c0423",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Belgium",
-      "away": "Poland",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "095642e890140468",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Belgium",
-      "away": "Sweden",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a0ef31375fe84363",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "France",
-      "away": "Hungary",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "22262f3dcbec3509",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "France",
-      "away": "Poland",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "51159b839e9ce484",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "France",
-      "away": "Sweden",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8cc6c5ccf00ac621",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Italy",
-      "away": "Romania",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "78c4921ecb44e04f",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Italy",
-      "away": "Bosnia-Herzegovina",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d138231b25d99b3d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Italy",
-      "away": "Georgia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "70e07138fb29d5a6",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Turkey",
-      "away": "Georgia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9410902a57e9fd0d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Turkey",
-      "away": "Romania",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2db29ebe926813c5",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Turkey",
-      "away": "Italy",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "184105318d6aa63b",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Turkey",
-      "away": "Bosnia-Herzegovina",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d23223f177e2a656",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Bosnia-Herzegovina",
-      "away": "Georgia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c37d9ad6e54afa0c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Bosnia-Herzegovina",
-      "away": "Romania",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bc9254914d98a5bd",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Georgia",
-      "away": "Romania",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "502bcbc40d85aa1c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Hungary",
-      "away": "Poland",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d6084bdb8193baab",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Sweden",
-      "away": "Poland",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ec2b4296163c94cf",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Sweden",
-      "away": "Hungary",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1ba8992bc6394252",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Ukraine",
-      "away": "England U21",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a2e6264d91d5a4b7",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Ukraine",
-      "away": "Slovakia",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "332f3a717a72b3ad",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Slovakia",
-      "away": "England U21",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "561d98c6eee1ab77",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "England U21",
-      "away": "Bohemians",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6fee0d6899eaa203",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "England U21",
-      "away": "Heracles Almelo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "adc32a71b2a17f67",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Slovakia U21",
-      "away": "Dundalk",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "195e80cad4ff7160",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Bohemians",
-      "away": "Heracles Almelo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a4a6ecf9c35e4fda",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 3 2026 2:45AM",
-      "home": "Dundalk",
-      "away": "Helmond Sport",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "641bbd2034f9fb55",
-      "league": "NETHERLANDS EERSTE DIVISIE",
-      "kickoff": "Oct 3 2026 3:00AM",
-      "home": "Helmond Sport",
-      "away": "Heracles Almelo",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "738557c24ec548a6",
-      "league": "CONCACAF NATIONS LEAGUE B",
-      "kickoff": "Oct 3 2026 3:00AM",
-      "home": "Saint Lucia (N)",
-      "away": "Guadeloupe",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ae2f37d01a74103a",
-      "league": "PARAGUAY DIVISION INTERMEDIA",
-      "kickoff": "Oct 3 2026 3:00AM",
-      "home": "Encarnacion FC",
-      "away": "Resistencia SC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6f080b469ebf364e",
-      "league": "SPAIN PRIMERA FEDERACION",
-      "kickoff": "Oct 3 2026 3:15AM",
-      "home": "Real Madrid Castilla",
-      "away": "Atletico Madrileno",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e15d1506300c945b",
-      "league": "MOROCCO BOTOLA PRO",
-      "kickoff": "Oct 3 2026 4:00AM",
-      "home": "Ittihad Riadi Tanger",
-      "away": "Moghreb Athletic Tetouan",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "70db4bcfa133f828",
-      "league": "ECUADOR SERIE B (PLAY OFF)",
-      "kickoff": "Oct 3 2026 4:30AM",
-      "home": "CD Cuenca Juniors",
-      "away": "CD Independiente Juniors",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f31f5625efacf3ef",
-      "league": "ECUADOR SERIE B (PLAY OFF)",
-      "kickoff": "Oct 3 2026 4:30AM",
-      "home": "San Antonio FC Ibarra",
-      "away": "Vinotinto del Ecuador",
+      "id": "6723244811b7354a",
+      "league": "COLOMBIA SUPER COPA U19",
+      "kickoff": "Oct 3 2026 3:30AM",
+      "home": "Independiente Santa Fe U19",
+      "away": "Llaneros SA U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51929,7 +50829,10 @@
       "kickoff": "Oct 3 2026 5:00AM",
       "home": "St. Kitts & Nevis (N)",
       "away": "Cuba",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51940,7 +50843,10 @@
       "kickoff": "Oct 3 2026 5:30AM",
       "home": "Sportivo Carapegua",
       "away": "Deportivo Capiata",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51951,7 +50857,24 @@
       "kickoff": "Oct 3 2026 5:30AM",
       "home": "Defensores de Cambaceres",
       "away": "Victoriano Arenas",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6a8fc87e93694e6d",
+      "league": "MEXICO LIGA PREMIER SERIE B",
+      "kickoff": "Oct 3 2026 5:30AM",
+      "home": "Huracanes Izcalli FC",
+      "away": "Atletico Hidalgo FC",
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51984,6 +50907,17 @@
       "kickoff": "Oct 3 2026 6:00AM",
       "home": "Atletico FC",
       "away": "Real Cundinamarca",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5fff81641660df1f",
+      "league": "BRAZIL COPA PARANA",
+      "kickoff": "Oct 3 2026 6:00AM",
+      "home": "Atl Paranaense",
+      "away": "Independente Sao Joseense",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52199,6 +51133,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7ecb5911f776f528",
+      "league": "USA WOMEN SUPER LEAGUE",
+      "kickoff": "Oct 3 2026 7:00AM",
+      "home": "Brooklyn FC (w)",
+      "away": "Fort Lauderdale United FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "e2339500426ed83d",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 3 2026 7:00AM",
@@ -52331,17 +51276,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "5579dc9a1117fbc3",
-      "league": "CONCACAF NATIONS LEAGUE A",
-      "kickoff": "Oct 3 2026 8:00AM",
-      "home": "Martinique",
-      "away": "Honduras",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "804d1d852adda283",
       "league": "CONCACAF NATIONS LEAGUE B",
       "kickoff": "Oct 3 2026 8:00AM",
@@ -52358,6 +51292,17 @@
       "kickoff": "Oct 3 2026 8:00AM",
       "home": "Bonaire (N)",
       "away": "Grenada",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5579dc9a1117fbc3",
+      "league": "CONCACAF NATIONS LEAGUE A",
+      "kickoff": "Oct 3 2026 8:00AM",
+      "home": "Martinique",
+      "away": "Honduras",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52545,6 +51490,17 @@
       "kickoff": "Oct 3 2026 10:00AM",
       "home": "El Salvador",
       "away": "Jamaica",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bae2144b74a233e0",
+      "league": "GUATEMALA LIGA NATIONAL",
+      "kickoff": "Oct 3 2026 10:00AM",
+      "home": "Marquense",
+      "away": "Antigua GFC",
       "ht": null,
       "ft": null,
       "status": "Running",
