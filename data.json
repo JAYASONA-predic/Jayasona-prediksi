@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T01:16:21+00:00",
+  "updated_at": "2026-10-02T01:41:20+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3016,
+  "count": 3015,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Once Caldas",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2f97fc92d8eec7cb",
+      "league": "BRAZIL SERIE B",
+      "kickoff": "Oct 2 2026 7:30AM",
+      "home": "Athletic Club MG",
+      "away": "Sport Club do Recife PE",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        2
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50776,37 +50793,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "0877ea42baf84085",
-      "league": "HUNGARY NB I",
-      "kickoff": "Sep 21 2026 1:30AM",
-      "home": "Nyiregyhaza Spartacus",
-      "away": "Ferencvarosi TC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2f97fc92d8eec7cb",
-      "league": "BRAZIL SERIE B",
-      "kickoff": "Oct 2 2026 7:30AM",
-      "home": "Athletic Club MG",
-      "away": "Sport Club do Recife PE",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "c90e17df068db141",
       "league": "CONCACAF NATIONS LEAGUE A",
       "kickoff": "Oct 2 2026 8:00AM",
@@ -50948,7 +50934,10 @@
       "kickoff": "Oct 2 2026 8:30AM",
       "home": "Blooming Santa Cruz",
       "away": "Independiente Petrolero",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
