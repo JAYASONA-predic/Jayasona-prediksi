@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T06:47:14+00:00",
+  "updated_at": "2026-10-02T07:11:50+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3159,
+  "count": 3160,
   "archive_count": 3000,
   "matches": [
     {
@@ -50824,7 +50824,10 @@
       "kickoff": "Oct 2 2026 2:00PM",
       "home": "China (w)",
       "away": "Korea Republic (w)",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -52221,6 +52224,17 @@
       "kickoff": "Oct 3 2026 7:00AM",
       "home": "Sao Paulo SP",
       "away": "Santos SP",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a435b5a2fcc09342",
+      "league": "CHILE PRIMERA DIVISION",
+      "kickoff": "Oct 3 2026 7:00AM",
+      "home": "Universidad de Concepcion",
+      "away": "Huachipato",
       "ht": null,
       "ft": null,
       "status": "Running",
