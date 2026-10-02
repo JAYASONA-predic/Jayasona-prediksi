@@ -1,6 +1,6 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T09:55:41+00:00",
+  "updated_at": "2026-10-02T10:10:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3195,
   "archive_count": 3000,
@@ -35,6 +35,23 @@
       "ft": [
         0,
         0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7bf1e4f0aa2c11fd",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Oct 2 2026 4:00PM",
+      "home": "Bengaluru FC B",
+      "away": "Bangalore City FC",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        3,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50785,37 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "219de64ce262c95f",
-      "league": "ARGENTINA TORNEO FEDERAL A (PLAY OFF)",
-      "kickoff": "Sep 21 2026 2:00AM",
-      "home": "CA Douglas Haig",
-      "away": "Gimnasia Chivilcoy",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7bf1e4f0aa2c11fd",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Oct 2 2026 4:00PM",
-      "home": "Bengaluru FC B",
-      "away": "Bangalore City FC",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e47e2eba17db0bc6",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 4:30PM",
@@ -51236,6 +51222,17 @@
       "kickoff": "Oct 2 2026 6:30PM",
       "home": "Japan (w)",
       "away": "North Korea (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2e93a9efd8d77908",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Oct 2 2026 6:30PM",
+      "home": "SC Bengaluru",
+      "away": "Kickstart FC",
       "ht": null,
       "ft": null,
       "status": "Running",
