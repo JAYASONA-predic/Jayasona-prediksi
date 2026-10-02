@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T02:27:23+00:00",
+  "updated_at": "2026-10-02T02:43:18+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3009,
+  "count": 3007,
   "archive_count": 3000,
   "matches": [
     {
@@ -17,6 +17,23 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c10980f0add67449",
+      "league": "BOLIVIA CUP",
+      "kickoff": "Oct 2 2026 8:30AM",
+      "home": "Blooming Santa Cruz",
+      "away": "Independiente Petrolero",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "62a99a4c179db91c",
       "league": "ARGENTINA CUP",
       "kickoff": "Oct 2 2026 8:15AM",
@@ -26,6 +43,20 @@
         0,
         0
       ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e8c5feb227821e0a",
+      "league": "ARGENTINA CUP - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
+      "kickoff": "Oct 2 2026 8:15AM",
+      "home": "CA Platense",
+      "away": "Estudiantes La Plata",
+      "ht": null,
       "ft": [
         1,
         0
@@ -50762,40 +50793,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "b3c25508a181a900",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:30AM",
-      "home": "AS Roma (V)",
-      "away": "Getafe CF (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b5be81be20a03562",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:30AM",
-      "home": "Olympique de Marseille (V)",
-      "away": "Real Sociedad (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "04bef349f31c577c",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 2 2026 8:00AM",
@@ -50812,17 +50809,6 @@
       "kickoff": "Oct 2 2026 8:00AM",
       "home": "Sporting Kansas City",
       "away": "Goias GO",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e8c5feb227821e0a",
-      "league": "ARGENTINA CUP - WHICH TEAM WILL ADVANCE TO NEXT ROUND",
-      "kickoff": "Oct 2 2026 8:15AM",
-      "home": "CA Platense",
-      "away": "Estudiantes La Plata",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -50846,20 +50832,6 @@
       "home": "Sporting Kansas City",
       "away": "CA Platense",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c10980f0add67449",
-      "league": "BOLIVIA CUP",
-      "kickoff": "Oct 2 2026 8:30AM",
-      "home": "Blooming Santa Cruz",
-      "away": "Independiente Petrolero",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
