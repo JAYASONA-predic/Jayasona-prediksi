@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T07:55:38+00:00",
+  "updated_at": "2026-10-02T08:12:04+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3164,
+  "count": 3171,
   "archive_count": 3000,
   "matches": [
     {
@@ -15,6 +15,20 @@
         0,
         1
       ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "704bff9084ebcf2b",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL - 3RD PLACE WINNER",
+      "kickoff": "Oct 2 2026 2:00PM",
+      "home": "China (w)",
+      "away": "Korea Republic (w)",
+      "ht": null,
       "ft": [
         0,
         1
@@ -50788,34 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "164b0fd20cffad46",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:45AM",
-      "home": "FSV Mainz 05 (V)",
-      "away": "Atalanta (V)",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        3,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "704bff9084ebcf2b",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL - 3RD PLACE WINNER",
-      "kickoff": "Oct 2 2026 2:00PM",
-      "home": "China (w)",
-      "away": "Korea Republic (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7bf1e4f0aa2c11fd",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Oct 2 2026 4:00PM",
@@ -50871,6 +50857,39 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "04053b69d0bde5d9",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "FC Zlin (N)",
+      "away": "SK Prostejov",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "35dec8afec70d90b",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "FK Pardubice (N)",
+      "away": "Viktoria Zizkov",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "eb4a4fb02813a1fb",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "MFK Ruzomberok (N)",
+      "away": "SFC Opava",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "fecb97a1dc3870eb",
       "league": "JAPAN J-LEAGUE DIVISION 3",
       "kickoff": "Oct 2 2026 6:00PM",
@@ -50887,6 +50906,61 @@
       "kickoff": "Oct 2 2026 6:00PM",
       "home": "Daejeon Korail",
       "away": "Gangneung Citizen FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a3881e72996c578e",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Elfsborg",
+      "away": "BK Hacken",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bf2993710fc92669",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Piast Gliwice (N)",
+      "away": "Wisla Krakow",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e9d39184ffa5bb18",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Radomiak Radom (N)",
+      "away": "Pogon Grodzisk Mazowiecki",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b8eafb0f92e3037e",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Sparta Praha (N)",
+      "away": "Vysocina Jihlava",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0ac60f221d94a2fc",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Wisla Plock (N)",
+      "away": "Unia Skierniewice",
       "ht": null,
       "ft": null,
       "status": "Running",
