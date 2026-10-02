@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T11:58:18+00:00",
+  "updated_at": "2026-10-02T12:20:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3206,
+  "count": 3224,
   "archive_count": 3000,
   "matches": [
     {
@@ -154,6 +154,40 @@
       "ft": [
         0,
         2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d89e0f565505d2f5",
+      "league": "KOREA K3 LEAGUE",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Daejeon Korail",
+      "away": "Gangneung Citizen FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a75c28bd628e2537",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Zaglebie Lubin II",
+      "away": "KS Gornik Polkowice",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50768,54 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "6be70fad71ce9b3f",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 21 2026 2:00AM",
-      "home": "Chacarita Juniors",
-      "away": "Quilmes",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "92045b95edbd9896",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 21 2026 2:00AM",
-      "home": "Deportivo Moron",
-      "away": "Godoy Cruz Antonio Tomba",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d89e0f565505d2f5",
-      "league": "KOREA K3 LEAGUE",
-      "kickoff": "Oct 2 2026 6:00PM",
-      "home": "Daejeon Korail",
-      "away": "Gangneung Citizen FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "a1b79ccbabf0af0c",
       "league": "KOREA WOMEN K-LEAGUE",
       "kickoff": "Oct 2 2026 6:00PM",
@@ -50869,20 +50855,6 @@
       "home": "Radomiak Radom (N)",
       "away": "Pogon Grodzisk Mazowiecki",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a75c28bd628e2537",
-      "league": "POLAND 3RD DIVISION",
-      "kickoff": "Oct 2 2026 6:00PM",
-      "home": "Zaglebie Lubin II",
-      "away": "KS Gornik Polkowice",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50946,7 +50918,10 @@
       "kickoff": "Oct 2 2026 7:00PM",
       "home": "Korea Republic",
       "away": "Venezuela",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51206,6 +51181,72 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "7161cad3f02104af",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 2 2026 8:30PM",
+      "home": "Baladiyet El Mahallah",
+      "away": "Team FC Cairo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7167b7c2abe70bfd",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 2 2026 8:30PM",
+      "home": "Dayrout",
+      "away": "Ismaily SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "98325114ced71899",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 2 2026 8:30PM",
+      "home": "El Daklyeh",
+      "away": "Maleyeit Kafr El Zayiat",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a6f264b3fe119f07",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 2 2026 8:30PM",
+      "home": "Kahrabaa Ismailia SC",
+      "away": "Mega Sport",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5560cd7695da2363",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 2 2026 8:30PM",
+      "home": "Proxy SC",
+      "away": "Telecom Egypt SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e08d635dbb15b397",
+      "league": "EGYPT SECOND DIVISION A",
+      "kickoff": "Oct 2 2026 8:30PM",
+      "home": "Tanta FC",
+      "away": "Haras El Hodood",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "120f5c36d5fc7a26",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 9:00PM",
@@ -51277,6 +51318,17 @@
       "kickoff": "Oct 2 2026 9:30PM",
       "home": "Dhofar Club",
       "away": "Oman Club",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f19e8c498a36ec16",
+      "league": "ITALY CAMPIONATO PRIMAVERA 3 U19",
+      "kickoff": "Oct 2 2026 9:30PM",
+      "home": "Vis Pesaro U19",
+      "away": "Torres Calcio U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51453,6 +51505,17 @@
       "kickoff": "Oct 2 2026 11:00PM",
       "home": "Tammeka Tartu",
       "away": "Viimsi JK",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b3a13d6a0d97cc36",
+      "league": "MEXICO LEAGUE U21",
+      "kickoff": "Oct 2 2026 11:00PM",
+      "home": "Guadalajara Chivas U21",
+      "away": "FC Juarez U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51833,6 +51896,72 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "5aa9d804c9d10213",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Hestrafors IF",
+      "away": "Onsala BK",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5940fe715cf62e31",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Lilla Torg FF",
+      "away": "Nosaby IF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "358a3674cba3f9fd",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Lindome GIF",
+      "away": "Galtabacks BK",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "39b03b8e6db352c2",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Smedby AIS",
+      "away": "Nykopings BIS",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d874b3458deecc7b",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Staffanstorp United FC",
+      "away": "Solvesborgs GoIF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c8eb12fe73888473",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "Torslanda IK",
+      "away": "IK Kongahalla",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "76f62147786fedb2",
       "league": "DENMARK 2ND DIVISION",
       "kickoff": "Oct 3 2026 1:00AM",
@@ -51932,11 +52061,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f4b993fd7e192a0a",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "Qviding FIF",
+      "away": "Landvetter IS",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "f5dc213b150f3367",
       "league": "MOROCCO BOTOLA PRO",
       "kickoff": "Oct 3 2026 2:00AM",
       "home": "Wydad Temara",
       "away": "UTS Rabat",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "69ad205fa90a1005",
+      "league": "SWEDEN 2ND DIVISION",
+      "kickoff": "Oct 3 2026 2:00AM",
+      "home": "FOC Farsta",
+      "away": "Fittja IF",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -52537,6 +52688,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "550bdd93c5b4bcb9",
+      "league": "ARGENTINA PRIMERA C",
+      "kickoff": "Oct 3 2026 5:30AM",
+      "home": "Defensores de Cambaceres",
+      "away": "Victoriano Arenas",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "e26ca89caaa8b288",
       "league": "CONCACAF NATIONS LEAGUE A",
       "kickoff": "Oct 3 2026 6:00AM",
@@ -52762,6 +52924,17 @@
       "kickoff": "Oct 3 2026 7:00AM",
       "home": "Universidad de Concepcion",
       "away": "Huachipato",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "79ab540fda8192d7",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Oct 3 2026 7:00AM",
+      "home": "Santos Laguna (w)",
+      "away": "Puebla FC (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -53076,6 +53249,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "9a15a521f0f8dddf",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Oct 3 2026 9:00AM",
+      "home": "Pumas UNAM (w)",
+      "away": "Tigres UANL (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "cce3acce6af6e08d",
       "league": "CONCACAF NATIONS LEAGUE A",
       "kickoff": "Oct 3 2026 10:00AM",
@@ -53092,6 +53276,17 @@
       "kickoff": "Oct 3 2026 11:00AM",
       "home": "CA La Paz",
       "away": "Venados FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f082e9ffa84e80af",
+      "league": "MEXICO WOMEN PRIMERA DIVISION",
+      "kickoff": "Oct 3 2026 11:10AM",
+      "home": "Monterrey (w)",
+      "away": "Club America (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
