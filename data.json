@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T09:31:19+00:00",
+  "updated_at": "2026-10-02T09:55:41+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3188,
+  "count": 3195,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "8b705b5c43ddb815",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 4:00PM",
+      "home": "Lokomotiv Plovdiv",
+      "away": "FC Arda Kardzhali",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "909ce7f14c1534c8",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 4:00PM",
+      "home": "NK Aluminij",
+      "away": "NK Varazdin",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "b1da7c001cac8a3e",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
@@ -50768,40 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "fab421535ab8f7c3",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:45AM",
-      "home": "Denmark (V)",
-      "away": "Nigeria (V)",
-      "ht": [
-        2,
-        4
-      ],
-      "ft": [
-        2,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c6cd1729cce30683",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:45AM",
-      "home": "Qatar (V)",
-      "away": "Hungary (V)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7bf1e4f0aa2c11fd",
       "league": "INDIA KARNATAKA SUPER DIVISION",
       "kickoff": "Oct 2 2026 4:00PM",
@@ -50810,34 +50810,6 @@
       "ht": [
         2,
         1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8b705b5c43ddb815",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 2 2026 4:00PM",
-      "home": "Lokomotiv Plovdiv",
-      "away": "FC Arda Kardzhali",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "909ce7f14c1534c8",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 2 2026 4:00PM",
-      "home": "NK Aluminij",
-      "away": "NK Varazdin",
-      "ht": [
-        0,
-        0
       ],
       "ft": null,
       "status": "Running",
@@ -50863,7 +50835,10 @@
       "kickoff": "Oct 2 2026 4:30PM",
       "home": "MO Constantine U20",
       "away": "IRC Setif U20",
-      "ht": null,
+      "ht": [
+        3,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50885,7 +50860,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Vietnam",
       "away": "Pakistan",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50896,7 +50874,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Thitsar Arman FC U20",
       "away": "Dagon Star United U20",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50907,7 +50888,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Yadanarbon FC U20",
       "away": "ISPE FC U20",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50918,7 +50902,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Admira Wacker",
       "away": "Austria Wien",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50973,7 +50960,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "MFK Ruzomberok (N)",
       "away": "SFC Opava",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50995,7 +50985,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Fakirerpool Young Mens Club",
       "away": "Mohammedan Dhaka",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51006,7 +50999,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Chattogram City FC",
       "away": "Bangladesh Police Football Club",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51017,7 +51013,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "PWD SC",
       "away": "Brothers Union",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51067,11 +51066,66 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "6823215d22b3e0d8",
+      "league": "KOREA WOMEN K-LEAGUE",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Incheon Hyundai Steel Red Angels (w)",
+      "away": "Hwacheon KSPO (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a1b79ccbabf0af0c",
+      "league": "KOREA WOMEN K-LEAGUE",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Sejong Sportstoto FC (w)",
+      "away": "Suwon FC (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f13bad4611b18ccd",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "AC Horsens",
+      "away": "Vejle BK",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f1a15316d931c6a8",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "AGF Aarhus (N)",
+      "away": "Vendsyssel FF",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "a3881e72996c578e",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 6:00PM",
       "home": "Elfsborg",
       "away": "BK Hacken",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e8795a8e67a53109",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "KS Wieczysta Krakow",
+      "away": "Puszcza Niepolomice",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51127,6 +51181,17 @@
       "kickoff": "Oct 2 2026 6:00PM",
       "home": "Wisla Plock (N)",
       "away": "Unia Skierniewice",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e2fb8b21e46ad178",
+      "league": "SERBIA LEAGUE U19",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "IMT Novi Beograd U19",
+      "away": "FK Usce Novi Beograd U19",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51254,11 +51319,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "bdad36665a8cbe95",
+      "league": "MIRABROR USMANOV MEMORIAL CUP (IN UZBEKISTAN)",
+      "kickoff": "Oct 2 2026 8:00PM",
+      "home": "Uzbekistan U20",
+      "away": "Armenia U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "295b3f7bf75f9fc1",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 8:30PM",
       "home": "Grasshopper (N)",
       "away": "Yverdon Sport",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "adbd7d94e2c0be8d",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 9:00PM",
+      "home": "SV Ried (N)",
+      "away": "SKU Amstetten",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51622,6 +51709,17 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Montenegro",
       "away": "Slovakia",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "69072e9d4e4bb99a",
+      "league": "SLOVAKIA LIGA 3",
+      "kickoff": "Oct 3 2026 12:30AM",
+      "home": "MSK Senec",
+      "away": "Spartak Myjava",
       "ht": null,
       "ft": null,
       "status": "Running",
