@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T02:11:00+00:00",
+  "updated_at": "2026-10-02T02:27:23+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3011,
+  "count": 3009,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Once Caldas",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "62a99a4c179db91c",
+      "league": "ARGENTINA CUP",
+      "kickoff": "Oct 2 2026 8:15AM",
+      "home": "CA Platense (N)",
+      "away": "Estudiantes La Plata",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -80,6 +97,23 @@
       "ft": [
         2,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1cc7e828249f3318",
+      "league": "FANTASY MATCH",
+      "kickoff": "Oct 2 2026 8:00AM",
+      "home": "Gremio Novorizontino SP",
+      "away": "Estudiantes La Plata",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        3,
+        0
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50762,40 +50796,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "98577639af7203d8",
-      "league": "*GERMANY-BUNDESLIGA I",
-      "kickoff": "Sep 21 2026 1:30AM",
-      "home": "SC Paderborn 07",
-      "away": "TSG 1899 Hoffenheim",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ff8327cfeced9607",
-      "league": "GERMANY 3RD LIGA",
-      "kickoff": "Sep 21 2026 1:30AM",
-      "home": "SV Wehen Wiesbaden",
-      "away": "MSV Duisburg",
-      "ht": [
-        1,
-        3
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "04bef349f31c577c",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 2 2026 8:00AM",
@@ -50813,31 +50813,6 @@
       "home": "Sporting Kansas City",
       "away": "Goias GO",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1cc7e828249f3318",
-      "league": "FANTASY MATCH",
-      "kickoff": "Oct 2 2026 8:00AM",
-      "home": "Gremio Novorizontino SP",
-      "away": "Estudiantes La Plata",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "62a99a4c179db91c",
-      "league": "ARGENTINA CUP",
-      "kickoff": "Oct 2 2026 8:15AM",
-      "home": "CA Platense (N)",
-      "away": "Estudiantes La Plata",
-      "ht": [
-        0,
-        0
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50909,7 +50884,10 @@
       "kickoff": "Oct 2 2026 9:30AM",
       "home": "Seattle Sounders",
       "away": "Sporting Kansas City",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
