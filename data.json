@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T16:43:44+00:00",
+  "updated_at": "2026-10-02T16:58:11+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3186,
+  "count": 3184,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "9d0cf00b874c67c1",
+      "league": "FINLAND KAKKONEN (PLAY OFF)",
+      "kickoff": "Oct 2 2026 11:00PM",
+      "home": "Jakobstads BK",
+      "away": "Honka Espoo",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "54264d9d8b1da252",
+      "league": "ESTONIA CUP",
+      "kickoff": "Oct 2 2026 11:00PM",
+      "home": "Tammeka Tartu",
+      "away": "Viimsi JK",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "372ad4965cd5405c",
       "league": "CLUB FRIENDLY",
@@ -50768,40 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "bae70b3ce768bb2f",
-      "league": "URUGUAY PRIMERA DIVISION",
-      "kickoff": "Sep 21 2026 3:30AM",
-      "home": "Nacional Montevideo",
-      "away": "Defensor Sporting",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "39cd5617c2e365a7",
-      "league": "ARGENTINA PRIMERA B NACIONAL",
-      "kickoff": "Sep 21 2026 3:30AM",
-      "home": "Colon de Santa Fe",
-      "away": "CA Los Andes",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f13bad4611b18ccd",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 6:00PM",
@@ -50893,34 +50893,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "9d0cf00b874c67c1",
-      "league": "FINLAND KAKKONEN (PLAY OFF)",
-      "kickoff": "Oct 2 2026 11:00PM",
-      "home": "Jakobstads BK",
-      "away": "Honka Espoo",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "54264d9d8b1da252",
-      "league": "ESTONIA CUP",
-      "kickoff": "Oct 2 2026 11:00PM",
-      "home": "Tammeka Tartu",
-      "away": "Viimsi JK",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "b3a13d6a0d97cc36",
       "league": "MEXICO LEAGUE U21",
       "kickoff": "Oct 2 2026 11:00PM",
@@ -51004,7 +50976,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Cyprus",
       "away": "Armenia",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51015,7 +50990,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Latvia",
       "away": "Montenegro",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51026,7 +51004,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Austria U21",
       "away": "Denmark U21",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51037,7 +51018,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Slovenia U21",
       "away": "Netherlands U21",
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51048,7 +51032,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Ukraine U21 (N)",
       "away": "Croatia U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51059,7 +51046,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Serbia U21",
       "away": "Russia U21",
-      "ht": null,
+      "ht": [
+        0,
+        3
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51070,7 +51060,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "FK Dukla Praha",
       "away": "FK Jablonec",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51081,7 +51074,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Kaiserslautern",
       "away": "SG Sonnenhof Grossaspach",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51103,7 +51099,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Rapid Bucuresti",
       "away": "Genoa",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51114,7 +51113,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Al Sareeh",
       "away": "Maan Club",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51125,7 +51127,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Hay Al-Amir Hassan",
       "away": "Al Hashemeya",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51136,7 +51141,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "FUS Rabat",
       "away": "US Amal Tiznit",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51147,7 +51155,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "England U19",
       "away": "USA U19",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51158,7 +51169,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Norrby IF U21",
       "away": "IK Oddevold U21",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51169,7 +51183,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Hinna",
       "away": "Staal Jorpeland",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
