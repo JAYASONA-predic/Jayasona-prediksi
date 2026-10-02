@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T15:58:31+00:00",
+  "updated_at": "2026-10-02T16:17:37+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3195,
+  "count": 3196,
   "archive_count": 3000,
   "matches": [
     {
@@ -120,6 +120,23 @@
       "ft": [
         1,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1057cb71a29da7ce",
+      "league": "BRAZIL SUL CUP U20",
+      "kickoff": "Oct 2 2026 10:00PM",
+      "home": "Internacional RS U20",
+      "away": "Gremio Porto Alegrense U20",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50791,23 +50808,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "be52e4e6e1f6acfb",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 3:00AM",
-      "home": "Netherlands (V)",
-      "away": "Mexico (V)",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f13bad4611b18ccd",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 6:00PM",
@@ -50883,20 +50883,6 @@
       "home": "BC Apollon Limassol",
       "away": "Digenis Akritas Morphou",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1057cb71a29da7ce",
-      "league": "BRAZIL SUL CUP U20",
-      "kickoff": "Oct 2 2026 10:00PM",
-      "home": "Internacional RS U20",
-      "away": "Gremio Porto Alegrense U20",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51093,7 +51079,10 @@
       "kickoff": "Oct 2 2026 11:30PM",
       "home": "Ilves Tampere 2",
       "away": "Huima/Urho",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51286,6 +51275,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "cbdc1aa8aa7c3645",
+      "league": "SWEDEN LEAGUE CUP ELITE U21",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Norrby IF U21",
+      "away": "IK Oddevold U21",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "6ff7ba3c367a96c7",
       "league": "NORWAY 3RD DIVISION",
       "kickoff": "Oct 3 2026 12:00AM",
@@ -51379,6 +51379,17 @@
       "kickoff": "Oct 3 2026 12:30AM",
       "home": "Saarbrucken",
       "away": "AS Nancy Lorraine",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4cae081a5274a255",
+      "league": "POLAND WOMEN 1ST DIVISION",
+      "kickoff": "Oct 3 2026 12:30AM",
+      "home": "Sportowa Czworka Radom (w)",
+      "away": "Resovia Rzeszow (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
