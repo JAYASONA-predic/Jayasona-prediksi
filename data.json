@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T02:56:39+00:00",
+  "updated_at": "2026-10-02T03:13:33+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3007,
+  "count": 3006,
   "archive_count": 3000,
   "matches": [
     {
@@ -13,6 +13,23 @@
       "away": "Once Caldas",
       "ht": null,
       "ft": null,
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a55ea9c6ab379a1b",
+      "league": "COSTA RICA LIGA DE ASCENSO",
+      "kickoff": "Oct 2 2026 9:00AM",
+      "home": "AD Cariari Pococi",
+      "away": "Municipal Santa Ana",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
@@ -50776,23 +50793,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e08759e4cb60779c",
-      "league": "SABA INTERNATIONAL FRIENDLY VIRTUAL PES 21 - 20 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:30AM",
-      "home": "Poland (V)",
-      "away": "Bosnia-Herzegovina (V)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "04bef349f31c577c",
       "league": "FANTASY MATCH",
       "kickoff": "Oct 2 2026 8:00AM",
@@ -50832,20 +50832,6 @@
       "home": "Sporting Kansas City",
       "away": "CA Platense",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a55ea9c6ab379a1b",
-      "league": "COSTA RICA LIGA DE ASCENSO",
-      "kickoff": "Oct 2 2026 9:00AM",
-      "home": "AD Cariari Pococi",
-      "away": "Municipal Santa Ana",
-      "ht": [
-        0,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
