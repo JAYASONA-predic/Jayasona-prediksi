@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T08:55:03+00:00",
+  "updated_at": "2026-10-02T09:11:25+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3183,
+  "count": 3186,
   "archive_count": 3000,
   "matches": [
     {
@@ -50821,7 +50821,10 @@
       "kickoff": "Oct 2 2026 4:00PM",
       "home": "Lokomotiv Plovdiv",
       "away": "FC Arda Kardzhali",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51017,6 +51020,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "5c564d847ce35535",
+      "league": "INDIA SHILLONG PREMIER LEAGUE",
+      "kickoff": "Oct 2 2026 5:30PM",
+      "home": "Mawlai SC",
+      "away": "Sawmer SC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1729fbf83571963e",
+      "league": "INDIA MIZORAM PREMIER LEAGUE",
+      "kickoff": "Oct 2 2026 5:30PM",
+      "home": "Chanmari FC",
+      "away": "Dinthar FC",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "fecb97a1dc3870eb",
       "league": "JAPAN J-LEAGUE DIVISION 3",
       "kickoff": "Oct 2 2026 6:00PM",
@@ -51110,6 +51135,17 @@
       "kickoff": "Oct 2 2026 6:00PM",
       "home": "Wales U19",
       "away": "Norway U18",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a75c28bd628e2537",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Oct 2 2026 6:00PM",
+      "home": "Zaglebie Lubin II",
+      "away": "KS Gornik Polkowice",
       "ht": null,
       "ft": null,
       "status": "Running",
