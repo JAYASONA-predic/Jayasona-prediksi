@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T08:32:35+00:00",
+  "updated_at": "2026-10-02T08:55:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3177,
+  "count": 3183,
   "archive_count": 3000,
   "matches": [
     {
@@ -50807,7 +50807,10 @@
       "kickoff": "Oct 2 2026 4:00PM",
       "home": "Bengaluru FC B",
       "away": "Bangalore City FC",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50829,7 +50832,10 @@
       "kickoff": "Oct 2 2026 4:00PM",
       "home": "NK Aluminij",
       "away": "NK Varazdin",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50879,6 +50885,50 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "4b250d738f08407e",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "Thitsar Arman FC U20",
+      "away": "Dagon Star United U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b9d07ad408c773e3",
+      "league": "MYANMAR NATIONAL LEAGUE U20",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "Yadanarbon FC U20",
+      "away": "ISPE FC U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3758fc7fb9460435",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "Admira Wacker",
+      "away": "Austria Wien",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "57d993e8a7ad2ec0",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "FC Sudtirol (N)",
+      "away": "Wacker Innsbruck",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "04053b69d0bde5d9",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 5:00PM",
@@ -50901,11 +50951,33 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "49ebac0831eb705a",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "Gornik Zabrze (N)",
+      "away": "Odra Opole",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "eb4a4fb02813a1fb",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "MFK Ruzomberok (N)",
       "away": "SFC Opava",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "aa690c79baae146a",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 5:00PM",
+      "home": "Mlada Boleslav",
+      "away": "FK Pribram",
       "ht": null,
       "ft": null,
       "status": "Running",
