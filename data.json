@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T06:19:50+00:00",
+  "updated_at": "2026-10-02T06:47:14+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3156,
+  "count": 3159,
   "archive_count": 3000,
   "matches": [
     {
@@ -50810,7 +50810,10 @@
       "kickoff": "Oct 2 2026 1:30PM",
       "home": "Rebels FC",
       "away": "Stride Sports FC",
-      "ht": null,
+      "ht": [
+        2,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51201,6 +51204,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "c16d5e7ac8892d9b",
+      "league": "JORDAN 1ST DIVISION",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Al Sareeh",
+      "away": "Maan Club",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "49a2a5f4afb50a75",
+      "league": "JORDAN 1ST DIVISION",
+      "kickoff": "Oct 3 2026 12:00AM",
+      "home": "Hay Al-Amir Hassan",
+      "away": "Al Hashemeya",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "859e9f1df3fc05d0",
       "league": "MOROCCO BOTOLA PRO",
       "kickoff": "Oct 3 2026 12:00AM",
@@ -51349,6 +51374,17 @@
       "kickoff": "Oct 3 2026 1:00AM",
       "home": "Real Aviles Industrial CF",
       "away": "CD Lugo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c4c1b717a8f2241d",
+      "league": "AUSTRIA LANDESLIGA",
+      "kickoff": "Oct 3 2026 1:00AM",
+      "home": "TUS Bad Waltersdorf",
+      "away": "FC Hohenhaus Tenne Schladming",
       "ht": null,
       "ft": null,
       "status": "Running",
