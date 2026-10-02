@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T09:11:25+00:00",
+  "updated_at": "2026-10-02T09:31:19+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3186,
+  "count": 3188,
   "archive_count": 3000,
   "matches": [
     {
@@ -50849,7 +50849,10 @@
       "kickoff": "Oct 2 2026 4:30PM",
       "home": "Petrolul Ploiesti (N)",
       "away": "CS Afumati",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51317,6 +51320,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "24638c511e6a2150",
+      "league": "INTERNATIONAL FRIENDLY U20",
+      "kickoff": "Oct 2 2026 10:00PM",
+      "home": "Portugal U20",
+      "away": "Czech Republic U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "1a35fee3e54de20d",
       "league": "INTERNATIONAL FRIENDLY U19",
       "kickoff": "Oct 2 2026 10:00PM",
@@ -51333,6 +51347,17 @@
       "kickoff": "Oct 2 2026 10:00PM",
       "home": "Montenegro U19",
       "away": "Israel U19",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4aac1dc188cf3cb5",
+      "league": "INTERNATIONAL YOUTH TOURNAMENT (IN SPAIN)",
+      "kickoff": "Oct 2 2026 10:00PM",
+      "home": "England U19",
+      "away": "USA U19",
       "ht": null,
       "ft": null,
       "status": "Running",
