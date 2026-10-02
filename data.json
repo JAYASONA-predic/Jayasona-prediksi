@@ -1,10 +1,27 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T10:10:23+00:00",
+  "updated_at": "2026-10-02T10:28:31+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
   "count": 3195,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "e47e2eba17db0bc6",
+      "league": "CLUB FRIENDLY",
+      "kickoff": "Oct 2 2026 4:30PM",
+      "home": "Petrolul Ploiesti (N)",
+      "away": "CS Afumati",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "8b705b5c43ddb815",
       "league": "CLUB FRIENDLY",
@@ -50785,37 +50802,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e36dd7544beca144",
-      "league": "ARGENTINA TORNEO FEDERAL A (PLAY OFF)",
-      "kickoff": "Sep 21 2026 2:00AM",
-      "home": "Villa Mitre",
-      "away": "CA Kimberley de Mar del Plata",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e47e2eba17db0bc6",
-      "league": "CLUB FRIENDLY",
-      "kickoff": "Oct 2 2026 4:30PM",
-      "home": "Petrolul Ploiesti (N)",
-      "away": "CS Afumati",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "ecd19fbe50b93536",
       "league": "ALGERIA LEAGUE U20",
       "kickoff": "Oct 2 2026 4:30PM",
@@ -50835,7 +50821,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Thailand",
       "away": "Philippines",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50902,7 +50891,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "FC Sudtirol (N)",
       "away": "Wacker Innsbruck",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50913,7 +50905,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "FC Zlin (N)",
       "away": "SK Prostejov",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50924,7 +50919,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "FK Pardubice (N)",
       "away": "Viktoria Zizkov",
-      "ht": null,
+      "ht": [
+        4,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50935,7 +50933,10 @@
       "kickoff": "Oct 2 2026 5:00PM",
       "home": "Gornik Zabrze (N)",
       "away": "Odra Opole",
-      "ht": null,
+      "ht": [
+        0,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51013,7 +51014,10 @@
       "kickoff": "Oct 2 2026 5:30PM",
       "home": "Mawlai SC",
       "away": "Sawmer SC",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51024,7 +51028,10 @@
       "kickoff": "Oct 2 2026 5:30PM",
       "home": "Chanmari FC",
       "away": "Dinthar FC",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51871,6 +51878,17 @@
       "kickoff": "Oct 3 2026 2:30AM",
       "home": "CD Eldense",
       "away": "Real Oviedo",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "02df4c41bde7fcfc",
+      "league": "TROFEO ANTONIO PUERTA",
+      "kickoff": "Oct 3 2026 2:30AM",
+      "home": "Sevilla",
+      "away": "Aston Villa",
       "ht": null,
       "ft": null,
       "status": "Running",
