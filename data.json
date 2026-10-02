@@ -1,10 +1,44 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T07:30:56+00:00",
+  "updated_at": "2026-10-02T07:55:38+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3165,
+  "count": 3164,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "b1da7c001cac8a3e",
+      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
+      "kickoff": "Oct 2 2026 2:00PM",
+      "home": "China (w)",
+      "away": "Korea Republic (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "abefe60705816540",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Oct 2 2026 1:30PM",
+      "home": "Rebels FC",
+      "away": "Stride Sports FC",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "4abb1a19d4e80159",
       "league": "USA MAJOR LEAGUE SOCCER",
@@ -50771,73 +50805,22 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "e909c75157263c01",
-      "league": "SABA CLUB FRIENDLY VIRTUAL PES 21 - 15 MINS PLAY",
-      "kickoff": "Sep 21 2026 1:45AM",
-      "home": "Real Madrid (V)",
-      "away": "Lazio (V)",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8de415cbbb4a4261",
-      "league": "ARGENTINA LIGA PROFESIONAL",
-      "kickoff": "Sep 21 2026 1:45AM",
-      "home": "San Lorenzo",
-      "away": "Boca Juniors",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "abefe60705816540",
-      "league": "INDIA KARNATAKA SUPER DIVISION",
-      "kickoff": "Oct 2 2026 1:30PM",
-      "home": "Rebels FC",
-      "away": "Stride Sports FC",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b1da7c001cac8a3e",
-      "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL",
-      "kickoff": "Oct 2 2026 2:00PM",
-      "home": "China (w)",
-      "away": "Korea Republic (w)",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "704bff9084ebcf2b",
       "league": "*ASIAN GAMES 2026 (IN JAPAN) - WOMEN FOOTBALL - 3RD PLACE WINNER",
       "kickoff": "Oct 2 2026 2:00PM",
       "home": "China (w)",
       "away": "Korea Republic (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7bf1e4f0aa2c11fd",
+      "league": "INDIA KARNATAKA SUPER DIVISION",
+      "kickoff": "Oct 2 2026 4:00PM",
+      "home": "Bengaluru FC B",
+      "away": "Bangalore City FC",
       "ht": null,
       "ft": null,
       "status": "Running",
