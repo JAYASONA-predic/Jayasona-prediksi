@@ -1,8 +1,8 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-10-02T16:58:11+00:00",
+  "updated_at": "2026-10-02T17:16:03+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3184,
+  "count": 3185,
   "archive_count": 3000,
   "matches": [
     {
@@ -1055,6 +1055,23 @@
       "ft": [
         4,
         1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7a3419f498cda6b1",
+      "league": "UKRAINE 1ST LEAGUE",
+      "kickoff": "Oct 2 2026 7:00PM",
+      "home": "SC Poltava",
+      "away": "FC Chernihiv",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        2
       ],
       "status": "Completed",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50785,43 +50802,12 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "a5fc5e2d9255339d",
-      "league": "PORTUGAL PRIMEIRA LIGA",
-      "kickoff": "Sep 21 2026 3:30AM",
-      "home": "Porto",
-      "away": "Benfica",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "f13bad4611b18ccd",
       "league": "CLUB FRIENDLY",
       "kickoff": "Oct 2 2026 6:00PM",
       "home": "AC Horsens",
       "away": "Vejle BK",
       "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7a3419f498cda6b1",
-      "league": "UKRAINE 1ST LEAGUE",
-      "kickoff": "Oct 2 2026 7:00PM",
-      "home": "SC Poltava",
-      "away": "FC Chernihiv",
-      "ht": [
-        1,
-        1
-      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51088,7 +51074,10 @@
       "kickoff": "Oct 3 2026 12:00AM",
       "home": "Grenoble Foot 38 (N)",
       "away": "FC Stade Lausanne Ouchy",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51593,6 +51582,28 @@
       "kickoff": "Oct 3 2026 1:30AM",
       "home": "SV Oberwart",
       "away": "SV Horn",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "af24eab7ae1c98db",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "Ferro Carril Oeste (w)",
+      "away": "Union de Santa Fe (w)",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "098833d9a7e90efb",
+      "league": "ARGENTINA WOMEN PRIMERA DIVISION A",
+      "kickoff": "Oct 3 2026 1:30AM",
+      "home": "Racing Club (w)",
+      "away": "Belgrano (w)",
       "ht": null,
       "ft": null,
       "status": "Running",
