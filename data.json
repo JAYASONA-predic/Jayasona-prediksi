@@ -1,10 +1,95 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-11-10T22:29:34+00:00",
+  "updated_at": "2026-11-11T02:09:40+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3010,
+  "count": 3006,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "0db9c1ee5dda026e",
+      "league": "URUGUAY CUP",
+      "kickoff": "Nov 11 2026 8:00AM",
+      "home": "Liverpool Montevideo (N)",
+      "away": "CA Juventud",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d04e629cdb9884eb",
+      "league": "COLOMBIA CUP",
+      "kickoff": "Nov 11 2026 7:30AM",
+      "home": "Internacional de Bogota",
+      "away": "America de Cali",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "10023205c6159f40",
+      "league": "BRAZIL COPA FARES LOPES",
+      "kickoff": "Nov 11 2026 6:00AM",
+      "home": "Guarani de Juazeiro CE",
+      "away": "Quixada CE",
+      "ht": [
+        3,
+        1
+      ],
+      "ft": [
+        5,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f0ad4e7b84b8c728",
+      "league": "BRAZIL GOIAS CUP U20 DIVISION 1",
+      "kickoff": "Nov 11 2026 6:00AM",
+      "home": "Trindade GO U20",
+      "away": "AC Goianiense GO U20",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "33a0c7f78f510b4d",
+      "league": "EL SALVADOR PRIMERA DIVISION",
+      "kickoff": "Nov 11 2026 5:30AM",
+      "home": "CD Cacahuatique",
+      "away": "CD Luis Angel Firpo",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "919699eaf2257df0",
       "league": "COLOMBIA PRIMERA B (PLAY OFF)",
@@ -589,7 +674,10 @@
       "kickoff": "Nov 11 2026 3:45AM",
       "home": "Evesham United",
       "away": "Yate Town",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": [
         0,
         3
@@ -50261,91 +50349,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "16a3a3ad63f4c366",
-      "league": "SCOTLAND CHALLENGE CUP",
-      "kickoff": "Nov 4 2026 3:45AM",
-      "home": "Hamilton Academical",
-      "away": "Raith Rovers",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c86f0d6bbd1a60f4",
-      "league": "SCOTLAND CHALLENGE CUP",
-      "kickoff": "Nov 4 2026 3:45AM",
-      "home": "Inverness CT",
-      "away": "Montrose",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ad90ca5ae23245c4",
-      "league": "SCOTLAND CHALLENGE CUP",
-      "kickoff": "Nov 4 2026 3:45AM",
-      "home": "Ross County",
-      "away": "Celtic B",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "926c70182e88bc79",
-      "league": "SCOTLAND CHALLENGE CUP",
-      "kickoff": "Nov 4 2026 3:45AM",
-      "home": "St. Mirren B",
-      "away": "Peterhead",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3a4a755765722b8e",
-      "league": "SCOTLAND CHALLENGE CUP",
-      "kickoff": "Nov 4 2026 3:45AM",
-      "home": "Stenhousemuir",
-      "away": "Berwick Rangers",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "629d437ea52b117c",
       "league": "BRAZIL CAMPEONATO PARAENSE U20",
       "kickoff": "Nov 10 2026 8:30PM",
@@ -50357,59 +50360,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "33a0c7f78f510b4d",
-      "league": "EL SALVADOR PRIMERA DIVISION",
-      "kickoff": "Nov 11 2026 5:30AM",
-      "home": "CD Cacahuatique",
-      "away": "CD Luis Angel Firpo",
+      "id": "998ef1ba5ddf6173",
+      "league": "BRAZIL COPA FMF MATOGROSSENSE",
+      "kickoff": "Nov 11 2026 8:30AM",
+      "home": "Cuiaba MT",
+      "away": "Chapada FC MT",
       "ht": [
-        0,
-        1
+        2,
+        0
       ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "10023205c6159f40",
-      "league": "BRAZIL COPA FARES LOPES",
-      "kickoff": "Nov 11 2026 6:00AM",
-      "home": "Guarani de Juazeiro CE",
-      "away": "Quixada CE",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f0ad4e7b84b8c728",
-      "league": "BRAZIL GOIAS CUP U20 DIVISION 1",
-      "kickoff": "Nov 11 2026 6:00AM",
-      "home": "Trindade GO U20",
-      "away": "AC Goianiense GO U20",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d04e629cdb9884eb",
-      "league": "COLOMBIA CUP",
-      "kickoff": "Nov 11 2026 7:30AM",
-      "home": "Internacional de Bogota",
-      "away": "America de Cali",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0db9c1ee5dda026e",
-      "league": "URUGUAY CUP",
-      "kickoff": "Nov 11 2026 8:00AM",
-      "home": "Liverpool Montevideo (N)",
-      "away": "CA Juventud",
-      "ht": null,
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50420,7 +50379,10 @@
       "kickoff": "Nov 11 2026 9:00AM",
       "home": "Isidro Metapan",
       "away": "CD Platense Municipal Zacatecoluca",
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -50431,7 +50393,10 @@
       "kickoff": "Nov 11 2026 9:00AM",
       "home": "Pumas UNAM (w)",
       "away": "Tigres UANL (w)",
-      "ht": null,
+      "ht": [
+        2,
+        2
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
