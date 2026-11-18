@@ -1,10 +1,1285 @@
 {
   "version": "3.2.3",
-  "updated_at": "2026-11-18T11:39:27+00:00",
+  "updated_at": "2026-11-18T19:37:07+00:00",
   "source": "https://www.mbox888.com/_View/Result.aspx",
-  "count": 3112,
+  "count": 3077,
   "archive_count": 3000,
   "matches": [
+    {
+      "id": "a84bcda4b624ee17",
+      "league": "SERBIA CUP",
+      "kickoff": "Nov 19 2026 1:30AM",
+      "home": "FK Zemun",
+      "away": "FK Radnicki 1923",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "68bbeb9e6a9cb5a0",
+      "league": "POLAND WOMEN 1ST DIVISION",
+      "kickoff": "Nov 19 2026 1:30AM",
+      "home": "Sportowa Czworka Radom (w)",
+      "away": "Sportis KKP Bydgoszcz (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c651a86498f4584f",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Nov 19 2026 1:00AM",
+      "home": "CD Roda",
+      "away": "Athletic Torrellano",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4326b00bf1c01e55",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Nov 19 2026 1:00AM",
+      "home": "FC Cartagena B",
+      "away": "Santomera CF",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "37ac6d60743e0ca1",
+      "league": "ITALY SERIE D CUP",
+      "kickoff": "Nov 19 2026 1:00AM",
+      "home": "ASD Nuova Igea Virtus",
+      "away": "Modica Calcio",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9609364904418e51",
+      "league": "UGANDA PREMIER LEAGUE",
+      "kickoff": "Nov 19 2026 1:00AM",
+      "home": "Vipers SC",
+      "away": "BUL FC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bc57b8002484c3c1",
+      "league": "SPAIN DIVISION DE HONOR U19",
+      "kickoff": "Nov 19 2026 1:00AM",
+      "home": "UD Tomares U19",
+      "away": "Cordoba CF U19",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e0ba170f3bc0f0ff",
+      "league": "SPAIN WOMEN QUEEN CUP",
+      "kickoff": "Nov 19 2026 1:00AM",
+      "home": "Levante UD (w)",
+      "away": "SD Eibar (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c7c34561377c2df9",
+      "league": "ALGERIA 1ST DIVISION",
+      "kickoff": "Nov 19 2026 12:45AM",
+      "home": "CR Temouchent",
+      "away": "JS El Biar",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f68f7a3a948fadfe",
+      "league": "ALGERIA 1ST DIVISION",
+      "kickoff": "Nov 19 2026 12:45AM",
+      "home": "CS Constantine",
+      "away": "ES Ben Aknoun",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "4259580008f1cc6f",
+      "league": "QATAR STARS LEAGUE 2",
+      "kickoff": "Nov 19 2026 12:30AM",
+      "home": "Al Rayyan NextGen",
+      "away": "Mesaimeer SC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7778089d42524d26",
+      "league": "SLOVENIA CUP",
+      "kickoff": "Nov 19 2026 12:00AM",
+      "home": "NK Race",
+      "away": "NK Radomlje",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "abca28fd55f55017",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Nov 19 2026 12:00AM",
+      "home": "PE Sant Jordi",
+      "away": "CE Santanyi",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "380c0371b30bf2e2",
+      "league": "DENMARK U19 LEAGUE",
+      "kickoff": "Nov 19 2026 12:00AM",
+      "home": "Silkeborg U19",
+      "away": "Randers Freja U19",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": [
+        3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e09c18bec11e5dca",
+      "league": "POLAND 3RD DIVISION",
+      "kickoff": "Nov 19 2026 12:00AM",
+      "home": "LKS Barycz Sulow",
+      "away": "KS Polonia Nysa",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "13d5552e2f58020a",
+      "league": "SPAIN TERCERA FEDERACION",
+      "kickoff": "Nov 18 2026 11:30PM",
+      "home": "CD Binissalem",
+      "away": "SD Formentera",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "57d8451e6e9a3c4d",
+      "league": "EGYPT CUP",
+      "kickoff": "Nov 18 2026 11:00PM",
+      "home": "El Gouna",
+      "away": "Al Ittihad Alexandria",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "42070b7dbd6e2c42",
+      "league": "SERBIA CUP",
+      "kickoff": "Nov 18 2026 11:00PM",
+      "home": "GFK Dubocica",
+      "away": "FK Radnicki Nis",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d87caea8d1de7bcf",
+      "league": "JORDAN CUP",
+      "kickoff": "Nov 18 2026 11:00PM",
+      "home": "Al Baqaa (JOR) (N)",
+      "away": "Jerash SC",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "35ad9127bc880714",
+      "league": "SPAIN DIVISION DE HONOR U19",
+      "kickoff": "Nov 18 2026 11:00PM",
+      "home": "Valencia CF U19",
+      "away": "UCAM Murcia U19",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "78b842e100facb7d",
+      "league": "NIGERIA PROFESSIONAL FOOTBALL LEAGUE",
+      "kickoff": "Nov 18 2026 11:00PM",
+      "home": "Ranchers Bees",
+      "away": "Doma United FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "455054f212031fa4",
+      "league": "SAUDI 1ST DIVISION",
+      "kickoff": "Nov 18 2026 10:30PM",
+      "home": "Al Adalah",
+      "away": "Al Orubah",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": [
+        3,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5b867a2998021ca0",
+      "league": "BELARUS DIVISION 1",
+      "kickoff": "Nov 18 2026 10:00PM",
+      "home": "Dinamo Minsk 2",
+      "away": "BATE Borisov 2",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "304519ce3cd2d829",
+      "league": "ARGENTINA PRIMERA NACIONAL RESERVE",
+      "kickoff": "Nov 18 2026 10:00PM",
+      "home": "CA Colegiales (R)",
+      "away": "CA All Boys (R)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "caa537032c448f7a",
+      "league": "ITALY SERIE D CUP",
+      "kickoff": "Nov 18 2026 9:30PM",
+      "home": "Piacenza",
+      "away": "Lucchese",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "1855b0d379affe94",
+      "league": "ITALY SERIE D CUP",
+      "kickoff": "Nov 18 2026 9:30PM",
+      "home": "US Ancona",
+      "away": "Ternana",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3fa42030c2a2b5e9",
+      "league": "ITALY SERIE D CUP",
+      "kickoff": "Nov 18 2026 9:30PM",
+      "home": "Villa Valle",
+      "away": "Valenzana",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "e6c887d8bf3d99b8",
+      "league": "ITALY SERIE D CUP",
+      "kickoff": "Nov 18 2026 9:30PM",
+      "home": "Virtus Francavilla Calcio",
+      "away": "Turris",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d79aed021333f767",
+      "league": "INDIAN FOOTBALL LEAGUE",
+      "kickoff": "Nov 18 2026 9:00PM",
+      "home": "FC Bengaluru United",
+      "away": "Sreenidi Deccan FC",
+      "ht": [
+        1,
+        2
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a54d9cd2e137ea9e",
+      "league": "ZAMBIA SUPER LEAGUE",
+      "kickoff": "Nov 18 2026 9:00PM",
+      "home": "Roan United",
+      "away": "Chirundu United",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c38223a6a05ab326",
+      "league": "ENGLISH PROFESSIONAL DEVELOPMENT LEAGUE U21",
+      "kickoff": "Nov 18 2026 9:00PM",
+      "home": "Peterborough United U21",
+      "away": "Bolton Wanderers U21",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "288341b170ed3758",
+      "league": "HUNGARY WOMEN NB I",
+      "kickoff": "Nov 18 2026 9:00PM",
+      "home": "Ferencvarosi (w)",
+      "away": "ETO FC Gyor (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "599211f455027403",
+      "league": "UGANDA PREMIER LEAGUE",
+      "kickoff": "Nov 18 2026 9:00PM",
+      "home": "Mbarara City FC",
+      "away": "Lugazi FC",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5236219d288075a7",
+      "league": "HONG KONG PREMIER LEAGUE U22",
+      "kickoff": "Nov 18 2026 8:45PM",
+      "home": "Hong Kong Rangers FC U22",
+      "away": "Shatin U22",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ac0f5b6597131305",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:43PM",
+      "home": "Al Madina Al Monawara SC",
+      "away": "Tahta",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "cd47cda9b97dacaf",
+      "league": "SLOVENIA CUP",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "NK Tolmin",
+      "away": "NK Brinje Grosuplje",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "20aa059a1355654a",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Samanoud SC",
+      "away": "Biyala SC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "a6278c68a7c14a4b",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Al Mostaqbal SC",
+      "away": "Al Qanater Al Khayreyah",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ade3f4a4f9c07793",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Banha",
+      "away": "Al-Shanwani SC",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fbf7e4864cf3e92f",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Delphi SC",
+      "away": "Al Hammam SC",
+      "ht": [
+        3,
+        0
+      ],
+      "ft": [
+        5,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8a01814c8245385b",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "El Alameen",
+      "away": "Levels FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "25b0048996056fcb",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "El Obour SC",
+      "away": "Ittihad El Shorta",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9e89a1c9bc3b5c4e",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Gezira SC",
+      "away": "Orange Sport FSI",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "777ba81d84ca348f",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "G FC Cairo",
+      "away": "Diamond SC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "95b89f60685f1842",
+      "league": "EGYPT SECOND DIVISION B",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Nogoom FC",
+      "away": "Cascada",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "09dd35f5de079659",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Aliaga Futbol AS",
+      "away": "Sebat SK",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "81dfec1a457a6078",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Fethiyespor",
+      "away": "Kutahyaspor",
+      "ht": [
+        1,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5491f59d419e4dd8",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Karacabey Belediyespor",
+      "away": "Beyoglu Yeni Carsi FK",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "dd28ccceed9ae1df",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 8:30PM",
+      "home": "Sanliurfaspor",
+      "away": "Erbaaspor",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "c635d7f2b7bda6a2",
+      "league": "ASEAN CLUB CHAMPIONSHIP",
+      "kickoff": "Nov 18 2026 8:00PM",
+      "home": "Borneo FC Samarinda",
+      "away": "Manila Digger FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "5929796bc5510cac",
+      "league": "THAILAND LEAGUE 3",
+      "kickoff": "Nov 18 2026 8:00PM",
+      "home": "Assumption United FC",
+      "away": "Samut Songkhram FC",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "48a301cd4fd2b4f4",
+      "league": "ALBANIA CUP",
+      "kickoff": "Nov 18 2026 8:00PM",
+      "home": "KS Besa Kavaje",
+      "away": "KS Korabi Peshkopi",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d391e2168529135d",
+      "league": "ALBANIA CUP",
+      "kickoff": "Nov 18 2026 8:00PM",
+      "home": "KS Pogradeci",
+      "away": "FK Kukesi",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        5,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f088ed94da8f2ae3",
+      "league": "SERBIA CUP",
+      "kickoff": "Nov 18 2026 8:00PM",
+      "home": "FK Tekstilac Odzaci",
+      "away": "FK Zeleznicar Pancevo",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "05fa1f47456c46d5",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 8:00PM",
+      "home": "Inegolspor",
+      "away": "Iskenderunspor AS",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b8a5ecdd62bc74d3",
+      "league": "POLAND WOMEN EKSTRALIGA",
+      "kickoff": "Nov 18 2026 8:00PM",
+      "home": "Rekord Bielsko Biala (w)",
+      "away": "Lech Poznan (w)",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f65839681da6578a",
+      "league": "ASEAN CLUB CHAMPIONSHIP",
+      "kickoff": "Nov 18 2026 7:30PM",
+      "home": "Tampines Rovers (N)",
+      "away": "Ratchaburi FC",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        3,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3487ea9cd5853ae8",
+      "league": "ASEAN CLUB CHAMPIONSHIP",
+      "kickoff": "Nov 18 2026 7:00PM",
+      "home": "Cong An Ho Chi Minh City FC",
+      "away": "Buriram United",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "90cef1c2baff3d6a",
+      "league": "TURKEY DEVELOPMENT LEAGUE U19",
+      "kickoff": "Nov 18 2026 7:00PM",
+      "home": "Manisa FK U19",
+      "away": "Ayvalikgucu Belediyespor U19",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        2,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "612340412686540c",
+      "league": "TURKEY DEVELOPMENT LEAGUE U19",
+      "kickoff": "Nov 18 2026 7:00PM",
+      "home": "Zonguldakspor FK U19",
+      "away": "Duzcespor U19",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": [
+        1,
+        5
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "32bb51183c75d5d7",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 7:00PM",
+      "home": "Arnavutkoy Belediyespor",
+      "away": "68 Aksaray Belediyespor",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        2,
+        3
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "8118c356981eb821",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 7:00PM",
+      "home": "MKE Ankaragucu",
+      "away": "Kirklarelispor",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3e6ed4e6f069563b",
+      "league": "HONG KONG PREMIER LEAGUE U22",
+      "kickoff": "Nov 18 2026 6:45PM",
+      "home": "Hong Kong FC U22",
+      "away": "Eastern U22",
+      "ht": [
+        2,
+        0
+      ],
+      "ft": [
+        4,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b434c5f4122a1e50",
+      "league": "HONG KONG PREMIER LEAGUE U22",
+      "kickoff": "Nov 18 2026 6:30PM",
+      "home": "Tai Po FC U22",
+      "away": "Eastern District SA U22",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": [
+        2,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "91e4a5c30ee1f08f",
+      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Sanfrecce Hiroshima Regina (w)",
+      "away": "Nojima Stella Kanagawa Sagamihara (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "b6ab66856b224dc1",
+      "league": "KOREA WOMEN K-LEAGUE (PLAY OFF)",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Suwon FC (w)",
+      "away": "Gyeongju KHNP (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "d2d909ffc002d832",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "12 Bingolspor",
+      "away": "Sakaryaspor",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "ada47152abf5c5c7",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "1461 Trabzon FK",
+      "away": "Kahramanmaras Istiklalspor",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        1,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0b5c3844a93ad0c3",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Adana Demirspor",
+      "away": "Kastamonuspor 1966 SK",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3353b758721a7d89",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Ankara Demirspor",
+      "away": "52 Orduspor FK",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "2aacbb725c31ecbf",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Corluspor 1947",
+      "away": "Mus Spor",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        1,
+        4
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "22c14e86b2f19bda",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Guzide Gebzespor",
+      "away": "Ankaraspor",
+      "ht": [
+        2,
+        1
+      ],
+      "ft": [
+        2,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "df783699d3cf2bcb",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Hatayspor",
+      "away": "Inegol Kafkasspor",
+      "ht": [
+        0,
+        1
+      ],
+      "ft": [
+        0,
+        2
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "010ca2336983eec4",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Isparta 32 Spor",
+      "away": "Somaspor",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        0
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fb9cc82ad6e61695",
+      "league": "TURKEY SECOND LEAGUE",
+      "kickoff": "Nov 18 2026 6:00PM",
+      "home": "Serik Spor AS",
+      "away": "24 Erzincanspor",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": [
+        0,
+        1
+      ],
+      "status": "Completed",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
     {
       "id": "2afd296b5dc3617e",
       "league": "JAPAN WOMEN EMPOWERMENT LEAGUE",
@@ -49341,1747 +50616,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c39db9019c9433c1",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 7:00PM",
-      "home": "FC Copenhagen",
-      "away": "St. Gallen",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        1,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "08c47528c34b7e3c",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 7:00PM",
-      "home": "FC Copenhagen",
-      "away": "AGF Aarhus",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f7cb63e7164612d2",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 7:00PM",
-      "home": "Portimonense",
-      "away": "Polonia Bytom",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fe681a8b389feb50",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 7:00PM",
-      "home": "Portimonense",
-      "away": "SC Farense",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d7e070b2e6a41a63",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 7:00PM",
-      "home": "Vitesse",
-      "away": "Portimonense",
-      "ht": null,
-      "ft": null,
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2738cceeb348e8f0",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 7:00PM",
-      "home": "Feyenoord",
-      "away": "FC Copenhagen",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4fe425b264eb0a15",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Nov 8 2026 6:45PM",
-      "home": "Burgos CF Promesas",
-      "away": "Turegano CF",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "638433761a02243e",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Nov 8 2026 6:45PM",
-      "home": "FE Grama",
-      "away": "CE LHospitalet",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "afa868fd3e0b89e0",
-      "league": "TURKEY SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Caykur Rizespor",
-      "away": "Erzurumspor FK",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "27924abbb9e49eab",
-      "league": "TURKEY FIRST LEAGUE",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Bandirmaspor",
-      "away": "Fatih Karagumruk",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        0,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ec5431d8728f26e8",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Getafe CF B",
-      "away": "UD San Sebastian Reyes",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "956b663ec9e8bae3",
-      "league": "SPAIN SEGUNDA FEDERACION",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Real Oviedo Vetusta",
-      "away": "Coruxo FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5665604513dbabfa",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "CP Parla Escuela",
-      "away": "CD Mostoles URJC",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c6a13d306c2900ae",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "SFC Minerva",
-      "away": "Atletico Santa Cruz",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7816ca7bae7c8ffe",
-      "league": "GREECE SUPER LEAGUE 2",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Olympiacos B",
-      "away": "Ellas Syrou",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "76f7f9763acc3916",
-      "league": "ESTONIA ESILIIGA",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "FC Elva",
-      "away": "FC Nomme United U21",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a52d0ee5dd5abfa2",
-      "league": "ESTONIA ESILIIGA",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "FC Tallinn",
-      "away": "JK Tallinna Kalev",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "699e3fa588de1494",
-      "league": "ESTONIA ESILIIGA",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Flora Tallinn U21",
-      "away": "FCI Levadia Tallinn U21",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7ecf36c3576c9b4d",
-      "league": "ESTONIA ESILIIGA",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Viimsi JK",
-      "away": "JK Nomme Kalju U21",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        10,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "210c79c9290c256a",
-      "league": "ESTONIA ESILIIGA B",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "JK Tabasalu",
-      "away": "Tulevik Viljandi",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1223900dee78e579",
-      "league": "ESTONIA ESILIIGA B",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Parnu JK Vaprus U21",
-      "away": "Narva Trans U21",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        1,
-        4
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "80d09fe899705f2a",
-      "league": "DENMARK WOMEN A-LIGA",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Nordsjaelland (w)",
-      "away": "ASA Aarhus (w)",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "04cbc6e9352d3b3a",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "PFC Krylia Sovetov",
-      "away": "Caykur Rizespor",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "66eaeb973b64649e",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Caykur Rizespor + Fenerbahce",
-      "away": "Erzurumspor FK + Corum FK",
-      "ht": [
-        3,
-        1
-      ],
-      "ft": [
-        7,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1712869c2a4c322d",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Caykur Rizespor",
-      "away": "Vitesse",
-      "ht": null,
-      "ft": null,
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ad89218bc17b18c8",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Caykur Rizespor",
-      "away": "Fenerbahce",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4e97423bdbaff537",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "PFC Krylia Sovetov + Caykur Rizespor",
-      "away": "FC Orenburg + Erzurumspor FK",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        4,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fbec7a05a556f52a",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 8 2026 6:30PM",
-      "home": "Caykur Rizespor + Vitesse",
-      "away": "Erzurumspor FK + De Graafschap",
-      "ht": null,
-      "ft": null,
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f4dfbdade95f752c",
-      "league": "BELARUS PREMIER LEAGUE",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "FC Slavia Mozyr",
-      "away": "FC Baranovichi",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c3c533e4a5e1cc1a",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Guangdong GZ-Power U20",
-      "away": "Hubei Istar U20",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "bb7c7baf5adb15ca",
-      "league": "VIETNAM V LEAGUE 2",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Ho Chi Minh City FC",
-      "away": "Xuan Thien Phu Tho FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dfa4253e195373c1",
-      "league": "ANDORRA PRIMERA DIVISION",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Penya Encarnada",
-      "away": "Rangers FC Andorra",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d0d7217a5a658dd5",
-      "league": "BELARUS DIVISION 1",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "FC Osipovichi",
-      "away": "FC UniXLabs",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "199480f0ccddbee8",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Adana Demirspor",
-      "away": "Ankaraspor",
-      "ht": [
-        1,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "72ceac89dd5728b7",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Ankara Demirspor",
-      "away": "24 Erzincanspor",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4c92f666ed7c40af",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Hatayspor",
-      "away": "Somaspor",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "df8c0171315a0b78",
-      "league": "TURKEY PAF LEAGUE U19",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Corum FK U19",
-      "away": "Fenerbahce U19",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        0,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "83d11cf2d28510e4",
-      "league": "FRANCE U19 LEAGUE",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Paris FC U19",
-      "away": "Annecy U19",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9775369e465bf9b7",
-      "league": "MALTA PREMIER LEAGUE (PLAY OFF)",
-      "kickoff": "Nov 8 2026 6:00PM",
-      "home": "Birkirkara FC",
-      "away": "Zabbar St.Patrick",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fb41fdaac5b205bb",
-      "league": "PHILIPPINES FOOTBALL LEAGUE",
-      "kickoff": "Nov 8 2026 5:45PM",
-      "home": "Aguilas-UMak",
-      "away": "Philippine Army FC",
-      "ht": [
-        7,
-        0
-      ],
-      "ft": [
-        10,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "231ccccfd8211331",
-      "league": "AUSTRIA 2ND LEAGUE",
-      "kickoff": "Nov 8 2026 5:30PM",
-      "home": "ASK Voitsberg",
-      "away": "Kapfenberger SV",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a75527c334b52b19",
-      "league": "HONG KONG 2ND DIVISION",
-      "kickoff": "Nov 8 2026 5:30PM",
-      "home": "Fu Moon",
-      "away": "Sun Hei SC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9cf53c4a52f93c60",
-      "league": "SLOVAKIA LIGA 3",
-      "kickoff": "Nov 8 2026 5:30PM",
-      "home": "AS Trencin B",
-      "away": "FC Banik Prievidza",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "309231e95b3a27db",
-      "league": "SAFF CHAMPIONSHIP (IN BANGLADESH)",
-      "kickoff": "Nov 8 2026 5:30PM",
-      "home": "Maldives",
-      "away": "Pakistan",
-      "ht": [
-        0,
-        3
-      ],
-      "ft": [
-        0,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4b26b10cb2446e26",
-      "league": "SLOVAKIA 2ND DIVISION",
-      "kickoff": "Nov 8 2026 5:30PM",
-      "home": "FC Petrzalka",
-      "away": "MSK Zilina B",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7d87757bb86d059f",
-      "league": "CZECH REPUBLIC NATIONAL FOOTBALL LEAGUE",
-      "kickoff": "Nov 8 2026 5:15PM",
-      "home": "Slavia Praha B",
-      "away": "SK Kladno",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b2adbe490a0cda4f",
-      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
-      "kickoff": "Nov 8 2026 5:15PM",
-      "home": "Hradec Kralove B",
-      "away": "FK Caslav",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        4,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "32c7326b90768c1d",
-      "league": "CZECH REPUBLIC 3RD DIVISION CFL",
-      "kickoff": "Nov 8 2026 5:15PM",
-      "home": "FK Jablonec B",
-      "away": "SK Benatky nad Jizerou",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        2,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1c0359c58d9bcbb8",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Nov 8 2026 5:00PM",
-      "home": "ISPE FC U20",
-      "away": "Thitsar Arman FC U20",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e7b974068b612d7c",
-      "league": "MYANMAR NATIONAL LEAGUE U20",
-      "kickoff": "Nov 8 2026 5:00PM",
-      "home": "Sagaing United FC U20",
-      "away": "Yangon United U20",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        0,
-        5
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a3f4eaff6b4d8465",
-      "league": "AFC U17 ASIAN CUP QUALIFIERS",
-      "kickoff": "Nov 8 2026 5:00PM",
-      "home": "Sri Lanka U17 (n)",
-      "away": "Pakistan U17",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        3
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "19ac3c16d4205051",
-      "league": "RUSSIA FIRST LEAGUE",
-      "kickoff": "Nov 8 2026 4:30PM",
-      "home": "Ural Sverdlovsk Oblast",
-      "away": "Volga Ulyanovsk",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        2,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "35e764b81c947174",
-      "league": "INDONESIA SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 4:30PM",
-      "home": "Bali United",
-      "away": "Persik Kediri",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        3,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a634a9a5fcbc8c34",
-      "league": "INDONESIA SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 4:30PM",
-      "home": "PSS Sleman",
-      "away": "Bhayangkara Presisi Lampung",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4901de14411a6b34",
-      "league": "INDONESIA CHAMPIONSHIP",
-      "kickoff": "Nov 8 2026 4:30PM",
-      "home": "PS Barito Putera",
-      "away": "RANS Nusantara FC",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8f6179884ee0bb73",
-      "league": "HONG KONG PREMIER LEAGUE",
-      "kickoff": "Nov 8 2026 4:30PM",
-      "home": "Hong Kong FC",
-      "away": "Eastern",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "97b85cc5c0b92303",
-      "league": "JAPAN J-LEAGUE DIVISION 1",
-      "kickoff": "Nov 8 2026 4:00PM",
-      "home": "JEF United Ichihara Chiba",
-      "away": "Mito Hollyhock",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "10e6d2e3c8039d2a",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Nov 8 2026 4:00PM",
-      "home": "Henan FC U20",
-      "away": "Shandong Taishan U20",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "59122a8095219bd0",
-      "league": "CHINA LEAGUE U20",
-      "kickoff": "Nov 8 2026 4:00PM",
-      "home": "Shanghai Port FC U20",
-      "away": "Wuhan Three Towns U20",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dda2de85978e4d0e",
-      "league": "SOUTH AFRICA RESERVE LEAGUE",
-      "kickoff": "Nov 8 2026 4:00PM",
-      "home": "Sekhukhune United (R)",
-      "away": "Mamelodi Sundowns (R)",
-      "ht": [
-        0,
-        2
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ece1734fe15dcd90",
-      "league": "SOUTH AFRICA RESERVE LEAGUE",
-      "kickoff": "Nov 8 2026 4:00PM",
-      "home": "Polokwane City (R)",
-      "away": "Orlando Pirates (R)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a465adb181041e98",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Beijing Guoan",
-      "away": "Chongqing Tonglianglong",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "941c8d46b293ccae",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Dalian Yingbo",
-      "away": "Tianjin Jinmen Tiger",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        3,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4ea4365fe3f7c5df",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Qingdao Hainiu",
-      "away": "Shenzhen Peng City",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "928e51f6d19fdb52",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Shandong Taishan",
-      "away": "Chengdu Rongcheng",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ccd8b4e267ae59bd",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Shanghai Port FC",
-      "away": "Liaoning Tieren",
-      "ht": [
-        3,
-        0
-      ],
-      "ft": [
-        6,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ac1bd35d3f554be2",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Shanghai Shenhua",
-      "away": "Qingdao West Coast FC",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2e2b5fe25829ec24",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Yunnan Yukun",
-      "away": "Wuhan Three Towns",
-      "ht": [
-        1,
-        0
-      ],
-      "ft": [
-        2,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c6c5b669ceda035b",
-      "league": "CHINA FOOTBALL SUPER LEAGUE",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Zhejiang Professional FC",
-      "away": "Henan FC",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": [
-        4,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "6bf345939887596c",
-      "league": "KOREA K LEAGUE 1 (PLAY OFF)",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Bucheon FC 1995",
-      "away": "Pohang Steelers",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": [
-        2,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e8cbd7f753d4c519",
-      "league": "KOREA K LEAGUE 1 (PLAY OFF)",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Gangwon FC",
-      "away": "Jeonbuk Hyundai Motors",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": [
-        3,
-        2
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b5c1d7ef3013f828",
-      "league": "KOREA K LEAGUE 2",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Paju Frontier FC",
-      "away": "Chungnam Asan",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b4063036bdeba0ee",
-      "league": "HONG KONG 1ST DIVISION",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Central & Western",
-      "away": "South China",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": [
-        1,
-        1
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "688735c2b06b8ba2",
-      "league": "HONG KONG 1ST DIVISION",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Hoi King",
-      "away": "Bright Cerulean FC",
-      "ht": [
-        4,
-        0
-      ],
-      "ft": [
-        7,
-        0
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "1315a5d05f525b4b",
-      "league": "AFC U17 ASIAN CUP QUALIFIERS",
-      "kickoff": "Nov 8 2026 3:30PM",
-      "home": "Guam U17 (n)",
-      "away": "Singapore U17",
-      "ht": [
-        0,
-        5
-      ],
-      "ft": [
-        0,
-        6
-      ],
-      "status": "Completed",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "91e4a5c30ee1f08f",
-      "league": "JAPAN WOMEN EMPOWERMENT LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Sanfrecce Hiroshima Regina (w)",
-      "away": "Nojima Stella Kanagawa Sagamihara (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b6ab66856b224dc1",
-      "league": "KOREA WOMEN K-LEAGUE (PLAY OFF)",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Suwon FC (w)",
-      "away": "Gyeongju KHNP (w)",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d2d909ffc002d832",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "12 Bingolspor",
-      "away": "Sakaryaspor",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "ada47152abf5c5c7",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "1461 Trabzon FK",
-      "away": "Kahramanmaras Istiklalspor",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "0b5c3844a93ad0c3",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Adana Demirspor",
-      "away": "Kastamonuspor 1966 SK",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3353b758721a7d89",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Ankara Demirspor",
-      "away": "52 Orduspor FK",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "2aacbb725c31ecbf",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Corluspor 1947",
-      "away": "Mus Spor",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "22c14e86b2f19bda",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Guzide Gebzespor",
-      "away": "Ankaraspor",
-      "ht": [
-        2,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "df783699d3cf2bcb",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Hatayspor",
-      "away": "Inegol Kafkasspor",
-      "ht": [
-        0,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "010ca2336983eec4",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Isparta 32 Spor",
-      "away": "Somaspor",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "fb9cc82ad6e61695",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 6:00PM",
-      "home": "Serik Spor AS",
-      "away": "24 Erzincanspor",
-      "ht": [
-        0,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b434c5f4122a1e50",
-      "league": "HONG KONG PREMIER LEAGUE U22",
-      "kickoff": "Nov 18 2026 6:30PM",
-      "home": "Tai Po FC U22",
-      "away": "Eastern District SA U22",
-      "ht": [
-        1,
-        1
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3e6ed4e6f069563b",
-      "league": "HONG KONG PREMIER LEAGUE U22",
-      "kickoff": "Nov 18 2026 6:45PM",
-      "home": "Hong Kong FC U22",
-      "away": "Eastern U22",
-      "ht": [
-        2,
-        0
-      ],
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "3487ea9cd5853ae8",
-      "league": "ASEAN CLUB CHAMPIONSHIP",
-      "kickoff": "Nov 18 2026 7:00PM",
-      "home": "Cong An Ho Chi Minh City FC",
-      "away": "Buriram United",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "90cef1c2baff3d6a",
-      "league": "TURKEY DEVELOPMENT LEAGUE U19",
-      "kickoff": "Nov 18 2026 7:00PM",
-      "home": "Manisa FK U19",
-      "away": "Ayvalikgucu Belediyespor U19",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "612340412686540c",
-      "league": "TURKEY DEVELOPMENT LEAGUE U19",
-      "kickoff": "Nov 18 2026 7:00PM",
-      "home": "Zonguldakspor FK U19",
-      "away": "Duzcespor U19",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "32bb51183c75d5d7",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 7:00PM",
-      "home": "Arnavutkoy Belediyespor",
-      "away": "68 Aksaray Belediyespor",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "8118c356981eb821",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 7:00PM",
-      "home": "MKE Ankaragucu",
-      "away": "Kirklarelispor",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f65839681da6578a",
-      "league": "ASEAN CLUB CHAMPIONSHIP",
-      "kickoff": "Nov 18 2026 7:30PM",
-      "home": "Tampines Rovers (N)",
-      "away": "Ratchaburi FC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c635d7f2b7bda6a2",
-      "league": "ASEAN CLUB CHAMPIONSHIP",
-      "kickoff": "Nov 18 2026 8:00PM",
-      "home": "Borneo FC Samarinda",
-      "away": "Manila Digger FC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5929796bc5510cac",
-      "league": "THAILAND LEAGUE 3",
-      "kickoff": "Nov 18 2026 8:00PM",
-      "home": "Assumption United FC",
-      "away": "Samut Songkhram FC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "05fa1f47456c46d5",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 8:00PM",
-      "home": "Inegolspor",
-      "away": "Iskenderunspor AS",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "b8a5ecdd62bc74d3",
-      "league": "POLAND WOMEN EKSTRALIGA",
-      "kickoff": "Nov 18 2026 8:00PM",
-      "home": "Rekord Bielsko Biala (w)",
-      "away": "Lech Poznan (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "cd47cda9b97dacaf",
-      "league": "SLOVENIA CUP",
-      "kickoff": "Nov 18 2026 8:30PM",
-      "home": "NK Tolmin",
-      "away": "NK Brinje Grosuplje",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "09dd35f5de079659",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 8:30PM",
-      "home": "Aliaga Futbol AS",
-      "away": "Sebat SK",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "81dfec1a457a6078",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 8:30PM",
-      "home": "Fethiyespor",
-      "away": "Kutahyaspor",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "5491f59d419e4dd8",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 8:30PM",
-      "home": "Karacabey Belediyespor",
-      "away": "Beyoglu Yeni Carsi FK",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "dd28ccceed9ae1df",
-      "league": "TURKEY SECOND LEAGUE",
-      "kickoff": "Nov 18 2026 8:30PM",
-      "home": "Sanliurfaspor",
-      "away": "Erbaaspor",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d79aed021333f767",
-      "league": "INDIAN FOOTBALL LEAGUE",
-      "kickoff": "Nov 18 2026 9:00PM",
-      "home": "FC Bengaluru United",
-      "away": "Sreenidi Deccan FC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "288341b170ed3758",
-      "league": "HUNGARY WOMEN NB I",
-      "kickoff": "Nov 18 2026 9:00PM",
-      "home": "Ferencvarosi (w)",
-      "away": "ETO FC Gyor (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "455054f212031fa4",
-      "league": "SAUDI 1ST DIVISION",
-      "kickoff": "Nov 18 2026 10:30PM",
-      "home": "Al Adalah",
-      "away": "Al Orubah",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "57d8451e6e9a3c4d",
-      "league": "EGYPT CUP",
-      "kickoff": "Nov 18 2026 11:00PM",
-      "home": "El Gouna",
-      "away": "Al Ittihad Alexandria",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "42070b7dbd6e2c42",
-      "league": "SERBIA CUP",
-      "kickoff": "Nov 18 2026 11:00PM",
-      "home": "GFK Dubocica",
-      "away": "FK Radnicki Nis",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "d87caea8d1de7bcf",
-      "league": "JORDAN CUP",
-      "kickoff": "Nov 18 2026 11:00PM",
-      "home": "Al Baqaa (JOR) (N)",
-      "away": "Jerash SC",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "35ad9127bc880714",
-      "league": "SPAIN DIVISION DE HONOR U19",
-      "kickoff": "Nov 18 2026 11:00PM",
-      "home": "Valencia CF U19",
-      "away": "UCAM Murcia U19",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "13d5552e2f58020a",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Nov 18 2026 11:30PM",
-      "home": "CD Binissalem",
-      "away": "SD Formentera",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7778089d42524d26",
-      "league": "SLOVENIA CUP",
-      "kickoff": "Nov 19 2026 12:00AM",
-      "home": "NK Race",
-      "away": "NK Radomlje",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3bd947ab9dddb397",
       "league": "SLOVENIA CUP",
       "kickoff": "Nov 19 2026 12:00AM",
       "home": "NK Tabor Sezana",
       "away": "NK Fuzinar",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "380c0371b30bf2e2",
-      "league": "DENMARK U19 LEAGUE",
-      "kickoff": "Nov 19 2026 12:00AM",
-      "home": "Silkeborg U19",
-      "away": "Randers Freja U19",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "c7c34561377c2df9",
-      "league": "ALGERIA 1ST DIVISION",
-      "kickoff": "Nov 19 2026 12:45AM",
-      "home": "CR Temouchent",
-      "away": "JS El Biar",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f68f7a3a948fadfe",
-      "league": "ALGERIA 1ST DIVISION",
-      "kickoff": "Nov 19 2026 12:45AM",
-      "home": "CS Constantine",
-      "away": "ES Ben Aknoun",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51099,28 +50638,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "c651a86498f4584f",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Nov 19 2026 1:00AM",
-      "home": "CD Roda",
-      "away": "Athletic Torrellano",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "4326b00bf1c01e55",
-      "league": "SPAIN TERCERA FEDERACION",
-      "kickoff": "Nov 19 2026 1:00AM",
-      "home": "FC Cartagena B",
-      "away": "Santomera CF",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "e64e06c477f8f29d",
       "league": "SPAIN TERCERA FEDERACION",
       "kickoff": "Nov 19 2026 1:00AM",
@@ -51132,45 +50649,15 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "bc57b8002484c3c1",
-      "league": "SPAIN DIVISION DE HONOR U19",
-      "kickoff": "Nov 19 2026 1:00AM",
-      "home": "UD Tomares U19",
-      "away": "Cordoba CF U19",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "e0ba170f3bc0f0ff",
-      "league": "SPAIN WOMEN QUEEN CUP",
-      "kickoff": "Nov 19 2026 1:00AM",
-      "home": "Levante UD (w)",
-      "away": "SD Eibar (w)",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "a84bcda4b624ee17",
-      "league": "SERBIA CUP",
-      "kickoff": "Nov 19 2026 1:30AM",
-      "home": "FK Zemun",
-      "away": "FK Radnicki 1923",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "7cc46f0ec19e49cf",
       "league": "UEFA WOMEN CHAMPIONS LEAGUE",
       "kickoff": "Nov 19 2026 1:45AM",
       "home": "BK Hacken FF (w)",
       "away": "Manchester City (w)",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51181,7 +50668,10 @@
       "kickoff": "Nov 19 2026 1:45AM",
       "home": "Real Madrid (w)",
       "away": "Inter Milan (w)",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51192,7 +50682,10 @@
       "kickoff": "Nov 19 2026 2:00AM",
       "home": "Portugalete",
       "away": "Real Union",
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51203,6 +50696,20 @@
       "kickoff": "Nov 19 2026 2:00AM",
       "home": "Utebo FC",
       "away": "CE Sabadell FC",
+      "ht": [
+        0,
+        3
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "0c173cc2fbf74c87",
+      "league": "GERMANY REGIONAL LEAGUE NORTH",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "SSV Jeddeloh",
+      "away": "1. FC Phonix Lubeck",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51214,7 +50721,10 @@
       "kickoff": "Nov 19 2026 2:00AM",
       "home": "CD Bala Azul",
       "away": "Atletico Santa Cruz",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51225,7 +50735,10 @@
       "kickoff": "Nov 19 2026 2:00AM",
       "home": "UD Vall De Uxo",
       "away": "Torrent CF",
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51236,7 +50749,108 @@
       "kickoff": "Nov 19 2026 2:00AM",
       "home": "CP Cacereno (w)",
       "away": "Deportivo Alaves (w)",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "12e9bb1262bacadd",
+      "league": "BRAZIL CAMPEONATO GAUCHO WOMEN",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "Juventude RS (w)",
+      "away": "Internacional RS (w)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7d72a36536c31d1b",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "Belgrano (R)",
+      "away": "CA Independiente (R)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "05c229d5043ab43c",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "Central Cordoba Santiago del Estero (R)",
+      "away": "Estudiantes La Plata (R)",
+      "ht": [
+        1,
+        1
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "6644daf562d95d8c",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "Deportivo Riestra (R)",
+      "away": "Atletico de Rafaela (R)",
+      "ht": [
+        0,
+        0
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "3d91a37166c4a6eb",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "Lanus (R)",
+      "away": "Boca Juniors (R)",
+      "ht": [
+        0,
+        2
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "defbf99039bec251",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "Newells Old Boys (R)",
+      "away": "Ferro Carril Oeste (R)",
+      "ht": [
+        2,
+        2
+      ],
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "bf7731d095dbd051",
+      "league": "ARGENTINA LIGA PROFESIONAL RESERVE",
+      "kickoff": "Nov 19 2026 2:00AM",
+      "home": "Velez Sarsfield (R)",
+      "away": "Rosario Central (R)",
+      "ht": [
+        0,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51247,7 +50861,10 @@
       "kickoff": "Nov 19 2026 2:30AM",
       "home": "Atletico Saguntino",
       "away": "CD Espanol de San Vicente",
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51258,7 +50875,10 @@
       "kickoff": "Nov 19 2026 2:30AM",
       "home": "CD Soneja",
       "away": "Atzeneta UE",
-      "ht": null,
+      "ht": [
+        1,
+        0
+      ],
       "ft": null,
       "status": "Running",
       "source": "https://www.mbox888.com/_View/Result.aspx"
@@ -51291,6 +50911,17 @@
       "kickoff": "Nov 19 2026 3:00AM",
       "home": "Bergantinos CF",
       "away": "Sestao River Club",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "fdf6c5f4d397771b",
+      "league": "ENGLISH PREMIER LEAGUE CUP U21",
+      "kickoff": "Nov 19 2026 3:00AM",
+      "home": "Nottingham Forest U21",
+      "away": "Newcastle United U21",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51462,6 +51093,17 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "ff5a5efc733cf76c",
+      "league": "BRAZIL CUP U20",
+      "kickoff": "Nov 19 2026 3:30AM",
+      "home": "Operario Ferroviario EC U20",
+      "away": "Palmeiras SP U20",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "606a52b252b09907",
       "league": "SCOTLAND LOWLAND FOOTBALL LEAGUE",
       "kickoff": "Nov 19 2026 3:45AM",
@@ -51616,50 +51258,6 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "f71ad890735ab3c9",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 19 2026 6:30AM",
-      "home": "Coritiba PR",
-      "away": "Botafogo RJ",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "f7186dcf859f9024",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 19 2026 6:30AM",
-      "home": "Coritiba PR",
-      "away": "Atl Paranaense",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "7b88336e0f7d1fee",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 19 2026 6:30AM",
-      "home": "Coritiba PR",
-      "away": "Bahia EC BA",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "9befbbf5e8f76af3",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 19 2026 6:30AM",
-      "home": "Santos SP + Corinthians SP",
-      "away": "Coritiba PR + Botafogo RJ",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
       "id": "3710c7f12f25983b",
       "league": "FANTASY MATCH",
       "kickoff": "Nov 19 2026 6:30AM",
@@ -51676,6 +51274,17 @@
       "kickoff": "Nov 19 2026 6:30AM",
       "home": "Santos SP + Flamengo RJ",
       "away": "Coritiba PR + Atl Paranaense",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "9befbbf5e8f76af3",
+      "league": "FANTASY MATCH",
+      "kickoff": "Nov 19 2026 6:30AM",
+      "home": "Santos SP + Corinthians SP",
+      "away": "Coritiba PR + Botafogo RJ",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51715,6 +51324,39 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "f71ad890735ab3c9",
+      "league": "FANTASY MATCH",
+      "kickoff": "Nov 19 2026 6:30AM",
+      "home": "Coritiba PR",
+      "away": "Botafogo RJ",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "f7186dcf859f9024",
+      "league": "FANTASY MATCH",
+      "kickoff": "Nov 19 2026 6:30AM",
+      "home": "Coritiba PR",
+      "away": "Atl Paranaense",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "7b88336e0f7d1fee",
+      "league": "FANTASY MATCH",
+      "kickoff": "Nov 19 2026 6:30AM",
+      "home": "Coritiba PR",
+      "away": "Bahia EC BA",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "e832c4a86e512f8a",
       "league": "BRAZIL SERIE A",
       "kickoff": "Nov 19 2026 7:00AM",
@@ -51742,28 +51384,6 @@
       "kickoff": "Nov 19 2026 7:30AM",
       "home": "Flamengo RJ",
       "away": "Atl Paranaense",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "79e88b43b07d352f",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 19 2026 7:30AM",
-      "home": "Flamengo RJ + Gremio Porto Alegrense",
-      "away": "Atl Paranaense + Bahia EC BA",
-      "ht": null,
-      "ft": null,
-      "status": "Running",
-      "source": "https://www.mbox888.com/_View/Result.aspx"
-    },
-    {
-      "id": "55a1591369dc8bca",
-      "league": "FANTASY MATCH",
-      "kickoff": "Nov 19 2026 7:30AM",
-      "home": "Flamengo RJ + Corinthians SP",
-      "away": "Atl Paranaense + Botafogo RJ",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51814,6 +51434,28 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
+      "id": "79e88b43b07d352f",
+      "league": "FANTASY MATCH",
+      "kickoff": "Nov 19 2026 7:30AM",
+      "home": "Flamengo RJ + Gremio Porto Alegrense",
+      "away": "Atl Paranaense + Bahia EC BA",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
+      "id": "55a1591369dc8bca",
+      "league": "FANTASY MATCH",
+      "kickoff": "Nov 19 2026 7:30AM",
+      "home": "Flamengo RJ + Corinthians SP",
+      "away": "Atl Paranaense + Botafogo RJ",
+      "ht": null,
+      "ft": null,
+      "status": "Running",
+      "source": "https://www.mbox888.com/_View/Result.aspx"
+    },
+    {
       "id": "c8b8501231f3f90d",
       "league": "BRAZIL SERIE A",
       "kickoff": "Nov 19 2026 8:30AM",
@@ -51836,11 +51478,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "3c6311a28b8e85e5",
+      "id": "d403ef2f8b24138a",
       "league": "FANTASY MATCH",
       "kickoff": "Nov 19 2026 8:30AM",
-      "home": "Botafogo RJ",
-      "away": "Bahia EC BA",
+      "home": "Corinthians SP + Gremio Porto Alegrense",
+      "away": "Botafogo RJ + Bahia EC BA",
       "ht": null,
       "ft": null,
       "status": "Running",
@@ -51858,11 +51500,11 @@
       "source": "https://www.mbox888.com/_View/Result.aspx"
     },
     {
-      "id": "d403ef2f8b24138a",
+      "id": "3c6311a28b8e85e5",
       "league": "FANTASY MATCH",
       "kickoff": "Nov 19 2026 8:30AM",
-      "home": "Corinthians SP + Gremio Porto Alegrense",
-      "away": "Botafogo RJ + Bahia EC BA",
+      "home": "Botafogo RJ",
+      "away": "Bahia EC BA",
       "ht": null,
       "ft": null,
       "status": "Running",
